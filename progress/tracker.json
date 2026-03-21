@@ -1,0 +1,322 @@
+{
+  "last_updated": "2026-03-21",
+  "chapters": {
+    "200-general": {
+      "title": "General",
+      "pg_section": 200,
+      "source": "public-pguide1.pdf",
+      "priority": "high",
+      "status": "completed",
+      "sections_completed": 1,
+      "sections_total": 1,
+      "review_questions_score": null,
+      "notes": "Procedure 200-02. 5 review questions."
+    },
+    "202-duties-responsibilities": {
+      "title": "Duties and Responsibilities",
+      "pg_section": 202,
+      "source": "public-pguide1.pdf",
+      "priority": "high",
+      "status": "completed",
+      "sections_completed": 35,
+      "sections_total": 35,
+      "review_questions_score": null,
+      "notes": "Procedures 202-01 through 202-91. 15 review questions."
+    },
+    "207-complaints": {
+      "title": "Complaints",
+      "pg_section": 207,
+      "source": "public-pguide1.pdf",
+      "priority": "high",
+      "status": "completed",
+      "sections_completed": 36,
+      "sections_total": 36,
+      "review_questions_score": null,
+      "notes": "Procedures 207-01 through 207-39. 20 review questions."
+    },
+    "208-arrests": {
+      "title": "Arrests",
+      "pg_section": 208,
+      "source": "public-pguide1.pdf",
+      "priority": "high",
+      "status": "completed",
+      "sections_completed": 67,
+      "sections_total": 67,
+      "review_questions_score": null,
+      "notes": "Procedures 208-01 through 208-84. 25 review questions."
+    },
+    "209-summonses": {
+      "title": "Summonses",
+      "pg_section": 209,
+      "source": "public-pguide1.pdf",
+      "priority": "medium",
+      "status": "completed",
+      "sections_completed": 32,
+      "sections_total": 32,
+      "review_questions_score": null,
+      "notes": "Procedures 209-01 through 209-40. 15 review questions."
+    },
+    "210-prisoners": {
+      "title": "Prisoners",
+      "pg_section": 210,
+      "source": "public-pguide2.pdf",
+      "priority": "high",
+      "status": "completed",
+      "sections_completed": 12,
+      "sections_total": 12,
+      "review_questions_score": null,
+      "notes": "Procedures 210-01 through 210-17. 15 review questions."
+    },
+    "211-court-appearances": {
+      "title": "Court and Agency Appearances",
+      "pg_section": 211,
+      "source": "public-pguide2.pdf",
+      "priority": "medium",
+      "status": "completed",
+      "sections_completed": 10,
+      "sections_total": 10,
+      "review_questions_score": null,
+      "notes": "Procedures 211-05 through 211-20. 15 review questions."
+    },
+    "212-command-operations": {
+      "title": "Command Operations",
+      "pg_section": 212,
+      "source": "public-pguide2.pdf",
+      "priority": "high",
+      "status": "completed",
+      "sections_completed": 56,
+      "sections_total": 56,
+      "review_questions_score": null,
+      "notes": "Procedures 212-03 through 212-129. 56 procedures in 10 section files. 25 review questions."
+    },
+    "213-mobilization-emergency": {
+      "title": "Mobilization/Emergency Incidents",
+      "pg_section": 213,
+      "source": "public-pguide2.pdf",
+      "priority": "high",
+      "status": "completed",
+      "sections_completed": 17,
+      "sections_total": 17,
+      "review_questions_score": null,
+      "notes": "Procedures 213-01 through 213-21. 6 procedures with full text, 11 cross-reference only (garbled OCR). 4 section files, 20 review questions."
+    },
+    "214-quality-of-life": {
+      "title": "Quality of Life Matters",
+      "pg_section": 214,
+      "source": "public-pguide3.pdf",
+      "priority": "medium",
+      "status": "completed",
+      "sections_completed": 26,
+      "sections_total": 26,
+      "review_questions_score": null,
+      "notes": "Procedures 214-02 through 214-40. All 26 procedures with full text (excellent OCR). 6 section files, 15 review questions."
+    },
+    "215-juvenile-matters": {
+      "title": "Juvenile Matters",
+      "pg_section": 215,
+      "source": "public-pguide3.pdf",
+      "priority": "high",
+      "status": "completed",
+      "sections_completed": 21,
+      "sections_total": 21,
+      "review_questions_score": null,
+      "notes": "Procedures 215-01 through 215-29. 10 procedures with full text, 11 cross-reference only (garbled OCR). 4 section files, 15 review questions."
+    },
+    "216-aided-cases": {
+      "title": "Aided Cases",
+      "pg_section": 216,
+      "source": "public-pguide3.pdf",
+      "priority": "high",
+      "status": "completed",
+      "sections_completed": 17,
+      "sections_total": 17,
+      "review_questions_score": null,
+      "notes": "Procedures 216-01 through 216-22. 15 procedures with full text, 7 cross-reference only (garbled OCR). 5 section files, 20 review questions."
+    },
+    "217-vehicle-collisions": {
+      "title": "Vehicle Collisions",
+      "pg_section": 217,
+      "source": "public-pguide3.pdf",
+      "priority": "medium",
+      "status": "completed",
+      "sections_completed": 12,
+      "sections_total": 12,
+      "review_questions_score": null,
+      "notes": "Procedures 217-01 through 217-16. 9 procedures with full text, 3 cross-reference only (garbled OCR). 5 section files, 15 review questions."
+    },
+    "218-property-general": {
+      "title": "Property – General",
+      "pg_section": 218,
+      "source": "public-pguide4.pdf",
+      "priority": "medium",
+      "status": "completed",
+      "sections_completed": 44,
+      "sections_total": 46,
+      "review_questions_score": null,
+      "notes": "Procedures 218-01 through 218-57. 44 procedures with full text across 6 section files. Key-terms and 20 review questions."
+    },
+    "219-department-property": {
+      "title": "Department Property",
+      "pg_section": 219,
+      "source": "public-pguide4.pdf",
+      "priority": "low",
+      "status": "completed",
+      "sections_completed": 30,
+      "sections_total": 30,
+      "review_questions_score": null,
+      "notes": "Procedures 219-01 through 219-32 (no 219-16 or 219-22). 30 procedures across 5 section files. 15 review questions."
+    },
+    "220-citywide-incident-mgmt": {
+      "title": "Citywide Incident Management",
+      "pg_section": 220,
+      "source": "public-pguide4.pdf",
+      "priority": "high",
+      "status": "completed",
+      "sections_completed": 28,
+      "sections_total": 28,
+      "review_questions_score": null,
+      "notes": "Procedures 220-01 through 220-28. CIMS framework (NYC adaptation of NIMS/ICS). 6 section files, 25 review questions."
+    },
+    "221-tactical-operations": {
+      "title": "Tactical Operations",
+      "pg_section": 221,
+      "source": "public-pguide4.pdf",
+      "priority": "medium",
+      "status": "completed",
+      "sections_completed": 17,
+      "sections_total": 18,
+      "review_questions_score": null,
+      "notes": "Procedures 221-01 through 221-23 (no 221-15 in OCR). Force guidelines, use of force levels 1-4, firearms discharge, EDP, less lethal weapons, special weapons. 6 section files, 25 review questions."
+    },
+    "303-duties-responsibilities": {
+      "title": "Duties and Responsibilities (Personnel)",
+      "pg_section": 303,
+      "source": "not_available",
+      "priority": "high",
+      "status": "blocked",
+      "sections_completed": 0,
+      "sections_total": 0,
+      "review_questions_score": null,
+      "notes": "Administrative Guide (A.G.) procedures — NOT included in public Patrol Guide PDFs. Source material not available."
+    },
+    "304-general-regulations": {
+      "title": "General Regulations",
+      "pg_section": 304,
+      "source": "ag-pdfs",
+      "priority": "high",
+      "status": "completed",
+      "sections_completed": 1,
+      "sections_total": 4,
+      "review_questions_score": null,
+      "notes": "A.G. 304-04 (Fitness For Duty) completed from A.G. PDF. 304-11, 304-15, 304-25 source PDFs not available. 8 review questions."
+    },
+    "305-uniforms-equipment": {
+      "title": "Uniforms and Equipment",
+      "pg_section": 305,
+      "source": "ag-pdfs",
+      "priority": "low",
+      "status": "completed",
+      "sections_completed": 2,
+      "sections_total": 2,
+      "review_questions_score": null,
+      "notes": "A.G. 305-05 (Lost/Damaged Uniform), 305-07 (Firearms General Regulations) completed from A.G. PDFs. 10 review questions."
+    },
+    "318-disciplinary-matters": {
+      "title": "Disciplinary Matters",
+      "pg_section": 318,
+      "source": "ag-pdfs",
+      "priority": "high",
+      "status": "completed",
+      "sections_completed": 2,
+      "sections_total": 4,
+      "review_questions_score": null,
+      "notes": "A.G. 318-10 (Removal of Firearms from Intoxicated UMOS), 318-11 (Interrogation of MOS) completed from A.G. PDFs. 318-06, 318-07 source PDFs not available. 12 review questions."
+    },
+    "319-civilian-personnel": {
+      "title": "Civilian Personnel",
+      "pg_section": 319,
+      "source": "ag-pdfs",
+      "priority": "low",
+      "status": "completed",
+      "sections_completed": 1,
+      "sections_total": 2,
+      "review_questions_score": null,
+      "notes": "A.G. 319-08 (Civilian Member Injury) completed from A.G. PDF. 319-15 source PDF not available. 4 review questions."
+    },
+    "320-personnel-matters": {
+      "title": "Personnel Matters – General",
+      "pg_section": 320,
+      "source": "not_available",
+      "priority": "medium",
+      "status": "blocked",
+      "sections_completed": 0,
+      "sections_total": 0,
+      "review_questions_score": null,
+      "notes": "Administrative Guide procedures — NOT in public Patrol Guide PDFs."
+    },
+    "324-leave-payroll-timekeeping": {
+      "title": "Leave, Payroll and Timekeeping",
+      "pg_section": 324,
+      "source": "not_available",
+      "priority": "medium",
+      "status": "blocked",
+      "sections_completed": 0,
+      "sections_total": 1,
+      "review_questions_score": null,
+      "notes": "A.G. 324-14 — NOT in public Patrol Guide PDFs."
+    },
+    "329-career-development": {
+      "title": "Career Development",
+      "pg_section": 329,
+      "source": "ag-pdfs",
+      "priority": "low",
+      "status": "completed",
+      "sections_completed": 2,
+      "sections_total": 2,
+      "review_questions_score": null,
+      "notes": "A.G. 329-06 (Retirement/Vested Interest), 329-07 (Resignation) completed from A.G. PDFs. 12 review questions."
+    },
+    "330-medical-health-wellness": {
+      "title": "Medical, Health and Wellness",
+      "pg_section": 330,
+      "source": "ag-pdfs",
+      "priority": "medium",
+      "status": "completed",
+      "sections_completed": 3,
+      "sections_total": 3,
+      "review_questions_score": null,
+      "notes": "A.G. 330-03 (Line of Duty Injury/Death), 330-07 (Trauma Counseling), 330-09 (Infectious Disease Exposure) completed from A.G. PDFs. 15 review questions."
+    },
+    "331-evaluations": {
+      "title": "Evaluations",
+      "pg_section": 331,
+      "source": "not_available",
+      "priority": "medium",
+      "status": "blocked",
+      "sections_completed": 0,
+      "sections_total": 0,
+      "review_questions_score": null,
+      "notes": "Administrative Guide procedures — NOT in public Patrol Guide PDFs."
+    },
+    "332-employee-rights": {
+      "title": "Employee Rights/Responsibilities",
+      "pg_section": 332,
+      "source": "not_available",
+      "priority": "high",
+      "status": "blocked",
+      "sections_completed": 0,
+      "sections_total": 0,
+      "review_questions_score": null,
+      "notes": "Administrative Guide procedures — NOT in public Patrol Guide PDFs."
+    }
+  },
+  "summary": {
+    "total_chapters": 28,
+    "total_procedures": 500,
+    "not_started": 0,
+    "in_progress": 0,
+    "review": 0,
+    "completed": 23,
+    "blocked": 5
+  }
+}
