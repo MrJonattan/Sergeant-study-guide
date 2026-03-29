@@ -65,4 +65,33 @@ To establish fitness for duty requirements for all members of the service.
 
 > **Exam Alert:** Misuse of firearm while unfit for duty due to alcohol = **mandatory termination** (exceptional cases by Police Commissioner only). Causing serious physical injury while driving + alcohol = **termination** absent exigent circumstances.
 
-> **Sergeant Focus:** Supervisors should be familiar with HELPLINE, POPPA, and Counseling Services Unit referral pathways. Early detection and referral is the Department's objective. Participation in counseling does NOT jeopardize promotions.
+> **Exam Alert — "Qualifier" Trap:** The correct rule is "Be fit for duty at all times **EXCEPT while out sick**." On the test, an answer choice that reads "Be fit for duty at all times" (without the qualifier) is a **WRONG answer**. The word "EXCEPT" is the qualifier that makes it correct. Look for the complete statement.
+
+> **Exam Alert — Breathalyzer Threshold:** A breathalyzer result of **.04 or greater** = **unfit for duty** (A.G. 318-20, note after step 1). The Department can breathalyzer you while ON duty or OFF duty. If you refuse the breathalyzer test, you will be charged with "Conduct Prejudicial to the good order, efficiency, or discipline of the Department."
+
+> **Exam Alert — Off-Duty Breathalyzer:** When the Department administers a breathalyzer to a member who is **off duty**, the Department will **pay overtime (OT)** to that member.
+
+> **PG Conflict — Off-Duty Alcohol in Uniform:** A.G. 304-06, step 3, does **NOT** prohibit consuming alcohol off-duty while in uniform. However, A.G. 304-13, page 1, step f, **claims** that A.G. 304-06 DOES prohibit drinking alcohol in uniform whether on or off duty. **Know both positions exist** — the test may reference either procedure.
+
+### Alcohol Rules Summary
+
+| Situation | Rule |
+|-----------|------|
+| **On duty AND in uniform** | Consuming intoxicants = **NEVER** |
+| **Off-duty AND in uniform** | A.G. 304-06 step 3 does NOT prohibit (but see PG Conflict above) |
+| **On duty AND in civilian clothes** | Prohibited — UNLESS Bureau Chief/Counterpart authorizes based on nature of assignment (A.G. 304-06) |
+| **Do NOT enter premises** serving intoxicants | EXCEPT for meal or performance of duty (A.G. 304-06) |
+| **Bringing alcohol into Dept. facility** | Do NOT bring alcohol into Dept. facility (vehicle, boat, etc.) except in performance of duty; violation = Schedule "B" CD (A.G. 304-06 and A.G. 318-01) |
+
+### Unfit and Alcohol Consequences
+
+| Scenario | Consequence |
+|----------|-------------|
+| "Unfit While Armed" | Charge in the Trial Room — strict punitive sanctions |
+| **MISUSE** a firearm while unfit | Department will **terminate** (P.C. can make exception) |
+| **UNFIT while driving** and cause serious physical injury | Department will **terminate** (absent exigent circumstances) |
+| **DWI conviction** in Dept. Trial Room (no injury) | Placed on **Dismissal Probation**; during probation, Dept. can breathalyzer on or off duty; fail breathalyzer = **may be terminated** |
+| Breathalyzer **.04 or greater** | = Unfit for Duty (A.G. 318-20) |
+| **Refuse** breathalyzer/DWI test | = "Conduct Prejudicial" charge (A.G. 304-06) |
+
+> **Sergeant Focus:** Supervisors should be familiar with HELPLINE, POPPA, and Counseling Services Unit referral pathways. Early detection and referral is the Department's objective. Participation in counseling does NOT jeopardize promotions. Counseling is confidential and NOT part of the disciplinary system.

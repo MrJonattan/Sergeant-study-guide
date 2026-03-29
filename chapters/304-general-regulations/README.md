@@ -10,24 +10,40 @@
 - Know the mandatory termination triggers for firearm misuse while intoxicated
 - Recognize the "Unfit For Duty While Armed" charge and Dismissal Probation requirements
 - Know the three counseling resources: HELPLINE, POPPA, Counseling Services Unit
+- Understand salute protocols, courtesies, and rank-based etiquette rules
+- Know the Department Manual composition and driver's license requirements
+- Identify prohibited conduct categories, political restrictions, and relationship restrictions
+- Know personal appearance standards, locker sticker rules, and 8-Point Cap requirements
+- Understand facial hair policy exceptions and religious head covering accommodations
 
 ## Procedures
 
 | Procedure | Title | Status |
 |-----------|-------|--------|
+| A.G. 304-02 | Courtesies | completed |
+| A.G. 304-03 | Compliance With Orders | completed |
 | A.G. 304-04 | Fitness For Duty | completed |
-| A.G. 304-11 | (Not available) | blocked |
-| A.G. 304-15 | (Not available) | blocked |
-| A.G. 304-25 | (Not available) | blocked |
+| A.G. 304-06 | Prohibited Conduct | completed |
+| A.G. 304-07 | Personal Appearance | completed |
+| A.G. 304-08 | Facial Hair Policy | completed |
+| A.G. 304-09 | Religious Head Covering | completed |
+| A.G. 304-10 | Making False Statements | not_started |
+| A.G. 304-13 | Attendance at Parades, Funerals, Other | not_started |
+| A.G. 304-14 | Acceptance of Gifts & Other Compensation | not_started |
+| A.G. 325-35 | Department Computer Use Policy | completed |
 
 ## Chapter Files
 
 | File | Content |
 |------|---------|
-| `section-304-fitness-for-duty.md` | A.G. 304-04: Fitness for duty, alcohol misconduct, termination triggers, counseling programs |
+| `section-304-fitness-for-duty.md` | A.G. 304-04: Fitness for duty, alcohol misconduct, termination triggers, counseling programs, breathalyzer rules, PG conflict notes |
+| `section-304-courtesies.md` | A.G. 304-02: Salute rules, flag/anthem protocols, desk salute, rank-based office etiquette |
+| `section-304-compliance-with-orders.md` | A.G. 304-03: Department Manual, punctuality, obeying orders, driver's license requirements, IAB notification |
+| `section-304-prohibited-conduct.md` | A.G. 304-06: General prohibitions, relationships, political restrictions, Community Board rules, off-duty restrictions, operational rules |
+| `section-304-personal-appearance.md` | A.G. 304-07/08/09: Appearance standards, 8-Point Cap, locker stickers, hair/jewelry/tattoo rules, facial hair policy, religious head covering |
 | `section-304-computer-use-policy.md` | A.G. 325-35: Department computer use policy, monitoring notice, prohibited uses |
-| `key-terms.md` | Definitions, disciplinary consequences, counseling protections |
-| `review-questions.md` | 8 multiple-choice questions covering fitness for duty concepts |
+| `key-terms.md` | Definitions, disciplinary consequences, counseling protections, courtesies, compliance, prohibited conduct, appearance terms |
+| `review-questions.md` | 16 multiple-choice questions covering all AG 304 sections |
 
 ## Sergeant Focus Areas
 - **Mandatory termination:** Firearm misuse while unfit due to alcohol; serious physical injury via motor vehicle while intoxicated
@@ -35,3 +51,13 @@
 - **Dismissal Probation:** Required in negotiated penalties for alcohol-related motor vehicle incidents
 - **Counseling protections:** Participation does NOT jeopardize promotions; does NOT exempt from discipline for specific misconduct
 - **Chemical testing refusal:** Charged under A.G. 304-06 "Prohibited Conduct"
+- **Breathalyzer threshold:** .04 or greater = unfit for duty (A.G. 318-20)
+- **Qualifier trap:** "Be fit for duty at all times EXCEPT while out sick" — without "EXCEPT" it is wrong
+- **PG Conflict:** A.G. 304-06 vs. A.G. 304-13 on off-duty alcohol in uniform
+- **Courtesies:** Salute the Desk (not Desk Officer); salute P.C. and ANY Deputy Commissioner even in civilian clothes
+- **Community Board:** CAN serve on board, CANNOT serve on Public Safety Committee
+- **10-day rule:** Decline elected office within 10 days or vacate Department position
+- **Driver's license:** Notify C.O. directly (breaks chain of command); semi-annual DMV inquiry
+- **Locker stickers:** 2 outside (Police Don't Move, Proper Tactics Save Lives), 3 inside (Gun Safety, Seat Belt, Health and Wellness)
+- **Facial hair exemption:** Medical = 180 days only; religious and medical both require written approval
+- **RAPNET:** Reasonable Accommodation Photo Net — supervisors can query tax numbers
