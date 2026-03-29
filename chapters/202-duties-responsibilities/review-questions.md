@@ -243,3 +243,115 @@ D. The officer may conduct the operation only during the first platoon
 
 **C.** Per P.G. 202-05, NST officers must NOT perform duty in plainclothes or conduct decoy operations. This is an absolute prohibition regardless of supervisory approval or uniform status. Decoy operations are outside the scope of NST duties.
 </details>
+
+---
+
+### Question 16
+**Which of the following persons is authorized behind the desk at a precinct station house?**
+
+A. The Mayor of New York City
+B. An assistant to the District Attorney performing official duties
+C. An assistant to a Judicial Officer performing official duties
+D. A City Council member representing the precinct's district
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 202-18, the DA and their assistant are authorized behind the desk. The Mayor, City Council members, and assistants to Judicial Officers are NOT authorized. DA, ME, Corporation Counsel, and Comptroller each include their assistants; Judicial Officers do NOT include assistants.
+</details>
+
+---
+
+### Question 17
+**The US Flag at the command is required to be displayed during which hours?**
+
+A. Sunset to sunrise
+B. Sunrise to sunset
+C. 0600 to 2400 hours
+D. At all times, 24 hours a day
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 202-18, the desk officer shall ensure the US Flag is properly displayed from sunrise to sunset each day. A prior exam reversed the order to "sunset to sunrise" — the flag is NOT up in the dark. Watch for this reversal in answer choices.
+</details>
+
+---
+
+### Question 18
+**The desk officer discovers that invoiced property has been stored in the property locker for 35 days. What action is required?**
+
+A. Notify the Commanding Officer and make a notation in the Command Log
+B. Make a separate Command Log entry and notify the Operations Coordinator
+C. Contact the Property Clerk Division and request immediate pickup
+D. Notify the Integrity Control Officer and make a Command Log entry
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 202-18, when property is stored in excess of 30 days, the desk officer must make a SEPARATE Command Log entry indicating invoices stored in excess of 30 days AND notify the Operations Coordinator of the number of vouchers. Additionally, expedite delivery to the final storage location.
+</details>
+
+---
+
+### Question 19
+**Which of the following BEST describes the core responsibility of the Patrol Supervisor?**
+
+A. Responsible for all police operations in the command during the tour
+B. Responsible for all command operations during the assigned tour
+C. Supervise all police field operations in the command during the tour
+D. Direct all police operations in the field during the tour
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 202-19, the Patrol Supervisor "supervise[s] all police field operations in command during tour." Choice A describes the Desk Officer ("responsible for police operations"), and choice B describes the Lt. Platoon Commander ("responsible for command operations"). The exact wording — "supervise" vs. "responsible for," and "field" vs. "police" vs. "command" — is critical.
+</details>
+
+---
+
+### Question 20
+**The Patrol Supervisor must immediately respond to and direct activity at radio runs involving which of the following categories?**
+
+A. Weapons, Emotionally Disturbed Persons, Burglaries, Serious crimes
+B. Weapons, Emergencies, Break-ins, Suspicious persons
+C. Weapons, Emergencies, Burglaries, Serious crimes
+D. Weapons, Emergencies, Burglaries, Shots fired
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 202-19, the Patrol Supervisor must immediately respond to WEBS radio runs: Weapon, Emergency, Burglary, Serious crime. The mnemonic WEBS captures all four categories. EDPs, suspicious persons, and shots fired are not part of this mandatory response list.
+</details>
+
+---
+
+### Question 21
+**Regarding the Patrol Supervisor's meal, which of the following is correct?**
+
+A. The P/S notifies the Desk Officer of meal location and relieves the Platoon Commander
+B. The P/S notifies the Telephone Switchboard Operator of meal location and relieves the LPC or D.O. when designated
+C. The P/S notifies the Communications Dispatcher of meal location
+D. The P/S takes meal at the command facility without notification
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 202-19, the Patrol Supervisor notifies the Telephone Switchboard Operator of meal location AND relieves the Lt. Platoon Commander or D.O. for meal when designated. The notification goes to the TSO, not the D.O. or dispatcher.
+</details>
+
+---
+
+### Question 22
+**P.G. 202-18 states the desk officer should accept service of civil process "when the principal administrative associate is not performing duty." P.G. 211-21 addresses the same topic differently. Which of the following is the BEST approach for the exam?**
+
+A. Follow P.G. 211-21 exclusively as it is the more specific procedure
+B. Follow P.G. 202-18 exclusively as it governs desk officer duties
+C. Know that a conflict exists between the two procedures and be prepared for either version
+D. The procedures do not conflict — they address different situations
+
+<details>
+<summary>Answer</summary>
+
+**C.** P.G. 211-21 says the D.O. accepts civil process regardless (no mention of the PRAA condition), while P.G. 202-18 includes the condition "when principal administrative associate not performing duty." This is a known PG conflict. The exam may reference either procedure number, so know both versions exist.
+</details>

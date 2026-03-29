@@ -28,6 +28,22 @@
 | **CO** | Commanding Officer | Head of a precinct/command (P.G. 202-33) |
 | **FIO** | Field Intelligence Officer | Gathers and analyzes field intelligence; supervised by Field Intelligence Sergeant (P.G. 202-16) |
 | **A.G.** | Administrative Guide | Internal NYPD administrative procedures; A.G. 324-17 governs AWOL reporting |
+| **PRAA** | Principal Administrative Associate | Civilian member who normally accepts civil process; D.O. accepts when PRAA is not performing duty (P.G. 202-18) |
+| **TDL** | Telephone Dispatch Log | D.O. certifies entries by signing after 4th hour and at End of Tour (P.G. 202-18) |
+| **FSD** | Fleet Services Division | Receives reports of defective gas pumping equipment; directs RMP out-of-service decisions with IAB (P.G. 202-18, 202-19) |
+| **ITB** | Information Technology Bureau | D.O. notifies ITB Service Desk when AVL is non-functioning (P.G. 202-18) |
+| **FORMS-P** | FORMS Property | System used for physical inventory of property locker; generates inventory number (P.G. 202-18) |
+
+---
+
+## Mnemonics & Memory Aids
+
+| Mnemonic | Stands For | Context |
+|----------|-----------|---------|
+| **CAT PAC** | **C**lerk, **A**PO (Arrest Process Officer), **T**elephone **S**witchboard Operator, **P**atrol **W**agon Operator, **A**ttendant, **C**ommunity Guide | The six positions directly supervised by the Desk Officer (P.G. 202-18) |
+| **WEBS** | **W**eapon, **E**mergency, **B**urglary, **S**erious crime | The four categories of radio runs requiring immediate Patrol Supervisor response (P.G. 202-19) |
+| **C.E.O.** | **C**ommanding Officer, **E**xecutive Officer, **O**perations Coordinator | The three officials the D.O. confers with regarding trends and important matters (P.G. 202-18) |
+| **I.A.D.I.E.** | **I**dentify, **A**nalyze, **D**esign, **I**mplement, **E**valuate | Problem-solving model used by the Special Operations Lieutenant (P.G. 202-27) |
 
 ---
 

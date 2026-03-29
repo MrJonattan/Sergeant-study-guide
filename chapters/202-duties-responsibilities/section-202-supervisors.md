@@ -31,19 +31,29 @@
 - **Authorized persons ONLY:**
   - Members of the Service (MOS)
   - Judicial officers
-  - Medical Examiner (ME)
-  - Corporation Counsel
-  - Comptroller
-  - District Attorney (DA)
+  - Medical Examiner (ME) **or assistant**
+  - Corporation Counsel **or assistant**
+  - Comptroller **or assistant**
+  - District Attorney (DA) **or assistant**
   - Non-local law enforcement officers with a judicial warrant
+
+> **Exam Alert:** DA, ME, Corporation Counsel, and Comptroller each include their **assistants** as authorized. Judicial Officers do **NOT** include assistants. Know which four include assistants and which one does not (P.G. 202-18).
+
+> **Exam Alert:** According to this authorized list, the **Mayor is NOT allowed behind the desk**. The exam has tested this — do not assume high-ranking city officials are automatically authorized (P.G. 202-18).
+
+> **Exam Alert:** Non-local law enforcement officers are NOT permitted in non-public areas of any city property EXCEPT when they have a judicial warrant, are authorized pursuant to a cooperative agreement, further the purpose or mission of the Department, are required by law, or exigent circumstances exist. These two rules may appear to contradict each other — know both exist (P.G. 202-18).
 
 ### Facility Management
 
 - **SHALL** visit ALL areas of the command facility at least ONCE each tour
 - **SHALL** check restrooms and locker rooms for structural defects permitting visual access (privacy violations)
-- **SHALL** inspect parking facilities around the command (no illegal parking by MOS)
+- **SHALL** inspect parking facilities around the command (no illegal parking by MOS — includes Department vehicles and private vehicles with Restricted Parking Permits)
+- **SHALL** inspect for display of any offensive material
 - **SHALL** check Department computer systems frequently
 - **SHALL** check Department email at start of tour AND at the **4th hour** of the tour
+- **SHALL** make a Command Log entry of email inspection
+- **SHALL** monitor FINEST Messages affecting command and/or members of command
+- **SHALL** document facility inspection in Command Log AND take corrective action if necessary
 
 ### Direct Supervision
 
@@ -58,10 +68,92 @@ The desk officer directly supervises the following positions:
 | Arrest Processing Officer | P.G. 202-09 |
 | Community Guide | (community liaison) |
 
+> **Memory Aid — CAT PAC:** **C**lerk, **A**PO (Arrest Process Officer), **T**elephone **S**witchboard Operator, **P**atrol **W**agon Operator, **A**ttendant, **C**ommunity Guide. These six positions report directly to the Desk Officer (P.G. 202-18).
+
 ### When Leaving the Desk
 
 - **SHALL** sign name and time in the Command Log when leaving desk officer duties
 - Ensure proper relief before departing
+
+### Property Management
+
+- **SHALL** inspect property locker and ALL areas where invoiced property is held at the beginning of the tour
+- **SHALL** designate an MOS to conduct a "Physical Inventory" using FORMS Property (FORMS-P)
+  - FORMS-P system will generate an inventory number
+  - Enter results of inspection of invoiced property AND Property Clerk Division seals in the Command Log by documenting the "Physical Inventory" number from FORMS-P
+- Property stored in excess of **30 days** (31 days):
+  - Make a **SEPARATE** Command Log entry indicating invoices stored in excess of 30 days
+  - Notify the Operations Coordinator of the number of vouchers stored in excess of 30 days
+  - Expedite delivery of the invoiced property to its final storage location
+- Certify accuracy and completeness of Command Log Entry (CLE) concerning vouchered property
+
+> **Exam Alert:** When property is stored in excess of 30 days, the D.O. must make a **SEPARATE** Command Log entry (not just note it in the regular entry) AND notify the Operations Coordinator. These are two distinct actions the exam may test independently (P.G. 202-18).
+
+### US Flag
+
+- **SHALL** ensure US Flag is properly displayed from **sunrise to sunset** each day
+
+> **Prior Test:** A prior exam reversed the order to "sunset to sunrise." The correct answer is **sunrise to sunset** — the flag is NOT up in the dark. Watch for reversed wording (P.G. 202-18).
+
+### Civil Process
+
+- Accept service of civil process for member of command and notify member concerned, when principal administrative associate (PRAA) is not performing duty
+
+> **PG Conflict:** P.G. 211-21 says the D.O. accepts civil process regardless, but P.G. 202-18 mentions the PRAA condition — accept "when principal administrative associate not performing duty." Know both versions exist; the exam may reference either procedure (P.G. 202-18 vs. P.G. 211-21).
+
+### DAS (Domain Awareness System) — Start of Tour
+
+- Log into DAS and input the following:
+  - Tax numbers of ALL MOS on Roll Call
+  - Tour assignment (e.g., DVO)
+  - Vehicle number, if applicable
+
+### Notifications and Referrals
+
+- Query CPR System "Court Appearances" to ensure MOS required in court are properly notified and attending
+- Important matters, unusual arrests/occurrences — notify Commanding Officer
+- Trends observed or other important matters — confer with **C.E.O.**
+- Major incidents and/or special circumstances — notify Intelligence Bureau's Criminal Intelligence Section
+- Make required notifications to MOS assigned to OR residing in command
+
+> **Memory Aid — C.E.O.:** **C**ommanding Officer, **E**xecutive Officer, **O**perations Coordinator. These are the three officials the D.O. confers with regarding trends and important matters (P.G. 202-18).
+
+### Forms, Logs & Reports
+
+- Directly supervise: Prisoner Roster entries, issuance of summons books, paycheck distribution
+- Examine, sign, and forward forms and reports as required:
+  - **Telephone Dispatch Log (TDL):** Certify entries by signing after the **4th hour** and at **End of Tour (EOT)**
+  - Maintain Telephone Record
+- Make **Daily Vehicle Assignment Sheet** each tour
+  - Keep current month on clipboard behind desk
+  - 1st Platoon D.O. verifies sheets; have completed sheets filed after each month
+
+### Post Changes During the Tour
+
+- Record adjustments on CPR Roll Call AND make Command Log Entry
+- Notify: Patrol Supervisor, Telephone Switchboard Operator, Communications Dispatcher
+  - Examples: members returning from court or detail
+
+### End of Tour
+
+- Supervise platoon sign out at end of tour
+- Make a Command Log entry prior to EOT documenting:
+  - MOS injured (ID, condition, and location)
+  - Confirmed shots fired, any 10-13, or 10-85s (confirmed or unconfirmed)
+  - Missing persons requiring follow-up (include ID, age, and residence)
+  - Posts requiring relief (hospitalized prisoners and their locations, fixed posts)
+  - Reports requiring sign-off (number of 61s, TRIs, and PARs pending)
+  - Other pertinent info (e.g., RMP went out of service during tour)
+
+### 1st Platoon D.O. — Specific Duties
+
+- Examine and process forms/reports prepared and summonses issued during the previous 24 hours
+- Verify Daily Vehicle Assignment Sheet
+
+### Command Receptionist (Supervised by D.O.)
+
+- Verify arrival and departure of command receptionist by signing Personnel Schedule and Time Sheet
+- Forward command receptionist reports as required
 
 ### Key Exam Points — Desk Officer
 
@@ -72,6 +164,30 @@ The desk officer directly supervises the following positions:
 5. Memorize the list of persons authorized behind the desk
 6. Facility walk-through required at least ONCE per tour
 7. Restroom/locker room checks are for structural privacy defects
+8. Property >30 days requires a SEPARATE Command Log entry AND notification to Ops Coordinator
+9. US Flag: sunrise to sunset (NOT sunset to sunrise)
+10. TDL signed at 4th hour and EOT; email checked at start of tour and 4th hour
+11. End of tour Command Log entry must document specific categories of information
+
+> **See Also:** A.G. 324-17 — AWOL procedures (triggered after 2 hours unaccounted).
+
+> **See Also:** A.G. 322-20 — Attendance App Guidelines (D.O. queries Med Div Sick Reporting System).
+
+> **See Also:** P.G. 212-01 — Roll Call procedures (D.O. prepares CPR System Roll Call entries).
+
+> **See Also:** P.G. 211-21 — Service of Civil Process (compare with 202-18 PRAA condition).
+
+**Role Comparison — Desk Officer vs. Patrol Supervisor vs. Lt. Platoon Commander**
+
+| Feature | Desk Officer (202-18) | Patrol Supervisor (202-19) | Lt. Platoon Commander (202-26) |
+|---------|----------------------|---------------------------|-------------------------------|
+| **Key Phrase** | "Responsible for **police operations**" | "Supervise **field operations**" | "Responsible for **command operations**" |
+| **Location** | Inside command facility (at desk) | In the field | Oversees both |
+| **Scope** | All police operations in command during tour | All field operations in command during tour | All command operations during assigned platoon |
+| **Roll Call** | Prepares CPR System Roll Call | Conducts roll call 5 min after tour start | Causes necessary changes/adjustments |
+| **Meals** | Relieved by patrol supervisor for meal | Notifies TSO of meal location | Schedules meals so supervisor always on patrol |
+
+> **Exam Alert:** The exact wording matters — the D.O. is "responsible for **police** operations," the Patrol Supervisor "supervise[s] **field** operations," and the LPC is "responsible for **command** operations." One or two words could determine the correct answer (P.G. 202-18, 202-19, 202-26).
 
 ---
 
@@ -80,32 +196,86 @@ The desk officer directly supervises the following positions:
 > **Rank Requirement:** Must be a SERGEANT or above.
 > **Core Responsibility:** Supervise all police FIELD operations during the tour.
 
+### Attendance
+
+- **SHALL** comply with A.G. 322-20 Attendance App Guidelines at start of tour and End of Tour
+
+> **See Also:** A.G. 322-20 — Attendance App Guidelines.
+
 ### Roll Call
 
 - **SHALL** conduct roll call **5 minutes** after the start of the tour
 - Verify attendance, uniform compliance, equipment readiness
 
+> **See Also:** P.G. 212-01 — Roll Call procedures.
+
 ### Field Supervision — Mandatory Responses
 
-- **SHALL** immediately respond to:
-  - Weapons calls
-  - Serious crimes in progress
-  - Burglaries
-  - Emergencies
+- **SHALL** immediately respond to and direct activity at **WEBS** radio runs:
+  - **W**eapon calls
+  - **E**mergencies
+  - **B**urglaries
+  - **S**erious crimes in progress
 - Response is MANDATORY, not discretionary
+- Make appropriate digital Activity Log entries
+- If Patrol Supervisor is unavailable, radio will immediately dispatch a patrol supervisor from an adjoining command
+
+> **Memory Aid — WEBS:** **W**eapon, **E**mergency, **B**urglary, **S**erious crime. These are the four categories of radio runs requiring immediate Patrol Supervisor response (P.G. 202-19).
+
+> **Exam Alert:** The exam tests whether you know the WEBS categories. If a radio run does not fall into one of these four, the P/S response is not mandatory under this provision (P.G. 202-19).
+
+### Supervision of MOS
+
+- **SHALL** supervise MOS performance of duty
+  - Test knowledge of command conditions
+  - Closely evaluate activity
+- **SHALL** use Neighborhood Policing App to supervise/conduct neighborhood policing functions, as applicable
+- **SHALL** report derelictions of duty to the C.O.
 
 ### Patrol Visits
 
 - **SHALL** visit foot and RMP patrol posts **FREQUENTLY** at **IRREGULAR** intervals
 - **SHALL** visit hospital and special posts at least **ONCE** each tour
-- **SHALL** ensure members do NOT congregate or engage in unnecessary conversation
-- **SHALL** use AVL (Automatic Vehicle Locator) in DAS (Domain Awareness System) to monitor RMP locations
+- **SHALL** ensure members do NOT congregate or engage in unnecessary conversation while on post, absent police necessity
+- Document visit in Digital Activity Log: enter name, time, assignment of member visited; sign digital Activity Log of UMOS visited
+
+> **Exam Alert:** 1st Platoon "cooping" enforcement — the P/S should visit various locations at different times to ensure UMOS are performing duty at all times. This is a common 1st Platoon supervisory concern (P.G. 202-19).
+
+### Meal
+
+- **SHALL** notify the Telephone Switchboard Operator of meal location
+- **SHALL** relieve the Lt. Platoon Commander or D.O. for meal when designated
+
+> **Exam Alert:** The Patrol Supervisor has TWO meal-related duties: (1) notify the Telephone Switchboard Operator of meal location, and (2) relieve the LPC or D.O. for meal when designated. Meal relief is NOT an emergency (P.G. 202-19).
 
 ### Vehicle and Safety Oversight
 
-- **SHALL** report serious seatbelt deficiencies to the platoon commander
+- **SHALL** use AVL in the Domain Awareness System (DAS) to monitor RMP locations for UMOS safety and ensure proper delivery of police service
+  - If AVL is not working: notify D.O.
+  - Do NOT put RMP out of service unless directed by IAB or Fleet Services Division (FSD)
+- **SHALL** supervise inspection of Department vehicles assigned to members of platoon
+- **SHALL** report serious seatbelt deficiencies to the Lt. Platoon Commander (or if absent, direct to C.O.)
+  - If seatbelt defects are not consistent with normal usage, take appropriate action
 - **SHALL** report seatbelt vandalism to the Internal Affairs Bureau (IAB)
+  - Be vigilant for indication of disabling or improper use (buckling behind occupant's body or seat)
 - **SHALL** evaluate driving habits of subordinates and take corrective action when needed
+- Scooter Operator: direct operator to Platoon Commander or D.O. for reassignment when weather/road conditions are dangerous
+
+### Investigations and Reports
+
+- Conduct investigations and submit reports as required, including injuries to MOS (uniformed and civilian) or damage to Department property
+- **SHALL** review and sign Officer Profile Report of P.O.s/detective specialists, monthly
+- Make required entries
+- Deliver to Platoon Commander for review by the **5th day** for the previous month
+
+### Notifications and Consultations
+
+- Current matters of importance: notify Lt. Platoon Commander or D.O.
+- Matters of mutual importance or trends: confer with C.O./X.O./Operations Coordinator, Lt. Platoon Commander/D.O., and NCO Sergeant
+- Crime and conditions: be cognizant and instruct officers regarding activity affecting their sector/posts
+- Recommendations for special assignment: submit to C.O. in writing for members under supervision (special assignment, detective designation, or change in assignment)
+
+> **Exam Alert:** "Command Disciplines" in the context of the P/S most likely refers to the issuance of CDs (Command Disciplines) and the concept of a skipped chain of command. Know that the P/S reports derelictions to the C.O. (P.G. 202-19).
 
 ### Administrative Duties
 
@@ -115,12 +285,17 @@ The desk officer directly supervises the following positions:
 ### Key Exam Points — Patrol Supervisor
 
 1. Roll call is 5 minutes after tour start
-2. Must respond to weapons/serious crimes/burglaries/emergencies
+2. Must respond to WEBS radio runs: Weapon, Emergency, Burglary, Serious crime
 3. Patrol visits must be FREQUENT and IRREGULAR (predictable patterns defeat the purpose)
 4. Hospital/special posts visited at least ONCE per tour
 5. Seatbelt deficiencies go to platoon commander; seatbelt VANDALISM goes to IAB
 6. Officer Profile Reports due by the 5th of each month
 7. AVL/DAS is the tool for monitoring RMP locations remotely
+8. Meal: notify TSO of location AND relieve LPC or D.O. when designated
+9. If P/S unavailable, radio dispatches P/S from adjoining command immediately
+10. Non-functioning AVL: notify D.O.; do NOT put RMP out of service unless directed by IAB or FSD
+
+> **Exam Alert:** D.O. vs. Patrol Supervisor — "1 or 2 words could matter." The D.O. is "**responsible** for **police** operations." The P/S "**supervise[s]** **field** operations." The verbs and adjectives differ. The exam may swap these to create a wrong answer (P.G. 202-18 vs. 202-19).
 
 ---
 
@@ -211,6 +386,8 @@ This role requires balancing proactive intelligence gathering with legal and pol
 
 The platoon commander is the sergeant's immediate supervisor in many commands. Understanding the LT's responsibilities helps sergeants anticipate what information will be requested and what standards will be enforced. The meal-scheduling rule (always maintain supervisor coverage) directly affects sergeant assignments.
 
+> **Exam Alert:** The LPC is "responsible for **command** operations" during the assigned tour. Compare with the D.O. ("responsible for **police** operations") and P/S ("supervise **field** operations"). The LPC may direct members to perform duty in plainclothes only when directed by the C.O. (P.G. 202-26).
+
 ---
 
 ## P.G. 202-27: Special Operations Lieutenant
@@ -228,6 +405,10 @@ The platoon commander is the sergeant's immediate supervisor in many commands. U
 
 NST supervisors and CRT supervisors report through the special operations lieutenant. Understanding this chain of command is essential for sergeants assigned to specialized units.
 
+> **See Also:** P.G. 202-29 — Integrity Control Officer (ICO), who monitors command compliance.
+
+> **See Also:** P.G. 202-12 — Command Auxiliary Police Coordinator (Auxiliary Police Program).
+
 ---
 
 ## P.G. 202-28: Operations Coordinator
@@ -244,6 +425,8 @@ NST supervisors and CRT supervisors report through the special operations lieute
 ### Sergeant Relevance
 
 The operations coordinator is a key administrative contact for sergeants needing resource allocation, scheduling changes, or operational guidance.
+
+> **Exam Alert:** The Operations Coordinator supervises the Crime Analysis Sergeant. Know this chain — the exam may ask who the Crime Analysis Sergeant reports to (P.G. 202-28).
 
 ---
 
@@ -428,6 +611,7 @@ This is a direct sergeant assignment. The QOL Sergeant balances enforcement with
 | Feature | Desk Officer (202-18) | Patrol Supervisor (202-19) | NST Supervisor (202-20) | CRT Supervisor (202-36) |
 |---------|----------------------|---------------------------|------------------------|------------------------|
 | **Minimum Rank** | Sergeant | Sergeant | Sergeant | Sergeant |
+| **Key Phrase** | "Responsible for **police** operations" | "Supervise **field** operations" | Solely assigned to NST | Solely assigned to CRT |
 | **Scope** | ALL command operations | ALL field operations | NST unit only | CRT unit only |
 | **Location** | Inside command facility | In the field | In the field | In the field |
 | **Solely Assigned** | Yes (at desk) | Yes (to field) | YES (mandatory) | YES (mandatory) |
@@ -451,3 +635,5 @@ This is a direct sergeant assignment. The QOL Sergeant balances enforcement with
 | **5 blocks** | RMP must respond to serious emergency within this range | 202-02 |
 | **Once per tour** | Minimum facility walk-through (Desk Officer) | 202-18 |
 | **Once per tour** | Minimum hospital/special post visit (Patrol Supervisor) | 202-19 |
+| **30 days** | Property storage threshold triggering separate CLE and Ops Coordinator notification | 202-18 |
+| **4th hour + EOT** | TDL signing times for Desk Officer | 202-18 |
