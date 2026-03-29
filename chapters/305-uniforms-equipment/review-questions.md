@@ -169,3 +169,122 @@ All settlements are non-transferable and MUST be executed within 180 days of app
 Members are prohibited from carrying firearms into a foreign country unless on official business or personally participating in an event requiring use of a firearm. Failure to comply will result in disciplinary action and possibly subject the member to criminal penalties and/or weapon confiscation. (A.G. 305-07)
 
 </details>
+
+---
+
+**11. A Sergeant's nylon windbreaker displays rank insignia in which location?**
+
+- A) Chevrons on both sleeves
+- B) Insignia on collar only
+- C) Chevrons on the left sleeve only
+- D) Gold letters across the back
+
+<details><summary>Answer</summary>
+
+**B) Insignia on collar only**
+
+On the nylon windbreaker, Sergeants have insignia on the collar only — NO chevrons on the sleeves. This is different from the V-neck sweater, where Sergeants DO wear chevrons on the sleeves. (A.G. 305-04)
+
+</details>
+
+---
+
+**12. The WTC Memorial breast bar may be worn by:**
+
+- A) Only UMOS who were on the job on 9/11/2001
+- B) Only UMOS assigned to WTC recovery operations
+- C) All UMOS, regardless of whether they were on the job on 9/11
+- D) Only UMOS who received a commendation for 9/11 service
+
+<details><summary>Answer</summary>
+
+**C) All UMOS, regardless of whether they were on the job on 9/11**
+
+The WTC Memorial breast bar may be worn by all UMOS above all other bars except the US Flag bar. Unlike anniversary bars, members did NOT have to be on the job during 9/11 to wear it. (A.G. 305-13)
+
+</details>
+
+---
+
+**13. A protective vest must meet what minimum threat level certification?**
+
+- A) Threat Level I
+- B) Threat Level II
+- C) Exceeding Threat Level II (Level III or higher)
+- D) Threat Level IV
+
+<details><summary>Answer</summary>
+
+**C) Exceeding Threat Level II (Level III or higher)**
+
+The vest must be certified by the NIJ as EXCEEDING Threat Level II — meaning Level II itself is NOT acceptable. The vest must be Level III or higher. Vests made of Zylon are also NOT authorized. (A.G. 305-15)
+
+</details>
+
+---
+
+**14. When a member dies in the line of duty, members of his/her command wear the mourning band until:**
+
+- A) The day of the funeral
+- B) 2400 hrs on the 10th day after death
+- C) 10 days after the funeral
+- D) 2400 hrs on the day of the funeral
+
+<details><summary>Answer</summary>
+
+**B) 2400 hrs on the 10th day after death**
+
+For LOD death, members of the deceased's command wear the mourning band from time of death until 2400 hrs on the 10th day after death. Other members wear it from time of death until 2400 hours on the day of the funeral. Note that the flag at half-mast period uses "10 days after funeral" as its reference — a different timeline. (A.G. 305-14 / A.G. 304-02)
+
+</details>
+
+---
+
+**15. On the duty belt, OC pepper spray is carried on which side?**
+
+- A) Strong side, next to firearm
+- B) Support side, opposite the firearm
+- C) Center line of the belt
+- D) Either side at the member's discretion
+
+<details><summary>Answer</summary>
+
+**B) Support side, opposite the firearm**
+
+OC pepper spray device and holder are carried on the support side (non-shooting side), opposite the firearm. It is item #4 on the support side of the belt. (A.G. 305-08)
+
+</details>
+
+---
+
+**16. Who must a supervisor contact for a reserve protective vest supply?**
+
+- A) The Equipment Section
+- B) The member's assigned bureau
+- C) The local Patrol Borough
+- D) The Police Commissioner's office
+
+<details><summary>Answer</summary>
+
+**C) The local Patrol Borough**
+
+Regardless of the member's bureau (Housing, Transit, Detective Bureau, etc.), the supervisor directs the requesting MOS to call the local Patrol Borough for reserve vest supply. If the Patrol Borough does not have any, contact the PA Vest Unit. (A.G. 305-15)
+
+</details>
+
+---
+
+**17. The mnemonic "A FAVOR" helps remember when a member may be unarmed off duty. What does the "F" stand for?**
+
+- A) Fitness activities
+- B) Family Court or Supreme Court Matrimonial
+- C) Foreign country travel
+- D) Formal Department functions
+
+<details><summary>Answer</summary>
+
+**B) Family Court or Supreme Court Matrimonial**
+
+A FAVOR: A = Alcohol likely consumed; F = Family or Supreme Court Matrimonial (don't enter armed except as arresting officer or on official business); A = Advisable not to carry; V = Vacation; O = Off-Duty Employment; R = Risk of Loss or Theft (sports, beach, etc.). (A.G. 305-07)
+
+</details>

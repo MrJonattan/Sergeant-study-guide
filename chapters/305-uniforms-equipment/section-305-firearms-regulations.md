@@ -79,6 +79,16 @@ All aftermarket/non-Department parts are prohibited, including: extended magazin
 | Must comply with all applicable foreign country firearms rules/regulations |
 | Failure to comply = disciplinary action and possible criminal penalties/weapon confiscation |
 
+> **Memory Aid — A FAVOR (When to be Unarmed Off Duty):** Do yourself **A FAVOR** — **A** = Alcohol likely to be consumed; **F** = Family or Supreme Court Matrimonial (don't enter armed except as A/O or official business); **A** = Advisable not to carry; **V** = Vacation; **O** = Off-Duty Employment; **R** = Risk of Loss or Theft (sports event, beach, etc.). (A.G. 305-07)
+
 > **Exam Alert:** Members must be armed at all times in NYC unless specific off-duty exceptions apply. Firearms must NEVER be left in an **unattended motor vehicle**. All modifications must be performed by **Firearms and Tactics Section armorers** only.
+
+> **Exam Alert:** Revolvers are NOT authorized for on-duty use — they are for **off-duty only**. The AG does not explicitly state this, but read between the lines: only "service pistols" are authorized on duty, and revolvers are classified as off-duty weapons. If a member transitioned from an off-duty revolver to an authorized off-duty 9mm, they are **NOT permitted to switch back** to the revolver. (A.G. 305-07)
+
+> **Exam Alert:** For foreign country travel, members must comply with A.G. 332-16 (Official Trip) and PG 212-83 (Leaving NYC on Official Business) in addition to the foreign country's firearms rules. (A.G. 305-07)
+
+> **See Also:** PG 221-10 — Exception for storing firearms in motor vehicle (Long Guns).
+
+> **See Also:** AG 332-16 — Official Trip procedures for foreign country travel with firearms.
 
 > **Sergeant Focus:** Verify holster compliance (retention device, trigger guard coverage, no clip-on/belly band). Ensure members have passed qualification before carrying modified firearms. Know the Family Court/Supreme Court unarmed requirement.
