@@ -254,3 +254,173 @@ If the injury comes under FECA, the member's CO will forward items (LOD Injury R
 Disposal of bleach or bleach dilutions should be performed only in a sink (not a urinal or toilet, since they sometimes contain chemical deodorizers that may cause toxic gas when mixed with bleach). (A.G. 330-09)
 
 </details>
+
+---
+
+**16. A UMOS going out on regular sick obtains three items from the Sick Desk. Which of the following should the UMOS provide to the desk officer at the permanent command?**
+
+- A) Name of Sick Desk member notified
+- B) Time Sick Desk was notified
+- C) Sick serial number
+- D) Change of address/location or phone number
+
+<details><summary>Answer</summary>
+
+**C) Sick serial number**
+
+The UMOS receives 3 items from the Sick Desk (sick serial number, Sick Desk name, and time notified), but only provides the **sick serial number** to the D.O./Supervisor. (P.G. 330-01)
+
+</details>
+
+---
+
+**17. Administrative Sick is available to:**
+
+- A) All members of the service
+- B) Uniformed members of the service only — CMOS cannot go Admin Sick
+- C) Civilian members of the service only
+- D) Members with more than 5 years of service
+
+<details><summary>Answer</summary>
+
+**B) Uniformed members of the service only — CMOS cannot go Admin Sick**
+
+Administrative Sick is for UMOS only. Civilian members of the service cannot go Administrative Sick. (P.G. 330-02)
+
+</details>
+
+---
+
+**18. On the 3rd consecutive day of Administrative Sick, the member must:**
+
+- A) Continue on Admin Sick with no changes
+- B) Report Regular Sick and be guided by Sick Desk regarding District Surgeon visit
+- C) Return to full duty
+- D) Report directly to the District Surgeon without calling anyone
+
+<details><summary>Answer</summary>
+
+**B) Report Regular Sick and be guided by Sick Desk regarding District Surgeon visit**
+
+Admin Sick lasts a maximum of 2 days. On the 3rd day, it converts to Regular Sick. The member is guided by the Sick Desk regarding the Medical Division visit to the District Surgeon. All three days consolidate into 1 sick event. (P.G. 330-02)
+
+</details>
+
+---
+
+**19. For Administrative Sick, the UMOS first calls:**
+
+- A) The Sick Desk, then the command
+- B) The D.O./Supervisor at their command — not the Sick Desk
+- C) The District Surgeon
+- D) Operations Unit
+
+<details><summary>Answer</summary>
+
+**B) The D.O./Supervisor at their command — not the Sick Desk**
+
+For Admin Sick, the UMOS calls the command (D.O./Supervisor) at least 2 hours pre-tour. For Regular Sick, the UMOS calls the Sick Desk first, then the command. This is a key distinction. (P.G. 330-02)
+
+</details>
+
+---
+
+**20. Which of the following is NOT a reason Admin Sick would be denied (per the LIMB LSS MD mnemonic)?**
+
+- A) Line of Duty injury
+- B) Headache
+- C) Stress/psychological
+- D) Dental problems
+
+<details><summary>Answer</summary>
+
+**B) Headache**
+
+The LIMB LSS MD mnemonic lists: Line of duty, Injury, Mutual, Chronic B, Late (less than 2 hrs pre-tour), Stress/psychological, Supervisor deems inappropriate, Major illness, Dental. A simple headache is not on the exclusion list. (P.G. 330-02)
+
+</details>
+
+---
+
+**21. When a member is out sick and has a pending court appearance, the desk officer makes a Command Diary entry under:**
+
+- A) The date of appearance only
+- B) The date of appearance and 1 day prior
+- C) The date of appearance and 2 days prior (not counting Sat/Sun/Holidays)
+- D) The date of appearance and 3 days prior
+
+<details><summary>Answer</summary>
+
+**C) The date of appearance and 2 days prior (not counting Sat/Sun/Holidays)**
+
+The D.O. makes a Command Diary entry under both the date of appearance AND 2 days prior, not counting Saturdays, Sundays, and holidays. (P.G. 330-04)
+
+</details>
+
+---
+
+**22. The Counseling Unit provides assistance to MOS experiencing difficulties with all of the following EXCEPT:**
+
+- A) Alcohol
+- B) Prescription drugs
+- C) Gambling
+- D) Marital counseling
+
+<details><summary>Answer</summary>
+
+**D) Marital counseling**
+
+The Counseling Unit's primary function is assisting MOS with difficulties involving alcohol, prescription drugs, gambling, or finances. Marital counseling is not listed as a primary function. (P.G. 330-16)
+
+</details>
+
+---
+
+**23. A non-disciplinary referral to the Counseling Unit results in:**
+
+- A) A report being filed with IAB
+- B) Jeopardized promotion opportunities
+- C) No report, no jeopardized promotions, and assignment not ordinarily changed
+- D) Automatic transfer to a different command
+
+<details><summary>Answer</summary>
+
+**C) No report, no jeopardized promotions, and assignment not ordinarily changed**
+
+A non-disciplinary referral produces no report, does not jeopardize promotions, and the member's current assignment is not ordinarily changed (though it may be if in best interest of all). (P.G. 330-16)
+
+</details>
+
+---
+
+**24. The investigating supervisor for a LOD injury within the city must be:**
+
+- A) A detective or above
+- B) A sergeant or above from the injured member's command
+- C) A captain or above
+- D) Any available supervisor regardless of command
+
+<details><summary>Answer</summary>
+
+**B) A sergeant or above from the injured member's command**
+
+Within the city, the investigating supervisor is a sergeant or above from the injured member's command. If unavailable, a supervisor from the precinct of occurrence. Out of city requires captain or above. (A.G. 330-03)
+
+</details>
+
+---
+
+**25. Regarding the investigating supervisor and the three LOD reports (PAR, AIDED, LODI), which statement is correct?**
+
+- A) IS always prepares all three reports
+- B) IS always prepares the PAR, never prepares the AIDED, and sometimes prepares the LODI
+- C) IS never prepares any of the three reports
+- D) IS always prepares the AIDED and the LODI
+
+<details><summary>Answer</summary>
+
+**B) IS always prepares the PAR, never prepares the AIDED, and sometimes prepares the LODI**
+
+The Investigating Supervisor always prepares the Police Accident Report. The IS never prepares the AIDED (directs injured MOS to prepare it, or assigns another member if incapacitated). The IS sometimes prepares the LODI (only when the injured member is incapacitated). (A.G. 330-03)
+
+</details>

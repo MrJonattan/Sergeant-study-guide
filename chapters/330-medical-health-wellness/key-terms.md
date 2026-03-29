@@ -76,3 +76,53 @@
 | Move needle AWAY from yourself |
 | NEVER remove, dislodge, or bend a needle |
 | Cap container if possible; tape if syringe extends |
+
+## Regular Sick (P.G. 330-01)
+
+| Term | Definition |
+|------|-----------|
+| **Regular Sick** | Member not eligible for or declines Admin Sick; requires visit to Department Surgeon |
+| **District Surgeon** | Report at next office hours; 5 exceptions (Chronic B, Fri/Sat, unable to travel, dental, Medical Division directs) |
+| **Sick Serial Number** | Obtained from Sick Desk; the ONLY item UMOS passes to D.O. |
+| **Absence Control and Investigations Unit** | Medical Division unit notified by D.O. when malingering is suspected |
+| **Sick Reporting System** | Queried by D.O. and Operations Coordinator to verify sick status |
+| **Limited Capacity** | Must visit Surgeon to request; exception: pregnant members requesting position limited — no visit required |
+
+## Administrative Sick (P.G. 330-02)
+
+| Term | Definition |
+|------|-----------|
+| **Admin Sick** | UMOS-only (no CMOS); max 2 days; call D.O. at least 2 hours pre-tour; no Surgeon visit |
+| **LIMB LSS MD** | Mnemonic for when Admin Sick is NOT authorized: Line of duty, Injury, Mutual, Chronic B, Late, Stress, Supervisor deems inappropriate, Major illness, Dental |
+| **One Sick Event** | Days 1-3 (Admin + Regular) consolidate into a single sick event |
+
+## Notifying Court When Sick (P.G. 330-04)
+
+| Term | Definition |
+|------|-----------|
+| **Command Diary** | Entry made under appearance date AND 2 days prior (excluding Sat/Sun/Holidays) |
+| **Roll Call Clerk** | Notifies court of inability to attend; requests adjournment 2 days before; notifies on morning of appearance (except Criminal Court) |
+| **Operations Coordinator / PRAA** | Calls District Surgeon 2 days prior to determine if member can appear |
+
+## Counseling Unit (P.G. 330-16)
+
+| Term | Definition |
+|------|-----------|
+| **Counseling Unit** | Assists MOS with alcohol, prescription drug, gambling, or financial difficulties; return to full duty |
+| **Non-Disciplinary Referral** | No report made; promotions NOT jeopardized; assignment NOT ordinarily changed |
+| **Confidentiality Exceptions** | Written consent, valid subpoena, U.S. District Court Order, suspected child abuse, danger to self/others |
+| **EAU Conferral** | Required before final adjudication of ALL misconduct involving alcohol or domestic violence |
+
+## Key Timeframes (Updated)
+
+| Item | Timeframe |
+|------|-----------|
+| LOD Injury Report sign-off by investigating supervisor | **Before end of tour** |
+| Trauma Counseling follow-up meeting | **48 hours** after event |
+| Additional trauma counseling sessions | **1 to 6 weeks** after incident |
+| FECA documentation forwarding | Within **90 days** of occurrence |
+| Delayed LOD designation report | Within **60 days** (then every 60 days) |
+| Admin Sick notification to D.O. | At least **2 hours** before start of tour |
+| Admin Sick maximum duration | **2 days** (3rd day becomes Regular Sick) |
+| Court notification — Command Diary | Appearance date AND **2 days prior** (excl. weekends/holidays) |
+| UMOS out sick outside resident counties | Contacted **weekly** by District Surgeon |
