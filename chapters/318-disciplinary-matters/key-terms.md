@@ -65,3 +65,78 @@
 | "Off the record" questions |
 | Offensive language or threats (transfer, dismissal, disciplinary punishment) |
 | Promises of reward for answering questions |
+
+## Command Discipline Types
+
+| Type | Issued By | Max Penalty |
+|------|-----------|-------------|
+| **Schedule "A"** | CO/XO | 5 days |
+| **Schedule "B"** | CO/XO | 10 days |
+| **Schedule "C"** | Department Advocate only | 20 days |
+
+## Schedule "B" CD Mnemonic — FOUL FRAP
+
+| Letter | Meaning |
+|--------|---------|
+| **F** | FADO (Force, Abuse of authority, Discourtesy, Offensive Language) |
+| **O** | Other appropriate by CO/XO (after notifying Adjutant and consulting Advocate) |
+| **U** | Unauthorized use of a Department Vehicle |
+| **L** | Loss of Shield, Activity Log, or Department property |
+| **F** | Failure to give name and shield to person requesting |
+| **R** | Radio: fail to respond, acknowledge, give disposition, or unauthorized transmission |
+| **A** | Alcohol in dept. facility or vehicle unless within scope of assignment |
+| **P** | Prisoner — failure to safeguard |
+
+## Suspension Mnemonic — A DOG CAR
+
+| Letter | Meaning |
+|--------|---------|
+| **A** | Arrest for PL crime (Misd or Fel) or DWI (VTL 1192 subs 2-4a) |
+| **D** | Dole Test — Refuse to take |
+| **O** | Order — Refuse a lawful order |
+| **G** | G.O. 15 — Refuse to answer |
+| **C** | Club — Patronize a "Good Ass Club" (G.D.A.S.S.: Gambling, Drugs, After hours, Social club, Smoke) |
+| **A** | AWOL — 5 consecutive tours |
+| **R** | Roll Call / during the tour — Refuse assignment |
+
+## Suspension Authority
+
+| Actor | Authority Level | Who They Suspend |
+|-------|----------------|-----------------|
+| Uniformed Sergeant (or above) | **Must** suspend | Any MOS (uniformed or civilian) |
+| TM/SSDD | **Authorized to** suspend | CMOS (civilians under their command) |
+
+## Member's Three CD Election Options
+
+| Option | Result |
+|--------|--------|
+| Accept both finding and penalty | Adjudicated at command level |
+| Accept finding but not penalty | CD Review Panel decides |
+| Accept neither — opt for Charges | Goes to Department Advocate |
+
+## CD Record Clearing Timeframes
+
+| CD Type | Time | Measured From | Condition |
+|---------|------|--------------|-----------|
+| Unsubstantiated (A or B) | 1 year | Issuance | None — always removed |
+| Schedule "A" | 1 year | Issuance | No subsequent discipline of any kind |
+| Schedule "B" (sealing) | 3 years | Disposition | No subsequent "B" or Charges; member must request in writing |
+
+## Key Timeframes — CD Process
+
+| Item | Timeframe |
+|------|-----------|
+| Member election of CD option | **3 working days** from CO/XO's decision |
+| CD adjudication deadline | **60 days** from issuance |
+| Citywide system entry (issuance) | **5 working days** from issuance |
+| Citywide system entry (adjudication) | **5 working days** from adjudication |
+| CO sign-off on Citywide entries | **5 working days** from completion of adjudication entries |
+| 49 to Chief of Dept (arrested MOS) | **24 hours** |
+| MOS updates CO on case status | Every **30 days** |
+
+## Law vs. Procedure Questions
+
+| Question Type | Who to Ask |
+|---------------|-----------|
+| Questions on **Law** | Legal Bureau |
+| Questions on **Procedure** | Department Advocate |

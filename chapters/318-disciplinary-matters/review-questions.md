@@ -203,3 +203,139 @@ Prohibited tactics include: "off the record" questions, offensive language or th
 Questions and answers resulting from interrogation are confidential and not to be revealed or released outside the Department without prior written approval of the Deputy Commissioner - Legal Matters. If a subpoena duces tecum is received, contact the Legal Bureau immediately. (A.G. 318-11)
 
 </details>
+
+---
+
+**13. The maximum penalty for a Schedule "A" Command Discipline is:**
+
+- A) 3 days
+- B) 5 days
+- C) 10 days
+- D) 20 days
+
+<details><summary>Answer</summary>
+
+**B) 5 days**
+
+The three types of CDs have different maximums: "A" = 5 days, "B" = 10 days, "C" = 20 days. "C" CDs are issued only by the Department Advocate. (A.G. 318-01)
+
+</details>
+
+---
+
+**14. When a CD results from an IAB investigation and the CO wants to change the recommended disciplinary action, the CO must obtain conferral and approval from:**
+
+- A) The investigating entity
+- B) The Deputy Commissioner, Department Advocate
+- C) The Chief of IAB
+- D) The Patrol Borough Adjutant
+
+<details><summary>Answer</summary>
+
+**B) The Deputy Commissioner, Department Advocate**
+
+When a CD comes from IAB: to change **findings**, you need approval of the **investigating entity**. To change **discipline**, you need approval of the **DC Department Advocate**. The exam often switches these two. (A.G. 318-02)
+
+</details>
+
+---
+
+**15. The CD Review Panel may increase the penalty proposed by the CO to not more than:**
+
+- A) The same penalty proposed
+- B) One and a half times the proposed penalty
+- C) Double the proposed penalty
+- D) Triple the proposed penalty
+
+<details><summary>Answer</summary>
+
+**C) Double the proposed penalty**
+
+The CD Review Panel may approve, reduce, or increase the penalty — but the increase cannot exceed double what the CO proposed. (A.G. 318-02)
+
+</details>
+
+---
+
+**16. A Uniformed Sergeant must suspend an MOS for all of the following EXCEPT:**
+
+- A) Arrest for a misdemeanor
+- B) Refusal to take a Dole Test
+- C) Being impaired (BAC under .08)
+- D) AWOL for 5 consecutive tours
+
+<details><summary>Answer</summary>
+
+**C) Being impaired (BAC under .08)**
+
+The mandatory suspension grounds (A DOG CAR) include DWI (VTL 1192 subs 2-4a) but NOT impairment below .08. By its absence from the list, impaired is not a must-suspend. (A.G. 318-05)
+
+</details>
+
+---
+
+**17. A member must elect one of the three CD options within what timeframe of receiving the CO/XO's decision?**
+
+- A) 3 calendar days
+- B) 3 working days
+- C) 5 working days
+- D) 5 calendar days
+
+<details><summary>Answer</summary>
+
+**B) 3 working days**
+
+The member must notify the CO in writing on the CD of the option elected within 3 **working** days of receiving the CO/XO's decision. When the AG does not specify "working," it means calendar days. (A.G. 318-02)
+
+</details>
+
+---
+
+**18. Records and dispositions of substantiated Schedule "B" CDs may be sealed after:**
+
+- A) 1 year from issuance with no subsequent discipline
+- B) 3 years from issuance with no subsequent "B" or Charges
+- C) 3 years from disposition, upon written request, with no subsequent "B" or Charges
+- D) They are automatically sealed after 3 years
+
+<details><summary>Answer</summary>
+
+**C) 3 years from disposition, upon written request, with no subsequent "B" or Charges**
+
+Sealing of "B" CDs is NOT automatic — the member must request in writing via a 49 to their CO on the 3rd anniversary of the date of disposition. If no subsequent "B" CDs or Charges during those 3 years, the CO expunges from the command folder. (A.G. 318-12/318-14)
+
+</details>
+
+---
+
+**19. When an MOS is arrested outside the city, who designates the Captain or above to conduct the investigation?**
+
+- A) The Patrol Borough CO
+- B) The Duty Captain
+- C) The Chief (of Department)
+- D) The MOS's Commanding Officer
+
+<details><summary>Answer</summary>
+
+**C) The Chief (of Department)**
+
+When arrested outside the city, there is no "Duty Captain" — the Chief designates a Captain or above to conduct the investigation. Inside the city, the Borough CO assigns the Ranking Officer. (A.G. 318-09)
+
+</details>
+
+---
+
+**20. Loss of a Department-issued smartphone results in which type of Command Discipline?**
+
+- A) Schedule "A" CD
+- B) Schedule "B" CD
+- C) Schedule "C" CD
+- D) Charges and Specifications
+
+<details><summary>Answer</summary>
+
+**A) Schedule "A" CD**
+
+Loss of an ID Card, Summons, Summons Book, or Department-issued smartphone are all Schedule "A" CDs. Loss of shield, Activity Log, prisoner (failure to safeguard), or other Department property (except the "A" items) are Schedule "B" CDs. (A.G. 318-01)
+
+</details>

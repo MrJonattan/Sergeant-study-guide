@@ -114,3 +114,5 @@ Members (uniformed and civilian) whose actions result in **death or serious phys
 > **Exam Alert:** Member must be provided **PD339-121** before questioning. Counsel permitted for serious violations. Refusal to answer questions related to official duties = **suspension**. Statements can be used for **departmental charges** but NOT **criminal proceedings** (Garrity protection).
 
 > **Sergeant Focus:** Know the 8 items the interrogating officer must inform the member about. No "off the record" questions, threats, or reward promises. Interrogation must be recorded. Post-charge interrogation must be completed **10 days** before trial. Assign member to **2nd Platoon**.
+
+> **See Also:** AG 318-02 — Issuance of CDs (the CD interview is informal and non-adversarial with no minutes recorded, unlike a formal interrogation under AG 318-11 which must be recorded).

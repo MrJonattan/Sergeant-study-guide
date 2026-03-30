@@ -76,3 +76,9 @@ A supervisory officer is **mandated** in all cases to contact the Counseling Ser
 > **Exam Alert:** Supervisory member prepares PD469-150 **immediately**. CO/XO/Duty Captain also prepares their own PD469-150. Firearms are removed per A.G. 318-13. **Eight copies** of the Typed Letterhead report are distributed to eight recipients.
 
 > **Sergeant Focus:** The first supervisor on scene must (1) direct member to remain, (2) prepare PD469-150 immediately, (3) notify CO/XO/duty captain. Supervisory officer is **mandated** to contact Counseling Services Unit. IAB Command Center must be notified for log number.
+
+> **Exam Alert:** The 1st Deputy Commissioner receives the 49 via **two methods**: the original DIRECT plus a copy through channels. All other recipients receive theirs DIRECT. The AG says "Chief of IAB" for the Unfit for Duty procedure (318-10), not "IAB Command Center" as in suspension procedures. (AG 318-10)
+
+> **Exam Alert:** During normal business hours, have the Supervisory Officer contact **Counseling Unit DIRECT**. At other times, a counselor can be contacted through the **Sick Desk Supervisor**. Do not confuse these two access methods. (AG 318-10)
+
+> **See Also:** AG 318-05 — Cause for Suspension (for the grounds that trigger mandatory suspension); AG 318-14 — Citywide CD System (for database entry requirements).
