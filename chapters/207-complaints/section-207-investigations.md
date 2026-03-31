@@ -66,6 +66,9 @@ Vice, narcotics, and organized crime complaints follow a separate investigative 
 - Members receiving such complaints ensure initial documentation and notify the appropriate specialized unit.
 - Patrol supervisors coordinate with vice/narcotics units for proper case handling.
 - Exceptions for recording at the precinct of occurrence (pick-up arrests, found drugs) still apply per P.G. 207-01.
+- If secondary offense is OC type (Vice, Drugs, etc.), send the specialized unit an "additional copy" of the complaint.
+
+> **See Also:** PG 207-01 -- Found property rules for controlled substances detail when a Pct 61# vs. ISS serial # is used.
 
 ---
 
@@ -75,56 +78,123 @@ Vice, narcotics, and organized crime complaints follow a separate investigative 
 
 ### Definition
 
-A **Bias Incident** is any offense or attempted offense motivated in whole or in part by the offender's bias based on:
+A **Bias Incident** is any offense or unlawful act motivated in whole or in substantial part by a person, group, or place's identification with a particular:
 - Race
 - Religion
-- Ethnicity
 - Gender
 - Age
 - Disability
-- Sexual orientation (including **LGBTQIA+**)
+- Sexual orientation (including gay, lesbian, bi-sexual, transgender, queer, intersex, asexual+)
+
+As determined by the **CO Hate Crimes Unit**.
+
+> **Exam Alert:** The motivation test is critical. If people argue over a parking spot and use racial slurs, the incident is motivated by the **parking spot** -- NOT by race, etc. The bias must be the **motivating factor**, not just incidental language.
+
+### Disability Defined (for Bias Purposes)
+
+Physical, medical, mental, or psychological impairment, or a history or record of such, including:
+- Impairment of bodily organs or systems
+- Sustaining injury or damage to any system of the body (muscular, sensory, respiratory, speech, heart, reproductive, digestive, blood, immunity, and skin -- i.e., AIDS)
+- Examples: Recovering alcoholic or drug addict IF currently recovered/recovering AND not currently abusing substances
 
 ### Response Chain
 
 The response chain follows a specific escalation path:
 
 ```
-1. MOS evaluates the incident for possible bias motivation
+1. UMOS evaluates condition, takes police action, stabilizes
    ↓
-2. MOS requests PATROL SUPERVISOR to respond
+2. If possible bias → MOS requests PATROL SUPERVISOR to respond
    ↓
-3. Patrol Supervisor requests CO/DUTY CAPTAIN
+3. Patrol Supervisor stabilizes, determines if additional personnel needed
    ↓
-4. CO/Duty Captain notifies OPERATIONS UNIT
+4. Patrol Supervisor notifies DESK OFFICER of incident
    ↓
-5. Operations Unit issues a BIAS INCIDENT LOG NUMBER
+5. If possible bias → Patrol Supervisor requests CO/DUTY CAPTAIN
+   ↓
+6. CO/Duty Captain determines if should be referred to Hate Crimes
+   ↓
+7. If public official involved → confer with Intel before calling it possible bias
 ```
+
+> **Exam Alert:** For a possible bias incident reported by **another police agency**, the Patrol Supervisor responds. At the request of the Patrol Supervisor OR a Captain or above from the other agency, the CO/Duty Captain (NYPD) will respond and make the determination of whether it is a Possible Bias Incident.
 
 ### Commanding Officer / Duty Captain Responsibilities
 
 Upon notification of a potential bias incident, the CO or Duty Captain must:
 
-1. **Request Enhanced Crime Team (ECT)** to respond
-2. **Request detective squad** to respond
-3. **Prepare an UNUSUAL OCCURRENCE REPORT** (PD370-152)
+1. **Call in additional units** if necessary (Community Affairs, SRG, Crime Prevention, Cmd personnel)
+2. **Request Detective Squad** to respond AND **ECT** to process scene for evidence
+3. Confer with Squad CO prior to preparing Unusual (49)
+4. **Notify Operations** and get "Possible Bias Incident" **Log #**
+5. **Prepare UNUSUAL OCCURRENCE REPORT** to Chief of Detectives, HC
+   - Chief of Detectives gets 1 direct AND 1 through channels
+   - Deputy Commissioner, Community Affairs
+   - Pct/PSA/TD C.O.
+6. **Follow-up:** Direct Crime Prevention Officer to personally contact complainant re: steps to prevent recurrence
 
-### Who Determines Bias Classification
+### Who Determines Bias Classification and Who Investigates
 
-> **Only the Commanding Officer of the Hate Crime Unit** determines whether an incident IS or IS NOT a bias incident, after conferral with the **Chief of Detectives**.
+> **Only the Commanding Officer of the Hate Crime Unit (HCU)** determines whether an incident IS or IS NOT a bias incident.
 
-No other rank or unit makes this final determination.
+- The **Detective Squad** is responsible for conducting the investigation, unless relieved by HCU
+- HCU determines if the occurrence is, or is not, biased
+- C.O. of HC may retain Detective Bureau personnel to conduct a comprehensive preliminary investigation and canvass of the area
 
-### Commanding Officer of the Command Concerned
+> **Exam Alert:** If the victim does not want the perpetrator arrested, the C.O. of HC may **order the arrest anyway**.
 
-- Must **VISIT** the scene or location
-- Must **PERSONALLY INTERVIEW** the victims
-- This is a mandatory, non-delegable responsibility
+### Patrol Supervisor Documentation
+
+- Direct Complaint Report be prepared
+- Include the Captain's determination of whether or not it is Possible Bias
+- Take photos using Department Smartphone if Crim Mis 3rd or 4th degree, or Agg Harassment 1st or 2nd degree
+- Enter Complaint Report Worksheet into OMNI, upload photos, electronically attach photos to 61
+
+### Penal Law Refresher for Bias Crimes
+
+| Charge | Elements |
+|--------|----------|
+| **Criminal Mischief 4th** | Intentional damage up to $250 (reckless damage of $250 is NOT a crime) |
+| **Criminal Mischief 3rd** | Intentional damage above $250 up to and including $1,500; above $1,500 is 2nd degree |
+| **Aggravated Harassment 2nd** | Kick, push, etc. for reasons of race, etc. (usually would be Agg Hass 3, a violation, but done for bias = Misdemeanor) |
+| **Aggravated Harassment 1st** | Damage a religious place more than $50; burn a cross in public view; draw a swastika or noose; prior Agg Hass 2 (Sub 3) with prior of 1st degree or Agg Hass 2 Sub 3 in last 10 years |
+
+### Commanding Officer of the Command Concerned (NOT Duty Captain)
+
+- Must **PERSONALLY VISIT** victims of possible bias incident
+- Within **10 days** of incident: prepare a comprehensive follow-up 49 including:
+  - Post-incident actions
+  - Current status of investigation
+  - Forward to Chief of Detectives, HC
+
+### Crime Prevention Officer
+
+- Prepare and send a 49 within **TEN (10) days** to C.O., Hate Crimes
+- If no Crime Prevention Officer in command, the **Special Operations Lieutenant** prepares the 49
+- 49 must indicate: action taken concerning incident AND if a security survey was conducted
 
 ### Reporting Timeline
 
 - Reports are due within **TEN (10) DAYS** of the incident
 
-> **Exam Alert:** Three key testable points: (1) Only the Hate Crime Unit CO determines bias classification, (2) the CO of the command concerned must personally interview victims, and (3) the 10-day reporting deadline.
+### Detective Squad Member (Possible Bias)
+
+- Conduct **immediate** investigation and confer with Hate Crimes personnel
+- Within 10 days: forward additional copies of 61 and OCR (if applicable) to **C.O., Hate Crimes (direct)**
+
+### Bias vs. Non-Bias Comparison Table
+
+| Role | NON-BIAS | POSSIBLE BIAS |
+|------|----------|---------------|
+| **C.O. sends 49 to** | Chief of Det, Hate Crime Unit | Chief of Det, Hate Crime Unit |
+| **Crime Prevention Officer sends 49 to** | Only if religious/sensitive location: C.O., Hate Crime Unit | C.O., Hate Crime Unit |
+| **Detective forwards 61/OCR to** | **C.O., Hate Crime Unit AND Chief of Detectives** (through channels) | **C.O., Hate Crime Unit** (direct) |
+| **C.O. notifies** | Squad + **call Hate Crimes (0800x2400) for Non-Bias Log #** | Squad to **RESPOND** + **call Operations for Bias Log #** |
+| **Detective conducts** | An **APPROPRIATE** investigation | An **IMMEDIATE** investigation |
+
+> **Prior Test (Captain's Exam):** When an offense committed against a religious institution is investigated as possible bias but the duty captain determines it is NOT bias motivated, all of the following are true EXCEPT: the precinct detective will forward a copy of the 61 and OCR to C.O., Hate Crimes. -- Correct answer is that this is FALSE because for non-bias, the detective forwards to C.O., Hate Crime Unit AND **Chief of Detectives, through channels** (not just C.O. HCU). The exam takes facts from "non-bias" and "confirmed bias" procedures and mixes them up. Know the addressees for each role's reports.
+
+> **Exam Alert:** Three key testable points: (1) Only the Hate Crime Unit CO determines bias classification, (2) the Precinct CO (NOT Duty Captain) must personally visit victims, and (3) the 10-day reporting deadline applies to the CO, Crime Prevention Officer, AND Detective.
 
 ---
 

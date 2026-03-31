@@ -6,11 +6,11 @@
 
 | Term | Definition | Source |
 |------|-----------|--------|
-| **Complaint** | A report of an alleged criminal offense or other matter requiring police attention | P.G. 207-01 |
-| **Pick-Up Arrest** | An arrest of a person wanted by another command or agency | P.G. 207-01 |
-| **Continuous Event** | A crime or series of related crimes spanning multiple locations or jurisdictions | P.G. 207-01 |
-| **Incident** | A single event or occurrence reported in a complaint | P.G. 207-01 |
-| **Offense** | A specific criminal charge; up to 10 may be recorded per incident | P.G. 207-01 |
+| **Complaint** | Allegation of an unlawful or improper act or omission, OR other condition requiring investigation to determine if an unlawful act or omission occurred | P.G. 207-01 |
+| **Pick-Up Arrest** | An arrest for an offense or juvenile delinquency NOT previously reported | P.G. 207-01 |
+| **Continuous Event** | Offense or multiple offenses committed against a complainant; an ongoing situation occurring in different precincts and/or boroughs | P.G. 207-01 |
+| **Incident** | Event where one or more criminal offenses were committed against one or more victims by one or more offenders | P.G. 207-01 |
+| **Offense** | A single criminal act within an incident; up to 10 may be recorded per incident | P.G. 207-01 |
 
 ## Case Status Definitions (P.G. 207-07)
 
@@ -56,6 +56,56 @@
 | **Investigating Supervisor** | The supervisor who investigates a civilian complaint: Platoon Commander, Special Ops Lt., ICO, or CO/Duty Captain | P.G. 207-28 |
 | **Supervisor Reviewing Civilian Complaint** | Must be at least one rank higher than the member receiving the complaint | P.G. 207-28 |
 
+## Complaint Recording Terms (P.G. 207-01)
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **7 Majors Rule** | Hierarchy for classifying top charge in multi-crime complaints: Murder, Rape 1, Robbery, Felonious Assault, Burglary, Grand Larceny, GLA | P.G. 207-01 |
+| **NIBRS** | National Incident Based Reporting System; governs how multiple offenses from a single event are recorded (up to 10, hierarchy-based) | P.G. 207-01 |
+| **Rosario Material** | Complaint Report Worksheets (scratch copies) kept on file as discoverable material; all associated forms attached to the printed OMNI 61 | P.G. 207-34 |
+| **Jurisdiction Code 00** | NYPD Patrol jurisdiction | P.G. 207-01 |
+| **Jurisdiction Code 01** | Transit jurisdiction | P.G. 207-01 |
+| **Jurisdiction Code 02** | Housing jurisdiction | P.G. 207-01 |
+
+## Bias Crime Terms (P.G. 207-10)
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **FADO** | Force Unnecessary, Abuse of Authority, Discourtesy, Offensive Language -- the four categories of CCRB complaints | P.G. 207-28 |
+| **Disability (Bias)** | Physical, medical, mental, or psychological impairment or history/record of such; includes bodily organ/system impairment and recovering addicts (if currently recovering AND not currently abusing) | P.G. 207-10 |
+| **Non-Bias Log #** | Obtained by calling Hate Crimes (0800x2400) when CO determines incident is NOT bias | P.G. 207-10 |
+| **Bias Log #** | Obtained by calling Operations when CO determines incident IS possible bias | P.G. 207-10 |
+
+## Corruption Reporting Terms (P.G. 207-21, 207-22)
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **MEO 16 of 1978** | Mayor's Executive Order 16 of 1978; PG 207-21 and 207-22 serve as NYPD's guidelines for reporting corruption per this order | P.G. 207-21/22 |
+| **Minor Misconduct (Non-NYPD)** | DWI and Domestic Violence by non-NYPD government agents; documented on 61 with copies to IAB (no 49 needed) | P.G. 207-22 |
+
+## Department Locker Terms (P.G. 207-19)
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **Theft from Department Locker** | Includes actual theft AND attempted break-ins; requires IAB notification and log # | P.G. 207-19 |
+
+## Missing Person Terms (P.G. 207-23)
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **Safe Return Program** | MedicAlert + Alzheimer's Association program; check for bracelet/necklace; obtain Safe Return ID # | P.G. 207-23 |
+| **Operation Safe Child** | Program for registered children; obtain info from Safe Child Card when available | P.G. 207-23 |
+| **DAS Messenger** | Domain Awareness System Messenger application; used by Patrol Supervisor to transmit missing person message with photo and details | P.G. 207-23 |
+
+## CCRB Terms (P.G. 207-27, 207-28)
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **CCRB #** | Number issued by CCRB Intake Unit for FADO complaints | P.G. 207-28 |
+| **COD #** | Chief of Department number; issued for misconduct complaints that are not FADO (e.g., unwarranted traffic summons) | P.G. 207-28 |
+| **CCRB Statistical Summary Sheet** | Prepared by receiving MOS; complainant does NOT receive a copy | P.G. 207-28 |
+| **Reviewing Supervisor** | Must be at least one rank above the RECEIVING member (not the investigating member) | P.G. 207-28 |
+
 ## Immigration-Related Terms (P.G. 207-37)
 
 | Term | Definition | Source |
@@ -93,4 +143,13 @@
 | **Missing Persons Squad** | Missing Persons Squad | Coordinates missing person investigations (complainants NOT referred directly) |
 | **ATF** | Bureau of Alcohol, Tobacco, Firearms and Explosives | Contraband weapons notification |
 | **DB Wheel** | Detective Bureau Wheel | Routing mechanism for detective notifications |
-| **ICO** | Integrity Control Officer | Third in hierarchy for investigating civilian complaints |
+| **ICO** | Integrity Control Officer | First in hierarchy for investigating civilian complaints (patrol commands) |
+| **SOL** | Special Operations Lieutenant | Second in hierarchy for investigating civilian complaints; prepares bias 49 if no Crime Prevention Officer |
+| **HCU** | Hate Crime Unit | Determines whether incident is or is not bias; under Detective Bureau |
+| **MPS** | Missing Persons Squad | Coordinates missing person investigations; if unavailable, contact Real Time Crime Center |
+| **DAS** | Domain Awareness System | Messenger application used by Patrol Supervisor to transmit missing person messages |
+| **ISS** | Investigative Support Section | Receives narcotics offense reports for controlled substances >2 oz found outside buildings |
+| **EEOD** | Equal Employment Opportunity Division | Investigates CCRB complaints containing remarks about race, gender, etc. |
+| **IRS** | Investigative Review Section | Receives COD# complaint originals from CO of member's command |
+| **CCRB** | Civilian Complaint Review Board | Investigates FADO complaints against uniformed members (NOT civilian members) |
+| **DOI** | Department of Investigations | City agency; Commissioner of Investigations referenced in MEO 16 of 1978 |

@@ -321,3 +321,131 @@ D. The hospital contacts the precinct of occurrence, which assigns a patrol unit
 
 **C.** Per P.G. 207-33, when a sex crime victim presents at a hospital (walk-in), the 911 dispatcher refers the complaint DIRECTLY to the Special Victims Unit. Patrol is NOT directed to respond. SVU handles hospital walk-in sex crime complaints from initial response.
 </details>
+
+---
+
+### Question 21
+**At 2130 hours, a male perpetrator on a moving A train displays a gun, robs a 13-year-old victim of a wallet, then at the next stop (83rd Precinct) forces the victim into a vehicle. The two perpetrators drive to a housing development in the 75th Precinct and rape the victim at gunpoint. They then drive to a desolate street in the 101st Precinct and shoot the victim in the head. Where should the complaint be recorded and what is the proper jurisdiction code?**
+
+A. 83rd Precinct, Transit Jurisdiction code 01
+B. 101st Precinct, Patrol Jurisdiction code 00
+C. 83rd Precinct, Patrol Jurisdiction 00
+D. 75th Precinct, Housing Jurisdiction code 02
+
+<details>
+<summary>Answer</summary>
+
+**D.** Per P.G. 207-01, this is a continuous event with a Rape 1st Degree exception. The WHERE to record rule says Rape 1 is recorded where the rape occurred (75th Precinct, on a housing development). Since it occurred on-development, the jurisdiction code is Housing (02). The attempted murder is classified as Felonious Assault (#4 on 7 Majors list) which is outranked by Rape (#2), but the WHERE and HOW rules are applied independently.
+</details>
+
+---
+
+### Question 22
+**In a continuous event involving a Kidnapping in the 83rd Precinct, a Rape 1 in the 75th Precinct, and an Attempted Murder in the 101st Precinct, what is the top charge for classification purposes on the complaint report?**
+
+A. Attempted Murder 2nd degree
+B. Kidnapping 1st degree
+C. Rape 1st Degree
+D. Robbery 1st degree
+
+<details>
+<summary>Answer</summary>
+
+**D.** Per PG 207-01 (7 Majors Rule): Kidnapping is NOT a 7 Major, so it is eliminated. Attempted Murder is classified as Felonious Assault (#4). Rape is #2 and Robbery is #3. Since the scenario also includes a Robbery from the original crime, and Robbery (#3) is below Rape (#2), the classification is Robbery 1st Degree. Remember: the HOW to classify rule is applied independently from the WHERE to record rule.
+</details>
+
+---
+
+### Question 23
+**Controlled substances weighing more than 2 ounces are found outside a building. How should this be documented?**
+
+A. Complaint Report at the precinct of occurrence with a Pct 61 number
+B. Complaint Report at the precinct of occurrence only if found under circumstances requiring investigation
+C. Reported as a narcotics offense to Investigative Support Section; ISS serial number entered on Complaint Worksheet (no Pct 61 number)
+D. No documentation required for found property outside a building
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 207-01/207-08, controlled substances over 2 ounces found outside a building are reported as a "narcotics offense" to the Investigative Support Section, Real Time Crime Center. No Pct 61 number is assigned; the ISS serial number is entered on the Complaint Worksheet instead.
+</details>
+
+---
+
+### Question 24
+**When an offense at a religious institution is investigated as a possible bias incident but the CO/Duty Captain determines it is NOT bias motivated, the precinct detective should forward copies of the 61 and OCR to:**
+
+A. C.O., Hate Crimes Unit only
+B. C.O., Hate Crimes Unit AND Chief of Detectives, through channels
+C. Chief of Detectives, Hate Crimes Unit, direct
+D. Operations Unit for a Non-Bias Log number
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 207-10, for a NON-BIAS determination, the detective forwards copies to C.O., Hate Crime Unit AND Chief of Detectives, through channels. For a POSSIBLE BIAS (confirmed), the detective forwards only to C.O., Hate Crime Unit (direct). The exam often mixes these addressees between bias and non-bias procedures.
+</details>
+
+---
+
+### Question 25
+**A Corrections Officer is alleged to have committed domestic violence against his wife. What is the proper documentation?**
+
+A. Prepare a Report on Typed Letterhead (49) to the Chief of IAB and notify IAB Command Center
+B. Record on a Complaint Report (61) with additional copies for IAB; no 49 or IAB notification needed
+C. Notify IAB Command Center and prepare both a 49 and a Complaint Report
+D. Refer the allegation to the Corrections Department's internal affairs unit
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 207-22, minor misconduct (defined as DWI and Domestic Violence) against a non-NYPD government agent is documented on a Complaint Report (61) with additional copies to IAB. No 49 or separate notification to IAB is required for minor misconduct.
+</details>
+
+---
+
+### Question 26
+**Regarding the CCRB investigating supervisor hierarchy for a patrol command, which of the following is NOT in the hierarchy?**
+
+A. Integrity Control Officer (ICO)
+B. Special Operations Lieutenant (SOL)
+C. Operations Coordinator
+D. Platoon Commander
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 207-28, the investigating supervisor hierarchy for patrol commands is: (1) ICO, (2) SOL, (3) Platoon Commander, and if all three lieutenants are unavailable, the CO or Duty Captain. The Operations Coordinator is notably absent from this list.
+</details>
+
+---
+
+### Question 27
+**A child 9 years old or younger is reported missing. Who performs the Patrol Supervisor's duties at the scene?**
+
+A. The Patrol Supervisor of the command of occurrence
+B. The detective assigned to the case
+C. The CO/XO/Duty Captain of Pct/PSA/TD of occurrence
+D. The Missing Persons Squad supervisor
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 207-23, when a missing person is a child 9 years old or younger, the CO/XO/Duty Captain of the Pct/PSA/TD of occurrence performs the Patrol Supervisor's duties. The Captain effectively takes over the Patrol Supervisor's role for these cases.
+</details>
+
+---
+
+### Question 28
+**The Desk Officer of the missing person's RESIDENCE command must finalize the Complaint Report within what time frame?**
+
+A. End of tour
+B. 24 hours
+C. 2 hours of receipt
+D. 4 hours of receipt
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 207-23, the Desk Officer of the Residence Command must immediately review the 61 and finalize it within 2 hours of receipt. This is distinct from the D.O. of the command of occurrence, who reviews and signs the reports but does not have the same 2-hour finalization requirement.
+</details>
