@@ -72,30 +72,68 @@ The Department is **REQUIRED** to accept the following forms of ID:
 
 | Factor | Detail |
 |---|---|
-| **Not properly identified** | Cannot verify identity |
+| **Not properly identified** | Cannot verify identity (ID not up to standards found in PG 208-27) |
 | **Open warrant** | Active warrant exists |
-| **Failure to appear** | Failed to appear in court in the last **2 YEARS** |
-| **Physical/mental condition** | Must **confer with Legal Bureau** before denying DAT on this basis |
+| **Failure to appear** | Failed to appear in **Criminal Court** in the last **2 YEARS** |
+| **Escape-related charges** | Escape 2nd, Absconding 1st, Absconding from Treatment Facility, Bail Jumping 2nd |
+| **Physical/mental condition** | Prisoner may face harm if released & court evaluation is in their best interest |
+| **Under influence of drugs/alcohol** | To the degree that prisoner may endanger self or others |
 
-> **Exam Alert:** Physical or mental condition alone does not automatically disqualify. The desk officer must CONFER WITH LEGAL BUREAU before using this as a basis to deny a DAT.
+> **Exam Alert:** Physical or mental condition alone does not automatically disqualify. The desk officer must CONFER WITH LEGAL BUREAU before using this as a basis to deny a DAT. Document the conferral in the Digital Activity Log AND the Command Log.
+
+> **Exam Alert:** The "failure to appear" factor specifically refers to Criminal Court within the last 2 years. It also includes an open warrant — both relate to the defendant's reliability to return.
 
 #### Category 2: SPECIFIC CHARGES
 
 | Charge Type | Examples |
 |---|---|
-| **Family offense** | Any family offense charge |
-| **Sex crime** | Article 130 offenses |
-| **Hate crime** | Any bias-motivated offense |
-| **Escape/absconding/bail jumping** | Escape from custody, failure to appear |
-| **Weapon on school grounds** | Criminal possession of a weapon on school property |
-| **License-suspendable crime** | VTL 1192 (DWI), Vehicular Assault, Leaving the Scene of an Accident |
-| **A-misdemeanor or felony with harm** | Involving harm to identifiable person/property AND defendant has **pending prosecution** or **unreturned DAT** |
+| **Family offense** | Against member of the same family/household |
+| **ANY sex crime** | Including all attempts or conspiracy to commit |
+| **Hate crime** | As defined in Penal Law Section 485.05 |
+| **Weapon on school grounds** | CPW on school property |
+| **License-suspendable crime** | Vehicular Assault 2nd, Leaving the Scene with any injury or prior leaving the scene, Misd or Felony VTL 1192 DWI |
+| **Criminal Possession of a Firearm** | Automatic disqualifier |
+| **Any "A" Misdemeanor or Felony involving harm to identifiable person/property** | QUALIFIED — only disqualifies if defendant has **pending prosecution for any offense** OR has **yet to return on a previous DAT** for either of the above 2 crimes |
+
+> **Exam Alert:** "Identifiable person" means the crime charged involves a specific victim. "Identifiable property" includes theft (Grand Larceny, Petit Larceny, GLA) and property damage (including public property). The crime only has to "involve" harm — it does NOT have to actually cause harm.
+
+> **Exam Alert:** The last two items (CPF and A-Mis/Felony with harm) are QUALIFIED disqualifiers. Before denying a DAT on the basis of a pending prosecution or unreturned DAT, the desk officer must ensure the defendant actually has a requisite pending prosecution or previously issued DAT by checking appropriate Department computer systems.
+
+> **Exam Alert:** VTL 1192-1 DWAI (impaired) is a VIOLATION, not a misdemeanor — it is DAT-eligible. Only misdemeanor or felony DWI charges under VTL 1192 trigger the license-suspension disqualifier.
+
+> **See Also:** PG 208-40 — If a prisoner is hospitalized more than 24 hours for DWI and did NOT cause SPI/DOA, the prisoner can receive a DAT for the DWI.
 
 #### Category 3: REASONABLE BELIEF ORDER OF PROTECTION NEEDED
 
-- **Strong possibility of violence** against the victim
-- Applies to a list of **27 specific offenses**
-- If an Order of Protection may be needed, DAT is not appropriate because the defendant must appear before a judge
+- Strong possibility of violence against complainant AND person should seek an OOP against defendant
+- **MAY** deny DAT for a number of offenses based on this belief (including Violation of an OOP)
+- **WILL** deny DAT for the specific crimes listed below
+
+> **Exam Alert:** These crimes do NOT, by themselves, preclude a DAT. They must be coupled with the belief of recurring violence/need for an OOP.
+
+##### Crimes Against Children, Family, Vulnerable People:
+- **Children:** Reckless Assault of Child by a Child Day Care Provider; Luring a Child; Substitution of Children; Custodial Interference 1st; Disseminate Indecent Material to Minor 2nd
+- **Family:** Aggravated Family Offense (do family offense with conviction of one in the last 5 years)
+- **Vulnerable Person:** Endangering the Welfare of an Incompetent Physically Disabled Person 1st; Endangering Vulnerable Elderly Person, or Incompetent or Physically Disabled Person 2nd
+
+##### Other Crimes:
+- Assault on a Retail Worker (PL 120.19) — **New Law in 2024** (E Felony)
+- Aggravated Harassment 1st (with specifically identified victim [not a group] OR on private property with owner complainant)
+- Criminal Interference with Health Care Services or Religious Worship 1st
+- Stalking 2nd, Menacing 2nd Sub 2 (intend fear of DOA/PI/SPI by repeatedly following, etc.)
+- Menacing 1st (do Menacing 2nd with conviction of such in last 10 years)
+- Coercion 2nd (threaten injury or prop damage, criminal accusation, commit a crime, etc.)
+- Criminal Contempt 1st (Violate OOP), Tampering with a Witness 3rd
+
+##### Public Servants:
+- Assault 3rd or Attempt; Menacing 2nd or 3rd; Harassment 1st, Aggravated Harassment; Aggravated Harassment of a Judge
+- Reckless Endangerment 2nd against City/State enforcement agent performing official duty
+- Criminal Impersonation 1st (impersonate a P.O. & attempt a felony or a Dr. & call in a "script")
+- Threaten, harass, menace: UMOS; City/State/Fed elected official; Employee of ANY (public or private) transit agency/authority/company operating under authorization from NYS or NYC while performing assigned duties
+
+##### By Landlords:
+- Harassment of Rent Regulated Tenant 1st & 2nd, Unlawful Eviction (Admin Code 26-521)
+- Unlawful Surveillance 2nd, Dissemination of an Unlawful Surveillance Image 1st
 
 > **Sergeant Focus:** The three categories are frequently tested. Remember: Category 1 = who the defendant IS, Category 2 = what the defendant DID, Category 3 = what the defendant MIGHT DO (future danger requiring court protection).
 

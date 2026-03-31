@@ -87,15 +87,95 @@ Covers specialized processing requirements for juvenile offenders, coordinating 
 
 ---
 
-## P.G. 208-34: Arrests — Organized Crime Offenses
+## P.G. 208-34: Bribery Arrest
 
-Covers arrest procedures for organized crime-related offenses, including coordination with specialized units and intelligence sharing protocols.
+> **Exam Alert:** PG 208-34 is "Bribery Arrest" and covers the arrest process for the CHARGE of Bribery. PG 208-35 is "Attempted Bribery" and covers the process of getting wired up (when a UMOS is offered a bribe). Attempted Bribery is NOT a charge — if a UMOS is offered a bribe, the perp is charged with Bribery. An actual exchange does NOT have to take place; the mere offer is sufficient.
+
+> **Prior Test:** A past exam offered "Charge with Attempted Bribery" as an answer choice — it was WRONG. There is no "attempted bribery" charge. The correct charge is Bribery (PL 200.00 et seq.).
+
+### Bribery Arrest Procedure (PG 208-34)
+
+**Arresting Officer:**
+- Effect the arrest and notify the D.O. or Supervisor
+
+**Desk Officer/Supervisor:**
+1. If legality of charges is in doubt or immediate legal assistance is required → Notify **Legal Bureau** (if Legal is closed → call **Operations** to arrange consult with Department attorney)
+2. Notify **IAB** — obtain IAB Log number; IAB instructs to call Boro Investigations for technical assistance
+3. Notify **Platoon Commander** (if unavailable → CO/Duty Captain)
+
+> **Exam Alert:** In a bribery arrest, the call to Legal Bureau comes BEFORE the call to IAB. However, the call to Legal is CONDITIONAL — it is only made if there is doubt about legality or immediate legal assistance is needed. It is not always made.
+
+**Platoon Commander (or CO/Duty Captain if PC unavailable):**
+- Investigate — interview Arresting Officer
+- Prepare Report on Typed Letterhead — **7 copies** of 49 to Chief of Department (ALL copies MUST include IAB Log #)
+  - Original goes DIRECT by Dept. Mail to C.O.D.
+  - Fax copy to IAB Command Center
+  - Retain remaining copies at desk pending result of initial arraignment
+- Notify CO/Duty Captain who reviews actions taken
+
+**Arresting Officer — Prior to Pre-Arraignment:**
+- Confer with immediate supervisor and/or ICO concerned
+
+**A/O AND Supervisory Officer or ICO:**
+- Consult with ADA to ensure Bribery-related charge is in Complaint (Court section assists)
+
+**Arresting Officer — After Affidavit Complete:**
+- Notify D.O./Supervisor of ADA's name and CHARGE
+- Court Appearances — maintain record of ALL court appearances including the **"4 Ds"**:
+  - **D**ate
+  - **D**ocket number
+  - **D**A's name
+  - **D**isposition
+
+> **Memory Aid — 4 Ds (Bribery Court Appearances):** Date, Docket#, DA's name, Disposition. Report info to C.O. after EACH court appearance. C.O. is responsible for follow-up and final reports.
+
+> **Exam Alert:** After a bribery arrest, the Arresting Officer reports court appearance info directly to the Commanding Officer — this BREAKS the chain of command (UMOS goes straight to C.O.).
+
+**ICO Member Effecting Arrest — After Arraignment:**
+- Obtain through BCS: 4 items (Judge, Court docket, NYSID #s, Disposition) and 3 dates (Arraignment date, Adjournment date, Grand Jury date if any)
+- Update Report on Typed Letterhead and forward remaining copies of 49 to:
+  - Chief of Department x 2 (1 Direct, 1 through channels)
+  - Chief of IAB
+  - C.O. of A/O
+  - One to File
+- Maintain a folder for all Bribery arrests
+
+### DA Refuses to Charge Bribery
+
+**Arresting Officer:**
+- Notify **C.O./Duty Captain** (Break the Chain of Command!)
+- If Bribery was only charge and DA refuses → obtain signed "Declined Prosecution"
+- Deliver D.P. to C.O.
+- Make complete Digital Activity Log entry
+- Secure release of prisoner
+- If perp already at courthouse → notify Court Section Supervisor
+- Notify IAB Command Center of results
+
+> **Exam Alert:** When the ADA refuses to draw up the bribery charge, the ARRESTING OFFICER (not the Desk Officer) makes the notifications. Compare this to a regular bribery arrest where the Desk Officer notifies Platoon Commander and IAB.
+
+| Scenario | Who Notifies IAB & Platoon Commander? |
+|---|---|
+| **Regular Bribery Arrest** | **Desk Officer** notifies Platoon Commander (if unavailable → CO/Duty Captain) and IAB |
+| **ADA Refuses to Draw Up Charge** | **Arresting Officer** notifies C.O./Duty Captain and IAB |
+
+**C.O. — Final Disposition:**
+- Prepare Report on Typed Letterhead (49) with History & Appearances
+- Forward to: PC (PC only receives the FINAL report, not the original), Chief of Dept, Chief IAB
+
+> **Exam Alert:** The Platoon Commander does NOT receive a copy of the original report. The PC only receives a copy of the Final Report upon disposition.
 
 ---
 
-## P.G. 208-35: Arrests — Prostitution-Related Offenses
+## P.G. 208-35: Attempted Bribery (Getting Wired Up)
 
-Covers procedures for prostitution and sex trafficking arrests, including victim identification protocols and specialized unit notifications.
+There are only **3 steps** in this procedure:
+
+**A/O:**
+1. **Notify** D.O./Supervisor ASAP (if not possible, call IAB direct)
+2. **Document** — enter facts in Digital Activity Log
+
+**Desk Officer/Supervisor:**
+3. **Notify** IAB and be guided by IAB re: action to be taken and technical assistance; also notify Boro Investigations and request assistance
 
 ---
 

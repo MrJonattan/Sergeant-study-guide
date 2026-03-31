@@ -69,6 +69,36 @@
 | **Foreign National** | Any person who is **NOT a United States citizen**, regardless of immigration status | P.G. 208-56 |
 | **Mandatory Notification Countries** | Countries requiring automatic consular notification upon arrest of their citizen, handled through the Intelligence Division Operations Unit (24 hrs) | P.G. 208-56 |
 
+## Bribery Terms
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **Bribery Arrest (PG 208-34)** | The arrest process for the CHARGE of Bribery; covers notification chain, reporting, and court appearances | P.G. 208-34 |
+| **Attempted Bribery (PG 208-35)** | The process of getting wired up when a UMOS is offered a bribe; Attempted Bribery is NOT a criminal charge — the perp is charged with Bribery | P.G. 208-35 |
+| **4 Ds (Bribery Court Appearances)** | Date, Docket#, DA's name, Disposition — the four items an arresting officer must record for all court appearances in a bribery case | P.G. 208-34 |
+
+## DV Investigation Terms
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **DRAMAS** | Mnemonic for personal family offenses: Dis Con / Reckless Endangerment / Aggravated Harassment 2nd, Harassment 1st or 2nd / Menacing 2nd or 3rd / Assault 2nd or 3rd (or Attempts) / Strangulation 1st or 2nd, Criminal Obstruction of Breathing, Stalking all degrees | P.G. 208-36 |
+| **C GIF CUSS** | Mnemonic for property/sexual family offenses: Criminal Mischief (all degrees) / Grand Larceny (3rd and 4th) / Identity Theft (1st, 2nd, 3rd) / Forcible Touching / Coercion 2nd (sub 1, 2, 3) / Unlawful Dissemination of Intimate Image / Sexual Misconduct / Sexual Abuse 3rd & Sexual Abuse 2nd sub 1 | P.G. 208-36 |
+| **Primary Physical Aggressor** | The person identified as the primary aggressor in a simultaneous misdemeanor vs. misdemeanor family offense; determined by comparative extent of injuries, defensive acts, current/future threats, and prior DV history | P.G. 208-36 |
+| **ICCU** | Inter City Correspondence Unit — receives forwarded paperwork for DV incidents occurring outside NYC but within NYS | P.G. 208-36 |
+| **Hope Card** | Wallet-size card or digital version for Final OOPs; UMOS scan QR code with Dept phone to verify (Ops Order 11 s.2025) | P.G. 208-36 |
+| **DVPO** | Domestic Violence Prevention Officer — opens/manages cases in DVIMS, assists in apprehension, conducts home visits, follows up with victims on photos | P.G. 208-37 |
+| **DVIMS** | Domestic Violence Incident Management System — used by DVPO for case management (NOT the same as ECMS) | P.G. 208-37 |
+| **ECMS** | Enterprise Case Management System — used by assigned detective to document DVPO arrest efforts | P.G. 208-37 |
+| **I-Card** | Investigation Card activated for named DV perpetrator; must be activated no later than end of assigned tour; should include NYSID # | P.G. 208-36 |
+| **Rosario Material** | DIRs are potential Rosario material; if an arrest is made, A/O must give copy of DIR to ADA | P.G. 208-36 |
+
+## Firearm Seizure in DV
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **Mandatory Seizure** | WILL seize firearms and license/permit if: OOP exists against holder, physical force or threat of involved in incident, or license holder is arrested (regardless of charge) | P.G. 208-36 |
+| **Discretionary Seizure** | MAY seize if UMOS reasonably believes presence of firearms creates imminent risk of physical injury or higher | P.G. 208-36 |
+
 ---
 
 ## Forms
@@ -97,6 +127,14 @@
 | **CUNY** | City University of New York | Notified for offenses at CUNY facilities |
 | **DOE** | Department of Education | School Safety Division notified for DOE-related offenses |
 | **VTL** | Vehicle and Traffic Law | VTL 1192 (DWI) is a DAT disqualifier |
+| **ICCU** | Inter City Correspondence Unit | Receives forwarded DV paperwork for incidents outside NYC but within NYS |
+| **DVPO** | Domestic Violence Prevention Officer | Opens/manages cases in DVIMS; assists in apprehension within pct/PSA confines |
+| **DVIMS** | Domestic Violence Incident Management System | DVPO case management system (NOT ECMS) |
+| **ECMS** | Enterprise Case Management System | Assigned detective documents DVPO arrest efforts here |
+| **IAB** | Internal Affairs Bureau | Notified for bribery arrests and MOS DV offenses; provides log number |
+| **BCS** | Borough Court Section | Where perps are transported; also where ICO obtains post-arraignment info |
+| **LLS** | Language Line Service | Certified interpreter service used to verify DV info from non-English speaking victims |
+| **FORMS** | Finest Online Records Management System | System for inputting DIRs, photos, and other records for NYC incidents |
 
 ---
 
@@ -111,3 +149,9 @@
 | **4 days** | If next tour > 4 days away, reassign DA conferral to another officer | P.G. 208-82 |
 | **$500** | Federal food stamp threshold for Operations Unit notification | P.G. 208-69 |
 | **27** | Number of specific offenses on the Order of Protection needed list (DAT disqualifier Category 3) | P.G. 208-81 |
+| **7** | Copies of 49 (Report on Typed Letterhead) to Chief of Department in a bribery arrest | P.G. 208-34 |
+| **3** | Steps in the Attempted Bribery (getting wired up) procedure (PG 208-35) | P.G. 208-35 |
+| **3** | Places the IAB Log # must appear when MOS commits DV offense (DIR Results box, 61 Details, FORMS Database) | P.G. 208-37 |
+| **5** | Copies of 49 (+1 if guns removed) for MOS DV offense report | P.G. 208-37 |
+| **10 years** | Lookback period for Menacing 1st (do Menacing 2nd with conviction in last 10 years) — DAT Category 3 disqualifier | P.G. 208-81 |
+| **5 years** | Lookback period for Aggravated Family Offense (family offense with prior conviction within 5 years) — DAT Category 3 disqualifier | P.G. 208-81 |

@@ -401,3 +401,115 @@ D. Only once, then proceed without NYSID
 
 **B.** Per P.G. 208-27, if no NYSID is returned during DAT processing, the officer should check back every 30 MINUTES maximum. The prisoner should not be held indefinitely waiting for NYSID results.
 </details>
+
+---
+
+### Question 26
+**An officer is conducting a frisk of a prisoner in a wheelchair. When frisking the prisoner's lower body (legs and under buttocks), which direction should the officer's palms face?**
+
+A. Palms facing down, sliding along each leg
+B. Palms facing up, sliding hands up each leg and under buttocks
+C. Palms facing inward toward the body
+D. It does not matter as long as the search is thorough
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 208-05, when frisking a mobility-disabled prisoner in a wheelchair, the officer frisks the lower body by sliding hands up each leg and under buttocks with palms UP. When searching the device (wheelchair) itself, palms face DOWN. The exam frequently reverses the UP/DOWN direction.
+</details>
+
+---
+
+### Question 27
+**A UMOS is offered a bribe by a suspect during a traffic stop. What charge should the suspect face?**
+
+A. Attempted Bribery
+B. Bribery — the mere offer is sufficient; no actual exchange is required
+C. Corruption of a Public Official
+D. No charge unless the officer accepts the bribe
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 208-34 and 208-35, "Attempted Bribery" is NOT a criminal charge. If a UMOS is offered a bribe, the perp is charged with Bribery. An actual exchange does not have to take place; the mere offer is sufficient. A past exam offered "Charge with Attempted Bribery" as an answer choice and it was wrong.
+</details>
+
+---
+
+### Question 28
+**In a bribery arrest, the ADA refuses to draw up the bribery charge. Who makes the notifications to the C.O./Duty Captain and IAB?**
+
+A. The Desk Officer, as in a regular bribery arrest
+B. The Arresting Officer — this is an exception to the normal notification chain
+C. The Platoon Commander
+D. The patrol supervisor on duty
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 208-34, when the ADA refuses to draw up the bribery charge, the Arresting Officer (not the Desk Officer) notifies the C.O./Duty Captain and IAB Command Center. This differs from a regular bribery arrest where the Desk Officer handles notifications. This breaks the chain of command.
+</details>
+
+---
+
+### Question 29
+**Which mnemonic lists the personal crimes that qualify as family offenses?**
+
+A. C GIF CUSS
+B. DRAMAS
+C. SAFETEA
+D. CRIMES
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 208-36, DRAMAS covers the personal family offenses: Dis Con, Reckless Endangerment, Aggravated Harassment 2nd/Harassment 1st or 2nd, Menacing 2nd or 3rd, Assault 2nd or 3rd (or Attempts), Strangulation 1st or 2nd/Criminal Obstruction of Breathing/Stalking all degrees. C GIF CUSS covers the property/sexual crimes.
+</details>
+
+---
+
+### Question 30
+**A domestic violence incident occurs outside NYC but within New York State. Which of the following is correct regarding documentation?**
+
+A. Prepare DIR and enter it into FORMS; prepare Complaint Report and enter into OMNIFORM
+B. Prepare DIR and Complaint Report Worksheets; do NOT input to FORMS or OMNIFORM; forward to ICCU
+C. No documentation required since the incident is outside NYPD jurisdiction
+D. Prepare DIR in FORMS but use the Complaint Report Worksheet instead of OMNIFORM
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 208-36 and 208-70, for DV incidents occurring outside NYC but within NYS, prepare a Complaint Report Worksheet (do NOT input to OMNIFORM), prepare DIR (do NOT input to FORMS), and take photos (do NOT upload to FORMS). Forward all paperwork to ICCU (Inter City Correspondence Unit) by scanning/emailing and sending hard copies via Dept mail.
+</details>
+
+---
+
+### Question 31
+**When an MOS commits a domestic violence offense, in how many places must the IAB Log number be documented?**
+
+A. One — the DIR only
+B. Two — the DIR and the Complaint Report
+C. Three — the DIR "Results" box, "Details" of the 61, and FORMS Database
+D. Four — the DIR, Complaint Report, Digital Activity Log, and FORMS
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 208-37, when an MOS commits a DV offense, the IAB Log number must appear in THREE places: (1) DIR in the box "Results of Investigation and Basis of Action Taken," (2) Complaint Report "Details" section, and (3) FORMS Database.
+</details>
+
+---
+
+### Question 32
+**A Criminal Court Order of Protection is violated. The violation occurred in NYC. What charge is appropriate and where is the arrest processed?**
+
+A. Family Offense — processed in Family Court with concurrent jurisdiction
+B. Criminal Contempt or Aggravated Criminal Contempt — processed in NYC Criminal Court; NOT a Family Offense and NO concurrent jurisdiction
+C. Violation of Court Order — processed in the court that issued the OOP
+D. Criminal Contempt — processed in Family Court since the OOP was issued there
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 208-36, Criminal Contempt for violating a Supreme Court, Family Court, or Criminal Court OOP is charged as Criminal Contempt or Aggravated Criminal Contempt. This is NOT a Family Offense, there is NO concurrent jurisdiction, and if the violation occurred in NYC, the arrest goes to Criminal Court.
+</details>
