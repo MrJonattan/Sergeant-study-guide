@@ -18,14 +18,17 @@ Covers P.G. 209-09, 209-10, 209-11, 209-15, 209-16, 209-17, 209-18, 209-19
 
 ### Vehicle Report Requirement
 
-- Complete a **VEHICLE REPORT** in FORMS for **every** vehicle, bicycle, e-scooter, or e-bike stop
-- This applies regardless of whether a summons is actually issued
+- Complete a **VEHICLE REPORT** in FORMS for **every** vehicle stop (car, e-bike, e-scooter, motor scooter, bicycle, etc.)
+- This applies **whether enforcement action is taken or not**
+
+> **Exam Alert:** The Vehicle Report requirement applies to ALL vehicle/bicycle/e-scooter/e-bike stops — not just those resulting in a summons. "RTR" notation is required when the violator exercises their right to record.
 
 ### Recording by Violator
 
 - If the violator **records police activities** during the stop, note **"RTR"** (Right to Record) on the summons
+- **Circle** at the end of the details section
 
-> **Exam Alert:** The Vehicle Report requirement applies to ALL vehicle/bicycle/e-scooter/e-bike stops — not just those resulting in a summons. "RTR" notation is required when the violator exercises their right to record.
+> **Exam Alert:** "RTR" stands for "Right to Record" — it must be entered on the summons AND circled at the end of the details section. This applies to both traffic stops (209-09) and OATH encounters (209-03, 209-12). Per I.O. 2s.21, if the violator has recorded police activity, enter "RTR."
 
 > **Sergeant Focus:** Supervisors must verify that Vehicle Reports are completed for every stop. Missing reports indicate either unreported stops or incomplete documentation — both require corrective action.
 

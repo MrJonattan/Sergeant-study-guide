@@ -20,12 +20,40 @@ Covers P.G. 209-21, 209-22, 209-23, 209-24, 209-26, 209-28, 209-30, 209-31, 209-
 - If no tablet available, use **department smartphone**
 - Do **NOT unnecessarily detain** a person solely for the purpose of conducting a license check if no other cause for detention exists
 
+> **Exam Alert:** PG 209-24 is a **driver's license check** — this is NOT a warrant check (that is the next procedure). Do not confuse the two on the exam.
+
 ### DMV System Inoperative
 
-- If the DMV computer system is **inoperative**, make an **Activity Log entry** with the motor vehicle operator's information
+- If the DMV computer system is **inoperative** and circumstances do not warrant detention, and the operator possesses valid license, registration, and insurance:
+  - Make a **Digital Activity Log entry** with: name, address, phone, DOB, and License #
 - Do NOT delay the stop indefinitely waiting for the system
 
 > **Exam Alert:** License checks are mandatory at traffic collisions, car stops, and investigatory situations — but officers may NOT unnecessarily detain a person solely for a license check when no other cause exists.
+
+### Search DMV Records
+
+| Method | Details |
+|--------|---------|
+| **"Pedigree" tab** | Search using last name, first name, DOB, and gender |
+| **"License" tab** | Secondary check of operator's **Client ID** |
+
+- Examine DMV files with the **same name and address** but **different dates of birth**
+- Examine other documents for other names, addresses, or DOBs
+- Be alert for **out-of-state licenses** which may have been issued with lax ID standards
+- **VOUCHER** any items suggesting additional driving records/identifications
+- Review suspect's criminal history in Dept databases — do "Name Search" on **DAS, NYPSIN, and Accurint**
+
+### Consolidation of Client ID Request
+
+- Fill out **Consolidation of Client ID Request** if applicable
+- Attach pertinent supporting data
+- Give to **D.O.** for review before distributing as per instructions on form
+
+> **Exam Alert:** The Consolidation of Client ID Request form is given to the **D.O.** for review before distribution — this follows the general rule. However, in most other contexts, the D.O. distributes the form. The exam may test who distributes it: here in 209-24, it is the **UMOS** who fills it out and gives it to the D.O., not the D.O. who distributes it.
+
+### False Personation
+
+- If an operator **intentionally lies** regarding ID to deceive a police officer, they can be charged with **False Personation** — a **Class B Misdemeanor** (PL 190.23)
 
 > **Sergeant Focus:** Supervisors should monitor that officers conduct mandatory license checks at every qualifying stop. The Activity Log entry when DMV is inoperative creates the audit trail.
 

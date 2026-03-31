@@ -244,4 +244,118 @@ D. Issue a Criminal Court summons instead, since OATH requires valid ID
 
 ---
 
-**Score: _____ / 15**
+---
+
+### Question 16
+**A UMOS writes a "C" summons instead of an OATH for an open container violation and selects Code 1 (OATH Recidivist). Must a patrol supervisor respond to the scene?**
+
+A. Yes, a supervisor must respond any time a "C" is issued instead of an OATH
+B. Yes, the desk officer must verify all "C" summons codes
+C. No, a patrol supervisor must respond to the scene ONLY for Code 3 (law enforcement exception)
+D. No, but the commanding officer must be notified within 24 hours
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 209-03, a patrol supervisor must respond to the scene and verify the exception ONLY when Code 3 (law enforcement exception) is used. Codes 1, 2, and 4 do not require a supervisory response. This is a frequently tested distinction.
+</details>
+
+---
+
+### Question 17
+**When a UMOS finishes a summons pack, the served summonses should be given to:**
+
+A. The Desk Officer for review and filing
+B. The Operations Coordinator for data entry
+C. Clerical staff, with the appropriate copy of served summonses
+D. The Integrity Control Officer for accountability review
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 209-36, when the summons pack is finished, the UMOS signs the Certification Card and gives the summonses to **clerical staff** (not the D.O.), along with the appropriate copy of served summonses.
+</details>
+
+---
+
+### Question 18
+**TABs and OATHs come in packs of how many summonses? And A, B, and C summonses?**
+
+A. TABs/OATHs = 20; A/B/C = 25
+B. TABs/OATHs = 25; A/B/C = 20
+C. TABs/OATHs = 25; A/B/C = 25
+D. TABs/OATHs = 50; A/B/C = 100
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 209-36, TABs and OATHs come in packs of **25**, while A (Parking), B (Moving), and C (Criminal Court) summonses come in packs of **20**.
+</details>
+
+---
+
+### Question 19
+**The ICO Ageing Report monitors summonses that have been distributed but not served for how many days?**
+
+A. 30 days
+B. 60 days
+C. 90 days
+D. 120 days
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 209-36, the ICO Ageing Report monitors summonses distributed but not served for **90 days**. If any UMOS appears on the ICO Ageing Report, the ICO must conduct an **IMMEDIATE investigation**. The exam commonly tests 30 days as a distractor.
+</details>
+
+---
+
+### Question 20
+**An OATH summons is written for a non-CJRA violation based on a witness statement. The witness refuses to sign the Statement of Witness section. What should the officer write in the witness signature caption?**
+
+A. "Unable to obtain"
+B. "N/A"
+C. "REFUSED"
+D. Leave the caption blank
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 209-12, if the witness refuses to ID themselves and/or sign the Statement of Witness, the officer writes **"REFUSED"** in the witness signature caption. Note: CJRA violations (209-03) must be personally observed and cannot be based on witness statements — only non-CJRA OATH summonses (209-12) can use "informed by."
+</details>
+
+---
+
+### Question 21
+**Missing summonses are discovered when an officer is being transferred from the Department. Who must the Desk Officer notify?**
+
+A. IAB only
+B. IAB and the Commanding Officer
+C. IAB and the ICO immediately; if ICO unavailable, the CO or XO
+D. IAB and the Duty Captain
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 209-36, when an officer is transferred or separated from the Department and summonses are missing, the D.O. must call **IAB AND** notify the **ICO immediately**. If the ICO is unavailable, notify the **CO or XO** — NOT the Duty Captain.
+</details>
+
+---
+
+### Question 22
+**During a mandatory driver's license check under PG 209-24, the operator intentionally provides a false identity. What charge applies?**
+
+A. Criminal Impersonation — Class A Misdemeanor
+B. False Personation — Class B Misdemeanor
+C. Obstructing Governmental Administration — Class A Misdemeanor
+D. Identity Theft — Class E Felony
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 209-24, when an operator intentionally lies regarding their identification to deceive a police officer, they can be charged with **False Personation (PL 190.23)**, which is a **Class B Misdemeanor**.
+</details>
+
+---
+
+**Score: _____ / 22**
