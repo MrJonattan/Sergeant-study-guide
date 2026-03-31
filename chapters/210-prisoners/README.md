@@ -26,9 +26,9 @@
 
 | File | Topics Covered |
 |------|---------------|
-| [section-210-general-procedure.md](section-210-general-procedure.md) | General prisoner procedures, desk officer duties, transport rules, high risk factors, leg restraints, pregnant prisoners, attorney/visitor access, security survey, other agency hospitalized prisoners (210-01, 210-02, 210-03) |
-| [section-210-medical-meals.md](section-210-medical-meals.md) | Medical/psychiatric treatment, bedside arraignment, MLD fingerprinting, prisoner meals, meal cost and schedule, expense reporting (210-04, 210-05, 210-06) |
-| [section-210-holding-pens.md](section-210-holding-pens.md) | Unusual occurrences, holding pen guidelines, 30-minute inspections, 3-hour max detention, separation rules, suicide prevention item removal, menstrual hygiene (210-07, 210-08) |
+| [section-210-general-procedure.md](section-210-general-procedure.md) | General prisoner procedures, desk officer duties, transport rules, high risk factors, leg restraints, pregnant prisoners (incl. medical facility rules), attorney/visitor access, security survey, hospitalized prisoners (two desk officer split, search/property, interviewers vs visitors comparison, UF-50, authorized family, restraint types, guarding rules), other agency hospitalized prisoners (210-01, 210-02, 210-03) |
+| [section-210-medical-meals.md](section-210-medical-meals.md) | Medical/psychiatric treatment (MTP form, ACR/PCR/PIN numbers, hospital selection, narcotics ingestion triple notification, psych admission to Bellevue/Elmhurst, escorting officer duties, DOC custody, prescription medication handling, medicine to go), bedside arraignment, MLD fingerprinting, prisoner meals, meal cost and schedule, expense reporting (210-04, 210-05, 210-06) |
+| [section-210-holding-pens.md](section-210-holding-pens.md) | Unusual occurrences (definition, typed letterhead copies, IAB notification), holding pen guidelines, 30-minute inspections, 3-hour max detention, separation rules, suicide prevention item removal, menstrual hygiene (210-07, 210-08) |
 | [section-210-release.md](section-210-release.md) | Release of prisoners, voided arrest vs. decline prosecution, supervisor conferral, warrant checks, record sealing, other agency release conflicts, ADA-directed release (210-13, 210-15, 210-16, 210-17) |
 | [key-terms.md](key-terms.md) | All key terms, forms, critical numbers, and abbreviations from Section 210 |
 | [review-questions.md](review-questions.md) | 15 multiple-choice practice questions with hidden answers |

@@ -244,4 +244,118 @@ D. The BCS intake supervisor
 
 ---
 
-**Score: _____ / 15**
+---
+
+### Question 16
+**A hospitalized prisoner's doctor requests that the guarding officer remove the prisoner's handcuffs. What is the correct procedure?**
+
+A. Remove the cuffs immediately as directed by the doctor
+B. Explain the circumstances of the arrest; if the doctor insists, request the Patrol Supervisor to respond — do NOT remove without the PS present and authorizing
+C. Refuse the request and document it in the Activity Log
+D. Contact the desk officer for permission to remove the cuffs
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 210-04, if a doctor requests cuffs be removed, the guarding officer explains the circumstances of arrest. If the doctor still wants them off, the officer requests the **Patrol Supervisor** to respond. Cuffs are NOT removed without the PS on scene and authorizing. Note: this is different from a doctor asking the officer to **leave the room**, which does NOT require the PS.
+</details>
+
+---
+
+### Question 17
+**A prisoner ingests narcotics during arrest. How many times must the Patrol Supervisor and Communications Section be notified?**
+
+A. Once — when the ingestion is observed
+B. Twice — when observed and when arriving at the hospital
+C. Three times — when observed, when transport initiated, and when arrived at hospital
+D. Four times — when observed, when transport initiated, when arrived, and when treated
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 210-04, the Patrol Supervisor AND Communications Section are notified **three times**: (1) upon observing or suspecting ingestion, (2) when transport to hospital is initiated, and (3) when 84 (arrived) at hospital. The prisoner goes DIRECTLY to the nearest hospital — never to the stationhouse first.
+</details>
+
+---
+
+### Question 18
+**In P.G. 210-02, a prisoner's lawyer requests to interview the prisoner at the hospital. Under the Patrol Guide, the lawyer is classified as:**
+
+A. An Interviewer — same as at the precinct under 210-01
+B. A Visitor — "if requested" by the prisoner
+C. Not permitted to visit hospitalized prisoners
+D. An Interviewer only if approved by the Commanding Officer
+
+<details>
+<summary>Answer</summary>
+
+**B.** Under P.G. 210-02, a lawyer drops from the "Interviewer" list (where they appear in 210-01 at the precinct) to the **"Visitor"** list at the hospital. The lawyer may visit "if requested" by the prisoner. This is one of the key differences between the 210-01 and 210-02 interviewer/visitor lists.
+</details>
+
+---
+
+### Question 19
+**A prisoner requires psychiatric admission. Generally, male prisoners are transported to which facility, and by what means?**
+
+A. Elmhurst General by FDNY EMS
+B. Bellevue by FDNY EMS
+C. Bellevue by private ambulance contract
+D. Kings County Hospital by RMP
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 210-04, male prisoners requiring psychiatric admission are generally transported to **Bellevue** (women to Elmhurst General). Transport is by hospital via **private contract** — NOT FDNY EMS. The escorting officer rides in the private ambulance with the prisoner.
+</details>
+
+---
+
+### Question 20
+**How many copies of the typed letterhead (49) report does the Commanding Officer forward to the Chief of Department for an unusual occurrence involving an adult prisoner?**
+
+A. 1 copy
+B. 2 copies
+C. 3 copies
+D. 4 copies
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 210-07, the number of copies sent to the Chief of Department varies: **3 for an adult prisoner**, 2 for a child in custody who is DOA, and 1 for a child in custody (not DOA). One additional copy goes to each: Chief of Patrol, Chief of IAB, Chief of Training, C.O. CJB, C.O. Performance Monitoring Unit, each intermediate command, and C.O. of UMOS if different.
+</details>
+
+---
+
+### Question 21
+**A family member brings prescription medication to the precinct for a prisoner who has already been transferred to another facility. What documentation is required?**
+
+A. Single Command Log entry at the receiving facility
+B. Dual Command Log entries — both the notifying supervisor and the receiving D.O. make entries
+C. Telephone Record only
+D. Activity Log entry by the desk officer
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 210-04, when a prisoner is not at the facility where family brought medication, the supervisor contacts the D.O. at the facility where the prisoner is located. **Both** the notifying supervisor AND the receiving D.O. make Command Log entries, including time of notification, prisoner's name, and name of supervisor receiving/making notification.
+</details>
+
+---
+
+### Question 22
+**Who decides whether to remove handcuffs entirely from a hospitalized prisoner when restraint is deemed "impractical or inexpedient" (e.g., prisoner is comatose)?**
+
+A. The Patrol Supervisor
+B. The Commanding Officer
+C. The attending physician
+D. The Desk Officer, Precinct of Hospitalization
+
+<details>
+<summary>Answer</summary>
+
+**D.** Per P.G. 210-02, the **Desk Officer, Precinct of Hospitalization** decides whether cuffs are removed when deemed "impractical or inexpedient." The Patrol Supervisor confers with the doctor and makes a recommendation, but the D.O. makes the final decision. Do not confuse with pregnant prisoner restraint (where the immediate supervisor decides).
+</details>
+
+---
+
+**Score: _____ / 22**

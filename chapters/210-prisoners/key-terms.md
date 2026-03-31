@@ -35,6 +35,19 @@
 | **Urgent Police Action** | Response to an emergency, active pursuit, or moving surveillance | P.G. 209-30 |
 | **Necessary Police Action** | Less than urgent; enhances safety of an operation; NOT solely for the member's convenience | P.G. 209-30 |
 
+## Hospitalized Prisoner Terms
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **ACR (Ambulance Call Report)** | Report number obtained from ambulance attendant when prisoner is transported by EMS; recorded in Section I of MTP | P.G. 210-04 |
+| **PCR (Patient Care Report)** | Report number obtained from ambulance attendant when prisoner is transported by RMP or other means (not EMS); recorded in Section I of MTP | P.G. 210-04 |
+| **PIN (Patient Identification Number)** | Number obtained from hospital intake people when prisoner is transferred to Bellevue/Elmhurst for psychiatric admission; NOT the same as ACR or PCR | P.G. 210-04 |
+| **UF-50** | A memo with the Official Seal of NYC preprinted in the upper left corner; used for communications outside the Department; issued to authorize family visits to hospitalized prisoners | P.G. 210-02 |
+| **Plastic Flex Cuffs** | Additional data restraint used when a hospitalized prisoner admitted to ICU is assessed as having escape potential | P.G. 210-02 |
+| **Long Chain Cuffs** | Restraint used when prisoner is comatose, paralyzed, or in last stage of pregnancy | P.G. 210-02 |
+| **Prisoner Unusual** | An unarraigned adult prisoner or juvenile under 18 in NYPD custody or Corrections who: assaults MOS, is sexually assaulted/harassed (or alleges such), escapes/attempts, or other unusual occurrence | P.G. 210-07 |
+| **Typed Letterhead (49)** | Report prepared by the C.O./Duty Captain for prisoner unusual occurrences; forwarded to Chief of Department (3 copies adult, 2 copies child DOA, 1 copy child in custody) | P.G. 210-07 |
+
 ## Other Agency Terms
 
 | Term | Definition | Source |
@@ -53,6 +66,7 @@
 | Transport Dispatch | **PD171-132** | Records prisoner transport details including destination and escort | P.G. 210-01 |
 | Meal Voucher | **PD144-051** | Documents prisoner meal purchases; max $1.80 per meal | P.G. 210-06 |
 | Arrest Report Supplement | **PD244-157** | Records attorney visit details: name, address, phone, who retained, interview status, arrival/departure times | P.G. 210-01 |
+| Medical Treatment of Prisoner (MTP) | **PD244-150** | Documents medical treatment; use "Reserve" function in FORMS app; copy accompanies prisoner until no longer in NYPD custody | P.G. 210-04 |
 | Decline Prosecution Letter | — | Issued by ADA when DA declines to prosecute; required before prisoner release | P.G. 210-16 |
 | OLBS Arrest Worksheet | — | Must include reason for void, property returned, witnesses, authorizing supervisor, and time of release for voided arrests | P.G. 210-13 |
 | Expense Report | — | Submitted by the 15th of each month for prisoner meal expenditures | P.G. 210-06 |
@@ -71,6 +85,15 @@
 | **MOS** | Member of Service | NYPD personnel |
 | **OLBS** | On-Line Booking System | Used to process arrest worksheets including voided arrests |
 | **TBTA** | Triborough Bridge and Tunnel Authority | Listed as other police agency |
+| **ACR** | Ambulance Call Report | Number for EMS transport; recorded on MTP Section I |
+| **PCR** | Patient Care Report | Number for RMP/other transport; recorded on MTP Section I |
+| **PIN** | Patient Identification Number | Number from hospital intake for psych transfer; NOT same as ACR/PCR |
+| **MTP** | Medical Treatment of Prisoner | Form documenting medical treatment; "Reserve" function in FORMS app |
+| **HHC** | NYC Health and Hospitals Corporation | Fiscal Affairs/General Accounting handles billing for non-HHC hospitals |
+| **NP** | Nurse Practitioner | At BCS; administers medication given by doctor for prisoner to take |
+| **ESU** | Emergency Service Unit | Supervisors may consider ESU for extraordinary hospital transport circumstances |
+| **IAB** | Internal Affairs Bureau | Notified via IAB Command Center for prisoner escape/attempt |
+| **CJB** | Criminal Justice Bureau | C.O. receives copy of unusual occurrence report |
 
 ---
 
@@ -96,3 +119,10 @@
 | **6** | Items removed from prisoners in holding pens (belts, neckties, shoelaces, drawstrings, jackets, overcoats) | P.G. 210-08 |
 | **5** | Required elements on OLBS Arrest Worksheet for voided arrests | P.G. 210-13 |
 | **10** | Number of agencies classified as "other police agencies" | P.G. 210-03 |
+| **4 hours** | Deadline for EO to respond to DOC prison ward to take custody of released prisoner | P.G. 210-04 |
+| **3** | Copies of typed letterhead (49) to Chief of Dept for adult prisoner unusual occurrence | P.G. 210-07 |
+| **2** | Copies of typed letterhead (49) to Chief of Dept for child in custody DOA | P.G. 210-07 |
+| **1** | Copy of typed letterhead (49) to Chief of Dept for child in custody (not DOA) | P.G. 210-07 |
+| **1 tour** | Maximum time Pct of Hospitalization may guard a Housing/Transit prisoner if A/O has other arrests | P.G. 210-02 |
+| **Wednesday** | Day of weekly telephone message to BCS when guard removed from hospitalized prisoner | P.G. 210-02 |
+| **3 notifications** | Times PS and Communications Section notified when prisoner ingests narcotics/dangerous substance | P.G. 210-04 |

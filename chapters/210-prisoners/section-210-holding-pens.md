@@ -6,18 +6,46 @@ Covers P.G. 210-07, 210-08
 
 ## P.G. 210-07: Unusual Occurrences Involving Prisoners
 
-### Reporting Requirements
+### Prisoner Unusual — Defined
 
-Any unusual occurrence involving a prisoner must be immediately reported to the desk officer and patrol supervisor. Unusual occurrences include:
+An unusual occurrence is any of the following involving an **unarraigned adult prisoner** OR a **juvenile under 18** in NYPD custody or Corrections:
 
 | Occurrence | Action |
 |-----------|--------|
-| Prisoner injury | Notify desk officer and patrol supervisor; arrange medical treatment |
-| Prisoner illness | Notify desk officer and patrol supervisor; arrange medical treatment |
-| Prisoner attempted suicide | Notify desk officer and patrol supervisor; arrange immediate medical treatment |
-| Prisoner escape | Notify desk officer and patrol supervisor; initiate pursuit and notifications |
-| Prisoner death | Notify desk officer and patrol supervisor; secure scene; notify commanding officer |
-| Prisoner altercation | Notify desk officer and patrol supervisor; separate prisoners; document |
+| Assaults MOS | Notify desk officer and patrol supervisor |
+| Prisoner sexually assaulted/harassed (or alleges such) | Notify desk officer and patrol supervisor |
+| Escapes or attempts escape | Notify desk officer and patrol supervisor; if escape/attempt, notify **IAB Command Center** |
+| Other unusual (catchall) | Notify desk officer and patrol supervisor |
+
+> **Exam Alert:** The definition covers **any prisoner, any age** — both unarraigned adults and juveniles under 18 in custody or Corrections. The four categories are: assaults MOS, sexual assault/harassment (or allegation), escape/attempt, and other unusual.
+
+### Desk Officer — Notifications
+
+| Notify | Details |
+|--------|---------|
+| C.O./Duty Captain **AND** Operations Unit | Provide prisoner's name, sex, and charge |
+| If escape or attempt | Also notify **IAB Command Center** |
+
+### Commanding Officer/Duty Captain — Investigation and Report
+
+| Duty | Details |
+|------|---------|
+| Conduct investigation | — |
+| Prepare report | **Typed letterhead (form 49)** |
+| Forward to Chief of Department | Number of copies varies (see below) |
+| One additional copy to each | Chief of Patrol, Chief of IAB, Chief of Training, C.O. Criminal Justice Bureau (CJB), C.O. Performance Monitoring Unit, each intermediate command, C.O. of UMOS if different |
+
+### Copies to Chief of Department
+
+| Situation | Number of Copies |
+|-----------|-----------------|
+| **Adult prisoner** | **3** copies |
+| **Child in custody is DOA** | **2** copies |
+| **Child in custody** (not DOA) | **1** copy |
+
+> **Exam Alert:** The number of copies of the typed letterhead (49) report forwarded to the Chief of Department depends on the prisoner: **3 for adult, 2 for child DOA, 1 for child in custody**. This is a frequently tested numerical detail.
+
+> **See Also:** PG 221-03 — Suicide/injury of prisoner. PG 221-05 — DOA SILD.
 
 > **Sergeant Focus:** The patrol supervisor must respond to ALL unusual occurrences involving prisoners. Document the incident thoroughly in the Command Log, prepare required reports, and notify the commanding officer for serious incidents (death, escape, serious injury).
 
@@ -108,6 +136,17 @@ The following items must be removed from prisoners upon placement in a holding p
 6. **Supervisor documentation** — Record condition (sleeping, alert) AND position (sitting, lying down)
 7. **Menstrual hygiene** — Products on request; female MOS escort to restroom
 8. **PD244-1410** — Prisoner Holding Pen Roster must be maintained
+9. **Unusual occurrence definition** — Unarraigned adult or juvenile under 18: assaults MOS, sexual assault/harassment, escape/attempt, other unusual
+10. **Typed letterhead (49) copies** — 3 for adult prisoner, 2 for child DOA, 1 for child in custody
+11. **Escape/attempt** — Notify IAB Command Center in addition to standard notifications
+12. **Prisoner DOA or seriously injured by police action** — UMOS: request PS response, safeguard scene, obtain medical attention; PS comply with PG 221-05
+
+### Prisoner DOA or Seriously Injured by Police Action / Police Firearms Discharge
+
+| Role | Duty |
+|------|------|
+| UMOS | Immediately request response of Patrol Supervisor; safeguard crime scene; obtain medical attention |
+| Patrol Supervisor | Respond and comply with **PG 221-05** |
 
 ## Sergeant Study Notes
 
