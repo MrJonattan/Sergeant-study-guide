@@ -107,6 +107,8 @@ This section is among the most exam-critical in the entire Patrol Guide. It cove
 - Arresting officers process **no more than 5 prisoners** each
 - Arrest supervisors assigned **no more than 4 arresting officers**
 
+> **Exam Alert:** The norm is 4 A/O's per Sergeant, 5 collars per cop = 1 Sergeant for 20 perps. When expecting MORE than 20 arrests, the Large Scale Arrest Processing procedure (PG 213-06) kicks in.
+
 #### Processing Time Limit
 - First Amendment Activity arrest processing: **7 hours 30 minutes** maximum for violations/misdemeanors
 
@@ -130,6 +132,36 @@ The MAPC must provide:
 #### Documentation
 - **Command log** maintained at MAPC
 - Arresting officer stays with prisoner group through processing
+
+#### Incident Commander Duties (Large Scale — PG 213-06)
+- Arrest teams: Have arrests made in groups of no more than 20 perps with their arresting/assigned officers (4 cops & 1 Sergeant)
+- **ONE Patrol Wagon** to designated Precinct stationhouse
+- Ensure arresting/assigned officers know how to **articulate** the arrests (do not want Declined Prosecutions)
+- Notify the Desk Officer of how many collars to expect
+
+#### Arrest Supervisor Duties (Large Scale — PG 213-06)
+- **Photograph** — Before placing in wagon, have each perp photographed with arresting/assigned officers
+- **Document** — Ensure MASS ARREST PEDIGREE LABEL affixed to back of photo with captions filled
+- **Property** — If perp has property, ensure MASS ARREST PEDIGREE LABELS get put on each receptacle
+- **Warrant Checks** — Ensure that city, state, and federal warrant checks are performed
+- **10-84 at SH with prisoners** — Inform Incident Commander/Command Post when 10-84 at stationhouse
+  - To verify if prisoners will be D.A.T.'d, summonsed, or processed as online arrest
+- **LiveScan** — Assign "other than A.P.O." to do LiveScan
+- **Review & Sign** — ALL arrest paperwork
+
+> **Exam Alert:** The Sergeant needs approval from the Incident Commander to D.A.T. (Desk Appearance Ticket) or process under PG 96. The IC also arranges rides to court for "keepers" (prisoners not eligible for DAT). Photographs are taken BEFORE placing perps in the wagon.
+
+#### Precinct APO (Arrest Processing Officer)
+- Primary function: Return arresting/assigned officers to patrol
+- Assist with computer functions and ensure paperwork is properly prepared
+
+#### Precinct Commanding Officer
+- Ensure command has adequate supply of arrest paperwork for arrest processing
+- If anticipating a large-scale arrest situation, send a **TELEPHONE MESSAGE** to the **Borough Court Section Supervisor** with all pertinent details including the number of arrestees anticipated
+- Borough Court Section notifies the D.A. and Office of Court Administration to expedite
+- Borough Court Section may set aside a **centralized processing area**
+
+> **Exam Alert:** For large-scale arrests, the Precinct CO sends a TELEPHONE MESSAGE (not a phone call, not an email) to the Borough Court Section Supervisor. The BCS then notifies the D.A. and may establish a centralized processing area.
 
 ### Supervisor Responsibilities (Arrest Processing Supervisor)
 - Ensure prisoners are fed (food required if held more than 2 hours)

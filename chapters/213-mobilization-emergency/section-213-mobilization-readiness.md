@@ -29,14 +29,21 @@ This section covers the foundational procedures for mobilization, emergency resp
 
 ---
 
-## P.G. 213-03 — Rapid Mobilization *(Source Unavailable)*
+## P.G. 213-03 — Rapid Mobilization
 
-> **Note:** This procedure could not be cleanly extracted from the source PDF. The title and related information below are derived from cross-references in other procedures.
+> **Note:** Full exam-focused content for this procedure is now available in the dedicated file: **section-213-rapid-mobilization.md**. The summary below highlights the most critical points.
 
 ### Known Information
 - Establishes procedures for rapidly assembling personnel during emergencies
 - Part of the 213-01 through 213-08 series referenced by P.G. 213-09
 - Related to P.G. 213-04 (Mobilization Readiness Levels), which likely defines the escalation tiers that trigger rapid mobilization
+- Patrol Supervisor calls Level 1 through radio; for missing persons, must consult CO/Duty Captain PRIOR
+- Platoon Commander serves as Incident Commander until CO/Duty Captain arrives, then becomes Operations Officer at Field Command Post
+- Supplementary Restraint Kits contain 300 flex cuffs, 40 flex cuff cutters, 40 Cold Fire extinguishers
+
+> **PG Conflict:** PG 213-03 says Lt/Sgt should "go direct" to the mobilization point. PG 213-05 says Lt/Sgt should "10-02 FIRST," then go. On test day, if the question references 213-05 (Duties at a Disorder), the answer is 10-02 First.
+
+> **See Also:** section-213-rapid-mobilization.md — Full procedure with role-by-role duties, bureau exceptions, and supplementary restraint kit details.
 
 ---
 
@@ -51,14 +58,23 @@ This section covers the foundational procedures for mobilization, emergency resp
 
 ---
 
-## P.G. 213-05 — Duties at Unusual Disorder *(Source Unavailable)*
+## P.G. 213-05 — Duties at a Disorder
 
-> **Note:** This procedure could not be cleanly extracted from the source PDF. The title and related information below are derived from cross-references in other procedures.
+> **Note:** Full exam-focused content for this procedure is now available in the dedicated file: **section-213-duties-at-disorder.md**. The summary below highlights the most critical points.
 
 ### Known Information
 - Outlines specific duties of members of service responding to unusual disorders
 - Part of the 213-01 through 213-08 series referenced by P.G. 213-09
 - Supported by P.G. 213-07 (Unusual Disorder Maps), P.G. 213-08 (Unusual Disorder Plan), and P.G. 213-09 (Unusual Disorder Kits)
+- Deployment ratio: 2/3 deployed, 1/3 in reserve; foot posts at 1 Sgt & 8 P.O.s
+- Dual Dispatch System: HIGH priority to detail officers, LOW priority to precinct officers
+- Ring schedule: every 30 minutes for enforcement units, every 60 minutes for other units
+- Two types of mobilizations: Levels 1 & 2 = SRG; Levels 3 & 4 = PCT/TD/PSA
+- Prohibited tactics: complacency, breaking formation, unnecessary conversation, congregating
+
+> **Exam Alert:** Sergeants respond to the stationhouse (10-02) first under PG 213-05, form a squad of 8 officers, and report to the mobilization point in a van. While enroute, only the Sergeant and van operator have radios turned on.
+
+> **See Also:** section-213-duties-at-disorder.md — Full procedure with deployment plans, team assignments, lieutenant/sergeant duties, and mobilization level details.
 
 ---
 
@@ -119,9 +135,9 @@ This section covers the foundational procedures for mobilization, emergency resp
 |-----------|-------|--------|-------------|
 | 213-01 | Command Post Operations | Cross-reference only | Framework for command post setup |
 | 213-02 | Emergency Incidents | Cross-reference only | Emergency response protocols |
-| 213-03 | Rapid Mobilization | Cross-reference only | Personnel assembly procedures |
+| 213-03 | Rapid Mobilization | **Full content** (see dedicated file) | Role-by-role duties, bureau exceptions, restraint kits |
 | 213-04 | Mobilization Readiness Levels | Cross-reference only | Tiered alert system |
-| 213-05 | Duties at Unusual Disorder | Cross-reference only | MOS duties during disorders |
+| 213-05 | Duties at a Disorder | **Full content** (see dedicated file) | Deployment, team assignments, mobilization levels |
 | 213-07 | Unusual Disorder Maps | Cross-reference only | Map preparation and use |
 | 213-08 | Unusual Disorder Plan | Cross-reference only | Overall disorder response plan |
 | 213-09 | Unusual Disorder Kits | **Full content** | Kit contents, storage, inspections |
