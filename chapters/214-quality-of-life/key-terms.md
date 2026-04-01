@@ -17,6 +17,16 @@
 | Access Warrant | Court Order signed by a Supreme Court judge allowing DOB to inspect premises |
 | OMAP | Designated liaison between NYPD and NYC 311 |
 | CVTF | Citywide Vandals Task Force — handles graffiti vandal debriefing |
+| ACC | Animal Care and Control of NYC — responds to animal complaints |
+| ICAD Number | Identifier entered on Aided and Dangerous Animal/Bite Report |
+| LBB | Legal Bureau Bulletin — supplemental legal guidance that modifies or clarifies PG procedures |
+| Dwelling Unit | Any building or portion used as a home, residence, or sleeping place (includes private hotels with gov't funding; excludes hospitals, convents, NYCHA) |
+| Legitimate Occupancy | Tenant has a lease, occupied 30+ consecutive days, SRO requesting lease (verbal is sufficient), or sublet tenant |
+| Stay of Eviction | Court order to halt eviction — unenforceable once the eviction is already complete |
+| 72-Hour Notice of Service | Required notice before executing Warrant of Eviction; starts day after service, excludes weekends/holidays; NOT required for Repossession Orders |
+| Telephone Record | Document where 311 deferrals and notifications are recorded (not the Telephone Dispatch Log) |
+| Chronic 311 Condition | 5+ service requests in 28 days for the same specified condition at the same location |
+| NCO Sergeant (311) | Directed by CO to make daily callbacks to identified 311 callers; maintains 28-day chronic conditions list |
 
 ## Critical Numbers
 
@@ -46,6 +56,12 @@
 | 311 callback attempts | Minimum 2 per caller |
 | 311 Special Ops Lt audit frequency | Monthly |
 | 311 chronic conditions list update | Weekly |
+| Warrant of Eviction execution hours | Mon-Fri 0800-1700 |
+| Search Warrant execution hours | Mon-Fri 0600-2100 |
+| 72-hour Notice of Service | Starts day after service, excludes Sat/Sun/Holidays |
+| ACC Brooklyn Control Center | 24/7 |
+| ACC Rescue Units | Mon-Fri 0800-2000 |
+| ACC Other Control Centers | Tues-Sat (business hours) |
 
 ## Key Forms
 
@@ -69,6 +85,13 @@
 | 10-42 | Notify Communications Section (311 receipt) |
 | 10-90N | Notice Served (alarm) |
 | 10-95 | Refer to Another Agency (311 disposition) |
+
+## Key Legal Bureau Bulletins
+
+| LBB | Topic | Key Point |
+|-----|-------|-----------|
+| Vol 49 #1 (Aug 2019) | Unlawful Evictions | Adds Building/Health Code violations as eviction method; acts must be done for PURPOSE of eviction; police cannot break in to let tenant re-enter unless medicine vital to life is inside |
+| Vol 14 #8 | Warrant of Eviction | 72-hour Notice of Service required; starts day after service excluding weekends/holidays; no 72-hour notice for Repossession Orders; Order to Seize Property does not authorize forced entry unless explicitly stated |
 
 ## Summons Return Dates — Unlawful Eviction
 

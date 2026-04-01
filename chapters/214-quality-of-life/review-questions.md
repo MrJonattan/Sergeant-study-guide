@@ -206,3 +206,90 @@ Limits on MOS authority:
 The same principle applies to other civil enforcement (P.G. 214-13, 214-18): police preserve peace but do not participate in the execution of civil process. (P.G. 214-37)
 
 </details>
+
+## Question 16
+A landlord has cut off hot water to a tenant who has lived in the apartment for two months without a lease. The tenant calls police claiming unlawful eviction. Is this an unlawful eviction?
+
+<details><summary>Answer</summary>
+
+**No.** While the tenant has legitimate occupancy (30+ consecutive days), cutting off **hot water** alone is NOT an unlawful eviction. The exam has tested this directly. Essential services that qualify as unlawful eviction when denied include **heat**, **water**, and **electricity** — but **hot water** by itself does not meet the threshold. The acts must also be done for the **purpose** of eviction (per LBB Vol 49 #1). (P.G. 214-12)
+
+</details>
+
+## Question 17
+A city marshal arrives to execute a Warrant of Eviction at 1830 hours on a Wednesday. The tenant has a Stay of Eviction. The eviction was already completed earlier that day. What should the sergeant consider?
+
+<details><summary>Answer</summary>
+
+Two key issues:
+
+1. **Time:** Warrants of Eviction may only be executed **Monday-Friday 0800-1700**. At 1830 hours, the execution window has passed. (Do NOT confuse with Search Warrant hours of 0600-2100.)
+
+2. **Stay of Eviction:** Once the eviction is **complete**, a Stay of Eviction is **unenforceable**. Attempts to pay rent or produce a stay does NOT allow re-entry after the eviction is complete.
+
+Additionally, per LBB Vol 49 #1, police **cannot break in** to let the tenant re-enter **UNLESS** there is medicine inside that is vital to life. (P.G. 214-13)
+
+</details>
+
+## Question 18
+During a 311 assignment review, you notice a condition has been deferred. Where should the deferral be indicated — in the Telephone Dispatch Log, the Telephone Record, or the 311 system?
+
+<details><summary>Answer</summary>
+
+Deferrals should be indicated in the **311 system** or the **Telephone Record**, as appropriate. The deferred assignment gets an interim disposition of "Deferred" or "Open." Do **NOT** confuse the Telephone Record with the Telephone Dispatch Log — the exam specifically tests this distinction. Notifications are documented in the Telephone Record. (P.G. 214-35)
+
+</details>
+
+## Question 19
+Under P.G. 214-33, ESU is called to capture a dangerous dog. How is the animal transported, and what specific unit should be contacted if a search warrant is planned at a location known to have a dangerous dog?
+
+<details><summary>Answer</summary>
+
+**Transport:** **ESU bags the animal** and then an **RMP transports** the animal to an ACC facility. The kennel is placed in the **backseat** of the RMP (rear seat may be removed if necessary). An animal is **NEVER** placed in the trunk of a Department vehicle.
+
+**Search warrant:** If there is advance information of a dog at a warrant location, confer with the **Canine Unit of ESU** — not just any ESU team. (P.G. 214-33)
+
+</details>
+
+## Question 20
+Who directs the NCO Sergeant to make daily callbacks to identified 311 callers — the Special Ops Lt or the CO? How many attempts are required per caller?
+
+<details><summary>Answer</summary>
+
+The **CO personally directs** the NCO Sergeant to make daily callbacks to identified 311 callers. This breaks the normal chain of command — it sounds like a Special Ops Lt responsibility, but the PG specifically assigns this to the CO. A minimum of **2 attempts** per caller is required, and all contacts and attempts must be documented. The NCO Sgt then interviews callers to determine if assignments were resolved or need further action, and confers with the SOL. (P.G. 214-35)
+
+</details>
+
+## Question 21
+A complainant in an unlawful eviction case refuses to sign the summons. Can the UMOS still proceed? What modifications are needed when a civilian is the complainant?
+
+<details><summary>Answer</summary>
+
+**Yes.** If the complainant refuses to sign, the **UMOS can sign** "based on information and belief" — but only if the information is **complete**.
+
+When a **civilian is the complainant**, the following modifications are required on the summons:
+- Cross out "Complainant's" and "Complainant" and substitute "Officer's" and "Officer" on the front
+- Cross out "I personally observed..." above the complainant's name
+- On the rear of the original summons, enter the complainant's full name, rank/full signature, and "Date Affirmed" under the appropriate sections
+- Complainant's name, address, and phone number go on the bottom
+
+(P.G. 214-12)
+
+</details>
+
+## Question 22
+When referring a 311 condition to another city agency, what is the correct procedure? Can the referral be made anonymously?
+
+<details><summary>Answer</summary>
+
+The referral **cannot** be made anonymously. The correct procedure is:
+
+1. Call **311 directly**
+2. Provide: member's **name**, **Dept email**, and **smartphone number** (or TS phone number)
+3. Obtain a **new Service Request number**
+4. Make the original request disposition **10-95** ("Refer to Other Agency")
+5. Put the new service request number in **"Notes to Customer"** before finalizing the old request
+
+(P.G. 214-35)
+
+</details>
