@@ -27,6 +27,47 @@
 | **TRS** | Telecommunications Relay Service — dial 711 for deaf/hard of hearing communication |
 | **4th Platoon Rule** | Members on 1800x0200 subpoenaed for next-day court reassigned to 3rd platoon (1600x2400) |
 
+## Investigative Encounter Terms
+
+| Term | Definition |
+|------|-----------|
+| **Level 1 Encounter** | Request for Information — based on objective credible reason; no detention, no search request |
+| **Level 2 Encounter** | Common Law Right of Inquiry — based on founded suspicion; may ask accusatory questions and request consent to search |
+| **Level 3 Encounter** | Terry Stop — based on reasonable suspicion of felony or PL misdemeanor; may detain, use force, frisk |
+| **DeBour** | NYS Court of Appeals case articulating the 4-level encounter framework (request for info, CLRI, forcible stop, arrest) |
+| **Terry v. Ohio** | Federal Supreme Court case providing authority for Level 3 forcible stop and possible frisk |
+| **RTKBC** | Right to Know Business Card — pre-printed card given to persons at Level 2 and 3 encounters |
+| **RTKBC-G** | Right to Know Business Card — General — blank version used when regular RTKBCs are exhausted |
+| **CLRI** | Common Law Right of Inquiry — Consent Search Report; prepared when consent to search is requested at Level 2 |
+| **Stop Report** | Documentation prepared for each Level 3 (Terry) stop; submitted through FORMS; reviewed by supervisor |
+| **TACTICS** | Training Attendance Certification Transcript Integration Collection System — records training sessions for investigative encounter compliance |
+| **Protective Measures** | Tactics short of a frisk (order hands from pockets, instruct person to put down object) used when officer safety is at risk |
+| **Frisk** | Carefully running hand down outside of person's clothing to check for weapons — NOT to locate evidence |
+
+## Crime Scene and Incident Terms
+
+| Term | Definition |
+|------|-----------|
+| **Police Line Do Not Cross** | White tape with blue letters; establishes secure area for police operations |
+| **Crime Scene Do Not Cross** | Yellow tape with black letters; safeguards area where evidence may be present |
+| **Crime Scene Evidence Cone** | 5-inch orange cone marked "NYPD" in black; placed next to small evidence items |
+| **HARBOR** | Mnemonic for mandatory CSU response: Homicide, Aggravated assault (likely to die), Rape (forcible), Burglary (forced safe/circumvented alarm), Other (CSU assists), Robbery/hijacking (firearm caused injury) |
+| **IACC** | Inter-Agency Command Center — separate from police Command Post; established at hazmat/SECTAR incidents |
+| **SECTAR** | Significant fire, Explosion, Chemical burn, Toxic Air Release, Radiation hazard — triggers full hazmat response |
+| **MDV** | Mobile Decontamination Vehicle — requested through Operations by on-scene coordinator |
+| **FRUITS** | Mnemonic for when D.O. notifies Ops AND Borough for fires: Forced entry by FD, Relocation of tenants, Unusual fire, Injury/death, Three alarms+, Suspicious fire |
+| **RATCOP** | Mnemonic for info released only after conferral with DCPI AND Chief of Detectives: Reputation, Anticipated testimony, Test results, Credibility, Opinion/speculation, Photos/films/mug shot |
+
+## BWC and Technology Terms
+
+| Term | Definition |
+|------|-----------|
+| **BWC** | Body Worn Camera — Dept property; must be personally issued; activate for all police action |
+| **Police Action** | Police service, law enforcement, or investigative activity in furtherance of official duties — triggers mandatory BWC activation |
+| **GO 15 (A.G. 318-11)** | Rule allowing member to view own BWC video as subject/witness in Dept investigation prior to making statement |
+| **Gunshot Detection** | Alert system (Shotspotter) that detects potential gunfire; generates confirmed or unconfirmed alerts |
+| **ECMS** | Enterprise Case Management System — NCO opens companion case for confirmed gunshot alerts |
+
 ## Critical Numbers
 
 | Number | Significance |
@@ -47,6 +88,15 @@
 | **711** | TRS dial code for deaf/hard of hearing relay service |
 | **(212) 504-4115** | TTY number for 311 system |
 | **0900-1700** | License Division hours (Mon-Fri); Legal Bureau ERPO Unit hours (Mon-Fri) |
+| **300 feet** | Minimum outdoor hazmat distance for spills and most fires |
+| **1,000 feet** | Minimum outdoor hazmat distance for explosions/suspected devices/military/tanker fires; bomb evacuation distance |
+| **20 minutes** | Discontinue bomb search before threatened explosion time |
+| **1 hour** | Do not resume bomb search after threatened explosion time |
+| **39 months** | BWC video automatic deletion period |
+| **PD Code 080** | Investigate Gunshot Detection Alert (Shotspotter, no ballistics) |
+| **PD Code 083** | Investigate Shots Fired (no ballistics) |
+| **PD Code 088** | Investigate Shot Fired, Ballistics Recovered |
+| **PD Code 089** | Investigate Gunshot Detection Alert, Ballistics Recovered |
 
 ## Handling Codes (VGTOF)
 

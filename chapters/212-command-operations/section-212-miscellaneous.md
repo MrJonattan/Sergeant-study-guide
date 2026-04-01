@@ -40,9 +40,45 @@
 
 ## P.G. 212-52 — Labor Dispute
 
-- Primary duty: preserving the peace during labor disputes.
-- Maintain neutrality between parties.
-- Ensure public safety while respecting lawful protest rights.
+### UMOS
+
+- Preserve peace and prevent destruction of property
+- Request Patrol Supervisor
+- Notify Desk Officer
+
+### Patrol Supervisor
+
+- Respond to the scene
+- Interview management and union representatives **separately**
+- Advise both sides of the following rules:
+  - No sticks/poles that may be injurious; no professional agitators/offensive language
+  - Precinct **C.O.** determines the number of pickets allowed
+  - Force/violence not tolerated; right of public to use streets/sidewalk protected
+  - Law enforced impartially
+- Obtain information for Strike Report
+- Notify: telephone D/O for **immediate** assignment of personnel, if required
+- Document: deliver Strike Report to D/O
+- Command Post: set up if required (**NOT** in facilities of Management or Labor)
+
+> **Exam Alert:** The Command Post for a labor dispute must NOT be set up in the facilities of either management or labor. This ensures the appearance of neutrality.
+
+### Desk Officer
+
+- Confer with C.O./Duty Captain regarding personnel assignments
+- Make assignments as directed; obtain personnel from Pct. if available, or request from Borough
+- Notify Operations
+- Document: have Strike Report prepared and forwarded; sign above "Reviewed By" caption
+
+### Harassment and Labor Disputes
+
+> **Exam Alert:** Certain Penal Law sections of harassment will NOT be enforced at labor disputes:
+> - **Harassment 1st degree (PL 240.25):** Prohibits intentionally and repeatedly harassing by following in public place; engaging in conduct placing person in reasonable fear of physical injury
+> - **Harassment 2nd degree (PL 240.20):** Course of conduct that alarms/seriously annoys with no legal purpose
+>
+> However, any **violence or physical harassment** WILL be enforced — if they strike/shove/kick or attempt/threaten physical contact.
+
+- Picketing, leafleting, and demonstrating are exempt from harassment arrest
+- May refer **victim** to Court for injunction or NLRB (National Labor Relations Board)
 
 ---
 

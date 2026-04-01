@@ -49,6 +49,81 @@ Cooperate with the press and do not interfere with news gathering.
 
 ---
 
+## P.G. 212-77 — Release of Information to News Media
+
+### General Rule
+
+- **Media inquiries should be directed to DCPI**
+- MOS provide assistance ONLY when:
+  - It does not pose a threat to personal safety of MOS, the public, or the news media
+  - It does not interfere with police operations, crime scene investigations, or other emergency service providers
+  - It does not infringe on the rights of the accused or privacy/security of crime victims
+- Even if other agencies are involved, ALL media requests go through DCPI
+- Unauthorized communication with news media without conferral with DCPI is **PROHIBITED**
+
+> **Exam Alert:** MOS are required to **immediately** notify DCPI of any interaction with the media. This is an absolute requirement.
+
+### Highest Ranking UMOS Addressing Media
+
+- Prior to addressing media, confer with DCPI regarding info to be released
+- Briefly describe incident: how called to scene, type of job, location, # of aideds, etc.
+
+### Crime Scenes or Frozen Areas
+
+> **Exam Alert:** Media access to an incident does NOT extend to interior crime scenes or frozen areas. This applies to all media, including MOME press card holders (per PG 212-49).
+
+### Information NOT to Be Released
+
+- **Juvenile under 18** taken into custody — EXCEPT Juvenile Offender or Adolescent Offender (can be released)
+  - If case drops from Criminal Court to Family Court: offender becomes Juvenile Delinquent and ID can NOT be released from that point forward
+- **Abused child** — neglected or abused child or child complainant under 18
+- **Sex crime** victim ID or location of sex assault if victim's residence or perp's residence (if not apprehended)
+- **Communicable disease** info indicating a person has one
+- **Arrest/booking photo** unless it would serve a law enforcement purpose
+- **Witness or confidential informant** information
+- **MOS, complainant, or witness** — address or phone # of any of these three; info that may hinder prosecution or jeopardize safety
+
+### Civil Rights Law — Sex Crime Victim ID
+
+- Allows victims to bring private action if their ID is disclosed
+- MOS releasing records **must** ensure sex offense victim identity is NOT divulged
+- Proper release of sex crime victim ID is limited to:
+  - Defendant and their counsel or guardian
+  - Public officers/employees investigating, prosecuting, and keeping records relating to offense
+
+### Communicable Disease — Confidentiality
+
+- Prisoner or victim status regarding communicable disease (HIV, AIDS, etc.) is confidential
+- Generally do NOT release to public, media, family, friends, or other prisoners
+- Any release requires written consent of the **DCLM** (Deputy Commissioner, Legal Matters)
+
+### Prisoner Volunteers Medical Status
+
+- If prisoner volunteers positive medical status or is treated medically: use isolation cells if available
+- Document on Prisoner Movement Slip **or** Medical Treatment of Prisoner (either form)
+
+### Releasable Information Post Arrest
+
+- **Pedigree:** name, age, residence, employment, marital status, similar background (after ID confirmed)
+- **Charge:** substance or text of charge
+- **Complainant info:** only when appropriate, ID of complainant
+- **Agency involved:** identity of investigating/arresting agency and length of investigation
+- **Arrest information:** circumstances surrounding arrest (time, place, resistance, pursuit, possession/use of weapons, description of items seized)
+
+### Release ONLY After Conferral with DCPI AND Chief of Detectives — "A RAT COP"
+
+> **Memory Aid — RATCOP:** Information released only after conferral with DCPI AND Chief of Detectives:
+> - **R**eputation — statements concerning reputation/character of accused or witness
+> - **A**nticipated testimony of prospective witness
+> - **T**est — performance of tests, results of tests, OR refusal by accused to take a test
+> - **C**redibility of prospective witness
+> - **O**pinion/speculation concerning evidence or argument in the case
+> - **P**hotos, films, videotape and/or mug shot
+
+> **Exam Alert:** RATCOP items require conferral with **both** DCPI and Chief of Detectives before release. This is a commonly tested mnemonic.
+
+---
+
 ## P.G. 212-76 — Information Concerning Official Business of Department
 
 ### General Principles

@@ -364,7 +364,157 @@ Test your knowledge of Command Operations procedures. Click each answer to revea
 
 ---
 
-**25. Can an MOS request a breathalyzer test from a diplomat suspected of DWI?**
+**25. In a Level 2 investigative encounter, the UMOS requests consent to search. What document must be prepared?**
+
+- A) Stop Report
+- B) Common Law Right of Inquiry — Consent Search Report (CLRI)
+- C) Level 2 Encounter Report only
+- D) Arrest Report
+
+<details><summary>Answer</summary>
+
+**B) Common Law Right of Inquiry — Consent Search Report (CLRI).** Per P.G. 212-11, when consent to search is requested at Level 2, the UMOS prepares a CLRI. At Level 3, the request is documented on the **Stop Report** instead.
+
+</details>
+
+---
+
+**26. What does the HARBOR mnemonic stand for regarding when Crime Scene Unit must respond?**
+
+- A) Homicide, Assault (any), Robbery, Burglary (any), Officer-involved, Rape
+- B) Homicide, Aggravated assault (likely to die), Rape (forcible), Burglary (forced safe/circumvented alarm), Other (CSU will assist), Robbery/hijacking (firearm caused injury)
+- C) Homicide, Arson, Robbery, Burglary, Obstruction, Rape
+- D) Homicide, Assault (SPI), Robbery (any), Burglary (safe involved), Other crimes, Rape
+
+<details><summary>Answer</summary>
+
+**B) Homicide, Aggravated assault (dangerous instrument AND likely to die), Rape (forcible), Burglary (forced safe OR circumvented alarm), Other crime (CSU will assist investigation), Robbery OR hijacking (firearm caused injury).** Per P.G. 212-04, these are the specific criteria for mandatory CSU response.
+
+</details>
+
+---
+
+**27. At a hazmat scene, what is the minimum outdoor evacuation distance for an explosion or suspected device?**
+
+- A) 300 feet
+- B) 500 feet
+- C) 1,000 feet
+- D) 1,500 feet
+
+<details><summary>Answer</summary>
+
+**C) 1,000 feet.** Per P.G. 212-37, the minimum outdoor distance for any explosion or suspected device is 1,000 feet. For spills and most fires, the distance is 300 feet. The 1,000-foot distance also applies to fires involving military shipments or tanker trucks.
+
+</details>
+
+---
+
+**28. During a bomb threat search, teams must discontinue searching how long before the threatened explosion time?**
+
+- A) 10 minutes
+- B) 15 minutes
+- C) 20 minutes
+- D) 30 minutes
+
+<details><summary>Answer</summary>
+
+**C) 20 minutes.** Per P.G. 212-40, search teams must discontinue 20 minutes prior to the threatened explosion time, regardless of whether the premise is evacuated or occupied. Search must NOT resume for at least 1 hour after the threatened time.
+
+</details>
+
+---
+
+**29. At a post-explosion bomb scene, who removes injured persons to safe locations for medical treatment?**
+
+- A) EMS
+- B) FDNY
+- C) ESU
+- D) Responding UMOS
+
+<details><summary>Answer</summary>
+
+**C) ESU.** Per P.G. 212-40, the patrol supervisor/ranking officer directs **ESU** to remove injured to safe locations — not EMS. EMS administers medical treatment at the safe locations, but the physical removal is an ESU responsibility.
+
+</details>
+
+---
+
+**30. The RATCOP mnemonic identifies information that may only be released after conferral with DCPI AND which other official?**
+
+- A) Borough Commander
+- B) Chief of Patrol
+- C) Chief of Detectives
+- D) Police Commissioner
+
+<details><summary>Answer</summary>
+
+**C) Chief of Detectives.** Per P.G. 212-77, RATCOP items (Reputation, Anticipated testimony, Test results/refusal, Credibility, Opinion/speculation, Photos/films/mug shots) require conferral with both DCPI and Chief of Detectives before release.
+
+</details>
+
+---
+
+**31. Under PG 212-123, who prepares the Typed Letterhead (49) when a member fails to record a mandatory BWC event vs. when a member records a prohibited incident?**
+
+- A) Patrol Supervisor writes both
+- B) Commanding Officer writes both
+- C) Fail to record: Patrol Supervisor; Prohibited recording: Commanding Officer
+- D) Fail to record: Commanding Officer; Prohibited recording: Patrol Supervisor
+
+<details><summary>Answer</summary>
+
+**C) Fail to record a mandatory event: Patrol/Unit Supervisor prepares the 49 (to Professional Standards Bureau). Record a prohibited incident: Commanding Officer prepares the 49 (to Chief of Department, with copies to DC IT and PSB).** Per P.G. 212-123, know who writes and who receives in each scenario.
+
+</details>
+
+---
+
+**32. BWC video is automatically deleted after how many months?**
+
+- A) 12 months
+- B) 18 months
+- C) 24 months
+- D) 39 months
+
+<details><summary>Answer</summary>
+
+**D) 39 months.** Per P.G. 212-123, BWC video is automatically deleted after 39 months. Certain categories (arrest, homicide) may be retained longer. The C.O. may request extended retention through channels to DC Information Technology.
+
+</details>
+
+---
+
+**33. At what alarm level does FDNY notify NYPD Operations, and at what alarm level does the Desk Officer notify Operations?**
+
+- A) FD notifies at 2 alarms; D.O. notifies at 3 alarms
+- B) FD notifies at 3 alarms; D.O. notifies at 2 alarms
+- C) Both notify at 2 alarms
+- D) Both notify at 3 alarms
+
+<details><summary>Answer</summary>
+
+**A) FD notifies NYPD Operations at 2 alarms; the Desk Officer notifies Operations at 3 alarms.** Per P.G. 212-58, this is a commonly tested distinction about who initiates the Operations notification at each alarm level.
+
+</details>
+
+---
+
+**34. In PG 212-52 (Labor Disputes), certain harassment charges will NOT be enforced. Which type of harassment WILL be enforced?**
+
+- A) Harassment 1st degree (PL 240.25)
+- B) Harassment 2nd degree (PL 240.20)
+- C) Any violence or physical harassment (strike/shove/kick)
+- D) Following a person in a public place
+
+<details><summary>Answer</summary>
+
+**C) Any violence or physical harassment.** Per P.G. 212-52, Harassment 1st degree (PL 240.25) and Harassment 2nd degree (PL 240.20) will NOT be enforced at labor disputes. However, any actual violence or physical harassment — striking, shoving, kicking, or attempting/threatening same — WILL be enforced.
+
+</details>
+
+---
+
+**35. Can an MOS request a breathalyzer test from a diplomat suspected of DWI?**
 
 - A) No, this would violate diplomatic immunity
 - B) Yes, and the diplomat must comply

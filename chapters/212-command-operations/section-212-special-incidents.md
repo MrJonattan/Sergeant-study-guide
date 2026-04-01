@@ -59,8 +59,33 @@
 
 ## P.G. 212-47 — Counterfeit Money
 
-- Follow established procedures for handling and documenting counterfeit currency.
-- Notify appropriate investigative units.
+### When Counterfeit Money Is Detected
+
+- Determined that the passer is an innocent victim, OR
+- No indication who passed it
+
+### Investigating Officer
+
+- Document: have person **last in possession** of the bill:
+  - Write name/date across the **face of the bill** or scratch initials **on** a coin
+- Sign: rank, name, shield, date on bill or scratch initials on coin
+
+### Desk Officer
+
+- Document: prepare **4 copies** of report on Typed Letterhead (49x4) to **Chief of Patrol**
+- Deliver:
+  - Have messenger sign itemized receipt in **Property Receipt Book**
+  - Deliver 49x4 and counterfeit bill to **Patrol Borough** office
+  - Messenger brings back 1 copy of the 49 as a receipt from Borough
+- Receipt: attach receipted copy of 49 to the entry in the Property Receipt Book
+
+> **Exam Alert:** No voucher is prepared for counterfeit money. The bill goes to the Patrol Borough office with the 49x4, not to the Property Clerk.
+
+### Cross-References for Counterfeiting
+
+> **See Also:** PG 208-47 — Arrests for counterfeiting: D/O or counterpart notifies Dept. of Treasury, US Secret Service **by phone direct**.
+
+> **See Also:** PG 207-06 — Complaints of counterfeiting: D/O notifies Operations; Operations notifies US Treasury Dept., Secret Service Bureau.
 
 ---
 
