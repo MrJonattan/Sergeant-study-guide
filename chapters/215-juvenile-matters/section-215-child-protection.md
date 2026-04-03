@@ -110,6 +110,12 @@ ACS Child Protection Specialists carry **cellular telephones** issued by their a
 
 13. Take appropriate action
 
+### Desk Officer — Shelter and Child Location
+
+> **Exam Alert:** The Desk Officer must secure shelter for the child and comply with PG 215-01 (Child/Minor Requiring Care/Shelter). The D.O. instructs the P/G to call ACS; if after hours, call ACS Emergency Children's Services. If the child is a victim of a crime or abused by P/G, NEVER return the child to the home. If another agency with removal authority is present, NYPD will NOT override their decision to remove a child.
+
+> **Exam Alert:** **NEVER** provide parents or guardian the **location of the child** after removal. This is a critical rule tested on the exam.
+
 ### Additional Data
 
 > **Exam Alert:** The radio code **10-68A** is specific to ACS CPS assistance requests. This is a commonly tested detail.

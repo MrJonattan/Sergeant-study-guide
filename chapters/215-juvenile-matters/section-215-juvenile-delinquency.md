@@ -129,9 +129,105 @@ For certain serious offenses designated as felonies (robbery, etc.):
 
 ## P.G. 215-10 — Arrest of Juvenile Offender/Adolescent Offender
 
-*(Text unavailable in source PDF — review original Patrol Guide)*
-
 This procedure covers the arrest and processing of Juvenile Offenders (JO) and Adolescent Offenders (AO), who are processed through the criminal justice system rather than Family Court.
+
+### Definitions
+
+> **Exam Alert:** Know the precise age definitions. An AO is a 16- or 17-year-old charged with ANY felony. A JO is age- and offense-specific.
+
+| Term | Definition |
+|------|-----------|
+| **Adolescent Offender (AO)** | A **16- or 17-year-old** charged with **any felony** |
+| **Juvenile Offender (JO)** | A **13-, 14-, or 15-year-old** charged with specific serious felonies (see below) |
+
+### 13-Year-Old — Very Limited JO Eligibility
+
+> **Exam Alert:** A 13-year-old can ONLY be a JO for two subdivisions of Murder 2nd Degree. Nothing else.
+
+- **Intentional Murder** (Murder 2nd, Sub 1) — Intend death, cause death to anyone
+- **Deathly Reckless Murder** (Murder 2nd, Sub 2) — Figured someone would get killed by their actions but did it anyway, and kills anyone
+
+### 14- and 15-Year-Olds — MAR BAR MAK + Gun
+
+> **Memory Aid — MAR BAR MAK + Gun:** The felonies that make a 14- or 15-year-old a Juvenile Offender:
+> - **M**urder 2nd degree (Subs 1, 2, AND 3) + Attempted Murder 2nd
+> - **A**ssault 1st degree (Subs 1 and 2)
+> - **R**ape 1st degree (Subs 1 and 2)
+> ---
+> - **B**urglary 1st degree (all subs) AND Burglary 2nd degree (Sub 1)
+> - **A**rson 1st degree (all subs) AND Arson 2nd degree (all subs)
+> - **R**obbery 1st degree (all subs) AND Robbery 2nd degree (Sub 2)
+> ---
+> - **M**anslaughter 1st degree
+> - **A**ggravated Sexual Abuse 1st degree
+> - **K**idnapping 1st degree (plus attempt)
+> ---
+> - **Gun:** CPW 2nd degree committed within 1000 feet of a school
+
+### MAR — Detailed Breakdown
+
+| Offense | Subdivision Details |
+|---------|-------------------|
+| **Murder 2nd** | Sub 1 = Intend death, cause death to ANYONE; Sub 2 = Deathly Reckless; Sub 3 = Felony Murder (perp or partner causes death to non-participant during/attempting/fleeing a felony) |
+| **Assault 1st** | Sub 1 = Intend S.P.I., cause S.P.I. with a D.W./I.; Sub 2 = Intend to Disfigure or Amputate |
+| **Rape 1st** | Sub 1 = Force; Sub 2 = Physically helpless |
+
+> **Exam Alert:** The Criminal Sexual Act (CSA) has been repealed — those acts are now included in "Rape." The 2024 Rape definition update now includes Vaginal AND Oral AND Anal.
+
+### BAR — Detailed Breakdown with Shortcuts
+
+| Offense | Details | JO Shortcut |
+|---------|---------|-------------|
+| **Burglary 2nd** | Sub 1 = Building + 1 of 4 aggravating factors | If there is an aggravating factor, it is a JO. No aggravating factor = No JO. |
+| **Burglary 1st** | = Dwelling + 1 of 4 aggravating factors | Whether dwelling or not does NOT matter for JO determination |
+| **Arson 2nd** | Intend damage by Fire, person inside, perp knew/should have known | If someone is home, it is a JO |
+| **Arson 1st** | Intend damage by Explosion, person inside, perp knew/should have known; OR Fire/Explosion + (S.P.I. or $$$ or Bomb/Incendiary) | — |
+| **Robbery 2nd** | Sub 2 = Cause P.I. | If there is an INJURY, it is a JO |
+| **Robbery 1st** | Cause S.P.I.; OR Armed with D.W.; OR Use/Threaten Immediate Use of D.I.; OR Display what appears to be a firearm | — |
+
+> **Exam Alert:** The 4 aggravating factors for Burglary (1/4): (1) Armed with explosive or Deadly Weapon, (2) Cause P.I. to non-participant, (3) Use/Threaten immediate use of Dangerous Instrument, (4) Display what appears to be a firearm.
+
+### Burglary vs. Arson — "Building" Definition Comparison
+
+| Feature | Burglary "Building" | Arson "Building" |
+|---------|-------------------|-----------------|
+| Structure, vehicle, watercraft for lodging/business | Same | Same |
+| Enclosed motor truck/trailer | Yes | Any vehicle powered by other than Muscle (excludes wheelchairs, rail, tracks, snowmobiles) |
+| Each unit (apt) is a separate "Building" | Yes | **No** — separate units in one structure are NOT separate charges of Arson |
+
+> **Exam Alert:** Burglary goes further than Arson and separately spells out a "school" as a building.
+
+### MAK — Detailed Breakdown
+
+| Offense | Details |
+|---------|---------|
+| **Manslaughter 1st** | Intend S.P.I., kill ANYONE. Also: intend death but under extreme emotional disturbance with reasonable explanation; or kill mom during unlawful abortion (pregnant >24 wks) |
+| **Aggravated Sexual Abuse 1st** | Insert Object, cause Injury by Force, Physically helpless, or Victim under 11 (10) |
+| **Kidnapping 1st** | Abduct + Intent to Compel Ransom ($, Property, Conduct); OR Abduct + Victim Dies; OR Abduct + More than 12 Hrs. AND Intent to commit one of 4: P.I./Sex Abuse, Advance Felony, Terrorize Anyone, Govt. Interference |
+
+> **Exam Alert — Key Note on Sex Crimes:** Rape 1st and Agg Sexual Abuse 1st have the same 3 subdivisions (Force, Physically Helpless, Victim <11). However, Rape Sub 3 (Vic <11) does **NOT** make a JO, but Agg Sex Abuse Sub 3 (Vic <11) **DOES** make a JO. This is a critical distinction.
+
+### Gun — CPW 2nd Degree on School Grounds
+
+- "Loaded" Firearm, Machine Gun, Disguised Gun — **WITH INTENT**
+- "Loaded" Firearm — **OUTSIDE** of Home or Office (moved up from 3rd degree)
+- 5 or more firearms
+
+> **Exam Alert:** "Loaded" means the person has ammo **in his possession**. It does NOT actually have to be loaded in the gun.
+
+- Violation of this statute alone does NOT make a 14+ year-old a JO
+- Gun must be possessed on **"School Grounds"** (defined in Penal Law Section 220.00 Sub 14):
+  - Inside the property line of a school (Elementary up to and including High School), OR
+  - Outside the property line but **within 1000 feet in a Public Place** (includes parked vehicle)
+
+### Deadly Weapons — 9 Types
+
+> **Memory Aid — 9 DEADLY WEAPONS (for Burglary aggravating factor):**
+> - 1 Loaded weapon (whose shot can cause S.P.I./D.O.A.)
+> - 4 Slappers: Blackjack, Billy, Metal Knuckles, **Plastic Knuckles**
+> - 4 Knives: Switchblade knife, Pilum Ballistic knife, Metal knuckle knife, Dagger
+
+> **Exam Alert:** Note that Plastic Knuckles are included as a Deadly Weapon. There are exactly 9 deadly weapons defined in Penal Law Section 10.00.
 
 ---
 

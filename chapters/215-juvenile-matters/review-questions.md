@@ -301,3 +301,143 @@ Under P.G. 215-22, which of the following is NOT a reason ACS Child Protection S
 P.G. 215-22 — ACS CPS may request police assistance for four specific reasons: (1) executing an Order of Entry, (2) executing a Child Removal Order or warrant, (3) conducting an emergency removal under Section 1024 FCA, or (4) personal safety concerns. Civil custody disputes are not among the authorized reasons for police assistance.
 
 </details>
+
+---
+
+## Question 16
+
+Under P.G. 215-02, what is the FIRST step a UMOS should take upon finding a lost child?
+
+- A) Bring the child to the command
+- B) Prepare an Aided Report
+- C) Notify the desk officer/counterpart AND radio dispatcher
+- D) Make inquiry in the vicinity of where the child was found
+
+<details>
+<summary>Answer</summary>
+
+**C) Notify the desk officer/counterpart AND radio dispatcher**
+
+P.G. 215-02 — A past promotion test asked this exact question. The first step is to notify the Desk Officer/counterpart AND the Radio Dispatcher. Making inquiry in the vicinity comes second, followed by bringing the child to the command if a relative is not located.
+
+</details>
+
+---
+
+## Question 17
+
+Under P.G. 215-01 (Child/Minor Requiring Care/Shelter), who may take custody of a child? Compare this to P.G. 215-02 (Lost Child).
+
+- A) Both procedures allow a relative or friend to take the child
+- B) 215-01 allows a relative or friend; 215-02 allows only a relative
+- C) Both procedures allow only a relative to take the child
+- D) 215-01 allows only a relative; 215-02 allows a relative or friend
+
+<details>
+<summary>Answer</summary>
+
+**B) 215-01 allows a relative or friend; 215-02 allows only a relative**
+
+P.G. 215-01 states the UMOS should inquire if a "relative OR friend" will provide care. P.G. 215-02 says only "relative" — it does NOT say friend. This is a critical distinction between the two procedures.
+
+</details>
+
+---
+
+## Question 18
+
+Under P.G. 215-03 (Suspected Child Abuse/Maltreatment), when a complaint is made but NO child removal occurs, how many reports are prepared?
+
+- A) 1 report
+- B) 3 reports
+- C) 4 reports
+- D) 6 reports
+
+<details>
+<summary>Answer</summary>
+
+**B) 3 reports**
+
+P.G. 215-03 — The "Paper Chase" requires: Complaint but NO removal = 3 reports (Complaint Report, DIR, and SCAM). When there IS a removal, all 6 reports are prepared (adding Aided Report, Notice of Removal, and Affidavit of Service).
+
+</details>
+
+---
+
+## Question 19
+
+Under P.G. 215-03, the Affidavit of Service of Notice must be mailed by the Desk Officer to Family Court in which borough?
+
+- A) The borough where the child was found
+- B) The borough where the child resides
+- C) The borough of removal
+- D) The borough where the precinct of arrest is located
+
+<details>
+<summary>Answer</summary>
+
+**C) The borough of removal**
+
+P.G. 215-03 — The Affidavit goes to Family Court in the borough of REMOVAL (within 24 hours, except weekends/holidays). The SCAM report, by contrast, goes to the ACS Office in the borough of RESIDENCE. Do not confuse the two.
+
+</details>
+
+---
+
+## Question 20
+
+Under P.G. 215-13, metal handcuffs should NOT be used on a student less than what age without prior approval of a supervisor?
+
+- A) 10 years old
+- B) 11 years old
+- C) 12 years old
+- D) 16 years old
+
+<details>
+<summary>Answer</summary>
+
+**C) 12 years old**
+
+P.G. 215-13 — Metal cuffs should NOT be used on students less than 12 (11) years old without prior approval of a Precinct NCO Sergeant, Patrol Sergeant, or School Safety Supervisor. Metal cuffs are a last resort. Also, a student less than 12 will NOT be handcuffed to a fixed object.
+
+</details>
+
+---
+
+## Question 21
+
+A 14-year-old commits a Robbery 2nd degree, Sub 2 (causing physical injury). Under P.G. 215-10, is this person a Juvenile Offender?
+
+- A) No, because Robbery 2nd is not serious enough
+- B) Yes, because Robbery 2nd Sub 2 (causing P.I.) is on the JO list
+- C) No, because a 14-year-old can only be a JO for Murder 2nd
+- D) Yes, but only if a deadly weapon was used
+
+<details>
+<summary>Answer</summary>
+
+**B) Yes, because Robbery 2nd Sub 2 (causing P.I.) is on the JO list**
+
+P.G. 215-10 — Under the MAR BAR MAK + Gun mnemonic, Robbery 2nd degree Sub 2 (causing physical injury) makes a 14- or 15-year-old a Juvenile Offender. The shortcut: if there is an INJURY in a robbery, it is a JO.
+
+</details>
+
+---
+
+## Question 22
+
+Under P.G. 215-13, when a conflict arises between a UMOS who wishes to arrest a student and school personnel who object, what is the proper course of action?
+
+- A) Defer to the school principal's wishes
+- B) Contact the School Safety Division Operations Unit for guidance
+- C) Request response of the Precinct NCO Sergeant or Patrol Supervisor; school personnel may NOT interfere with an arrest deemed warranted
+- D) Release the student and file a report for follow-up
+
+<details>
+<summary>Answer</summary>
+
+**C) Request response of the Precinct NCO Sergeant or Patrol Supervisor; school personnel may NOT interfere with an arrest deemed warranted**
+
+P.G. 215-13 — Whether probable cause exists is determined by the Police Department. While school personnel's views may be considered, they are NOT controlling. Under no circumstances will school personnel be permitted to interfere with an arrest the NCO Sgt or Patrol Supervisor has deemed warranted. If the school administrator objects, advise them to contact their Legal Department.
+
+</details>

@@ -42,6 +42,33 @@
 | **10-68A** | Radio code: ACS CPS assistance request | P.G. 215-22 |
 | **10-84** | Radio code: arrival at ACS CPS scene | P.G. 215-22 |
 | **Section 1024 FCA** | Authorizes emergency removal of children | P.G. 215-22 |
+| **MAR BAR MAK + Gun** | Mnemonic for felonies making a 14/15-year-old a Juvenile Offender: Murder/Assault/Rape, Burglary/Arson/Robbery, Manslaughter/Agg Sexual Abuse/Kidnapping, + CPW 2nd within 1000 ft of school | P.G. 215-10 |
+| **S.C.A.M.** | Suspected Child Abuse or Maltreatment — the report (and procedure PG 215-03) for investigating and documenting child abuse/neglect cases | P.G. 215-03 |
+| **Paper Chase (6 Reports)** | The 6 documents prepared in a child removal case: Complaint Report, DIR, SCAM, Aided Report, Notice of Removal, Affidavit of Service. Only 3 are prepared if no removal (Complaint, DIR, SCAM). | P.G. 215-03 |
+| **Constructive Restraint** | Physical control with no restraining device, using minimal force necessary to control movement. Used for a child who is obeying commands. | P.G. 215-13 |
+| **Alternative Restraint** | Velcro device used as an alternative to metal handcuffs for possible safety/flight risk and/or non-compliant child. Used only by MOS trained in them; all SSAs carry and are trained. | P.G. 215-13 |
+| **Crisis Intervention Team** | School-based team that should be requested when responding to a student in emotional crisis. MOS should inquire about their involvement before engaging. | P.G. 215-13 |
+| **Deadly Weapon (9 types)** | 1 loaded weapon (shot can cause S.P.I./D.O.A.), 4 slappers (blackjack, billy, metal knuckles, plastic knuckles), 4 knives (switchblade, pilum ballistic, metal knuckle, dagger). Defined in Penal Law Section 10.00. | P.G. 215-10 |
+| **School Grounds** | For CPW 2nd degree JO purposes: inside school property line (elementary through high school) OR outside property line but within 1000 feet in a public place (includes parked vehicle). Penal Law Section 220.00 Sub 14. | P.G. 215-10 |
+| **SVU-IRST (Instant Response Tracking Unit)** | SVU unit that accepts law enforcement referrals from State Central Registry, determines appropriate police response, and may prepare complaint reports. | P.G. 215-03 |
+| **Safe Horizon** | Organization whose phone number is provided to the non-abusing parent/guardian for child services. | P.G. 215-03 |
+| **Juvenile Crime Desk** | Notified when a juvenile is removed to a Department facility. Assists supervisors in determining whether juvenile should be released on JR Worksheet or processed as JD. | P.G. 215-13 |
+| **10-90J(1)** | Radio disposition: D.I.R. made, no offense (child abuse "J" code) | P.G. 215-03 |
+| **10-92J** | Radio disposition: D.I.R. made, Arrest (child abuse "J" code) | P.G. 215-03 |
+| **10-93J** | Radio disposition: D.I.R. made, 61 Prepared (child abuse "J" code) | P.G. 215-03 |
+| **10-75F** | Radio disposition: Home visit | P.G. 215-03 |
+
+## Critical Numbers and Ages (Additional)
+
+| Number/Age | Significance | Source |
+|------------|-------------|--------|
+| **13-year-old JO** | Can ONLY be a JO for Murder 2nd degree, Subs 1 and 2 (Intentional and Deathly Reckless) | P.G. 215-10 |
+| **14- and 15-year-old JO** | Full MAR BAR MAK + Gun list applies | P.G. 215-10 |
+| **Under 12 (restraint)** | Metal cuffs should NOT be used without prior supervisor approval; NOT handcuffed to fixed objects | P.G. 215-13 |
+| **16 and above (restraint)** | Metal handcuffs used when necessary; alternative restraints will NOT be utilized | P.G. 215-13 |
+| **1000 feet** | Distance from school that defines "School Grounds" for CPW 2nd degree JO | P.G. 215-10 |
+| **24 hours** | Time limit for mailing Notice of Removal (UMOS) and Affidavit (D.O. to Family Court) | P.G. 215-03 |
+| **9** | Number of Deadly Weapons defined in Penal Law Section 10.00 | P.G. 215-10 |
 
 ## Key Forms
 
@@ -53,3 +80,7 @@
 | COMPLAINT REPORT WORKSHEET | PD313-152A | Criminal complaints involving juveniles |
 | MIRANDA WARNINGS FOR JUVENILE INTERROGATIONS | PD244-1413 | Juvenile questioning |
 | ON LINE BOOKING SYSTEM ARREST WORKSHEET | PD244-159 | Juvenile arrests |
+| DIR (DOMESTIC INCIDENT REPORT) | — | Child abuse cases involving DV; part of Paper Chase |
+| NOTICE — TEMPORARY REMOVAL OF CHILD AND RIGHT TO HEARING | — | Served on P/G or affixed to door when child is removed |
+| AFFIDAVIT OF SERVICE OF NOTICE | — | Documents who served/posted/mailed the Notice; D.O. countersigns and mails to Family Court |
+| SCHOOL SAFETY DIVISION CRIMINAL INCIDENT REPORT | — | SSA Level I-II documents police action on school grounds |
