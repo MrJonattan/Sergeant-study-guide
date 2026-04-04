@@ -249,6 +249,61 @@ To assist in the orderly removal of a person with a communicable disease.
 
 ---
 
-## P.G. 216-12
+## P.G. 216-12: School Crossing Guard (SCG) Injured Line of Duty
 
-*(Title and text unavailable in source PDF — review original Patrol Guide)*
+### Purpose
+
+To report and investigate injuries to School Crossing Guards sustained in the line of duty.
+
+### Procedure
+
+#### Uniformed Member of the Service
+- Request **Patrol Supervisor** to respond
+
+#### Patrol Supervisor
+- Interview School Crossing Guard (get hospital, EMS, and doctor info if removed)
+- Interview witnesses and have them make a **Witness Statement**
+- Document:
+  - **Employee's Notice of Injury (Law Department Form WCD 23)** — have SCG prepare in own handwriting, if possible, **2 copies**
+  - Submit to **C.O. of Precinct of occurrence** (breaks the chain of command)
+  - Have the UMOS prepare either an **Aided Report** or the **PAR**, if vehicle involved
+- Notify:
+  - Report circumstances to the Desk Officer
+  - If SCG brought to hospital, notify Ops promptly
+  - A **2nd notification** is required before final reports are prepared to update condition
+
+> **Exam Alert:** No LODI Report for Crossing Guards — it is a WCD 23 "Employee Notice of Injury" instead per P.G. 216-12.
+
+> **Exam Alert:** The WCD 23 is submitted to the **C.O. of the Precinct of occurrence** — this breaks the chain of command (not through the desk officer) per P.G. 216-12.
+
+#### Desk Officer
+- Document:
+  - Command Log entry regarding circumstances and result of investigation
+  - Report on Typed Letterhead (49) — attach a COPY of the Command Log entry and deliver to C.O.
+- Notify:
+  - Employee Resources Section (ERS), Civilian Employee Services Unit — **NEXT BUSINESS DAY**
+  - Operations — **WITHIN 24 HOURS**
+
+> **Exam Alert — Timely Reporting:** Desk Officer calls Operations within **24 hours**. C.O. directs "Supervisor's Report of Injury" within **48 hours** per P.G. 216-12.
+
+#### Commanding Officer
+- Forward 2 copies of (WCD 23, 49, and Witness Statement) to ERS, Attn: Civilian Employee Unit
+- Crossing Guard is **Not Paid** — keep Guard "on payroll, WITHOUT PAY" until they return and cause the "Election of Rate of Change Against Annual and/or Sick Leave Balances" form to be prepared
+- Notify ERS, Civilian Employee Unit when Guard returns to duty, goes sick again on this injury, and when returns again from that last sick
+- Document:
+  - Direct "Supervisor's Report of Injury" gets made within **48 hours**
+  - Direct "Report to Employee Benefits Unit" be prepared
+- C.O. directs that 3 reports get made (doesn't specifically say by whom):
+  1. Supervisor's Report of Injury — **WITHIN 48 HOURS**
+  2. Report to Employee Benefits Unit
+  3. Election of Rate of Change Against Annual and/or Sick Leave Balances
+
+#### Forms and Reports Summary
+
+| Who | Form/Report |
+|-----|-------------|
+| UMOS | Aided Report or PAR |
+| School Crossing Guard | Employee's Notice of Injury (WCD 23) — given to C.O. |
+| Desk Officer | Typed Letterhead (given to C.O.) |
+| Desk Officer | Command Log entry (given to C.O.) |
+| Witness | WITNESS STATEMENT — Injury To Member Of Department |

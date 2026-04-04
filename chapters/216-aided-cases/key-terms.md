@@ -16,6 +16,25 @@
 | QMHP | Qualified Mental Health Professional — licensed psychologist, certified social worker, or registered professional nurse eligible to direct a Section 9.58 removal | P.G. 216-22 |
 | Mobile Crisis Outreach Teams | Hospital/community-based teams funded by DOHMH that assess, stabilize, and refer patients | P.G. 216-22 |
 | ACT Teams | "Hospitals on wheels" — richly staffed mental health teams licensed by NYS Office of Mental Health; may order involuntary transport | P.G. 216-22 |
+| Opioids | Opiate, synthetic or otherwise — includes heroin, morphine, oxycodone, fentanyl, methadone, hydrocodone, codeine | P.G. 216-23 |
+| Fentanyl | Fast-acting synthetic opioid, 30-50x more powerful than heroin, 80-100x more powerful than morphine; can be absorbed through the skin | P.G. 216-23 |
+| Opioid Antagonist | FDA-approved drug (Naloxone/Narcan) that negates or neutralizes effects of an opioid; limited to meds approved by Dept of Health | P.G. 216-23 |
+| Naloxone (NLX) | NOT a controlled substance; possession is legal; does NOT establish probable cause to arrest | P.G. 216-23 |
+| Drug Paraphernalia | Items associated with narcotics use/preparation/storage (straws, scales, glassines, etc.); hypodermic needles are NOT classified as drug paraphernalia | P.G. 216-23 |
+| Stamps | Image/writing drug dealers use to ID their "brand"; located on wax folds or glassines | P.G. 216-23 |
+| PSNAR | NYS Public Safety Naloxone Administration Reporting — prepared by UMOS who administers NLX; given to Desk Officer | P.G. 216-23 |
+| ECMS | Enterprise Case Management System — ECT uploads overdose photos here | P.G. 216-23 |
+| 911 Good Samaritan Law | Protects from arrest for possessing controlled substance/paraphernalia/alcohol (under 21) when seeking help in good faith for drug/alcohol overdose | P.G. 216-23 |
+| School Crossing Guard LOD | No LODI Report; uses Employee's Notice of Injury (WCD 23) instead; SCG prepares in own handwriting if possible | P.G. 216-12 |
+
+## Mnemonics
+
+| Mnemonic | Meaning | Source |
+|----------|---------|--------|
+| **CHILD-ERS** | **C**hild, **H**omeless, **I**njured, **L**ost, **D**OA, **E**DP, **R**equires care, **S**ick — the 8 aided case categories | P.G. 216-01 |
+| **TED the M.D. from D.C.** | **T**echnician (Highway CIS), **E**SU, **D**octor/Paramedic/EMT, **M**edical examiner, **D**istrict attorney, **D**etective Bureau, **C**rime Scene Unit — persons who may disturb a dead body | P.G. 216-04 |
+| **I C no P.A.I.N.** | **I**dentified and **C**onscious, no **P**olice service, no dependent **A**dults/uncared children, no **I**nvestigation, no **N**otifications — Routine Sick at Home criteria (Activity Log only) | P.G. 216-01 |
+| **3 "UNs"** | **UN**-identified, **UN**-conscious, **UN**-sound mind (EDP) — ride in back of ambulance with aided | P.G. 216-01 |
 
 ## Key Forms and Reports
 
@@ -38,6 +57,9 @@
 | THREAT, RESISTANCE OR INJURY (T.R.I.) INCIDENT REPORT | — | Auxiliary police force incidents |
 | OMH 482 Form | OMH 482 | Mobile Crisis Team Authorization for Transport |
 | Section 9.58 Identification Card | — | QMHP identification for involuntary removal |
+| NYS Public Safety Naloxone Administration Reporting (PSNAR) | — | Prepared when UMOS administers NLX; emailed to Operations Division |
+| Opioid Antagonist Kit | — | Intranasal atomization devices, safety gloves, rescue breathing face shield, OA delivery devices |
+| Complaint Report (Overdose) | PD313-152 | "Investigate Aided-Drug Overdose" or "Investigate DOA-Possible Drug Overdose" |
 
 ## Critical Numbers and Time Limits
 
@@ -51,6 +73,12 @@
 | After-hours animal bite notification | **Poison Control Center** | P.G. 216-09 |
 | 9-8-8 Hotline availability | **24 hours/day, 7 days/week** in 200+ languages | P.G. 216-01 |
 | Rabies wound definition | Open wound that **bled within last 24 hours** | P.G. 216-09 |
+| NLX re-dose window | **3-5 minutes** — if no response to Naloxone, administer 1 additional dose | P.G. 216-23 |
+| Waterproof body covers in P/S car | **4** covers required | P.G. 219-01 |
+| SCG — D.O. notify Operations | **Within 24 hours** | P.G. 216-12 |
+| SCG — Supervisor's Report of Injury | **Within 48 hours** (C.O. directs) | P.G. 216-12 |
+| 3 triggers for detective squad (OD) | DOA, Likely to die, or Naloxone administered | P.G. 216-23 |
+| 3 requirements to close UF 61 (DOA) | Identified, ME says natural, relatives present and notified | P.G. 216-04 |
 
 ## Critical Notification Contacts
 

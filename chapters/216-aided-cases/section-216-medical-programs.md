@@ -28,9 +28,9 @@ To account for and properly document the use of Automated External Defibrillator
 
 **UTILIZATION OF AED** — Once an AED is **placed on an aided**, the Department considers that as utilized, **even if a shock is not administered**. When the AED pads are placed on an aided, the machine will perform an analysis and advise what actions should be taken.
 
-> **Exam Alert:** "Utilized" means pads are placed on the patient — a shock does NOT need to be delivered for it to count as utilized.
+> **Exam Alert:** "Utilized" means pads are placed on the patient — a shock does NOT need to be delivered for it to count as utilized. Once AED pads are **placed on aided**, whether you shock or not, it is considered **USED** per P.G. 216-19.
 
-**CARDIO PULMONARY RESUSCITATION (CPR) ADMINISTERED** — The Department considers CPR administered once a member performs rapid chest compressions or mouth-to-mouth ventilation on an aided.
+**CARDIO PULMONARY RESUSCITATION (CPR) ADMINISTERED** — The Department considers CPR administered once a member performs rapid **chest compressions** OR **mouth-to-mouth** ventilation on an aided. Either one counts as CPR per P.G. 216-19.
 
 ### AED Kit Contents
 
@@ -56,6 +56,8 @@ To account for and properly document the use of Automated External Defibrillator
 | 4a | Note assignment of AED kits by their serial numbers, with prefix "AED" (e.g., AED 1234) |
 | 5 | Ensure assignment of AED kits are noted on the roll call |
 | 6 | Secure AED kits not in use in appropriate location (e.g., radio room, property room) |
+
+> **Exam Alert:** AED serial numbers are prefixed with "AED" (e.g., AED 1234) in the Command Log. Ensure assignment is also documented on the **Roll Call** per P.G. 216-19.
 
 > **Sergeant Focus:** AED accountability happens **every tour** — the desk officer must account for all kits, assign them, notify dispatch, and make Command Log entries.
 
@@ -83,14 +85,14 @@ To account for and properly document the use of Automated External Defibrillator
 
 ### Prisoner AED/CPR Use
 
-> **Exam Alert:** If AED/CPR is administered on a **prisoner** in custody, a **MEDICAL TREATMENT OF PRISONER (PD244-150)** form will be completed **instead of** an AIDED REPORT.
+> **Exam Alert:** If AED/CPR is administered on a **prisoner** in custody, a **MEDICAL TREATMENT OF PRISONER (PD244-150)** form will be completed **instead of** an AIDED REPORT. This is the same distinction as Medic Alert emblems on prisoners per P.G. 216-19.
 
 ### Desk Officer — Post-Use (Steps 14-15)
 
 | Step | Action |
 |------|--------|
 | 14 | Telephone ESU desk to obtain an **AED/CPR Log number**; enter on AIDED REPORT or MEDICAL TREATMENT OF PRISONER form |
-| 14a | Forward copy of completed form to ESU-AED Coordinator via fax and Department mail to ESU, Attention: EMT School |
+| 14a | Forward copy of completed form to ESU-AED Coordinator via **fax** (to one person's attention) and **Department mail** to ESU, Attention: EMT School (mailed to another) |
 | 14b | Ensure AED is secured until delivery and is **not reassigned** |
 | 15 | Schedule appointment; ensure AED is delivered to ESU-AED Coordinator for downloading of information after each use |
 
@@ -103,7 +105,11 @@ To account for and properly document the use of Automated External Defibrillator
 
 ### Loss or Theft
 
-If an AED kit or its contents (except cloth/gauze compress and plastic gloves) are lost or stolen, comply with P.G. 219-20, "Loss or Theft of Department Property."
+If an AED kit or its contents (**except** cloth/gauze compress and plastic gloves) are lost or stolen, comply with P.G. 219-20, "Loss or Theft of Department Property."
+
+> **Exam Alert:** Replacement supplies = call ESU AED coordinator. Questions about training = call the Police Academy. Someone wants to donate an AED = confer with ESU per P.G. 216-19.
+
+> **See Also:** P.G. 305-08 — If trained in opioid antagonist kit, it is **mandatory** to carry it per P.G. 216-19.
 
 ### Key Forms
 

@@ -357,3 +357,147 @@ If the validity of a Section 9.58 involuntary removal is questioned, whom should
 
 P.G. 216-22 — Uniformed members of the service are reminded to contact the Legal Bureau if the validity of a removal is in question.
 </details>
+
+---
+
+## Question 21
+Using the CHILD-ERS mnemonic, which of the following is NOT one of the eight aided case categories?
+
+- A) Homeless individual
+- B) Prisoner requiring medical care
+- C) Lost person
+- D) Emotionally Disturbed Person
+
+<details>
+<summary>Answer</summary>
+
+**B) Prisoner requiring medical care**
+
+P.G. 216-01 — CHILD-ERS stands for: Child (runaway/abandoned/destitute/abused/neglected), Homeless, Injured, Lost, DOA, EDP, Requires care (due to arrest/hospitalization/death of guardian), Sick. Prisoners are specifically EXCLUDED from aided case definitions. Use the Medical Treatment of Prisoner form instead.
+</details>
+
+---
+
+## Question 22
+A uniformed member responds to a residence where an elderly person is conscious, identified, and complaining of feeling ill. There are no dependent adults or uncared-for children, and no other police service is needed. Using the "I C no P.A.I.N." mnemonic, what documentation is required?
+
+- A) Full Aided Report and Activity Log entry
+- B) Only a digital Activity Log entry
+- C) Complaint Report and Aided Report
+- D) No documentation required
+
+<details>
+<summary>Answer</summary>
+
+**B) Only a digital Activity Log entry**
+
+P.G. 216-01 — "I C no P.A.I.N." = Identified and Conscious, no Police service needed, no dependent Adults or uncared-for children, no Investigation needed, no Notifications required. All conditions are met, making this a "Routine Sick at Home" requiring only a digital Activity Log entry.
+</details>
+
+---
+
+## Question 23
+At a DOA scene, which of the following persons may disturb the body using the "TED the M.D. from D.C." mnemonic?
+
+- A) The patrol supervisor directing the investigation
+- B) A Highway District member on general patrol
+- C) A Technician/investigator from Highway's CIS (Collision Investigation Squad)
+- D) A nurse who happens to be on scene
+
+<details>
+<summary>Answer</summary>
+
+**C) A Technician/investigator from Highway's CIS (Collision Investigation Squad)**
+
+P.G. 216-04 — TED the M.D. from D.C.: Technician (Highway collision tech/investigator), ESU (subway/train tracks), Doctor/Paramedic/EMT, Medical examiner (or assistant), District attorney (or assistant), Detective Bureau/squad, Crime Scene Unit. A general Highway member or nurse is NOT authorized.
+</details>
+
+---
+
+## Question 24
+What three conditions must be met to close a UF 61 (Complaint Report) at the precinct level for a dead body case?
+
+- A) DOA identified, ME certifies death as natural, and detectives have completed investigation
+- B) DOA identified, ME certifies death as natural, and relatives are present and notified
+- C) DOA identified, Crime Scene Unit has processed scene, and desk officer has reviewed reports
+- D) DOA identified, Operations has been notified, and relatives have been contacted
+
+<details>
+<summary>Answer</summary>
+
+**B) DOA identified, ME certifies death as natural, and relatives are present and notified**
+
+P.G. 216-04 — To close the UF 61 at precinct level, all three must be met: (1) DOA is identified, (2) M.E. states cause is natural, and (3) relatives are present and notified.
+</details>
+
+---
+
+## Question 25
+A uniformed member arrives at a suspected overdose scene. The person is unresponsive and not breathing with no pulse. Naloxone was administered but the person has not responded within 3-5 minutes. What should the member do?
+
+- A) Administer CPR/AED only and wait for EMS
+- B) Administer 1 additional dose of Naloxone
+- C) Transport the person immediately via RMP
+- D) Request the patrol supervisor to determine next steps
+
+<details>
+<summary>Answer</summary>
+
+**B) Administer 1 additional dose of Naloxone**
+
+P.G. 216-23 — If person has NOT responded to Naloxone within 3-5 minutes, administer 1 additional dose. While waiting, administer CPR/AED if not breathing and no pulse.
+</details>
+
+---
+
+## Question 26
+At a suspected overdose scene, hypodermic needles are found. How should they be handled for evidence purposes?
+
+- A) Classify as drug paraphernalia evidence
+- B) Collect as evidence in the overdose investigation, but NOT as evidence of possession of drug paraphernalia
+- C) Leave them for EMS to dispose of in a sharps container
+- D) Place in the same security envelope with other drug evidence
+
+<details>
+<summary>Answer</summary>
+
+**B) Collect as evidence in the overdose investigation, but NOT as evidence of possession of drug paraphernalia**
+
+P.G. 216-23 — Hypodermic needles and syringes are advisable to collect at overdose scenes as evidence in an overdose investigation, but NOT as evidence of the crime of possession of drug paraphernalia. Hypo containers must be placed on a SEPARATE voucher and in a serialized Plastic Security Envelope (PSE) — no other evidence in the same envelope.
+</details>
+
+---
+
+## Question 27
+A School Crossing Guard is injured in the line of duty. What form replaces the LODI Report, and who prepares it?
+
+- A) Aided Report, prepared by the UMOS
+- B) Employee's Notice of Injury (WCD 23), prepared by the SCG in their own handwriting if possible
+- C) Supervisor's Report of Injury, prepared by the patrol supervisor
+- D) Unusual Occurrence Report, prepared by the desk officer
+
+<details>
+<summary>Answer</summary>
+
+**B) Employee's Notice of Injury (WCD 23), prepared by the SCG in their own handwriting if possible**
+
+P.G. 216-12 — There is no LODI Report for Crossing Guards. Instead, it is an Employee's Notice of Injury (WCD 23) prepared by the SCG in their own handwriting, if possible, in two copies. If unable, the patrol supervisor will prepare and submit it.
+</details>
+
+---
+
+## Question 28
+At a suspected overdose scene, when must the patrol supervisor request the detective squad to respond?
+
+- A) Only when the overdose is confirmed as fatal
+- B) When the person is DOA, likely to die, or Naloxone was administered
+- C) For all suspected overdoses, fatal and non-fatal
+- D) Only when fentanyl is suspected
+
+<details>
+<summary>Answer</summary>
+
+**B) When the person is DOA, likely to die, or Naloxone was administered**
+
+P.G. 216-23 — The patrol supervisor requests ECT (Evidence Collection Team) to respond to ALL overdoses. However, the detective squad is requested only for the three triggers: DOA, likely to die, or Naloxone was administered.
+</details>

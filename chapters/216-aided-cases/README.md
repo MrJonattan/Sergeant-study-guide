@@ -30,8 +30,9 @@ After studying this chapter, you should be able to:
 | [section-216-special-aided.md](section-216-special-aided.md) | 216-07, 216-08, 216-09, 216-10, 216-11, 216-12 (cross-ref) |
 | [section-216-auxiliary-transit-notifications.md](section-216-auxiliary-transit-notifications.md) | 216-13, 216-14, 216-15, 216-16 |
 | [section-216-medical-programs.md](section-216-medical-programs.md) | 216-17 (cross-ref), 216-18 (cross-ref), 216-19, 216-20, 216-21, 216-22 |
-| [key-terms.md](key-terms.md) | Definitions, forms, critical numbers |
-| [review-questions.md](review-questions.md) | 20 multiple-choice exam prep questions |
+| [section-216-overdose-incidents.md](section-216-overdose-incidents.md) | 216-23 |
+| [key-terms.md](key-terms.md) | Definitions, forms, mnemonics, critical numbers |
+| [review-questions.md](review-questions.md) | 28 multiple-choice exam prep questions |
 
 ## Study Tips
 
@@ -40,3 +41,7 @@ After studying this chapter, you should be able to:
 - Understand the difference between **988 hotline** referrals and EDP handling (P.G. 216-01).
 - Know when uniformed members **will NOT** respond (nursing homes, DOC facilities).
 - The **investigating supervisor hierarchy** for auxiliary police injuries (P.G. 216-13) is testable.
+- Learn the **CHILD-ERS** mnemonic for the 8 aided case categories and **I C no P.A.I.N.** for Routine Sick at Home.
+- Know **TED the M.D. from D.C.** for the 7 categories of persons who may disturb a dead body.
+- Understand the **3 triggers** for requesting detective squad at overdose scenes: DOA, likely to die, NLX administered.
+- Remember hypodermic needles are **NOT** drug paraphernalia and Naloxone is **NOT** a controlled substance.
