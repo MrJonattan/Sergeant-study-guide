@@ -5,33 +5,77 @@
 | Term | Definition |
 |------|-----------|
 | **CIMS** | Citywide Incident Management System — NYC's adaptation of NIMS/ICS |
-| **Command Element** | Individual(s) responsible for overall command function; may be Single or Unified |
+| **Command Element** | Individual(s) responsible for overall command function; may be Single or Unified. PG uses "Command Element" not "Incident Commander" because command may be shared with other agencies |
 | **Single Command** | One Primary Agency with one Incident Commander |
 | **Unified Command** | Multiple Primary Agencies, each with an Agency Incident Commander; all co-locate at one ICP |
+| **Single-CBRN** | Hybrid command type for Chemical, Biological, Radiological, Nuclear or HazMat incidents — NYPD is sole IC until no criminal/terror activity is determined, then reverts to Unified; Ops Section is Unified throughout |
 | **Primary Agency** | Agency designated by the Primary Agency Matrix to command the incident |
 | **Supporting Agency** | Agency assisting but not commanding |
 | **Coordinating Agency** | NYCEM — facilitates inter-agency coordination and support |
 | **Potential Primary Agency** | State/federal agencies with jurisdictional authority under specific conditions |
 | **Subject Matter Expert Agency** | Agency with technical expertise but no tactical personnel deployed |
-| **Core Competency** | Functional area of expertise assigned to one single agency |
+| **Core Competency** | Functional area of expertise assigned to one single agency — describes capability only, not management authority |
+| **OEM** | Former name for NYCEM (NYC Emergency Management); older exam questions may still use "OEM" |
+| **DCPI** | Deputy Commissioner of Public Information — preferred source for the PIO when NYPD is in command |
+| **MODULAR** | Key word describing CIMS structure — IC can run an operation alone or open any combination of staff positions as needed |
 
 ## Command Staff Positions
 
-| Position | Designation Authority (Override) |
-|----------|-------------------------------|
-| **Public Information Officer** | Mayor's Press Office may designate |
-| **Safety Officer** | Required by law at HazMat incidents |
-| **Liaison Officer** | NYCEM may designate |
+| Position | Designation Authority (Override) | Note |
+|----------|-------------------------------|------|
+| **Public Information Officer** | Mayor's Press Office may designate | Preferably from DCPI when NYPD is in command |
+| **Safety Officer** | No external override — IC designates | In Unified Command, each IC picks own; if all agree, may share one |
+| **Liaison Officer** | NYCEM may designate | NYCEM formerly known as OEM |
 
 ## General Staff Sections
 
-| Section | Chief Manages | Subordinate Elements |
-|---------|-------------|---------------------|
-| **Operations** | All tactical operations | Branches, Sectors (geographic), Groups (functional) |
-| **Planning** | Information collection, IAP preparation, resource tracking | Resources Unit, Situation Unit, Demobilization Unit, Documentation Unit |
-| **Logistics** | All service and support | Service Branch (Communications, Medical, Food), Support Branch (Supply, Facilities, Ground Support) |
-| **Finance/Administration** | Financial/administrative functions | Time Unit, Procurement Unit, Compensation/Claims Unit, Cost Unit |
-| **Intelligence/Investigations** | Investigative/intelligence operations | Intelligence Group, Surveillance/Evidence Group, Forensic Group, Missing/Unidentified Persons Group, Investigative Support Group |
+| Section | Chief Manages | Subordinate Elements | Memory Aid |
+|---------|-------------|---------------------|------------|
+| **Operations** | All tactical operations | Branches, Sectors (geographic), Groups (functional) | Sectors = Spatial; Groups = Given function |
+| **Planning** | Information collection, IAP preparation, resource tracking | Resources Unit, Situation Unit, Demobilization Unit, Documentation Unit | RSDD |
+| **Logistics** | All service and support | Service Branch (Communications, Medical, Food); Support Branch (Supply, Facilities, Ground Support) | Service = CMF; Support = SFG |
+| **Finance/Administration** | Financial/administrative functions | Time Unit, Procurement Unit, Claims Unit, Cost Unit | TPCC |
+| **Intelligence/Investigations** | Investigative/intelligence operations | Investigative Operations Group, Intelligence Group, Forensics Group, Electronic Communications/Surveillance/Evidence Group, Missing/Unidentified Person and Human Remains Group, Investigative Support Group | Groups only — no Branches, no Units |
+
+## Unified Command — Joint vs. Individual Picks
+
+| Jointly Picked (one for entire command) | Each IC Picks Own |
+|----------------------------------------|-------------------|
+| Public Information Officer | Safety Officer (each agency picks own) |
+| Liaison Officer | Operations Section Chief (each agency picks own) |
+| Planning Section Chief | — |
+| Logistics Section Chief | — |
+| Finance/Admin Section Chief | — |
+| Intelligence Section Chief | — |
+
+## Three Types of CIMS
+
+| Type | PG Section | Key Feature |
+|------|-----------|-------------|
+| **Single Command** | 220-04 | One IC from core agency; IC picks all staff |
+| **Unified Command** | 220-03 | Multiple Co-ICs; jointly pick most staff; each picks own Safety Officer and Ops Chief |
+| **Single-CBRN** | 220-02 | NYPD IC until no crime/terror determined; Ops Section is always Unified; nuclear weapon = Unified always |
+
+## Single Command Primary Agency Matrix (High-Frequency Exam Items)
+
+| Incident Type | Primary Agency |
+|--------------|---------------|
+| Civil Disturbance | NYPD |
+| EDP | NYPD |
+| Explosive Device / Bomb Threat | NYPD |
+| Fire | FDNY |
+| Hostage Incident | NYPD |
+| Sniper Incident | NYPD |
+| Special Event | NYPD |
+| Structural Collapse | FDNY |
+| Suspicious Package | NYPD |
+| Water/Ice Rescue | NYPD |
+| Auto Extrication | NYPD/FDNY (first to arrive) |
+| Boat in Distress | NYPD/FDNY (first to arrive) |
+| Confined Space Rescue | FDNY |
+| Downed Tree | Dept of Parks & Recreation / FDNY |
+| Elevator Incident | FDNY |
+| Correctional Facility Disturbance | DOC |
 
 ## Incident Facilities
 
@@ -134,6 +178,8 @@
 ## NYPD Single Command Incidents
 
 Civil Disturbance, EDP, Explosive Device/Bomb Threat, Hostage, Sniper, Special Event, Suspicious Package, Water/Ice Rescue
+
+*Note: Downed Tree, Elevator Incident, Confined Space Rescue, and Structural Collapse are NOT NYPD — commonly tested trap.*
 
 ## NYPD Core Competencies
 

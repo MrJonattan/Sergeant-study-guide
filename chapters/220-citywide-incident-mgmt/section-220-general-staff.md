@@ -26,6 +26,8 @@ To outline the duties of the Operations Section chief in CIMS.
 | **Sector** | Sector Supervisor | Geographic area of operations |
 | **Group** | Group Supervisor | Functional area of operations |
 
+> **Memory Aid — Sectors vs. Groups:** Think **S**ectors = **S**patially (geographic area). Think **G**roups = **G**iven function (functional area). *(PG 220-09)*
+
 ### Operations Section Post
 
 - Separate from the ICP (generally NOT co-located)
@@ -41,6 +43,10 @@ Activated when:
 Each Primary Agency designates an **Agency Operations Section chief** based on Core Competencies.
 
 > **Exam Alert:** The Operations Section directs **all tactical operations**. The Operations Section Post is generally **NOT co-located** with the ICP.
+
+> **Prior Test:** The Sergeant exam tested: "At a CBRN incident with suspected terrorism, who is the primary agency for overall site management?" — correct answer is **NYPD** (NYPD has the Core Competency for Overall Site Management and Assessment/Investigation at CBRN incidents). *(PG 220-02, 220-03)*
+
+> **See Also:** PG 220-03 — Core Competencies chart describing which agency handles which operational functions within the Unified Operations Section.
 
 ---
 
@@ -72,7 +78,13 @@ To outline the duties of the Planning Section chief in CIMS.
 | **Demobilization Unit** | Plan/execute orderly demobilization |
 | **Documentation Unit** | Maintain incident files and records |
 
+> **Memory Aid — Planning Units (RSDD):** **R**esources, **S**ituation, **D**emobilization, **D**ocumentation. The four units under the Planning Section. *(PG 220-10)*
+
 > **Exam Alert:** The **Planning Section** prepares the Incident Action Plan and the Demobilization Plan. The **Resources Unit** tracks resource status and performs the Check-In function.
+
+> **Exam Alert:** Planning Section has **no Branches and no Groups/Sectors** — only Units. If the Resources Unit is not activated, Check-In falls to the Planning Section Chief. If Planning is not activated, Check-In falls to the Command Element. *(PG 220-10, 220-24)*
+
+> **See Also:** PG 220-24 — Check-In process, where Planning Section's Resources Unit is the primary performer.
 
 ---
 
@@ -101,7 +113,17 @@ To outline the duties of the Logistics Section chief in CIMS.
 | **Service Branch** | Communications Unit, Medical Unit, Food Unit |
 | **Support Branch** | Supply Unit, Facilities Unit, Ground Support Unit |
 
+> **Memory Aid — Service Branch (CMF):** **C**ommunications, **M**edical, **F**ood. *(PG 220-11)*
+
+> **Memory Aid — Support Branch (SFG):** **S**upply, **F**acilities, **G**round Support. *(PG 220-11)*
+
 > **Exam Alert:** Logistics provides **service and support** (NOT tactical operations). Medical Unit provides care for **incident personnel**, not victims.
+
+> **Prior Test:** A recent exam asked: "Under what section would you find the Facilities Unit?" — The correct answer is **Logistics Section** (Support Branch), NOT the Command Element. Trick: "facilities" sounds like it could relate to ICP/infrastructure, but it is a Logistics subordinate unit. *(PG 220-11)*
+
+> **Exam Alert:** Logistics can have **both Branches AND Units** — it is the only non-Operations section that can have Branches. The Service Branch and Support Branch both report to the Logistics Section Chief. *(PG 220-11)*
+
+> **See Also:** PG 220-19 — Incident Facilities (ICP, Staging Area, etc.) — separate from the Logistics Facilities Unit.
 
 ---
 
@@ -132,6 +154,10 @@ To outline the duties of the Finance/Administration Section chief in CIMS.
 | **Compensation/Claims Unit** | Process injury claims |
 | **Cost Unit** | Track overall incident costs |
 
+> **Memory Aid — Finance/Admin Units (TPCC):** **T**ime, **P**rocurement, **C**laims, **C**ost. The four units under Finance/Administration. *(PG 220-12)*
+
+> **Exam Alert:** Finance/Admin has **no Branches and no Groups/Sectors** — only Units. If finance/admin tasks are minimal (only managing OT), this section may not be a full General Staff section and could reduce to one specialist under Planning. *(PG 220-12, step 1a)*
+
 ---
 
 ## P.G. 220-13: CIMS Intelligence/Investigations Section Chief
@@ -150,11 +176,14 @@ When there is a **considerable investigative or intelligence component**, the Co
 
 | Group | Function |
 |-------|----------|
+| **Investigative Operations Group** | Direct investigative operations |
 | **Intelligence Group** | Intelligence collection and analysis |
-| **Surveillance and Evidence Collection Group** | Surveillance operations, evidence collection |
-| **Forensic Group** | Forensic analysis and processing |
-| **Missing/Unidentified Persons Group** | Track missing or unidentified persons |
+| **Forensics Group** | Forensic analysis and processing |
+| **Electronic Communications, Surveillance and Evidence Group** | Surveillance operations, evidence collection |
+| **Missing/Unidentified Person and Human Remains Group** | Track missing or unidentified persons |
 | **Investigative Support Group** | Support investigative operations |
+
+> **Memory Aid — Intel Section Groups:** The Intel/Investigations Section has **Groups but no Branches and no Units** — it is the only General Staff section that can have Groups but no Branches. *(PG 220-13)*
 
 ### Intelligence/Investigations Section Post
 
@@ -162,3 +191,7 @@ When there is a **considerable investigative or intelligence component**, the Co
 - Located at a **secure location** within reasonable distance
 
 > **Exam Alert:** The Intelligence/Investigations Section may be organized as a **General Staff Section** (considerable component), an **Operations Branch/Group** (unusual), or a **Command Staff position/Planning function** (extremely unusual).
+
+> **PG Conflict:** The PG specifically calls out the Intelligence/Investigations Section as "optional" among General Staff sections. However, The Key notes this is misleading — in practice, **ALL** General Staff positions are optional. The IC picks only what is needed for the incident. The "optional" label on Intel/Invest is not unique. *(PG 220-01, 220-13)*
+
+> **See Also:** PG 220-09 — Operations Section, where Intel/Investigations may alternatively be placed as an Operations Branch or Group during unusual situations.

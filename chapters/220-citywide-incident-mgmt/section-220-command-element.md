@@ -31,6 +31,8 @@ To outline the duties of the Command Element in CIMS.
 | #3 — Investigative Operations | May run concurrently with Life Safety (with Command Element approval) |
 | #4 — Recovery/Restoration | Final mitigation; return to non-emergency; usually after Investigative Operations conclude |
 
+> **Memory Aid — LSIR:** **L**ife Safety → **S**ite Management → **I**nvestigative → **R**ecovery/Restoration. The four incident management priorities in order. *(PG 220-05)*
+
 ### Incident Objectives Must Be
 
 | Quality | Description |
@@ -72,6 +74,17 @@ To outline the duties of the Command Element in CIMS.
 |-----------|-------------|
 | **Single Command** | One Primary Agency designates one Incident Commander with overall responsibility |
 | **Unified Command** | Multiple Primary Agencies each designate an Agency Incident Commander; all co-locate at one ICP; jointly set objectives and create one IAP |
+
+> **Exam Alert:** In **Single Command**, the IC picks **their own people** to staff ALL positions below them. In **Unified Command**, the Co-ICs jointly pick most positions but each agency picks its own Safety Officer and Operations Chief. *(PG 220-04, 220-05)*
+
+> **Exam Alert:** Two possible exceptions to NYPD controlling Single Command staff:
+> - **Public Information Officer** — Mayor's Press Office has authority to step in and name the PIO
+> - **Liaison Officer** — NYCEM has authority to step in and designate the Liaison Officer
+> In both cases, NYPD should still try to make NYPD personnel the PIO/Liaison (preferably DCPI for PIO), or at minimum the **assistant** to whoever is designated. *(PG 220-06, 220-08)*
+
+> **See Also:** PG 220-06 — Public Information Officer designation rules including Mayor's Press Office authority.
+
+> **See Also:** PG 220-08 — Liaison Officer designation rules including NYCEM authority.
 
 ### Span of Control
 
@@ -118,3 +131,9 @@ Direction may only be given through the established Chain of Command (absent eme
 > **Exam Alert:** In Unified Command, Agency Incident Commanders are at **equal authority** regardless of agency rank.
 
 > **Sergeant Focus:** A Sergeant arriving first at a multi-agency incident may serve as the initial Command Element/Incident Commander until relieved through Transfer of Command by a higher-ranking officer.
+
+> **Exam Alert:** When minimal finance/admin tasks are required (e.g., only managing overtime), the Finance/Admin Section Chief position may **not** need to be a full General Staff Section. It could instead be one specialist working for the Planning Section Chief. *(PG 220-12, step 1a)*
+
+> **See Also:** PG 220-05 — Full Command Element duties including 34-step procedure for managing an incident.
+
+> **See Also:** PG 220-17 — Transfer of Command procedure and four options for ranking members arriving at a scene.

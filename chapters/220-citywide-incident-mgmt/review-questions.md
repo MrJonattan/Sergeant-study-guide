@@ -424,3 +424,173 @@ Under Management by Objectives, CIMS Incident Objectives must be Attainable, Mea
 NYPD Single Command incidents include: Civil Disturbance, EDP, Explosive Device/Bomb Threat, Hostage, Sniper, Special Event, Suspicious Package, and Water/Ice Rescue. Building collapse and structural fire are not NYPD Single Command; HazMat without crime is Unified Command. (P.G. 220-02)
 
 </details>
+
+---
+
+**26. Under a Unified Command, which of the following positions does each Agency Incident Commander pick independently (not jointly with other ICs)?**
+
+- A) Planning Section Chief
+- B) Logistics Section Chief
+- C) Safety Officer
+- D) Liaison Officer
+
+<details><summary>Answer</summary>
+
+**C) Safety Officer**
+
+In Unified Command, each IC independently picks their own Safety Officer and their own Operations Section Chief. PIO, Liaison Officer, Planning Section Chief, Logistics Section Chief, Finance/Admin Section Chief, and Intelligence Section Chief are all jointly picked by the Co-ICs. (P.G. 220-05, 220-07)
+
+</details>
+
+---
+
+**27. At a CBRN/HazMat incident involving suspected terrorism, which agency serves as the primary Incident Commander?**
+
+- A) FDNY
+- B) DEP
+- C) NYPD
+- D) NYCEM
+
+<details><summary>Answer</summary>
+
+**C) NYPD**
+
+When a CBRN/HazMat incident involves actual or suspected crime or terrorism, NYPD serves as the sole Incident Commander (Single Command). NYPD remains primary IC until it is determined there is no criminal or terrorist activity, at which point command reverts to Unified Command. (P.G. 220-02)
+
+</details>
+
+---
+
+**28. Which of the following incident types uses a Unified Command structure with FDNY, NYPD, PANYNJ, USCG, and NTSB as Potential Primary Agencies?**
+
+- A) Civil Disturbance
+- B) Aviation Incident
+- C) Rail Incident
+- D) Explosion
+
+<details><summary>Answer</summary>
+
+**B) Aviation Incident**
+
+Aviation Incidents use a Unified Command structure with FDNY and NYPD as Primary Agencies, and PANYNJ, USCG, and NTSB as Potential Primary Agencies/Subject Matter Experts. Rail Incidents use MTA, PANYNJ, NJT, Amtrak as PPAs. Explosions use DDC, DOB, HPD. (P.G. 220-02)
+
+</details>
+
+---
+
+**29. At a structural collapse incident, which agency is the Primary Agency?**
+
+- A) NYPD
+- B) FDNY
+- C) DOB
+- D) DDC
+
+<details><summary>Answer</summary>
+
+**B) FDNY**
+
+Structural Collapse is an FDNY Single Command incident. This question has been tested on the Sergeant exam. Other FDNY Single Command incidents include: Confined Space Rescue, Elevator Incident, Entrapment/Impalement, and Fire. (P.G. 220-02)
+
+</details>
+
+---
+
+**30. The General Staff Section Chief who uses the keyword "MODULAR" to describe how the Incident Commander can staff the incident is associated with which concept?**
+
+- A) The Incident Commander must use all five General Staff sections at every incident
+- B) The IC can run an operation with one or two people or any combination of staff positions
+- C) Only the Operations Section must always be activated
+- D) The Command Element always requires at least three Command Staff members
+
+<details><summary>Answer</summary>
+
+**B) The IC can run an operation with one or two people or any combination of staff positions**
+
+"MODULAR" is the keyword for how CIMS works — the structure is flexible and scalable. The IC can run an operation with one or two people or open any combination of staff positions as needed. No section is mandatory. (P.G. 220-01)
+
+</details>
+
+---
+
+**31. In a CBRN/HazMat incident that starts as NYPD Single Command, which agency is responsible for setting Hot, Warm, and Cold zones?**
+
+- A) NYPD
+- B) FDNY
+- C) DEP
+- D) DOHMH
+
+<details><summary>Answer</summary>
+
+**C) DEP**
+
+In Single-CBRN incidents, the Operations Section is Unified. DEP is responsible for Chemical — setting Hot, Warm, and Cold zones, and directing the mitigation effort. FDNY handles Life Safety, Search & Rescue, and Mass Decontamination. DOHMH handles Biological/Radiological zone-setting. NYPD handles overall site management and crime/terrorism assessment. (P.G. 220-02)
+
+</details>
+
+---
+
+**32. When the Finance/Administration Section Chief is not needed as a full General Staff section, which section may absorb its functions?**
+
+- A) Operations Section
+- B) Planning Section
+- C) Logistics Section
+- D) Intelligence/Investigations Section
+
+<details><summary>Answer</summary>
+
+**B) Planning Section**
+
+When minimal finance/admin tasks are required (e.g., only managing overtime), the Finance/Admin role may not be a full General Staff section. Instead, it could be one specialist person working for the Planning Section Chief (per PG 220-12, step 1a). (P.G. 220-12)
+
+</details>
+
+---
+
+**33. Under CIMS, which two General Staff sections can have Branches?**
+
+- A) Operations and Planning
+- B) Operations and Intelligence/Investigations
+- C) Operations and Logistics
+- D) Planning and Finance/Administration
+
+<details><summary>Answer</summary>
+
+**C) Operations and Logistics**
+
+Operations and Logistics can have Branches. Operations can also have Groups/Sectors. Planning, Finance/Admin can have Units only. Intelligence/Investigations can have Groups/Sectors only. Of the sections that can have Units, only Logistics can also have Branches. (P.G. 220-01)
+
+</details>
+
+---
+
+**34. The Downed Tree incident type designates which agency as the Primary Agency?**
+
+- A) NYPD
+- B) FDNY
+- C) DEP
+- D) Department of Parks & Recreation / FDNY
+
+<details><summary>Answer</summary>
+
+**D) Department of Parks & Recreation / FDNY**
+
+Downed Tree incidents are Primary Agency for Department of Parks & Recreation / FDNY. This is a Single Command incident that is often overlooked — it is not NYPD or FDNY alone. Correctional Facility Disturbance is DOC; Confined Space Rescue is FDNY. (P.G. 220-02)
+
+</details>
+
+---
+
+**35. Which agency has authority to designate the Liaison Officer in CIMS, and what is the history of that agency's name?**
+
+- A) Mayor's Press Office, formerly known as the Mayor's Communications Office
+- B) NYCEM, formerly known as OEM (Office of Emergency Management)
+- C) DCPI, formerly known as the Press Secretary
+- D) DSNY, formerly known as the Sanitation Commission
+
+<details><summary>Answer</summary>
+
+**B) NYCEM, formerly known as OEM (Office of Emergency Management)**
+
+NYCEM (NYC Emergency Management) has authority to designate the Liaison Officer. NYCEM was formerly known as OEM (Office of Emergency Management). Exam questions may use either name. The Mayor's Press Office designates the PIO, not the Liaison Officer. (P.G. 220-08)
+
+</details>
