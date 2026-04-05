@@ -258,3 +258,207 @@ D) 10 business days
 Members must request permission from the ITB Information Security Desk at least 5 business days prior to taking a Department mobile digital device to a foreign country. (P.G. 219-32)
 
 </details>
+
+---
+
+**16.** During the daily vehicle inspection, a patrol officer discovers the vehicle is in a sector that includes a body of water. Which life safety equipment is required?
+
+A) Life ring with rope attached
+B) Two vest-type life jackets
+C) Fire extinguisher and life ring
+D) Life ring and two vest-type life jackets
+
+<details><summary>Answer</summary>
+
+**B) Two vest-type life jackets**
+
+When an RMP is assigned to a sector with a body of water, two vest-type life jackets are required. A life ring with rope is required when the **command** itself borders or contains a body of water — this applies to all RMPs in that command, not just those in a specific sector. (P.G. 219-01)
+
+</details>
+
+---
+
+**17.** During a start-of-tour vehicle inspection, an operator finds a serious deficiency. The Platoon Commander is not available. To whom should the Patrol Supervisor report the serious deficiency?
+
+A) Desk Officer
+B) Operations Coordinator
+C) Commanding Officer
+D) Borough Commander
+
+<details><summary>Answer</summary>
+
+**C) Commanding Officer**
+
+In the absence of the Platoon Commander, the Patrol Supervisor reports serious vehicle deficiencies directly to the Commanding Officer — not to the Desk Officer. (P.G. 219-01)
+
+</details>
+
+---
+
+**18.** The weekly vehicle inspection requires the Lt. Platoon Commander to check which item that is NOT included in the operator's daily start-of-tour inspection?
+
+A) Tires and spare
+B) E-Z Pass tag serial number
+C) Visual Message Signs
+D) Portable radio
+
+<details><summary>Answer</summary>
+
+**C) Visual Message Signs**
+
+Visual Message Signs are specifically checked during the weekly inspection (219-02) but are NOT mentioned as part of the operator's daily (start-of-tour) inspection (219-01). This distinction has appeared on prior exams. (P.G. 219-02)
+
+</details>
+
+---
+
+**19.** A member of the service discovers that their computer password has been compromised. According to P.G. 219-14, who must be notified?
+
+A) Commanding Officer only
+B) Integrity Control Officer only
+C) Desk Officer/designated supervisor OR ICO
+D) Internal Affairs Bureau and the Desk Officer
+
+<details><summary>Answer</summary>
+
+**C) Desk Officer/designated supervisor OR ICO**
+
+If a password is compromised or misused, the member must notify the D.O./designated supervisor OR the ICO (comply with P.G. 207-21 regarding corruption). The procedure does not require notifying IAB directly. (P.G. 219-14)
+
+</details>
+
+---
+
+**20.** A UMOS loses a Department-issued NYCT MetroCard (Police Pass) in the confines of their command. Who investigates?
+
+A) ICO
+B) Commanding Officer
+C) Operations Coordinator
+D) Desk Officer
+
+<details><summary>Answer</summary>
+
+**C) Operations Coordinator**
+
+Loss or theft of a MetroCard (Police Pass) is processed per P.G. 219-20, where the Operations Coordinator conducts the investigation. Note the contrast: a **damaged** MetroCard is investigated by the **ICO** per P.G. 219-26. This distinction was tested on the 2017 Lieutenant's exam. (P.G. 219-20, 219-26)
+
+</details>
+
+---
+
+**21.** A UMOS loses their shield in Nassau County. Which Desk Officer must be notified first?
+
+A) Desk Officer at the pct of occurrence
+B) Desk Officer 50 Pct
+C) Desk Officer 105 Pct
+D) Operations Unit directly
+
+<details><summary>Answer</summary>
+
+**C) Desk Officer 105 Pct**
+
+Nassau and Suffolk County losses are reported to Desk Officer 105 Pct. Westchester, Putnam, Rockland, or Orange County losses go to Desk Officer 50 Pct. Losses outside those residence counties require notifying the Operations Unit directly. (P.G. 219-21)
+
+</details>
+
+---
+
+**22.** A commanding officer's firearm is lost and disciplinary action may be warranted. Before initiating a Command Discipline, the CO of the MOS concerned must:
+
+A) Notify IAB first and obtain a log number
+B) Consult with the Department Advocate
+C) Consult with the Legal Bureau
+D) File a report with the Chief of Department
+
+<details><summary>Answer</summary>
+
+**B) Consult with the Department Advocate**
+
+When a firearm is lost and discipline is contemplated, the CO of the MOS concerned MUST consult with the Department Advocate before initiating a CD or charges. This requirement applies specifically to firearms — not shields or ID cards. (P.G. 219-21)
+
+</details>
+
+---
+
+**23.** A member's firearm is lost in the confines of Police Headquarters (5th Precinct). The 61 is recorded by the 5th Precinct. Who conducts the investigation?
+
+A) The 5th Precinct Commanding Officer
+B) The Headquarters Security Unit
+C) A captain or above from the reporting member's command
+D) Internal Affairs Bureau
+
+<details><summary>Answer</summary>
+
+**C) A captain or above from the reporting member's command**
+
+When a loss occurs at Police Headquarters, the loss is reported to the HQ Security Unit (which records the 61), but the investigation is conducted by a captain or above from the **reporting member's own command**. A supervisor from HQ makes the notifications, and a captain or above from HQ investigates and prepares the reports. (P.G. 219-21)
+
+</details>
+
+---
+
+**24.** When the Commanding Officer of a MOS distributes the Lost/Stolen Firearm/Shield/ID Card Report (Part D), the distribution instructions are found where on the form?
+
+A) Top of the form
+B) Front of the form
+C) Bottom of the form
+D) Rear of the form
+
+<details><summary>Answer</summary>
+
+**D) Rear of the form**
+
+The C.O. of the MOS distributes Part D per the **REAR** of the form. The C.O./Duty Captain distributes Part C per the **BOTTOM** of the form. These are different distribution instructions and this distinction has appeared on prior exams. (P.G. 219-21)
+
+</details>
+
+---
+
+**25.** A CCRB requests information from a Department smartphone belonging to a member subject to a CCRB inquiry. The member notifies their ICO. The ICO then contacts which unit for guidance?
+
+A) Internal Affairs Bureau
+B) Legal Bureau
+C) Operations Unit
+D) Department Advocate's Office
+
+<details><summary>Answer</summary>
+
+**B) Legal Bureau**
+
+When CCRB requests smartphone information: UMOS notifies ICO → ICO contacts **Legal Bureau** for guidance → IAB's CCRB Liaison then processes the request. The chain is UMOS → ICO → Legal Bureau → IAB handles the CCRB response. (P.G. 219-32)
+
+</details>
+
+---
+
+**26.** An LPR device activates and shows a "hit" on a vehicle's license plate. Under what circumstance may the officer take law enforcement action WITHOUT first verifying through NYSPIN?
+
+A) Never — NYSPIN verification is always required
+B) When the LPR hot list was updated within the last 24 hours
+C) When there are additional reasons for a lawful stop, such as an observed VTL infraction
+D) Only when directed by a patrol supervisor
+
+<details><summary>Answer</summary>
+
+**C) When there are additional reasons for a lawful stop, such as an observed VTL infraction**
+
+NYSPIN verification is "absolutely essential" UNLESS: (1) there are additional reasons for a lawful stop such as an observed VTL infraction, OR (2) circumstances provide sufficient reasonable suspicion to justify a Terry Stop/Level 3 encounter. In those cases, enforcement may proceed without the NYSPIN check. (P.G. 219-31)
+
+</details>
+
+---
+
+**27.** An entry is made on a member's Force Record (10 card) after their firearm is reported lost. What date and time is used for the entry?
+
+A) Date and time the firearm was actually lost
+B) Date and time the member notified the Desk Officer
+C) Date and time of the Command Log Entry
+D) Date and time Part C of the Loss Form was completed
+
+<details><summary>Answer</summary>
+
+**C) Date and time of the Command Log Entry**
+
+The Force Record (10 card) entry uses the date and time of the **Command Log Entry** — NOT the date and time of the actual loss. This is a specific and frequently tested distinction. (P.G. 219-21)
+
+</details>

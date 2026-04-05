@@ -26,7 +26,9 @@ To ensure patrol kits containing personal protective equipment (PPE) are maintai
 | Receptacle | **32-gallon** biohazard receptacle at command |
 | Pickup | **Medical Division messenger** picks up regulated infectious waste |
 
-> **Exam Alert:** Regulated infectious waste is picked up by the **Medical Division messenger**, not sanitation or other units.
+> **Exam Alert:** Regulated infectious waste is picked up by the **Medical Division messenger**, not sanitation or other units. *(P.G. 219-17)*
+
+> **See Also:** P.G. 219-01 — Patrol Kit is required equipment in **Marked RMPs only**.
 
 ---
 
@@ -111,9 +113,11 @@ New Jersey Turnpike, New York State Thruway, Garden State Parkway, New England T
 | 4 | Notify Stolen Property Inquiry Unit of serial number |
 | 5 | CO investigates; forwards report to CO, Fleet Services Division |
 
-> **Exam Alert:** E-Z Pass tags are **NOT authorized** for the NJ Turnpike, NY State Thruway, Garden State Parkway, New England Thruway, or Tappan Zee Bridge.
+> **Exam Alert:** E-Z Pass tags are **NOT authorized** for the NJ Turnpike, NY State Thruway, Garden State Parkway, New England Thruway, or Tappan Zee Bridge. *(P.G. 219-25)*
 
-> **Exam Alert:** Commands may **NOT** transfer E-Z Pass tags between vehicles — Fleet Services Division must approve.
+> **Exam Alert:** Commands may **NOT** transfer E-Z Pass tags between vehicles — Fleet Services Division must approve. *(P.G. 219-25)*
+
+> **See Also:** P.G. 219-10 — Category I vehicles (leave the city regularly) use **velcro strips** for E-Z Pass tags instead of permanent double-sided tape.
 
 ---
 
@@ -181,11 +185,15 @@ To provide for the issuance, control, and strict accountability of NYCT NYPD OMN
 - Notation on PROPERTY RECEIPT — DISCONTINUANCE OF SERVICE (PD520-013)
 - Pass hand-delivered to Shield, ID and Uniformed Services Unit
 
-> **Exam Alert:** OMNY passes are NOT valid on **MTA express buses**. All other subway/bus use is permitted.
+> **Exam Alert:** OMNY passes are NOT valid on **MTA express buses**. All other subway/bus use is permitted. *(P.G. 219-26)*
 
-> **Exam Alert:** Passes are assigned to the **individual member**, NOT the command. Commands may NOT assign or reassign passes.
+> **Exam Alert:** Passes are assigned to the **individual member**, NOT the command. Commands may NOT assign or reassign passes. *(P.G. 219-26)*
 
-> **Exam Alert:** Unauthorized person using an OMNY pass can be charged with **theft of service** and **impersonation of a Police Officer**.
+> **Exam Alert:** Unauthorized person using an OMNY pass can be charged with **theft of service** and **impersonation of a Police Officer**. *(P.G. 219-26)*
+
+> **Prior Test (2017 Lt. Exam):** A MetroCard is **lost or stolen** — the **Ops Coordinator investigates** (per 219-20). A MetroCard is **damaged** — the **ICO investigates** (per 219-26). These are different investigators for different situations. *(P.G. 219-20, 219-26)*
+
+> **See Also:** P.G. 219-20 — Loss or Theft of Department Property: use this procedure for lost/stolen OMNY passes, with additional notifications to Transit Bureau Wheel and Shield, ID and Uniformed Services Unit.
 
 ---
 

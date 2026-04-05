@@ -16,6 +16,17 @@
 | **Radiation Detection Pager** | Device assigned to commands or individual members for detecting radiological threats; requires specific training |
 | **Ullage** | Remaining capacity in a fuel tank; tanks filled to 90% ullage |
 | **Regulated Infectious Waste** | Biohazard materials picked up by Medical Division messenger |
+| **OLBS** | Online Booking System — one of the systems ICO issues passwords for through Omniform |
+| **BADS** | Booking and Arraignment Desk System — ICO issues passwords through Omniform |
+| **LAPS** | LAPS system — ICO issues passwords through Omniform |
+| **VIB** | Vehicle Identification Box — in-vehicle transponder for automated fuel dispensing |
+| **CRALO** | Command Radio Auto Liaison Officer — holder of yellow fuel card |
+| **ERS** | Employee Resources Section — where member reports for replacement shield/ID after loss |
+| **SPIU / Stolen Property Inquiry Unit** | Unit notified to transmit alarm for lost/stolen Department property with identifying marks |
+| **ITB** | Information Technology Bureau — provides Mobility Tablet tech support 24/7; handles LPR repairs; telecommunications unit handles lost/stolen mobile devices |
+| **COG** | "Change of Gear" — the Digital Activity Log entry documenting vehicle inspection results (condition, odometer, gas gauge) |
+| **DAS** | Domain Awareness System — ICO audits 5 random members monthly for compliance |
+| **Focused Audit** | An audit of computer activity during a specific time period, requested by ICO or C.O. via 49 to Deputy Commissioner of IT |
 
 ## Fuel Card Colors
 
@@ -108,27 +119,51 @@
 | DEPARTMENT MOBILE DIGITAL DEVICE REPAIR/REPLACEMENT/RETURN REQUEST | PD589-163 | Phone repair/replacement |
 | PROPERTY RECEIPT — DISCONTINUANCE OF SERVICE | PD520-013 | Separation from service property return |
 
+## Lost/Stolen Firearm — County Notification Rules
+
+| Location of Loss | Who to Notify First |
+|-----------------|-------------------|
+| Within NYC | Desk Officer, Pct of occurrence |
+| Nassau or Suffolk County | Desk Officer **105 Pct** |
+| Westchester, Putnam, Rockland, or Orange | Desk Officer **50 Pct** |
+| Outside residence counties | **Operations Unit DIRECT** |
+
+## Lost/Stolen Firearm/Shield/ID — Report Parts
+
+| Part | Prepared By | Distribution |
+|------|------------|-------------|
+| Part A | MOS reporting loss | — |
+| Part B | D/O Pct of occurrence | — |
+| Part C | C.O. / Duty Captain | Per **BOTTOM** of form |
+| Part D | C.O. of MOS concerned | Per **REAR** of form |
+
 ## Key Contact Units
 
 | Unit | When to Contact |
 |------|----------------|
-| **Fleet Services Division** | Vehicle maintenance, E-Z Pass reassignment, defective tags |
+| **Fleet Services Division** | Vehicle maintenance, E-Z Pass reassignment, defective tags; loss of tire/tool from dept auto (3 copies of 49) |
 | **Building Maintenance Section** (24/7) | Emergency power outages — immediately |
-| **ITB Service Desk** | LPR repairs, FORMS outages |
+| **ITB Service Desk** (24/7) | LPR repairs, Mobility Tablet support |
 | **ITB Telecommunications Unit** | Lost/stolen/damaged mobile devices; callbox issues (Mon–Fri 0800–1600) |
-| **ITB Information Security Desk** | Foreign travel with Department phone (5 business days prior) |
+| **ITB Information Security Desk** | Foreign travel with Department phone (5 business days prior; list every country) |
 | **ITB Wheel** | Callbox issues after hours |
-| **Operations Unit** | Lost/stolen portable radio |
+| **Operations Unit** | Lost/stolen portable radio; also notified immediately for lost/stolen firearm/shield/ID card |
 | **Electronics Section** | Lost/stolen portable radio |
-| **Internal Affairs Bureau** | Lost/stolen Department property |
-| **Stolen Property Inquiry Unit** | Lost/stolen Department property alarms |
-| **Transit Bureau Wheel** | Lost/stolen OMNY pass |
+| **Internal Affairs Bureau** | Lost/stolen Department property; lost/stolen firearm/shield/ID |
+| **Stolen Property Inquiry Unit (SPIU)** | Lost/stolen Department property alarms; property with identifying marks |
+| **Transit Bureau Wheel** | Lost/stolen OMNY pass; also for lost/stolen MetroCard (NYCT Police Pass) |
+| **Employee Resources Section (ERS)** | Lost/stolen MetroCard (NYCT Police Pass) — forward 49 and Complaint Report; replacement shield/ID card |
 | **Shield, ID and Uniformed Services Unit** | OMNY pass issues; damaged/defective/lost/stolen passes |
-| **Patrol Borough Counterterrorism Coordinator** | Radiation pager repair/replacement |
-| **Citywide Counterterrorism Office** | Lost/stolen radiation pager |
+| **Patrol Borough Counterterrorism Coordinator** | Radiation pager repair/replacement instructions |
+| **Citywide Counterterrorism Office** | Lost/stolen radiation pager — notify immediately |
 | **Chief of Department's Vehicle Identification Unit** | Restricted Parking Permit applications/returns |
-| **Department Advocate's Office** | Consultation for discipline re: lost/stolen firearm |
-| **Employee Resources Section** | Replacement shield/ID card |
+| **Department Advocate's Office** | Consultation required before disciplinary action for lost/stolen FIREARM |
+| **Employee Resources Section** | Replacement shield/ID card after loss; also for LIRR/Metro North pass issues |
 | **Medical Division** | Regulated infectious waste pickup |
 | **Quartermaster Section** | AAA batteries for radiation pagers |
 | **DCAS Inspector** | Must sign heating oil delivery ticket |
+| **HQ Security Unit** | Loss occurs in 5th Precinct confines — reports loss here (5th records the 61) |
+| **PA Integrity Unit** | Loss occurs in 13th Precinct confines — reports loss here (13th records the 61) |
+| **Legal Bureau** | ICO contacts for CCRB smartphone requests; also handles Rosario/Discovery requests |
+| **Real Time Crime Center** | Can search past records of license plates queried by LPR |
+| **Telecommunications Unit** | Callbox notification Mon–Fri 0800–1600 |
