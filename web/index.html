@@ -724,6 +724,7 @@ const App = (function() {
         const items = block.trim().split('\n').map(l=>`<li>${l.replace(/^- /,'')}</li>`).join('');
         return `<ul>${items}</ul>`;
       })
+      .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
       .replace(/<details>\s*\n?\s*<summary>(.*?)<\/summary>/g, '</p><details><summary>$1</summary><div>')
       .replace(/<\/details>/g, '</div></details><p>')
       .replace(/\n{2,}/g, '</p><p>');
@@ -741,7 +742,7 @@ const App = (function() {
     }
     if (headings.length < 3) return '';
     return `<div class="chapter-toc"><div class="chapter-toc-title">Contents</div>${headings.map(h =>
-      `<a href="#${h.id}" class="${h.level>2?'indent':''}">${h.text}</a>`
+      `<a class="${h.level>2?'indent':''}" onclick="document.getElementById('${h.id}')?.scrollIntoView({behavior:'smooth'})">${h.text}</a>`
     ).join('')}</div>`;
   }
 

@@ -550,19 +550,29 @@ The following officer-level positions report directly to the desk officer (P.G. 
 - **Authorized persons ONLY:**
   - Members of the Service (MOS)
   - Judicial officers
-  - Medical Examiner (ME)
-  - Corporation Counsel
-  - Comptroller
-  - District Attorney (DA)
+  - Medical Examiner (ME) **or assistant**
+  - Corporation Counsel **or assistant**
+  - Comptroller **or assistant**
+  - District Attorney (DA) **or assistant**
   - Non-local law enforcement officers with a judicial warrant
+
+> **Exam Alert:** DA, ME, Corporation Counsel, and Comptroller each include their **assistants** as authorized. Judicial Officers do **NOT** include assistants. Know which four include assistants and which one does not (P.G. 202-18).
+
+> **Exam Alert:** According to this authorized list, the **Mayor is NOT allowed behind the desk**. The exam has tested this — do not assume high-ranking city officials are automatically authorized (P.G. 202-18).
+
+> **Exam Alert:** Non-local law enforcement officers are NOT permitted in non-public areas of any city property EXCEPT when they have a judicial warrant, are authorized pursuant to a cooperative agreement, further the purpose or mission of the Department, are required by law, or exigent circumstances exist. These two rules may appear to contradict each other — know both exist (P.G. 202-18).
 
 ### Facility Management
 
 - **SHALL** visit ALL areas of the command facility at least ONCE each tour
 - **SHALL** check restrooms and locker rooms for structural defects permitting visual access (privacy violations)
-- **SHALL** inspect parking facilities around the command (no illegal parking by MOS)
+- **SHALL** inspect parking facilities around the command (no illegal parking by MOS — includes Department vehicles and private vehicles with Restricted Parking Permits)
+- **SHALL** inspect for display of any offensive material
 - **SHALL** check Department computer systems frequently
 - **SHALL** check Department email at start of tour AND at the **4th hour** of the tour
+- **SHALL** make a Command Log entry of email inspection
+- **SHALL** monitor FINEST Messages affecting command and/or members of command
+- **SHALL** document facility inspection in Command Log AND take corrective action if necessary
 
 ### Direct Supervision
 
@@ -577,10 +587,92 @@ The desk officer directly supervises the following positions:
 | Arrest Processing Officer | P.G. 202-09 |
 | Community Guide | (community liaison) |
 
+> **Memory Aid — CAT PAC:** **C**lerk, **A**PO (Arrest Process Officer), **T**elephone **S**witchboard Operator, **P**atrol **W**agon Operator, **A**ttendant, **C**ommunity Guide. These six positions report directly to the Desk Officer (P.G. 202-18).
+
 ### When Leaving the Desk
 
 - **SHALL** sign name and time in the Command Log when leaving desk officer duties
 - Ensure proper relief before departing
+
+### Property Management
+
+- **SHALL** inspect property locker and ALL areas where invoiced property is held at the beginning of the tour
+- **SHALL** designate an MOS to conduct a "Physical Inventory" using FORMS Property (FORMS-P)
+  - FORMS-P system will generate an inventory number
+  - Enter results of inspection of invoiced property AND Property Clerk Division seals in the Command Log by documenting the "Physical Inventory" number from FORMS-P
+- Property stored in excess of **30 days** (31 days):
+  - Make a **SEPARATE** Command Log entry indicating invoices stored in excess of 30 days
+  - Notify the Operations Coordinator of the number of vouchers stored in excess of 30 days
+  - Expedite delivery of the invoiced property to its final storage location
+- Certify accuracy and completeness of Command Log Entry (CLE) concerning vouchered property
+
+> **Exam Alert:** When property is stored in excess of 30 days, the D.O. must make a **SEPARATE** Command Log entry (not just note it in the regular entry) AND notify the Operations Coordinator. These are two distinct actions the exam may test independently (P.G. 202-18).
+
+### US Flag
+
+- **SHALL** ensure US Flag is properly displayed from **sunrise to sunset** each day
+
+> **Prior Test:** A prior exam reversed the order to "sunset to sunrise." The correct answer is **sunrise to sunset** — the flag is NOT up in the dark. Watch for reversed wording (P.G. 202-18).
+
+### Civil Process
+
+- Accept service of civil process for member of command and notify member concerned, when principal administrative associate (PRAA) is not performing duty
+
+> **PG Conflict:** P.G. 211-21 says the D.O. accepts civil process regardless, but P.G. 202-18 mentions the PRAA condition — accept "when principal administrative associate not performing duty." Know both versions exist; the exam may reference either procedure (P.G. 202-18 vs. P.G. 211-21).
+
+### DAS (Domain Awareness System) — Start of Tour
+
+- Log into DAS and input the following:
+  - Tax numbers of ALL MOS on Roll Call
+  - Tour assignment (e.g., DVO)
+  - Vehicle number, if applicable
+
+### Notifications and Referrals
+
+- Query CPR System "Court Appearances" to ensure MOS required in court are properly notified and attending
+- Important matters, unusual arrests/occurrences — notify Commanding Officer
+- Trends observed or other important matters — confer with **C.E.O.**
+- Major incidents and/or special circumstances — notify Intelligence Bureau's Criminal Intelligence Section
+- Make required notifications to MOS assigned to OR residing in command
+
+> **Memory Aid — C.E.O.:** **C**ommanding Officer, **E**xecutive Officer, **O**perations Coordinator. These are the three officials the D.O. confers with regarding trends and important matters (P.G. 202-18).
+
+### Forms, Logs & Reports
+
+- Directly supervise: Prisoner Roster entries, issuance of summons books, paycheck distribution
+- Examine, sign, and forward forms and reports as required:
+  - **Telephone Dispatch Log (TDL):** Certify entries by signing after the **4th hour** and at **End of Tour (EOT)**
+  - Maintain Telephone Record
+- Make **Daily Vehicle Assignment Sheet** each tour
+  - Keep current month on clipboard behind desk
+  - 1st Platoon D.O. verifies sheets; have completed sheets filed after each month
+
+### Post Changes During the Tour
+
+- Record adjustments on CPR Roll Call AND make Command Log Entry
+- Notify: Patrol Supervisor, Telephone Switchboard Operator, Communications Dispatcher
+  - Examples: members returning from court or detail
+
+### End of Tour
+
+- Supervise platoon sign out at end of tour
+- Make a Command Log entry prior to EOT documenting:
+  - MOS injured (ID, condition, and location)
+  - Confirmed shots fired, any 10-13, or 10-85s (confirmed or unconfirmed)
+  - Missing persons requiring follow-up (include ID, age, and residence)
+  - Posts requiring relief (hospitalized prisoners and their locations, fixed posts)
+  - Reports requiring sign-off (number of 61s, TRIs, and PARs pending)
+  - Other pertinent info (e.g., RMP went out of service during tour)
+
+### 1st Platoon D.O. — Specific Duties
+
+- Examine and process forms/reports prepared and summonses issued during the previous 24 hours
+- Verify Daily Vehicle Assignment Sheet
+
+### Command Receptionist (Supervised by D.O.)
+
+- Verify arrival and departure of command receptionist by signing Personnel Schedule and Time Sheet
+- Forward command receptionist reports as required
 
 ### Key Exam Points — Desk Officer
 
@@ -591,6 +683,30 @@ The desk officer directly supervises the following positions:
 5. Memorize the list of persons authorized behind the desk
 6. Facility walk-through required at least ONCE per tour
 7. Restroom/locker room checks are for structural privacy defects
+8. Property >30 days requires a SEPARATE Command Log entry AND notification to Ops Coordinator
+9. US Flag: sunrise to sunset (NOT sunset to sunrise)
+10. TDL signed at 4th hour and EOT; email checked at start of tour and 4th hour
+11. End of tour Command Log entry must document specific categories of information
+
+> **See Also:** A.G. 324-17 — AWOL procedures (triggered after 2 hours unaccounted).
+
+> **See Also:** A.G. 322-20 — Attendance App Guidelines (D.O. queries Med Div Sick Reporting System).
+
+> **See Also:** P.G. 212-01 — Roll Call procedures (D.O. prepares CPR System Roll Call entries).
+
+> **See Also:** P.G. 211-21 — Service of Civil Process (compare with 202-18 PRAA condition).
+
+**Role Comparison — Desk Officer vs. Patrol Supervisor vs. Lt. Platoon Commander**
+
+| Feature | Desk Officer (202-18) | Patrol Supervisor (202-19) | Lt. Platoon Commander (202-26) |
+|---------|----------------------|---------------------------|-------------------------------|
+| **Key Phrase** | "Responsible for **police operations**" | "Supervise **field operations**" | "Responsible for **command operations**" |
+| **Location** | Inside command facility (at desk) | In the field | Oversees both |
+| **Scope** | All police operations in command during tour | All field operations in command during tour | All command operations during assigned platoon |
+| **Roll Call** | Prepares CPR System Roll Call | Conducts roll call 5 min after tour start | Causes necessary changes/adjustments |
+| **Meals** | Relieved by patrol supervisor for meal | Notifies TSO of meal location | Schedules meals so supervisor always on patrol |
+
+> **Exam Alert:** The exact wording matters — the D.O. is "responsible for **police** operations," the Patrol Supervisor "supervise[s] **field** operations," and the LPC is "responsible for **command** operations." One or two words could determine the correct answer (P.G. 202-18, 202-19, 202-26).
 
 ---
 
@@ -599,32 +715,86 @@ The desk officer directly supervises the following positions:
 > **Rank Requirement:** Must be a SERGEANT or above.
 > **Core Responsibility:** Supervise all police FIELD operations during the tour.
 
+### Attendance
+
+- **SHALL** comply with A.G. 322-20 Attendance App Guidelines at start of tour and End of Tour
+
+> **See Also:** A.G. 322-20 — Attendance App Guidelines.
+
 ### Roll Call
 
 - **SHALL** conduct roll call **5 minutes** after the start of the tour
 - Verify attendance, uniform compliance, equipment readiness
 
+> **See Also:** P.G. 212-01 — Roll Call procedures.
+
 ### Field Supervision — Mandatory Responses
 
-- **SHALL** immediately respond to:
-  - Weapons calls
-  - Serious crimes in progress
-  - Burglaries
-  - Emergencies
+- **SHALL** immediately respond to and direct activity at **WEBS** radio runs:
+  - **W**eapon calls
+  - **E**mergencies
+  - **B**urglaries
+  - **S**erious crimes in progress
 - Response is MANDATORY, not discretionary
+- Make appropriate digital Activity Log entries
+- If Patrol Supervisor is unavailable, radio will immediately dispatch a patrol supervisor from an adjoining command
+
+> **Memory Aid — WEBS:** **W**eapon, **E**mergency, **B**urglary, **S**erious crime. These are the four categories of radio runs requiring immediate Patrol Supervisor response (P.G. 202-19).
+
+> **Exam Alert:** The exam tests whether you know the WEBS categories. If a radio run does not fall into one of these four, the P/S response is not mandatory under this provision (P.G. 202-19).
+
+### Supervision of MOS
+
+- **SHALL** supervise MOS performance of duty
+  - Test knowledge of command conditions
+  - Closely evaluate activity
+- **SHALL** use Neighborhood Policing App to supervise/conduct neighborhood policing functions, as applicable
+- **SHALL** report derelictions of duty to the C.O.
 
 ### Patrol Visits
 
 - **SHALL** visit foot and RMP patrol posts **FREQUENTLY** at **IRREGULAR** intervals
 - **SHALL** visit hospital and special posts at least **ONCE** each tour
-- **SHALL** ensure members do NOT congregate or engage in unnecessary conversation
-- **SHALL** use AVL (Automatic Vehicle Locator) in DAS (Domain Awareness System) to monitor RMP locations
+- **SHALL** ensure members do NOT congregate or engage in unnecessary conversation while on post, absent police necessity
+- Document visit in Digital Activity Log: enter name, time, assignment of member visited; sign digital Activity Log of UMOS visited
+
+> **Exam Alert:** 1st Platoon "cooping" enforcement — the P/S should visit various locations at different times to ensure UMOS are performing duty at all times. This is a common 1st Platoon supervisory concern (P.G. 202-19).
+
+### Meal
+
+- **SHALL** notify the Telephone Switchboard Operator of meal location
+- **SHALL** relieve the Lt. Platoon Commander or D.O. for meal when designated
+
+> **Exam Alert:** The Patrol Supervisor has TWO meal-related duties: (1) notify the Telephone Switchboard Operator of meal location, and (2) relieve the LPC or D.O. for meal when designated. Meal relief is NOT an emergency (P.G. 202-19).
 
 ### Vehicle and Safety Oversight
 
-- **SHALL** report serious seatbelt deficiencies to the platoon commander
+- **SHALL** use AVL in the Domain Awareness System (DAS) to monitor RMP locations for UMOS safety and ensure proper delivery of police service
+  - If AVL is not working: notify D.O.
+  - Do NOT put RMP out of service unless directed by IAB or Fleet Services Division (FSD)
+- **SHALL** supervise inspection of Department vehicles assigned to members of platoon
+- **SHALL** report serious seatbelt deficiencies to the Lt. Platoon Commander (or if absent, direct to C.O.)
+  - If seatbelt defects are not consistent with normal usage, take appropriate action
 - **SHALL** report seatbelt vandalism to the Internal Affairs Bureau (IAB)
+  - Be vigilant for indication of disabling or improper use (buckling behind occupant's body or seat)
 - **SHALL** evaluate driving habits of subordinates and take corrective action when needed
+- Scooter Operator: direct operator to Platoon Commander or D.O. for reassignment when weather/road conditions are dangerous
+
+### Investigations and Reports
+
+- Conduct investigations and submit reports as required, including injuries to MOS (uniformed and civilian) or damage to Department property
+- **SHALL** review and sign Officer Profile Report of P.O.s/detective specialists, monthly
+- Make required entries
+- Deliver to Platoon Commander for review by the **5th day** for the previous month
+
+### Notifications and Consultations
+
+- Current matters of importance: notify Lt. Platoon Commander or D.O.
+- Matters of mutual importance or trends: confer with C.O./X.O./Operations Coordinator, Lt. Platoon Commander/D.O., and NCO Sergeant
+- Crime and conditions: be cognizant and instruct officers regarding activity affecting their sector/posts
+- Recommendations for special assignment: submit to C.O. in writing for members under supervision (special assignment, detective designation, or change in assignment)
+
+> **Exam Alert:** "Command Disciplines" in the context of the P/S most likely refers to the issuance of CDs (Command Disciplines) and the concept of a skipped chain of command. Know that the P/S reports derelictions to the C.O. (P.G. 202-19).
 
 ### Administrative Duties
 
@@ -634,12 +804,17 @@ The desk officer directly supervises the following positions:
 ### Key Exam Points — Patrol Supervisor
 
 1. Roll call is 5 minutes after tour start
-2. Must respond to weapons/serious crimes/burglaries/emergencies
+2. Must respond to WEBS radio runs: Weapon, Emergency, Burglary, Serious crime
 3. Patrol visits must be FREQUENT and IRREGULAR (predictable patterns defeat the purpose)
 4. Hospital/special posts visited at least ONCE per tour
 5. Seatbelt deficiencies go to platoon commander; seatbelt VANDALISM goes to IAB
 6. Officer Profile Reports due by the 5th of each month
 7. AVL/DAS is the tool for monitoring RMP locations remotely
+8. Meal: notify TSO of location AND relieve LPC or D.O. when designated
+9. If P/S unavailable, radio dispatches P/S from adjoining command immediately
+10. Non-functioning AVL: notify D.O.; do NOT put RMP out of service unless directed by IAB or FSD
+
+> **Exam Alert:** D.O. vs. Patrol Supervisor — "1 or 2 words could matter." The D.O. is "**responsible** for **police** operations." The P/S "**supervise[s]** **field** operations." The verbs and adjectives differ. The exam may swap these to create a wrong answer (P.G. 202-18 vs. 202-19).
 
 ---
 
@@ -730,6 +905,8 @@ This role requires balancing proactive intelligence gathering with legal and pol
 
 The platoon commander is the sergeant's immediate supervisor in many commands. Understanding the LT's responsibilities helps sergeants anticipate what information will be requested and what standards will be enforced. The meal-scheduling rule (always maintain supervisor coverage) directly affects sergeant assignments.
 
+> **Exam Alert:** The LPC is "responsible for **command** operations" during the assigned tour. Compare with the D.O. ("responsible for **police** operations") and P/S ("supervise **field** operations"). The LPC may direct members to perform duty in plainclothes only when directed by the C.O. (P.G. 202-26).
+
 ---
 
 ## P.G. 202-27: Special Operations Lieutenant
@@ -747,6 +924,10 @@ The platoon commander is the sergeant's immediate supervisor in many commands. U
 
 NST supervisors and CRT supervisors report through the special operations lieutenant. Understanding this chain of command is essential for sergeants assigned to specialized units.
 
+> **See Also:** P.G. 202-29 — Integrity Control Officer (ICO), who monitors command compliance.
+
+> **See Also:** P.G. 202-12 — Command Auxiliary Police Coordinator (Auxiliary Police Program).
+
 ---
 
 ## P.G. 202-28: Operations Coordinator
@@ -763,6 +944,8 @@ NST supervisors and CRT supervisors report through the special operations lieute
 ### Sergeant Relevance
 
 The operations coordinator is a key administrative contact for sergeants needing resource allocation, scheduling changes, or operational guidance.
+
+> **Exam Alert:** The Operations Coordinator supervises the Crime Analysis Sergeant. Know this chain — the exam may ask who the Crime Analysis Sergeant reports to (P.G. 202-28).
 
 ---
 
@@ -947,6 +1130,7 @@ This is a direct sergeant assignment. The QOL Sergeant balances enforcement with
 | Feature | Desk Officer (202-18) | Patrol Supervisor (202-19) | NST Supervisor (202-20) | CRT Supervisor (202-36) |
 |---------|----------------------|---------------------------|------------------------|------------------------|
 | **Minimum Rank** | Sergeant | Sergeant | Sergeant | Sergeant |
+| **Key Phrase** | "Responsible for **police** operations" | "Supervise **field** operations" | Solely assigned to NST | Solely assigned to CRT |
 | **Scope** | ALL command operations | ALL field operations | NST unit only | CRT unit only |
 | **Location** | Inside command facility | In the field | In the field | In the field |
 | **Solely Assigned** | Yes (at desk) | Yes (to field) | YES (mandatory) | YES (mandatory) |
@@ -970,6 +1154,8 @@ This is a direct sergeant assignment. The QOL Sergeant balances enforcement with
 | **5 blocks** | RMP must respond to serious emergency within this range | 202-02 |
 | **Once per tour** | Minimum facility walk-through (Desk Officer) | 202-18 |
 | **Once per tour** | Minimum hospital/special post visit (Patrol Supervisor) | 202-19 |
+| **30 days** | Property storage threshold triggering separate CLE and Ops Coordinator notification | 202-18 |
+| **4th hour + EOT** | TDL signing times for Desk Officer | 202-18 |
 
 ---
 
@@ -1003,6 +1189,22 @@ This is a direct sergeant assignment. The QOL Sergeant balances enforcement with
 | **CO** | Commanding Officer | Head of a precinct/command (P.G. 202-33) |
 | **FIO** | Field Intelligence Officer | Gathers and analyzes field intelligence; supervised by Field Intelligence Sergeant (P.G. 202-16) |
 | **A.G.** | Administrative Guide | Internal NYPD administrative procedures; A.G. 324-17 governs AWOL reporting |
+| **PRAA** | Principal Administrative Associate | Civilian member who normally accepts civil process; D.O. accepts when PRAA is not performing duty (P.G. 202-18) |
+| **TDL** | Telephone Dispatch Log | D.O. certifies entries by signing after 4th hour and at End of Tour (P.G. 202-18) |
+| **FSD** | Fleet Services Division | Receives reports of defective gas pumping equipment; directs RMP out-of-service decisions with IAB (P.G. 202-18, 202-19) |
+| **ITB** | Information Technology Bureau | D.O. notifies ITB Service Desk when AVL is non-functioning (P.G. 202-18) |
+| **FORMS-P** | FORMS Property | System used for physical inventory of property locker; generates inventory number (P.G. 202-18) |
+
+---
+
+## Mnemonics & Memory Aids
+
+| Mnemonic | Stands For | Context |
+|----------|-----------|---------|
+| **CAT PAC** | **C**lerk, **A**PO (Arrest Process Officer), **T**elephone **S**witchboard Operator, **P**atrol **W**agon Operator, **A**ttendant, **C**ommunity Guide | The six positions directly supervised by the Desk Officer (P.G. 202-18) |
+| **WEBS** | **W**eapon, **E**mergency, **B**urglary, **S**erious crime | The four categories of radio runs requiring immediate Patrol Supervisor response (P.G. 202-19) |
+| **C.E.O.** | **C**ommanding Officer, **E**xecutive Officer, **O**perations Coordinator | The three officials the D.O. confers with regarding trends and important matters (P.G. 202-18) |
+| **I.A.D.I.E.** | **I**dentify, **A**nalyze, **D**esign, **I**mplement, **E**valuate | Problem-solving model used by the Special Operations Lieutenant (P.G. 202-27) |
 
 ---
 
@@ -1327,6 +1529,118 @@ D. The officer may conduct the operation only during the first platoon
 
 ---
 
+### Question 16
+**Which of the following persons is authorized behind the desk at a precinct station house?**
+
+A. The Mayor of New York City
+B. An assistant to the District Attorney performing official duties
+C. An assistant to a Judicial Officer performing official duties
+D. A City Council member representing the precinct's district
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 202-18, the DA and their assistant are authorized behind the desk. The Mayor, City Council members, and assistants to Judicial Officers are NOT authorized. DA, ME, Corporation Counsel, and Comptroller each include their assistants; Judicial Officers do NOT include assistants.
+</details>
+
+---
+
+### Question 17
+**The US Flag at the command is required to be displayed during which hours?**
+
+A. Sunset to sunrise
+B. Sunrise to sunset
+C. 0600 to 2400 hours
+D. At all times, 24 hours a day
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 202-18, the desk officer shall ensure the US Flag is properly displayed from sunrise to sunset each day. A prior exam reversed the order to "sunset to sunrise" — the flag is NOT up in the dark. Watch for this reversal in answer choices.
+</details>
+
+---
+
+### Question 18
+**The desk officer discovers that invoiced property has been stored in the property locker for 35 days. What action is required?**
+
+A. Notify the Commanding Officer and make a notation in the Command Log
+B. Make a separate Command Log entry and notify the Operations Coordinator
+C. Contact the Property Clerk Division and request immediate pickup
+D. Notify the Integrity Control Officer and make a Command Log entry
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 202-18, when property is stored in excess of 30 days, the desk officer must make a SEPARATE Command Log entry indicating invoices stored in excess of 30 days AND notify the Operations Coordinator of the number of vouchers. Additionally, expedite delivery to the final storage location.
+</details>
+
+---
+
+### Question 19
+**Which of the following BEST describes the core responsibility of the Patrol Supervisor?**
+
+A. Responsible for all police operations in the command during the tour
+B. Responsible for all command operations during the assigned tour
+C. Supervise all police field operations in the command during the tour
+D. Direct all police operations in the field during the tour
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 202-19, the Patrol Supervisor "supervise[s] all police field operations in command during tour." Choice A describes the Desk Officer ("responsible for police operations"), and choice B describes the Lt. Platoon Commander ("responsible for command operations"). The exact wording — "supervise" vs. "responsible for," and "field" vs. "police" vs. "command" — is critical.
+</details>
+
+---
+
+### Question 20
+**The Patrol Supervisor must immediately respond to and direct activity at radio runs involving which of the following categories?**
+
+A. Weapons, Emotionally Disturbed Persons, Burglaries, Serious crimes
+B. Weapons, Emergencies, Break-ins, Suspicious persons
+C. Weapons, Emergencies, Burglaries, Serious crimes
+D. Weapons, Emergencies, Burglaries, Shots fired
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 202-19, the Patrol Supervisor must immediately respond to WEBS radio runs: Weapon, Emergency, Burglary, Serious crime. The mnemonic WEBS captures all four categories. EDPs, suspicious persons, and shots fired are not part of this mandatory response list.
+</details>
+
+---
+
+### Question 21
+**Regarding the Patrol Supervisor's meal, which of the following is correct?**
+
+A. The P/S notifies the Desk Officer of meal location and relieves the Platoon Commander
+B. The P/S notifies the Telephone Switchboard Operator of meal location and relieves the LPC or D.O. when designated
+C. The P/S notifies the Communications Dispatcher of meal location
+D. The P/S takes meal at the command facility without notification
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 202-19, the Patrol Supervisor notifies the Telephone Switchboard Operator of meal location AND relieves the Lt. Platoon Commander or D.O. for meal when designated. The notification goes to the TSO, not the D.O. or dispatcher.
+</details>
+
+---
+
+### Question 22
+**P.G. 202-18 states the desk officer should accept service of civil process "when the principal administrative associate is not performing duty." P.G. 211-21 addresses the same topic differently. Which of the following is the BEST approach for the exam?**
+
+A. Follow P.G. 211-21 exclusively as it is the more specific procedure
+B. Follow P.G. 202-18 exclusively as it governs desk officer duties
+C. Know that a conflict exists between the two procedures and be prepared for either version
+D. The procedures do not conflict — they address different situations
+
+<details>
+<summary>Answer</summary>
+
+**C.** P.G. 211-21 says the D.O. accepts civil process regardless (no mention of the PRAA condition), while P.G. 202-18 includes the condition "when principal administrative associate not performing duty." This is a known PG conflict. The exam may reference either procedure number, so know both versions exist.
+</details>
+
+---
+
 # Section 207 — Complaints
 
 ## Source
@@ -1422,11 +1736,15 @@ Covers P.G. 207-01, 207-02, 207-03, 207-04, 207-05, 207-09, 207-34
 
 | Term | Definition |
 |------|-----------|
-| **Complaint** | A report of an alleged criminal offense or other matter requiring police attention |
-| **Pick-Up Arrest** | An arrest of a person wanted by another command or agency |
-| **Continuous Event** | A crime or series of related crimes spanning multiple locations or jurisdictions |
-| **Incident** | A single event or occurrence reported in a complaint |
-| **Offense** | A specific criminal charge; up to **10 offenses** may be recorded per incident |
+| **Complaint** | Allegation of an unlawful or improper act or omission, OR other condition requiring investigation to determine if an unlawful act or omission occurred |
+| **Pick-Up Arrest** | An arrest for an offense or juvenile delinquency **NOT previously reported** |
+| **Continuous Event** | Offense or multiple offenses committed against a complainant; an ongoing situation occurring in different precincts and/or boroughs |
+| **Incident** | Event where one or more criminal offenses were committed against one or more victims by one or more offenders |
+| **Offense** | A single criminal act within an incident; up to **10 offenses** may be recorded per incident |
+
+> **Exam Alert:** When more than 10 offenses occur within a single incident, only the **10 most serious** offenses are recorded. This ties into the NIBRS hierarchy rules.
+
+> **Exam Alert:** If space is insufficient to complete entries (property, details, etc.) on the Complaint Report Worksheet, use **additional Complaint Report Worksheets**. The worksheet accommodates 1 victim and 2 perps per worksheet.
 
 ### Where Complaints Are Recorded
 
@@ -1436,27 +1754,75 @@ The general rule: complaints are recorded in the **PRECINCT OF OCCURRENCE**.
 
 | Situation | Recorded At |
 |-----------|-------------|
-| Vice/Narcotics/Organized Crime | **Specialty Enforcement Division** |
-| Vice exception: pick-up arrests | Precinct of **arrest** |
-| Vice exception: found drugs **IN** building | Precinct of **occurrence** |
-| Vice exception: found drugs 2 oz or less **NOT in** building | Precinct of **occurrence** |
+| Vice/Narcotics/Organized Crime | **Specialty Enforcement Division, Detective Bureau** |
+| Vice exception: pick-up arrests | Precinct of **arrest** (exception to the exception) |
 | Missing NYC residents | Missing person's **resident** precinct |
-| Piers/bulkheads/bodies in navigable waters | Precinct where **pier or bulkhead** is located |
-| Lost property | Precinct where complainant **FIRST discovered** the loss |
-| Overdue rental vehicles | Precinct where vehicle was **leased/rented** OR where it was **expected to be returned** |
+| Lost property (place of loss UNKNOWN) | Precinct where complainant **FIRST discovered** the loss |
+| Overdue leased/rental cars | Where **leased/rented** OR where **DUE to be returned** |
+| Continuous Events | See continuous event rules below |
+
+> **Exam Alert:** Pick-up arrests for Vice/Narcotics/Organized Crime are the "exception to the exception" -- they are recorded at the precinct of arrest, not at Specialty Enforcement Division.
+
+#### Special Circumstances (Listed Under Exceptions but NOT Actually Exceptions)
+
+| Situation | Recorded At |
+|-----------|-------------|
+| Piers and bulkheads | Precinct where **pier/bulkhead** is located |
+| DOA in navigable water | Precinct **bordering** the navigable water |
+| Waterway/island inaccessible to patrol | Precinct of record **after Harbor investigates** |
+
+#### Found Property Rules
+
+Found property is **not normally** recorded on a Complaint Report (61), with these exceptions:
+
+| Found Property Type | Rule |
+|---------------------|------|
+| Controlled substances or drug paraphernalia **IN a building** | Complaint Report at precinct of occurrence (Pct 61#) |
+| Controlled substances (2 oz or less) **outside a building** | Complaint Report at precinct ONLY IF found under circumstances requiring investigation (Pct 61#) |
+| Controlled substances (more than 2 oz) **outside a building** | Reported as a "narcotics offense" to Investigative Support Section, Real Time Crime Center (No Pct 61#, ISS serial # entered on Complaint Worksheet) |
+| Firearm (pistol, revolver, or dangerous weapon) | Complaint Report at precinct where found/possessed IF it requires further investigation |
+
+> **Exam Alert:** For controlled substances over 2 oz found outside a building, there is NO Pct 61# -- the ISS serial number is used instead. Per PG 207-08, UMOS make the 61; the D.O. directs UMOS to notify Real Time Crime Center.
+
+> **See Also:** PG 214-02 -- Narcotics Eviction Program (for possible eviction when controlled substances found in a building).
+
+### Rosario Material
+
+> **Exam Alert:** All Complaint Report Worksheets (scratch copies) are kept on file as **ROSARIO MATERIAL**. Per PG 207-34, all associated forms or reports (like OCRs) are filed/attached to the printed OMNI 61 to comply with discovery obligations.
 
 ### Continuous Event Rules
 
-- **General rule:** Record at the precinct of the **INITIAL** offense.
-- **Homicide exception:** Recorded where the **homicide occurred**, regardless of where the continuous event began.
-- **Rape 1st Degree exception:** Recorded where the **rape occurred**, regardless of where the continuous event began.
+> **Exam Alert:** Continuous event scenarios have appeared on **every test**. Examiners ask two independent questions: (1) WHERE to record -- what precinct and jurisdiction? (2) HOW to record -- what is the top charge? The answer to one has **NO bearing** on the other. Apply each rule separately.
+
+- **General rule:** Record at the precinct of **ORIGINATION** (where it started).
+- **TWO EXCEPTIONS** to the "where to record" rule:
+  1. **Homicide:** Recorded where the **homicide occurred**, if location is known. If unknown, record where body was found.
+  2. **Rape 1st Degree:** Recorded where the **rape occurred**, if known. If location of occurrence is unknown but location of origination is known (e.g., kidnapping), record at precinct of origination. If neither location is known, record where complainant reports the incident.
+
+> **Exam Alert:** Rape 1st Degree now includes Oral and Anal in addition to Vaginal -- the Criminal Sexual Act (CSA) has been repealed. Rape 1 Sub 1 = Force; Sub 2 = Physically Helpless; Sub 3 = Victim 10 or less; Sub 4 = Victim 12 or less AND Perp 18 or more.
+
+> **Exam Alert:** If Rape occurs in more than one precinct, record where the **initial rape** occurred.
+
+### Jurisdiction Codes
+
+| Code | Jurisdiction |
+|------|-------------|
+| **00** | NYPD (Patrol) |
+| **01** | Transit |
+| **02** | Housing |
+
+The jurisdiction code is determined by wherever the complaint is recorded based on the above rules.
 
 ### Special Bureau Jurisdiction
 
 | Bureau | Rule |
 |--------|------|
-| **Housing Bureau** | Continuous event starting **on-development** remains Housing Bureau jurisdiction |
-| **Transit Bureau** | Crime on a **moving train** is recorded at the **NEXT station where the train stops** |
+| **Housing Bureau** | Continuous event starting **on-development** but ending off-development (or vice versa) -- jurisdiction determined by where to record rule (which may place it in Housing) |
+| **Transit Bureau** | Crime on a **moving train** is recorded at the **NEXT STOP**, regardless of precinct or borough boundaries |
+
+> **Prior Test:** A male on a moving A train displays a gun and robs a 13-year-old. At the next stop (83rd Pct), the perp forces the victim into a vehicle, drives to a housing development in the 75th Pct and rapes the victim at gunpoint. They then drive to the 101st Pct and shoot the victim. Where to record? -- Correct answer is **75th Precinct, Housing Jurisdiction code 02**. The Rape 1 exception controls the "where" (75th Pct in Housing = jurisdiction 02). Attempted Murder is classified as Felonious Assault (#4 on 7 Majors), and Rape (#2) outranks Robbery (#3), so the top charge is Robbery 1st Degree -- but the WHERE and HOW rules are applied independently.
+
+> **Exam Alert:** For Housing Bureau incidents, the jurisdiction code follows the location where the complaint is recorded. If Rape 1 occurred on-development, it is Housing (02) even if the event started off-development.
 
 ### Forms
 
@@ -1466,6 +1832,94 @@ The general rule: complaints are recorded in the **PRECINCT OF OCCURRENCE**.
 | Complaint Report | PD313-152 | Official complaint record |
 | Complaint Index Report | — | Indexing and cross-referencing |
 | Omniform Complaint Revision | — | Amending/revising existing complaint reports |
+
+### HOW to Record: The "7 Majors" Rule (NIBRS Hierarchy)
+
+When a complaint involves multiple crimes, the top charge is determined by the **7 Majors hierarchy** (in order):
+
+| Rank | Crime |
+|------|-------|
+| 1 | Murder and Non-Negligent Manslaughter |
+| 2 | Forcible Rape / Rape 1st Degree |
+| 3 | Robbery |
+| 4 | Felonious Assault (or Attempted Murder) |
+| 5 | Burglary |
+| 6 | Grand Larceny |
+| 7 | Grand Larceny Auto (GLA) |
+
+> **Exam Alert:** If an ATTEMPTED 7 Major occurs, it is classified as that 7 Major -- **EXCEPT Attempted Murder**, which is classified as **Felonious Assault** (#4). So Attempted Murder coupled with Robbery is recorded as a Robbery. Attempted Murder coupled with Rape 1 is recorded as a Rape.
+
+> **Exam Alert:** If a perpetrator steals a car with a million-dollar painting inside, it is still a **GLA** (not Grand Larceny), because the vehicle was the target of the theft.
+
+> **Exam Alert:** Kidnapping is a serious crime but is **NOT a 7 Major**. This appears on exams very often in continuous event scenarios. If Kidnapping is the only non-major alongside a 7 Major, eliminate it.
+
+> **Exam Alert:** If you have a 7 Major AND another offense that is NOT a 7 Major, classify as the 7 Major. If the secondary offense is an OC-type (Vice, Drugs, etc.), send them an "additional copy" per PG 207-08.
+
+#### When NONE of the Crimes Are 7 Majors (Non-Major Hierarchy)
+
+Apply these tiebreakers in order:
+
+1. **Category:** Felony before Misdemeanor, Misdemeanor before Violation
+2. **Classification:** "A" Felony before "B" Felony, "B" before "C", etc.
+3. **Degree:** 1st degree before 2nd degree
+4. **Penal Law Section:** Lower section number first (e.g., PL 130 before PL 135)
+
+> **Exam Alert:** Every test mixes up the rules for WHERE to record (continuous events) with HOW to record (7 Majors). Apply the rules **separately** -- the decision or outcome of one rule has no bearing on the other.
+
+### What Gets Recorded on a Complaint Report (61)
+
+- **Pickup Arrests:** Crimes, violations, juvenile offenders, juvenile delinquency charged
+- **Complaints:** Crimes & violations, juvenile offenders, juvenile delinquents (all felonies + 15 specified misdemeanors)
+- **Lost Property**
+- **Collisions (Motor Vehicle or Bike)** when: DOA/SILD, Critical Injury, or Highway responded and conducted investigation
+- **DOA** (when ME notified)
+- **City Construction Site** (verified work disruptions)
+- **Missing Person** (prepare BOTH a Complaint Report Worksheet AND Missing/Unidentified Report using the same 61#)
+- **Order of Protection** (violation of an OP)
+- **Child Abuse** (incident of suspected child abuse)
+- **Overdose** ("Investigate aided-drug overdose" or "Investigate DOA-possible drug overdose")
+
+> **Exam Alert:** ARRESTS are **always** recorded in the precinct of arrest -- **NO exceptions**. This is different from complaints, which have 5 exceptions.
+
+> **Exam Alert:** When a person is arrested but NOT charged with the original crime (burg, larceny, etc.), a new 61# is assigned to record CPSP (Criminal Possession of Stolen Property) or Fostering Sale of Stolen Goods.
+
+### Juvenile Delinquency Misdemeanors Recorded on a 61
+
+> **Memory Aid -- 3 Guns, 4 Fools, 4 Sex, 5 SPEED:**
+> - **3 Guns:** Unlawful possession of weapon by child under 16; Manufacture/transport weapons; Prohibited use of weapons
+> - **4 Fools:** Felonies (all); Unlawful assembly; Jostling; Fraudulent accosting
+> - **4 Sex:** Obscenity offenses; Promoting prostitution 4th; Sex offenses; Permitting prostitution
+> - **5 S.P.E.E.D.:** Stolen Property (CPSP 5th); Possession of burglars tools; Escape 3rd; Endangering welfare of child; Drug offenses (not including marijuana)
+
+### Separate Complaint Reports (61s) Required For
+
+| Situation | Rule |
+|-----------|------|
+| **DOA - Homicide** | Each homicide victim (victim is the complainant) |
+| **DOA - Perpetrator** | Each perpetrator of a crime who is killed |
+| **Collision** | Each person DOA/SILD/Critically Injured in MV/bicycle collision |
+| **Sex offense** | Each victim of a sex offense |
+| **Assault** | Each victim of an assault -- **EXCEPT** if incidental to a robbery or sex offense |
+| **Arson** | Each **additional** person injured in an arson (assault by fire/explosive) |
+
+> **Exam Alert:** Assaults incidental to a robbery or sex offense do NOT get a separate 61. Example: Perp robs a bar, pistol-whips two customers -- the assaults are incidental to the robbery, so one complaint report covers the entire incident. But if a perp breaks in and rapes two people, each rape victim gets a separate 61.
+
+### Complaint Report Transmission and Review
+
+- **Transmitted** by End of Tour (EOT) by the **Desk Officer**
+- **Reviewed and finalized** within **24 hours** of taking the report
+- Details/Narrative Section: No information other than the narrative can go in the details
+
+### NYPD Crime Reporting Guide -- Cross-Precinct Shootings
+
+> **Exam Alert:** If a perpetrator discharges a firearm in Precinct A and causes physical injury or death in Precinct B: (1) If the shooter's location CAN be definitively determined in Precinct A, the assault/murder is recorded in **Precinct A**. (2) If the shooter's location CANNOT be definitively determined, the crime is recorded in **Precinct B** (where the injury/death occurred).
+
+### Taxicab Robbery Procedures
+
+For taxicab robbery or attempts:
+- **Offenses:** Record "Robbery/medallion" or "Robbery Non-medallion" as appropriate
+- **Details:** Note if partition/safety device is installed and location of pick-up
+- **Notification:** Robbery/attempt AND Homicide/attempts of drivers of medallion taxis, non-medallion for-hire vehicles, or delivery trucks require notification to **Crimes Against Persons Unit** (PG 207-07, additional data)
 
 ---
 
@@ -1571,6 +2025,16 @@ Covers P.G. 207-21, 207-22, 207-27, 207-28
 
 *Critical procedure — tested heavily on the Sergeant exam.*
 
+### What Must Be Reported
+
+**Corruption or other misconduct**, including:
+- Criminal activity
+- Other misconduct committed by UMOS or CMOS, either **on or off duty**, including:
+  - Allegations of **excessive force**
+  - **Perjury**
+
+> **Exam Alert:** NYS Law also requires reporting to the NYS Attorney General's Law Enforcement Misconduct Investigative Office -- BUT the call to IAB **satisfies this requirement**.
+
 ### Absolute Duty to Report
 
 **ALL members of the service have an ABSOLUTE DUTY to report corruption and misconduct.**
@@ -1579,9 +2043,20 @@ This is not discretionary. Every member who becomes aware of corruption or other
 
 ### How to Report
 
-- Report to the **IAB Command Center** (operates **24 hours**)
-- Reports **can be made anonymously**
-- When reporting anonymously, the member receives a **Confidential ID Number**
+Two methods:
+
+1. **By telephone or in person** to IAB Command Center (operates **24 hours**)
+   - Like CCRB and T.S., who will refer the complaint to the D.O.
+   - Give preliminary facts
+   - **ID self OR remain anonymous** and obtain a **Confidential ID Number**
+   - Furnish details of corruption or other misconduct
+2. **By writing to IAB within 24 hours**
+   - Address a detailed written report to Chief of IAB
+   - Forward direct OR FAX to Command Center, 315 Hudson Street
+
+> **Exam Alert:** If opting for anonymity, prepare a detailed written report upon becoming aware of misconduct and forward to Chief of IAB or Box 1001, New York, N.Y. 10014.
+
+> **Exam Alert:** IAB supervisors may direct **on-duty** members NOT reporting anonymously to prepare a detailed written report in addition to the phone call, or request the member to await arrival of the investigator.
 
 ### Confidential ID Number
 
@@ -1597,32 +2072,63 @@ This is not discretionary. Every member who becomes aware of corruption or other
 
 ### When an Allegation Is Made Against You
 
-If a member of the service has an allegation made **against them**, the procedure is:
+If a MOS receives a corruption complaint **against oneself**:
+- **Request a supervising officer to the scene**
 
-1. The accused member **requests a supervisor to respond**
-2. The supervisor **interviews the complainant**
-3. The supervisor **confers with IAB**
-4. **BEFORE** interviewing the accused member
+The **Supervising Officer** (called to the scene):
+1. **Interview the complainant FIRST**
+2. **Confer with IAB**
+3. **BEFORE** talking to the subject member
 
 > **Exam Alert:** The sequence matters. The supervisor interviews the complainant and contacts IAB **BEFORE** interviewing the member accused of misconduct.
 
 ---
 
-## P.G. 207-22: Allegations of Corruption Against City Employees
+## P.G. 207-22: Corruption Reporting Against Other Government Agents (Non-NYPD)
 
-When allegations of corruption are made against city employees (non-NYPD):
-- The receiving member documents the allegation
-- The information is routed to IAB and the appropriate Inspector General for the relevant city agency
-- Procedures parallel those for members of the service, but the investigative authority may differ depending on the agency involved
+### MOS Receiving (2 Steps)
+
+1. **Inform C.O.** (if not present, inform the highest-ranking supervisor in the command)
+2. **Notify IAB** -- ID self, give a callback #, preliminary facts, and comply with instructions
+
+### Supervisory Officer
+
+- Prepare a Report on Typed Letterhead (49) to the Chief of IAB
+- Forward original and copy in a **sealed envelope** to the IAB Command Center
+
+### Minor Misconduct Against a Non-NYPD Government Agent
+
+- Record on a **Complaint Report (61)** with additional copies for IAB
+- Minor misconduct in the PG is described as **DWI and Domestic Violence**
+- Example: A Corrections Officer, State Trooper, or other governmental employee assaults their spouse -- document on a Complaint Report (207-05) with additional copies to IAB
+- **No 49 or notification to IAB** is needed for minor misconduct -- just the 61 with copies
+
+> **Exam Alert:** Allegations against **non-government personnel** (private citizens/organizations) are referred by the D.O. to the private organization concerned -- not IAB.
+
+### Mayor's Executive Order 16 of 1978
+
+> **Exam Alert:** PG sections 207-21 and 207-22 serve as the NYPD's guidelines for reporting corruption. On test day, if you see "according to MEO 16 of 1978..." look for the answer to be either **Inspector General** OR **Commissioner of Investigations** from the **Department of Investigations (DOI)**.
 
 ---
 
-## P.G. 207-27: Civilian Complaints — Witness Statement
+## P.G. 207-27: CCRB Witness
 
-When a civilian complaint is received, witness statements are a critical component of the investigation:
-- Statements from witnesses are obtained to corroborate or refute the allegation
-- The investigating supervisor ensures that all available witnesses are interviewed
-- Witness statements are documented and included in the complaint file
+- Same as CCRB procedure for both reports, but cross out "complainant" and write **"witness"**
+- Enter original # from Intake Unit
+- Attach 1 copy of witness form to each related copy of CCRB
+
+### If Witness Comes Forward After Original Forms Are Forwarded
+
+Or at a place other than where the original complaint was made:
+- **Desk Officer:** Follow CCRB procedure and ensure the **ORIGINAL #** is entered on CCRB Report and Statistical Summary Sheet
+- Complaint gets **one number** regardless of the number of witnesses
+- Desk Officer obtains the original # by calling CCRB Intake Unit
+
+### Discrepancies Between 207-28 CCRB and 207-27 CCRB Witness
+
+> **Exam Alert:** Two key differences between CCRB (complainant) and CCRB Witness procedures:
+> 1. **Photos:** The witness procedure mentions noting the physical condition of the witness in "additional" section, but says **nothing about photos** (unlike the complainant procedure)
+> 2. **Assistance:** The witness procedure does NOT say to offer/allow assistance to the witness in preparation (unlike the complainant procedure)
 
 ---
 
@@ -1632,28 +2138,67 @@ When a civilian complaint is received, witness statements are a critical compone
 
 ### Investigating Supervisor
 
-The **Investigating Supervisor** is defined by a specific hierarchy:
+The **Investigating Supervisor** for a **patrol command** is defined by this hierarchy:
 
 | Priority | Title |
 |----------|-------|
-| 1st | **Platoon Commander** |
-| 2nd | **Special Operations Lieutenant** |
-| 3rd | **Integrity Control Officer (ICO)** |
-| If all unavailable | **CO or Duty Captain** |
+| 1st | **ICO (Integrity Control Officer)** |
+| 2nd | **SOL (Special Operations Lieutenant)** |
+| 3rd | **Platoon Commander** |
+| If all 3 Lts unavailable | **CO or Duty Captain** |
 
-### Reviewer Rank Requirement
+> **Exam Alert:** Note that the **Operations Coordinator is NOT on this list**. For a **non-patrol command**, the investigating supervisor is the Supervisor OR Duty Captain from next higher command.
 
-The **Supervisor Reviewing a Civilian Complaint** must be at least **ONE RANK HIGHER** than the member who is the subject of the complaint.
+An investigating supervisor is called when:
+- A **COD #** AND complainant is **transient/homeless**, OR
+- The **ID of MOS** complained of is in doubt
+
+### Reviewing Supervisor
+
+- Must be at least **ONE RANK ABOVE** the **receiving member** (the MOS who took the complaint)
+- NOT one rank above the investigating member
+
+> **Exam Alert:** The Reviewing Supervisor rank requirement is based on the **receiving member's** rank, not the investigating member's rank. This distinction is tested.
+
+### Reviewing Supervisor Duties
+
+- If complaint is against a member of the reporting command AND made in person or by phone:
+  - Ensure **ALL related Department documents** (Complaint Report, A/L printout, CLE, R/C, etc.) are included
+- If complaint originates at Pct/PSA/TD and from a radio run in last **24 hours**, attach **ICAD**
+- Complete pedigree captions for "Reviewing Supervisor" on the CCRB report
+- Submit all paperwork to C.O.
+
+### CCRB Complaint Categories (FADO)
+
+> **Memory Aid -- FADO:**
+> - **F** -- Force Unnecessary
+> - **A** -- Abuse of Authority
+> - **D** -- Discourtesy
+> - **O** -- Offensive Language, etc.
+
+### What Goes to CCRB vs. IAB
+
+| Type | Destination |
+|------|-------------|
+| **Unnecessary force** (FADO complaints) | **CCRB** |
+| **Excessive force** | **IAB** (per PG 207-21) |
+| Corruption/other misconduct NOT within CCRB jurisdiction | **IAB** |
+| Cases can be investigated by **both** CCRB and the Department simultaneously | Yes |
+
+> **Exam Alert:** CCRB complaint against a **CMOS** (civilian member): follow the procedure with 2 exceptions: (1) Do NOT call CCRB, (2) Fill out the forms, etc., but the complaint will be **directed to IAB for screening**. If against a CMOS, it does NOT go to CCRB.
+
+### Precinct Complaints
+
+- To prevent interruption or delay in vital services, the T.S. operator will refer misconduct allegations to the D.O.
+- The D.O. will record pertinent details of the allegation
 
 ### Where Complaints Can Be Made
 
 Civilian complaints can be made at **ANY** of the following locations:
-- Patrol precinct
-- Police Service Area (PSA)
-- Transit district
+- Patrol precinct (Pct/PSA/TD)
 - Traffic unit
 - Internal Affairs Bureau (IAB)
-- Any Department office
+- Any other office of the Department, including the **Office of Police Commissioner or a Deputy Commissioner**
 
 ### Methods of Filing a Complaint
 
@@ -1664,6 +2209,42 @@ Civilian complaints can be made at **ANY** of the following locations:
 | **By telephone** | Complaint received via phone call |
 | **In person, not wanting to file immediately** | Complainant appears but is not ready to file at that time |
 
+### MOS Receiving CCRB Complaint
+
+1. Report misconduct complaints including **FADO** to CCRB
+   - **Unnecessary force** goes to CCRB; **Excessive force** goes to IAB
+2. Interview complainant and provide complainant with the **1st copy of CCRB** to fill out in their own handwriting
+3. **Notify:**
+   - **CCRB Intake Unit** immediately by phone, providing:
+     - Time complainant arrived (or letter/call received)
+     - Complainant's name and address (indicate if anonymous, transient, or homeless)
+     - Subject: rank, name, shield, and command of member complained of (if known)
+     - Reporting command: name, rank, and command of member transmitting information
+   - Obtain from CCRB Intake Unit (a time and a number):
+     - Time recorded by CCRB
+     - **CCRB #** (for a complaint of FADO) OR **Chief of Dept. (COD) #** for other misconduct (unwarranted traffic summons, etc.)
+   - **IAB**: Obtain log # (CCRB report has caption for "IAB Log #")
+   - **Investigating Supervisor** if: COD # AND complainant is transient/homeless, OR ID of MOS is in doubt
+4. **Request complainant to remain** if CCRB requests OR if COD # issued and complainant is transient/homeless
+5. **Document:**
+   - CCRB Statistical Summary Sheet (complainant does NOT get a copy)
+   - Civilian Complaint Report (review and sign ALL copies; give one copy marked "Complainant Copy" to complainant as receipt)
+   - Command Log entry with: ID of subject member if known, complainant's name and address, time arrived/left, complainant's physical condition (noting visible marks/injuries RELATIVE to complaint), CCRB # or COD #
+
+> **Exam Alert:** If there is no Command Log in the receiving command, prepare a Report on Typed Letterhead (49) to the CO with the same information.
+
+### Investigating Supervisor Actions
+
+- If unable to ID MOS and/or transient/homeless complainant with COD #:
+  - Initiate investigation; if cannot ID the MOS, notify C.O./Duty Captain
+- **Results of investigation:** Notify CCRB Intake Unit of results
+- **Record results** in Command Log entry and Statistical Summary Sheet (under "Additional Comments")
+- Return Statistical Summary Sheet to MOS receiving complaint for distribution
+
+### MOS on MOS CCRB
+
+> **Exam Alert:** Normally, a complaint will be investigated by the C.O. chosen by Investigative Review Section -- **COD not CCRB**. If the complaint contains remarks regarding RACE, GENDER, etc., CCRB records it and sends to **EEOD** for investigation. EEOD sends a copy to the **C.O. of the Officer who is the subject** (the violator).
+
 ### Request for Blank Complaint Form
 
 When someone requests a blank civilian complaint form:
@@ -1671,6 +2252,17 @@ When someone requests a blank civilian complaint form:
 2. A **Command Log entry** is made **IMMEDIATELY**
 
 > **Exam Alert:** The immediate Command Log entry when someone merely requests a blank form is a testable detail. It applies even if the person does not ultimately file a complaint.
+
+### Complainant Accessibility
+
+> **Exam Alert:** If the complainant has difficulty with English, the **Language Line (212-90)** is the preferred method. If deaf or hard of hearing, follow PG 212-104.
+
+### CO of Member's Command -- Distributing Paperwork
+
+- **CCRB # issued:** Forward original typewritten CCRB, handwritten complaint, and "Investigating Entity" copy of Summary Sheet (with photo if taken) to **CCRB Liaison** in sealed envelope, DIRECT
+- **COD # issued:** Forward originals of CCRB Report and Statistical Summary Sheet to **COD IRS (Investigative Review Section)** in sealed envelope, DIRECT
+- **CCRB filed against Civilian MOS:** Forward the "Investigating Entity" copy of both forms to **IAB direct** in sealed envelope
+- Commands without a Command Log: Endorse and forward the 49 to next higher command maintaining a command log, **EXCEPT** do NOT endorse/forward if complaint is against a Civilian MOS
 
 ---
 
@@ -1712,6 +2304,64 @@ Special Operations Lieutenant
 Integrity Control Officer (ICO)
    ↓ (unavailable)
 CO or Duty Captain
+```
+
+---
+
+# Section 207 — Thefts from Department Lockers
+
+Covers P.G. 207-19
+
+---
+
+## P.G. 207-19: Thefts from Department Lockers
+
+> **Exam Alert:** This procedure also covers **attempted** break-ins to Department lockers, not just completed thefts.
+
+### Locker Security
+
+- Secure lockers with a **combination type padlock WITHOUT a serial number**
+
+### MOS (Reporting Member)
+
+- Report facts to the **Desk Officer**
+
+### Desk Officer
+
+- **Notify:**
+  - C.O./Duty Captain
+  - **IAB Command Center** and obtain a **log #**
+
+### Commanding Officer / Duty Captain
+
+- **Investigate:**
+  - Possibly obtain: Photographs, fingerprints, interviews, etc.
+- **Notify Squad** if necessary
+- **Direct Complaint Report** be prepared
+- **Prepare Report on Typed Letterhead (49):**
+  - 2 copies to **Bureau Chief Concerned**
+  - 3rd copy to **IAB**
+- **Take steps to prevent recurrence**
+
+> **See Also:** PG 219-20 -- "Loss/Theft of Department Property" -- Desk Officer notifies C.O. and Ops Coordinator.
+
+---
+
+## Supervisor Quick Reference
+
+```
+MOS reports facts to Desk Officer
+   ↓
+Desk Officer notifies:
+   ├── C.O./Duty Captain
+   └── IAB Command Center → obtains LOG #
+       ↓
+C.O./Duty Captain:
+   ├── Investigates (photos, fingerprints, interviews)
+   ├── Notifies Squad if necessary
+   ├── Directs Complaint Report preparation
+   ├── Prepares 49 → (2) Bureau Chief + (1) IAB
+   └── Takes steps to prevent recurrence
 ```
 
 ---
@@ -1784,6 +2434,9 @@ Vice, narcotics, and organized crime complaints follow a separate investigative 
 - Members receiving such complaints ensure initial documentation and notify the appropriate specialized unit.
 - Patrol supervisors coordinate with vice/narcotics units for proper case handling.
 - Exceptions for recording at the precinct of occurrence (pick-up arrests, found drugs) still apply per P.G. 207-01.
+- If secondary offense is OC type (Vice, Drugs, etc.), send the specialized unit an "additional copy" of the complaint.
+
+> **See Also:** PG 207-01 -- Found property rules for controlled substances detail when a Pct 61# vs. ISS serial # is used.
 
 ---
 
@@ -1793,56 +2446,123 @@ Vice, narcotics, and organized crime complaints follow a separate investigative 
 
 ### Definition
 
-A **Bias Incident** is any offense or attempted offense motivated in whole or in part by the offender's bias based on:
+A **Bias Incident** is any offense or unlawful act motivated in whole or in substantial part by a person, group, or place's identification with a particular:
 - Race
 - Religion
-- Ethnicity
 - Gender
 - Age
 - Disability
-- Sexual orientation (including **LGBTQIA+**)
+- Sexual orientation (including gay, lesbian, bi-sexual, transgender, queer, intersex, asexual+)
+
+As determined by the **CO Hate Crimes Unit**.
+
+> **Exam Alert:** The motivation test is critical. If people argue over a parking spot and use racial slurs, the incident is motivated by the **parking spot** -- NOT by race, etc. The bias must be the **motivating factor**, not just incidental language.
+
+### Disability Defined (for Bias Purposes)
+
+Physical, medical, mental, or psychological impairment, or a history or record of such, including:
+- Impairment of bodily organs or systems
+- Sustaining injury or damage to any system of the body (muscular, sensory, respiratory, speech, heart, reproductive, digestive, blood, immunity, and skin -- i.e., AIDS)
+- Examples: Recovering alcoholic or drug addict IF currently recovered/recovering AND not currently abusing substances
 
 ### Response Chain
 
 The response chain follows a specific escalation path:
 
 ```
-1. MOS evaluates the incident for possible bias motivation
+1. UMOS evaluates condition, takes police action, stabilizes
    ↓
-2. MOS requests PATROL SUPERVISOR to respond
+2. If possible bias → MOS requests PATROL SUPERVISOR to respond
    ↓
-3. Patrol Supervisor requests CO/DUTY CAPTAIN
+3. Patrol Supervisor stabilizes, determines if additional personnel needed
    ↓
-4. CO/Duty Captain notifies OPERATIONS UNIT
+4. Patrol Supervisor notifies DESK OFFICER of incident
    ↓
-5. Operations Unit issues a BIAS INCIDENT LOG NUMBER
+5. If possible bias → Patrol Supervisor requests CO/DUTY CAPTAIN
+   ↓
+6. CO/Duty Captain determines if should be referred to Hate Crimes
+   ↓
+7. If public official involved → confer with Intel before calling it possible bias
 ```
+
+> **Exam Alert:** For a possible bias incident reported by **another police agency**, the Patrol Supervisor responds. At the request of the Patrol Supervisor OR a Captain or above from the other agency, the CO/Duty Captain (NYPD) will respond and make the determination of whether it is a Possible Bias Incident.
 
 ### Commanding Officer / Duty Captain Responsibilities
 
 Upon notification of a potential bias incident, the CO or Duty Captain must:
 
-1. **Request Enhanced Crime Team (ECT)** to respond
-2. **Request detective squad** to respond
-3. **Prepare an UNUSUAL OCCURRENCE REPORT** (PD370-152)
+1. **Call in additional units** if necessary (Community Affairs, SRG, Crime Prevention, Cmd personnel)
+2. **Request Detective Squad** to respond AND **ECT** to process scene for evidence
+3. Confer with Squad CO prior to preparing Unusual (49)
+4. **Notify Operations** and get "Possible Bias Incident" **Log #**
+5. **Prepare UNUSUAL OCCURRENCE REPORT** to Chief of Detectives, HC
+   - Chief of Detectives gets 1 direct AND 1 through channels
+   - Deputy Commissioner, Community Affairs
+   - Pct/PSA/TD C.O.
+6. **Follow-up:** Direct Crime Prevention Officer to personally contact complainant re: steps to prevent recurrence
 
-### Who Determines Bias Classification
+### Who Determines Bias Classification and Who Investigates
 
-> **Only the Commanding Officer of the Hate Crime Unit** determines whether an incident IS or IS NOT a bias incident, after conferral with the **Chief of Detectives**.
+> **Only the Commanding Officer of the Hate Crime Unit (HCU)** determines whether an incident IS or IS NOT a bias incident.
 
-No other rank or unit makes this final determination.
+- The **Detective Squad** is responsible for conducting the investigation, unless relieved by HCU
+- HCU determines if the occurrence is, or is not, biased
+- C.O. of HC may retain Detective Bureau personnel to conduct a comprehensive preliminary investigation and canvass of the area
 
-### Commanding Officer of the Command Concerned
+> **Exam Alert:** If the victim does not want the perpetrator arrested, the C.O. of HC may **order the arrest anyway**.
 
-- Must **VISIT** the scene or location
-- Must **PERSONALLY INTERVIEW** the victims
-- This is a mandatory, non-delegable responsibility
+### Patrol Supervisor Documentation
+
+- Direct Complaint Report be prepared
+- Include the Captain's determination of whether or not it is Possible Bias
+- Take photos using Department Smartphone if Crim Mis 3rd or 4th degree, or Agg Harassment 1st or 2nd degree
+- Enter Complaint Report Worksheet into OMNI, upload photos, electronically attach photos to 61
+
+### Penal Law Refresher for Bias Crimes
+
+| Charge | Elements |
+|--------|----------|
+| **Criminal Mischief 4th** | Intentional damage up to $250 (reckless damage of $250 is NOT a crime) |
+| **Criminal Mischief 3rd** | Intentional damage above $250 up to and including $1,500; above $1,500 is 2nd degree |
+| **Aggravated Harassment 2nd** | Kick, push, etc. for reasons of race, etc. (usually would be Agg Hass 3, a violation, but done for bias = Misdemeanor) |
+| **Aggravated Harassment 1st** | Damage a religious place more than $50; burn a cross in public view; draw a swastika or noose; prior Agg Hass 2 (Sub 3) with prior of 1st degree or Agg Hass 2 Sub 3 in last 10 years |
+
+### Commanding Officer of the Command Concerned (NOT Duty Captain)
+
+- Must **PERSONALLY VISIT** victims of possible bias incident
+- Within **10 days** of incident: prepare a comprehensive follow-up 49 including:
+  - Post-incident actions
+  - Current status of investigation
+  - Forward to Chief of Detectives, HC
+
+### Crime Prevention Officer
+
+- Prepare and send a 49 within **TEN (10) days** to C.O., Hate Crimes
+- If no Crime Prevention Officer in command, the **Special Operations Lieutenant** prepares the 49
+- 49 must indicate: action taken concerning incident AND if a security survey was conducted
 
 ### Reporting Timeline
 
 - Reports are due within **TEN (10) DAYS** of the incident
 
-> **Exam Alert:** Three key testable points: (1) Only the Hate Crime Unit CO determines bias classification, (2) the CO of the command concerned must personally interview victims, and (3) the 10-day reporting deadline.
+### Detective Squad Member (Possible Bias)
+
+- Conduct **immediate** investigation and confer with Hate Crimes personnel
+- Within 10 days: forward additional copies of 61 and OCR (if applicable) to **C.O., Hate Crimes (direct)**
+
+### Bias vs. Non-Bias Comparison Table
+
+| Role | NON-BIAS | POSSIBLE BIAS |
+|------|----------|---------------|
+| **C.O. sends 49 to** | Chief of Det, Hate Crime Unit | Chief of Det, Hate Crime Unit |
+| **Crime Prevention Officer sends 49 to** | Only if religious/sensitive location: C.O., Hate Crime Unit | C.O., Hate Crime Unit |
+| **Detective forwards 61/OCR to** | **C.O., Hate Crime Unit AND Chief of Detectives** (through channels) | **C.O., Hate Crime Unit** (direct) |
+| **C.O. notifies** | Squad + **call Hate Crimes (0800x2400) for Non-Bias Log #** | Squad to **RESPOND** + **call Operations for Bias Log #** |
+| **Detective conducts** | An **APPROPRIATE** investigation | An **IMMEDIATE** investigation |
+
+> **Prior Test (Captain's Exam):** When an offense committed against a religious institution is investigated as possible bias but the duty captain determines it is NOT bias motivated, all of the following are true EXCEPT: the precinct detective will forward a copy of the 61 and OCR to C.O., Hate Crimes. -- Correct answer is that this is FALSE because for non-bias, the detective forwards to C.O., Hate Crime Unit AND **Chief of Detectives, through channels** (not just C.O. HCU). The exam takes facts from "non-bias" and "confirmed bias" procedures and mixes them up. Know the addressees for each role's reports.
+
+> **Exam Alert:** Three key testable points: (1) Only the Hate Crime Unit CO determines bias classification, (2) the Precinct CO (NOT Duty Captain) must personally visit victims, and (3) the 10-day reporting deadline applies to the CO, Crime Prevention Officer, AND Detective.
 
 ---
 
@@ -1910,11 +2630,33 @@ Covers P.G. 207-23, 207-31, 207-39
 
 *7 pages in the Patrol Guide — high priority for the Sergeant exam.*
 
+### Definition of Missing Person
+
+A person missing from a **NYC Residence** AND:
+- **17 and under** OR **65 and older**, OR
+- Regardless of age if:
+  - Mentally or physically impaired (cognitively impaired/developmentally disabled, disabled to extent hospitalization may be required, incapable of self-care or clear communication)
+  - Drowning / possible victim of drowning
+  - Suicide / indicated intention of committing suicide
+  - Unique/unusual case
+  - Unaccountable/involuntary disappearance
+
+> **Exam Alert:** A temporary resident (hotel/rooming house) IS considered a missing person. Make a Missing Person Report and direct the complainant to notify local police covering the permanent residence.
+
 ### No Minimum Time Requirement
 
 There are **NO MINIMUM TIME LIMITS** before accepting a missing person report. A report must be taken immediately upon request.
 
 > **Exam Alert:** This is one of the most commonly tested points. There is NO waiting period (no "24-hour rule" or any other delay). Accept the report immediately.
+
+### Who is NOT a Missing Person
+
+- **Non-City Resident** -- Refer complainant to hometown police (we help if they ask); search if known locations of missing within NYC require it
+- **Wanted** -- For crimes or wanted on a warrant
+- **Victim of Crime** -- Found to be a crime victim; notify D.O. (residence and occurrence if different) and Missing Persons Squad; prepare OCR to close missing report and prepare NEW 61 for the crime with NEW 61#
+- **Person 18 or older** who left home voluntarily due to domestic, financial, or similar reason
+
+> **Exam Alert:** Never refer a complaint directly to MPS (Missing Persons Squad). The exclusions above are for persons who likely fled voluntarily, but they shall NOT be used as justification for failing to accept a missing report when the totality of circumstances indicates the person may in fact be missing.
 
 ### Where Missing Person Reports Are Recorded
 
@@ -1922,26 +2664,99 @@ Missing person reports are recorded at the missing person's **RESIDENT precinct*
 
 ### Command Responsibility
 
-The **Commanding Officer of the residence precinct** is **ULTIMATELY RESPONSIBLE** for the missing person investigation.
-
-### Missing Persons from Outside NYC
-
-Reports for persons missing from **outside New York City** will **NOT be accepted**. The complainant should be directed to their **local police department**.
-
-### Do Not Refer to Missing Persons Squad
-
-Under **NO circumstances** should the complainant be referred directly to the Missing Persons Squad. The complaint is always taken at the precinct level first.
+The **Commanding Officer of the residence precinct/PSA** is **ULTIMATELY RESPONSIBLE** for directing the overall effort to locate the missing person.
 
 ### Who Can Be a Complainant
 
-The **complainant is NOT limited to family members**. Any of the following may report a person missing:
-- Guardian
-- School representative
+The **complainant is NOT limited to family members**. In addition to family, can be:
+- Legal or temporary guardian
+- Representative of Department of Education
 - Hospital administrator
-- Roommate
-- Any other person with knowledge of the missing person's circumstances
+- Roommate, home care attendant
+- Any person reasonably expected to know if the person is actually missing
 
-> **Sergeant Focus:** Ensure desk officers and patrol members do not turn away non-family complainants. Anyone with a legitimate concern may file a missing person report.
+### UMOS Field Investigation Steps
+
+1. **Interview complainant** -- Obtain as much background as possible
+2. **Description** -- Clothing worn AND photo (accurate, digital preferred)
+3. **Language/Communication** -- What language the missing usually uses; ability to communicate in English
+4. **Missing Person's Contact Info** -- Email address and password, social media usernames/passwords, cellphone number (ascertain if it can be tracked; try to access last known location)
+5. **Incidents/Disputes** -- Prior missing incidents (if so, where found); any disputes that may relate to disappearance
+6. **Locations** -- Where last seen, public transportation (get type, route, possible destinations), old residences, school info, locations known to frequent
+7. **Associates** -- Family/friends/contact info; biological parents/closest relative/guardian; ACS caseworkers if applicable
+8. **Medical/Psychological** -- Alzheimer's/related dementia: check Safe Return Program (MedicAlert + Alzheimer's Association) for bracelet/necklace; obtain Safe Return ID#; Operation Safe Child info
+
+> **See Also:** PG 202-10 -- Community Affairs Officer administers the Safe Return Program, but we do not call the Community Affairs Officer for the information.
+
+### UMOS Search Actions
+
+- **Immediately search** the building/structure and immediate area
+- **Request Patrol Supervisor** to respond
+- **Request Dispatcher** to broadcast description to members on patrol
+- **Public Transportation:** If missing may be using public transit, have Radio Dispatcher broadcast to Pct/PSA/TD along route AND:
+  - **Subways:** Confer with a SUPERVISOR assigned to **Transit Bureau**
+  - **Buses:** Confer with a SUPERVISOR assigned to **Traffic Management Center**
+- **Computer checks** -- Conduct name and address check on Dept smartphone/tablet
+- **Notify Desk Officer** of details
+
+### Patrol Supervisor Duties (Command of Occurrence)
+
+- **Search:** Ensure initial search was conducted
+- **Consult** C.O./X.O./Duty Captain
+- **Additional personnel:** Level 1 mobilization if C.O./X.O./Duty Captain approves
+  - If **exigent circumstances and immediate need** (kidnapping, etc.): MAY do Level 1 without prior approval, then consult Captain ASAP
+- **Transmit Missing Message** via Domain Awareness System (DAS) Messenger including: digital photo, full name, DOB, age, gender, physical description (height, weight, eye/hair color, hairstyle, clothes, distinguishing characteristics), physical/mental condition, locations (last seen, residence, frequented means of transportation), Safe Return info if available, and circumstances
+- **Search** (prior to CO arrival): Request immediate search where missing was last observed AND missing person's residence (include travel route in search pattern)
+- **Maintain records:** Search area/routes, premises searched, identities of persons questioned
+- **Coordinate search** with: PCT/PSA/TD C.O./X.O./Duty Captain, D.O. of Pct of occurrence, D.O.s of residence if different, Operations Unit, additional units as appropriate
+
+> **Exam Alert:** If the missing person is a **child 9 years old or younger**, the CO/XO/Duty Captain of Pct/PSA/TD of occurrence performs the **Patrol Supervisor's duties** (the Captain takes over).
+
+### Desk Officer Duties (Command of Occurrence)
+
+- Check Department records (determine if missing has been subject of police action; query databases for prior law enforcement contacts)
+- **Notify:**
+  - Detective Squad (precinct of occurrence) to **respond** and assist in search (if no detective available, notify detective borough dispatcher)
+  - D.O. of missing person's resident precinct/PSA (if different from occurrence)
+  - Operations Unit
+  - If missing is a juvenile, notify **Juvenile Desk**
+  - **Missing Persons Squad** (if MPS unavailable, contact Real Time Crime Center and request records search)
+  - Inform MPS of: ID of member conducting investigation/search (name and rank of patrol supervisor, CO/XO/Duty Capt)
+
+### Three Reports Required (ALL Missing Cases)
+
+In ALL missing cases, a **Complaint Report AND Missing Report** must be made even if the missing is found before the reports are prepared or entered into OMNIFORM/ECMS:
+
+1. **Complaint Report Worksheet** (61)
+2. **Missing/Unidentified Person Report Worksheet**
+3. **Juvenile Report System Worksheet (JR)** -- if missing is at least 7 but less than 16 (comply with PG 215-03 if youth may be missing due to abuse, neglect, maltreatment)
+
+- Use the **same 61#** for both the Complaint Report and Missing Person Report
+- Enter both into OMNIFORM under the same number
+- If found prior to making/transmitting reports: JR, Missing, 61 -- assigned Pct Det closes case in ECMS with how/where found
+- Reports filed at Pct/PSA concerned
+
+### Desk Officer Review (Command of Occurrence vs. Residence)
+
+| Role | Duty |
+|------|------|
+| **D.O. Command of Occurrence** | Review and sign: Complaint Report (also reviewed/finalized by D.O. of Resident Pct), Missing Person's Report (ensure MPS case # and detective assigned are noted), Juvenile Report (enter Pct/PSA serial # before forwarding) |
+| **D.O. Residence Command** | **Immediately** review the 61 and **finalize within 2 hours** of receipt |
+
+> **Exam Alert:** The D.O. of the command of occurrence reviews and signs all 3 reports. But the D.O. of the residence command immediately reviews the 61 and must finalize it within **2 hours**. Notify MPS and D.O. at Resident Precinct that reports have been completed.
+
+### If Missing Not Found by Change of Tour
+
+- **D.O. Pct of Occurrence AND D.O. Pct of Residence:** Confer with incoming D.O.s
+- **Incoming D.O.s:** Ensure details given at R/C to outgoing platoon ("Don't Drop the Hand Off")
+- **Incoming CO/XO/Duty Capt and Detective:** Direct additional search and determine scope and duration
+
+### Missing vs. Unidentified Comparison
+
+| Feature | 207-23 Missing | 216-03 Unidentified |
+|---------|---------------|---------------------|
+| JRSW | Less than **16** years old | Less than **18** years old |
+| Detective OCR/ECMS | **7** working days | **3** working days |
 
 ---
 
@@ -2136,11 +2951,11 @@ Sexual assault of prisoner ──────────→ Criminal Justice Bu
 
 | Term | Definition | Source |
 |------|-----------|--------|
-| **Complaint** | A report of an alleged criminal offense or other matter requiring police attention | P.G. 207-01 |
-| **Pick-Up Arrest** | An arrest of a person wanted by another command or agency | P.G. 207-01 |
-| **Continuous Event** | A crime or series of related crimes spanning multiple locations or jurisdictions | P.G. 207-01 |
-| **Incident** | A single event or occurrence reported in a complaint | P.G. 207-01 |
-| **Offense** | A specific criminal charge; up to 10 may be recorded per incident | P.G. 207-01 |
+| **Complaint** | Allegation of an unlawful or improper act or omission, OR other condition requiring investigation to determine if an unlawful act or omission occurred | P.G. 207-01 |
+| **Pick-Up Arrest** | An arrest for an offense or juvenile delinquency NOT previously reported | P.G. 207-01 |
+| **Continuous Event** | Offense or multiple offenses committed against a complainant; an ongoing situation occurring in different precincts and/or boroughs | P.G. 207-01 |
+| **Incident** | Event where one or more criminal offenses were committed against one or more victims by one or more offenders | P.G. 207-01 |
+| **Offense** | A single criminal act within an incident; up to 10 may be recorded per incident | P.G. 207-01 |
 
 ## Case Status Definitions (P.G. 207-07)
 
@@ -2186,6 +3001,56 @@ Sexual assault of prisoner ──────────→ Criminal Justice Bu
 | **Investigating Supervisor** | The supervisor who investigates a civilian complaint: Platoon Commander, Special Ops Lt., ICO, or CO/Duty Captain | P.G. 207-28 |
 | **Supervisor Reviewing Civilian Complaint** | Must be at least one rank higher than the member receiving the complaint | P.G. 207-28 |
 
+## Complaint Recording Terms (P.G. 207-01)
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **7 Majors Rule** | Hierarchy for classifying top charge in multi-crime complaints: Murder, Rape 1, Robbery, Felonious Assault, Burglary, Grand Larceny, GLA | P.G. 207-01 |
+| **NIBRS** | National Incident Based Reporting System; governs how multiple offenses from a single event are recorded (up to 10, hierarchy-based) | P.G. 207-01 |
+| **Rosario Material** | Complaint Report Worksheets (scratch copies) kept on file as discoverable material; all associated forms attached to the printed OMNI 61 | P.G. 207-34 |
+| **Jurisdiction Code 00** | NYPD Patrol jurisdiction | P.G. 207-01 |
+| **Jurisdiction Code 01** | Transit jurisdiction | P.G. 207-01 |
+| **Jurisdiction Code 02** | Housing jurisdiction | P.G. 207-01 |
+
+## Bias Crime Terms (P.G. 207-10)
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **FADO** | Force Unnecessary, Abuse of Authority, Discourtesy, Offensive Language -- the four categories of CCRB complaints | P.G. 207-28 |
+| **Disability (Bias)** | Physical, medical, mental, or psychological impairment or history/record of such; includes bodily organ/system impairment and recovering addicts (if currently recovering AND not currently abusing) | P.G. 207-10 |
+| **Non-Bias Log #** | Obtained by calling Hate Crimes (0800x2400) when CO determines incident is NOT bias | P.G. 207-10 |
+| **Bias Log #** | Obtained by calling Operations when CO determines incident IS possible bias | P.G. 207-10 |
+
+## Corruption Reporting Terms (P.G. 207-21, 207-22)
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **MEO 16 of 1978** | Mayor's Executive Order 16 of 1978; PG 207-21 and 207-22 serve as NYPD's guidelines for reporting corruption per this order | P.G. 207-21/22 |
+| **Minor Misconduct (Non-NYPD)** | DWI and Domestic Violence by non-NYPD government agents; documented on 61 with copies to IAB (no 49 needed) | P.G. 207-22 |
+
+## Department Locker Terms (P.G. 207-19)
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **Theft from Department Locker** | Includes actual theft AND attempted break-ins; requires IAB notification and log # | P.G. 207-19 |
+
+## Missing Person Terms (P.G. 207-23)
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **Safe Return Program** | MedicAlert + Alzheimer's Association program; check for bracelet/necklace; obtain Safe Return ID # | P.G. 207-23 |
+| **Operation Safe Child** | Program for registered children; obtain info from Safe Child Card when available | P.G. 207-23 |
+| **DAS Messenger** | Domain Awareness System Messenger application; used by Patrol Supervisor to transmit missing person message with photo and details | P.G. 207-23 |
+
+## CCRB Terms (P.G. 207-27, 207-28)
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **CCRB #** | Number issued by CCRB Intake Unit for FADO complaints | P.G. 207-28 |
+| **COD #** | Chief of Department number; issued for misconduct complaints that are not FADO (e.g., unwarranted traffic summons) | P.G. 207-28 |
+| **CCRB Statistical Summary Sheet** | Prepared by receiving MOS; complainant does NOT receive a copy | P.G. 207-28 |
+| **Reviewing Supervisor** | Must be at least one rank above the RECEIVING member (not the investigating member) | P.G. 207-28 |
+
 ## Immigration-Related Terms (P.G. 207-37)
 
 | Term | Definition | Source |
@@ -2223,7 +3088,16 @@ Sexual assault of prisoner ──────────→ Criminal Justice Bu
 | **Missing Persons Squad** | Missing Persons Squad | Coordinates missing person investigations (complainants NOT referred directly) |
 | **ATF** | Bureau of Alcohol, Tobacco, Firearms and Explosives | Contraband weapons notification |
 | **DB Wheel** | Detective Bureau Wheel | Routing mechanism for detective notifications |
-| **ICO** | Integrity Control Officer | Third in hierarchy for investigating civilian complaints |
+| **ICO** | Integrity Control Officer | First in hierarchy for investigating civilian complaints (patrol commands) |
+| **SOL** | Special Operations Lieutenant | Second in hierarchy for investigating civilian complaints; prepares bias 49 if no Crime Prevention Officer |
+| **HCU** | Hate Crime Unit | Determines whether incident is or is not bias; under Detective Bureau |
+| **MPS** | Missing Persons Squad | Coordinates missing person investigations; if unavailable, contact Real Time Crime Center |
+| **DAS** | Domain Awareness System | Messenger application used by Patrol Supervisor to transmit missing person messages |
+| **ISS** | Investigative Support Section | Receives narcotics offense reports for controlled substances >2 oz found outside buildings |
+| **EEOD** | Equal Employment Opportunity Division | Investigates CCRB complaints containing remarks about race, gender, etc. |
+| **IRS** | Investigative Review Section | Receives COD# complaint originals from CO of member's command |
+| **CCRB** | Civilian Complaint Review Board | Investigates FADO complaints against uniformed members (NOT civilian members) |
+| **DOI** | Department of Investigations | City agency; Commissioner of Investigations referenced in MEO 16 of 1978 |
 
 ---
 
@@ -2553,6 +3427,134 @@ D. The hospital contacts the precinct of occurrence, which assigns a patrol unit
 
 ---
 
+### Question 21
+**At 2130 hours, a male perpetrator on a moving A train displays a gun, robs a 13-year-old victim of a wallet, then at the next stop (83rd Precinct) forces the victim into a vehicle. The two perpetrators drive to a housing development in the 75th Precinct and rape the victim at gunpoint. They then drive to a desolate street in the 101st Precinct and shoot the victim in the head. Where should the complaint be recorded and what is the proper jurisdiction code?**
+
+A. 83rd Precinct, Transit Jurisdiction code 01
+B. 101st Precinct, Patrol Jurisdiction code 00
+C. 83rd Precinct, Patrol Jurisdiction 00
+D. 75th Precinct, Housing Jurisdiction code 02
+
+<details>
+<summary>Answer</summary>
+
+**D.** Per P.G. 207-01, this is a continuous event with a Rape 1st Degree exception. The WHERE to record rule says Rape 1 is recorded where the rape occurred (75th Precinct, on a housing development). Since it occurred on-development, the jurisdiction code is Housing (02). The attempted murder is classified as Felonious Assault (#4 on 7 Majors list) which is outranked by Rape (#2), but the WHERE and HOW rules are applied independently.
+</details>
+
+---
+
+### Question 22
+**In a continuous event involving a Kidnapping in the 83rd Precinct, a Rape 1 in the 75th Precinct, and an Attempted Murder in the 101st Precinct, what is the top charge for classification purposes on the complaint report?**
+
+A. Attempted Murder 2nd degree
+B. Kidnapping 1st degree
+C. Rape 1st Degree
+D. Robbery 1st degree
+
+<details>
+<summary>Answer</summary>
+
+**D.** Per PG 207-01 (7 Majors Rule): Kidnapping is NOT a 7 Major, so it is eliminated. Attempted Murder is classified as Felonious Assault (#4). Rape is #2 and Robbery is #3. Since the scenario also includes a Robbery from the original crime, and Robbery (#3) is below Rape (#2), the classification is Robbery 1st Degree. Remember: the HOW to classify rule is applied independently from the WHERE to record rule.
+</details>
+
+---
+
+### Question 23
+**Controlled substances weighing more than 2 ounces are found outside a building. How should this be documented?**
+
+A. Complaint Report at the precinct of occurrence with a Pct 61 number
+B. Complaint Report at the precinct of occurrence only if found under circumstances requiring investigation
+C. Reported as a narcotics offense to Investigative Support Section; ISS serial number entered on Complaint Worksheet (no Pct 61 number)
+D. No documentation required for found property outside a building
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 207-01/207-08, controlled substances over 2 ounces found outside a building are reported as a "narcotics offense" to the Investigative Support Section, Real Time Crime Center. No Pct 61 number is assigned; the ISS serial number is entered on the Complaint Worksheet instead.
+</details>
+
+---
+
+### Question 24
+**When an offense at a religious institution is investigated as a possible bias incident but the CO/Duty Captain determines it is NOT bias motivated, the precinct detective should forward copies of the 61 and OCR to:**
+
+A. C.O., Hate Crimes Unit only
+B. C.O., Hate Crimes Unit AND Chief of Detectives, through channels
+C. Chief of Detectives, Hate Crimes Unit, direct
+D. Operations Unit for a Non-Bias Log number
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 207-10, for a NON-BIAS determination, the detective forwards copies to C.O., Hate Crime Unit AND Chief of Detectives, through channels. For a POSSIBLE BIAS (confirmed), the detective forwards only to C.O., Hate Crime Unit (direct). The exam often mixes these addressees between bias and non-bias procedures.
+</details>
+
+---
+
+### Question 25
+**A Corrections Officer is alleged to have committed domestic violence against his wife. What is the proper documentation?**
+
+A. Prepare a Report on Typed Letterhead (49) to the Chief of IAB and notify IAB Command Center
+B. Record on a Complaint Report (61) with additional copies for IAB; no 49 or IAB notification needed
+C. Notify IAB Command Center and prepare both a 49 and a Complaint Report
+D. Refer the allegation to the Corrections Department's internal affairs unit
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 207-22, minor misconduct (defined as DWI and Domestic Violence) against a non-NYPD government agent is documented on a Complaint Report (61) with additional copies to IAB. No 49 or separate notification to IAB is required for minor misconduct.
+</details>
+
+---
+
+### Question 26
+**Regarding the CCRB investigating supervisor hierarchy for a patrol command, which of the following is NOT in the hierarchy?**
+
+A. Integrity Control Officer (ICO)
+B. Special Operations Lieutenant (SOL)
+C. Operations Coordinator
+D. Platoon Commander
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 207-28, the investigating supervisor hierarchy for patrol commands is: (1) ICO, (2) SOL, (3) Platoon Commander, and if all three lieutenants are unavailable, the CO or Duty Captain. The Operations Coordinator is notably absent from this list.
+</details>
+
+---
+
+### Question 27
+**A child 9 years old or younger is reported missing. Who performs the Patrol Supervisor's duties at the scene?**
+
+A. The Patrol Supervisor of the command of occurrence
+B. The detective assigned to the case
+C. The CO/XO/Duty Captain of Pct/PSA/TD of occurrence
+D. The Missing Persons Squad supervisor
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 207-23, when a missing person is a child 9 years old or younger, the CO/XO/Duty Captain of the Pct/PSA/TD of occurrence performs the Patrol Supervisor's duties. The Captain effectively takes over the Patrol Supervisor's role for these cases.
+</details>
+
+---
+
+### Question 28
+**The Desk Officer of the missing person's RESIDENCE command must finalize the Complaint Report within what time frame?**
+
+A. End of tour
+B. 24 hours
+C. 2 hours of receipt
+D. 4 hours of receipt
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 207-23, the Desk Officer of the Residence Command must immediately review the 61 and finalize it within 2 hours of receipt. This is distinct from the D.O. of the command of occurrence, who reviews and signs the reports but does not have the same 2-hour finalization requirement.
+</details>
+
+---
+
 # Section 208 — Arrests
 
 ## Source
@@ -2580,11 +3582,13 @@ D. The hospital contacts the precinct of occurrence, which assigns a patrol unit
 | [section-208-law-and-processing.md](section-208-law-and-processing.md) | Law of arrest, warrant execution scope, warrantless arrest standards, pursuit rules, removal to facility, general processing, Miranda rights, juvenile processing, high risk/resisting recidivist (208-01, 02, 03, 09, 10, 11, 12, 13, 15, 16, 17) |
 | [section-208-search-guidelines.md](section-208-search-guidelines.md) | Three levels of search (frisk, facility, strip), strip search authorization, religious head covering, mobility disability (208-05) |
 | [section-208-dat.md](section-208-dat.md) | DAT general procedure, satisfactory ID, disqualifying factors (3 categories), DA conferral timeline (208-27, 81, 82) |
-| [section-208-domestic-violence.md](section-208-domestic-violence.md) | Family offense definitions (FCA vs NYPD expanded), concurrent jurisdiction, DV scene investigation, child abuse reporting, orders of protection, strangulation (208-36, 37, 38, 39, 70) |
-| [section-208-special-arrests.md](section-208-special-arrests.md) | Civilian arrest, lineups/showups, foreign nationals, hate crimes, sex offenses, school incidents, weapons, narcotics, religious head covering, Project Reset, and 30+ specialized procedures (208-04, 14, 20, 22, 23, 24, 25, 26, 34, 35, 40, 41, 42, 44, 46, 47, 48, 49, 50, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 66, 67, 68, 71, 72, 73, 74, 75, 78, 79, 80, 83, 84) |
+| [section-208-domestic-violence.md](section-208-domestic-violence.md) | Family offense definitions (FCA vs NYPD expanded), concurrent jurisdiction, DV scene investigation, child abuse reporting, orders of protection, firearms seizure, DIR processing, primary aggressor analysis, DVPO/I-Card procedures (208-36, 38, 70) |
+| [section-208-umos-cmos-domestic-violence.md](section-208-umos-cmos-domestic-violence.md) | UMOS/CMOS DV response, patrol supervisor notifications, MOS victim/perpetrator procedures, IAB log requirements, confidential files (208-37) |
+| [section-208-dv-photos.md](section-208-dv-photos.md) | DV photography requirements, qualified situations, upload procedures (NYC vs outside NYC), DVPO daily review, Training Sergeant responsibilities (208-39) |
+| [section-208-special-arrests.md](section-208-special-arrests.md) | Civilian arrest, lineups/showups, foreign nationals, bribery arrests (208-34/35), hate crimes, sex offenses, school incidents, weapons, narcotics, religious head covering, Project Reset, and 30+ specialized procedures (208-04, 14, 20, 22, 23, 24, 25, 26, 34, 35, 40, 41, 42, 44, 46, 47, 48, 49, 50, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 66, 67, 68, 71, 72, 73, 74, 75, 78, 79, 80, 83, 84) |
 | [section-208-notifications.md](section-208-notifications.md) | Operations Unit notifications, Intelligence Division, specialized unit notification matrix (208-69) |
 | [key-terms.md](key-terms.md) | All key terms, forms, critical numbers, and abbreviations from Section 208 |
-| [review-questions.md](review-questions.md) | 25 multiple-choice practice questions with hidden answers |
+| [review-questions.md](review-questions.md) | 32 multiple-choice practice questions with hidden answers |
 
 ## Procedures
 
@@ -2750,30 +3754,68 @@ The Department is **REQUIRED** to accept the following forms of ID:
 
 | Factor | Detail |
 |---|---|
-| **Not properly identified** | Cannot verify identity |
+| **Not properly identified** | Cannot verify identity (ID not up to standards found in PG 208-27) |
 | **Open warrant** | Active warrant exists |
-| **Failure to appear** | Failed to appear in court in the last **2 YEARS** |
-| **Physical/mental condition** | Must **confer with Legal Bureau** before denying DAT on this basis |
+| **Failure to appear** | Failed to appear in **Criminal Court** in the last **2 YEARS** |
+| **Escape-related charges** | Escape 2nd, Absconding 1st, Absconding from Treatment Facility, Bail Jumping 2nd |
+| **Physical/mental condition** | Prisoner may face harm if released & court evaluation is in their best interest |
+| **Under influence of drugs/alcohol** | To the degree that prisoner may endanger self or others |
 
-> **Exam Alert:** Physical or mental condition alone does not automatically disqualify. The desk officer must CONFER WITH LEGAL BUREAU before using this as a basis to deny a DAT.
+> **Exam Alert:** Physical or mental condition alone does not automatically disqualify. The desk officer must CONFER WITH LEGAL BUREAU before using this as a basis to deny a DAT. Document the conferral in the Digital Activity Log AND the Command Log.
+
+> **Exam Alert:** The "failure to appear" factor specifically refers to Criminal Court within the last 2 years. It also includes an open warrant — both relate to the defendant's reliability to return.
 
 #### Category 2: SPECIFIC CHARGES
 
 | Charge Type | Examples |
 |---|---|
-| **Family offense** | Any family offense charge |
-| **Sex crime** | Article 130 offenses |
-| **Hate crime** | Any bias-motivated offense |
-| **Escape/absconding/bail jumping** | Escape from custody, failure to appear |
-| **Weapon on school grounds** | Criminal possession of a weapon on school property |
-| **License-suspendable crime** | VTL 1192 (DWI), Vehicular Assault, Leaving the Scene of an Accident |
-| **A-misdemeanor or felony with harm** | Involving harm to identifiable person/property AND defendant has **pending prosecution** or **unreturned DAT** |
+| **Family offense** | Against member of the same family/household |
+| **ANY sex crime** | Including all attempts or conspiracy to commit |
+| **Hate crime** | As defined in Penal Law Section 485.05 |
+| **Weapon on school grounds** | CPW on school property |
+| **License-suspendable crime** | Vehicular Assault 2nd, Leaving the Scene with any injury or prior leaving the scene, Misd or Felony VTL 1192 DWI |
+| **Criminal Possession of a Firearm** | Automatic disqualifier |
+| **Any "A" Misdemeanor or Felony involving harm to identifiable person/property** | QUALIFIED — only disqualifies if defendant has **pending prosecution for any offense** OR has **yet to return on a previous DAT** for either of the above 2 crimes |
+
+> **Exam Alert:** "Identifiable person" means the crime charged involves a specific victim. "Identifiable property" includes theft (Grand Larceny, Petit Larceny, GLA) and property damage (including public property). The crime only has to "involve" harm — it does NOT have to actually cause harm.
+
+> **Exam Alert:** The last two items (CPF and A-Mis/Felony with harm) are QUALIFIED disqualifiers. Before denying a DAT on the basis of a pending prosecution or unreturned DAT, the desk officer must ensure the defendant actually has a requisite pending prosecution or previously issued DAT by checking appropriate Department computer systems.
+
+> **Exam Alert:** VTL 1192-1 DWAI (impaired) is a VIOLATION, not a misdemeanor — it is DAT-eligible. Only misdemeanor or felony DWI charges under VTL 1192 trigger the license-suspension disqualifier.
+
+> **See Also:** PG 208-40 — If a prisoner is hospitalized more than 24 hours for DWI and did NOT cause SPI/DOA, the prisoner can receive a DAT for the DWI.
 
 #### Category 3: REASONABLE BELIEF ORDER OF PROTECTION NEEDED
 
-- **Strong possibility of violence** against the victim
-- Applies to a list of **27 specific offenses**
-- If an Order of Protection may be needed, DAT is not appropriate because the defendant must appear before a judge
+- Strong possibility of violence against complainant AND person should seek an OOP against defendant
+- **MAY** deny DAT for a number of offenses based on this belief (including Violation of an OOP)
+- **WILL** deny DAT for the specific crimes listed below
+
+> **Exam Alert:** These crimes do NOT, by themselves, preclude a DAT. They must be coupled with the belief of recurring violence/need for an OOP.
+
+##### Crimes Against Children, Family, Vulnerable People:
+- **Children:** Reckless Assault of Child by a Child Day Care Provider; Luring a Child; Substitution of Children; Custodial Interference 1st; Disseminate Indecent Material to Minor 2nd
+- **Family:** Aggravated Family Offense (do family offense with conviction of one in the last 5 years)
+- **Vulnerable Person:** Endangering the Welfare of an Incompetent Physically Disabled Person 1st; Endangering Vulnerable Elderly Person, or Incompetent or Physically Disabled Person 2nd
+
+##### Other Crimes:
+- Assault on a Retail Worker (PL 120.19) — **New Law in 2024** (E Felony)
+- Aggravated Harassment 1st (with specifically identified victim [not a group] OR on private property with owner complainant)
+- Criminal Interference with Health Care Services or Religious Worship 1st
+- Stalking 2nd, Menacing 2nd Sub 2 (intend fear of DOA/PI/SPI by repeatedly following, etc.)
+- Menacing 1st (do Menacing 2nd with conviction of such in last 10 years)
+- Coercion 2nd (threaten injury or prop damage, criminal accusation, commit a crime, etc.)
+- Criminal Contempt 1st (Violate OOP), Tampering with a Witness 3rd
+
+##### Public Servants:
+- Assault 3rd or Attempt; Menacing 2nd or 3rd; Harassment 1st, Aggravated Harassment; Aggravated Harassment of a Judge
+- Reckless Endangerment 2nd against City/State enforcement agent performing official duty
+- Criminal Impersonation 1st (impersonate a P.O. & attempt a felony or a Dr. & call in a "script")
+- Threaten, harass, menace: UMOS; City/State/Fed elected official; Employee of ANY (public or private) transit agency/authority/company operating under authorization from NYS or NYC while performing assigned duties
+
+##### By Landlords:
+- Harassment of Rent Regulated Tenant 1st & 2nd, Unlawful Eviction (Admin Code 26-521)
+- Unlawful Surveillance 2nd, Dissemination of an Unlawful Surveillance Image 1st
 
 > **Sergeant Focus:** The three categories are frequently tested. Remember: Category 1 = who the defendant IS, Category 2 = what the defendant DID, Category 3 = what the defendant MIGHT DO (future danger requiring court protection).
 
@@ -2831,29 +3873,44 @@ Determined by **common sense and totality of circumstances**, considering:
 | **Nature** of the relationship | Romantic, sexual, emotional bond |
 | **Frequency** of interaction | How often the parties see each other |
 | **Duration** | How long the relationship has lasted |
+| **Time spent together** | In either a work or leisure-related capacity |
+| **Shared expenses/finances** | Joint financial obligations |
+| **Extent of interaction with family members** | Integration into each other's families |
+
+**Does NOT have to be sexual** to be considered "Intimate."
 
 **Does NOT qualify:**
 - Casual acquaintance
-- Business relationship
-- Educational relationship
-- Social context only
+- Ordinary business, educational, or social friends
+
+> **Exam Alert:** If unable to determine if the relationship is "intimate," the responding MOS must request the response of the **Patrol Supervisor** to make the determination.
 
 ### Family Offenses — Specific Charges
 
-The following offenses qualify as family offenses when committed between family/household members:
+> **Exam Alert:** UMOS does NOT need to know what is considered a "Family Offense" to make an arrest. Family Offenses affect decisions on Primary Aggressor Analysis and Concurrent Jurisdiction. The above steps for DV response apply to ANY offense between "Family Members."
+
+#### Personal Crimes (DRAMAS)
+
+> **Memory Aid — DRAMAS:** **D**is Con (including acts not in public) / **R**eckless Endangerment / **A**ggravated Harassment 2nd, Harassment 1st or 2nd / **M**enacing 2nd or 3rd / **A**ssault 2nd or 3rd (or Attempts) / **S**trangulation 1st or 2nd, Criminal Obstruction of Breathing or Blood Circulation, Stalking all four degrees
+
+> **Exam Alert:** Criminal Obstruction of Breathing is sometimes called "3rd degree Strangulation" — know this alternate name.
+
+#### Property/Sexual Crimes (C GIF CUSS)
+
+> **Memory Aid — C GIF CUSS:** **C**riminal Mischief (all degrees) / **G**rand Larceny (3rd and 4th) / **I**dentity Theft (1st, 2nd, and 3rd) / **F**orcible Touching / **C**oercion 2nd (subdivisions 1, 2, 3) / **U**nlawful Dissemination or Publication of Intimate Image (PL 245.15 — Revenge Porn) / **S**exual Misconduct / **S**exual Abuse 3rd AND Sexual Abuse 2nd sub 1 (Not sub 2 which is less than 14)
+
+> **Exam Alert:** Sexual Abuse 2nd sub 1 (incapable of consent by reason other than being less than 17) is a family offense. Sexual Abuse 2nd sub 2 (victim less than 14) is NOT a family offense — a victim less than 14 is too serious for Family Court; it goes to Criminal Court only.
 
 | Offense Category | Specific Charges |
 |---|---|
-| **Harassment offenses** | Harassment, Aggravated Harassment |
-| **Assault offenses** | Assault, Menacing, Reckless Endangerment |
-| **Sexual offenses** | Sexual Misconduct, Forcible Touching |
-| **Property offenses** | Criminal Mischief, Grand Larceny |
-| **Stalking offenses** | Stalking (all degrees) |
-| **Strangulation** | Criminal Obstruction of Breathing, Strangulation |
-| **Coercion** | Coercion |
-| **Disorderly Conduct** | Disorderly Conduct |
-| **Identity offenses** | Identity Theft |
-| **Image offenses** | Unlawful Dissemination of Intimate Image |
+| **Harassment offenses** | Dis Con, Harassment 1st/2nd, Aggravated Harassment 2nd |
+| **Assault offenses** | Assault 2nd/3rd (or Attempts), Menacing 2nd/3rd, Reckless Endangerment |
+| **Sexual offenses** | Sexual Misconduct, Forcible Touching, Sexual Abuse 3rd, Sexual Abuse 2nd sub 1 |
+| **Property offenses** | Criminal Mischief (all degrees), Grand Larceny (3rd/4th), Identity Theft (1st/2nd/3rd) |
+| **Stalking offenses** | Stalking (all four degrees) |
+| **Strangulation** | Criminal Obstruction of Breathing/Blood Circulation, Strangulation 1st/2nd |
+| **Coercion** | Coercion 2nd (subdivisions 1, 2, 3) |
+| **Image offenses** | Unlawful Dissemination or Publication of Intimate Image |
 
 ### Concurrent Jurisdiction
 
@@ -2862,24 +3919,66 @@ The following offenses qualify as family offenses when committed between family/
 | Condition | Requirement |
 |---|---|
 | 1 | The offense is a **family offense** (from the list above) |
-| 2 | The parties have a **Family Court Act relationship** |
+| 2 | The parties have a **Family Court Act relationship** (NOT the NYPD expanded definition) |
 | 3 | The offender is **18 years or older** |
 
-**Exception for 16-17 year olds:** Concurrent jurisdiction exists ONLY if the 16-17 year old is charged with a **felony-level** family offense.
+**Exception for 16-17 year olds:** Concurrent jurisdiction exists ONLY if the 16-17 year old is charged with a **felony-level** family offense (Adolescent Offender).
 
 **If conditions are NOT met:** The case proceeds in **Criminal Court only**.
 
 > **Exam Alert:** All three conditions must be present for concurrent jurisdiction. A common exam trap: a 17-year-old charged with misdemeanor harassment against a spouse — this goes to Criminal Court only because the offender is under 18 and it is not a felony.
 
-### Scene Investigation
+> **Exam Alert:** Concurrent jurisdiction uses the FAMILY COURT ACT definition of family member, NOT the NYPD expanded definition. Primary Aggressor Analysis and Concurrent Jurisdiction apply only to "Family Offenses" — NOT to all offenses between family members.
+
+### Steps for Concurrent Jurisdiction
+1. Advise Complainant/Victim when concurrent jurisdiction exists:
+   - Family court is to **resolve the dispute and end the violence**
+   - Criminal court is to **prosecute the offender**
+   - Can proceed in **both** courts AND change courts any time
+2. Document in Digital Activity Log that C/V was advised of concurrent jurisdiction
+
+### UMOS Response at Scene
+
+| Step | Action |
+|---|---|
+| **1. Medical treatment (1st action)** | If requested or need is apparent → obtain medical assistance |
+| **2. Ascertain facts** | Interview all persons involved **SEPARATELY** |
+| **3. Collect evidence** | Take photos with Dept smartphone of all visible injuries and/or damaged property |
+| **4. Determine probable cause** | Determine if probable cause exists that ANY offense was committed |
+
+### Interpreter Requirements
 
 | Requirement | Detail |
 |---|---|
-| **Interview** | Interview all persons involved **SEPARATELY** |
-| **Photograph** | Photograph visible injuries and damaged property using smartphone via **FORMS** application |
-| **Interpreters** | **Avoid** using family members or bystanders as interpreters |
-| **Temporary interpreter use** | May use temporarily to **stabilize the scene** |
-| **Verification** | Must verify information with a **certified member** or **Language Line** |
+| **Avoid** | Using bystanders/family members as interpreters |
+| **Temporary use** | May use temporarily to **stabilize scene and gather information** |
+| **Verification** | MUST use a **Certified MOS** or **Language Line Service (LLS)** to verify info before finalizing the job |
+| **LEP/Deaf persons** | Follow LEP 212-90 or Deaf 212-104 |
+| **Children** | Should be interviewed but do NOT use as interpreter, when feasible, on any assignment including DV |
+
+> **See Also:** PG 212-90 — Limited English Proficient; PG 212-104 — Persons who are Deaf or Hard of Hearing; PG 215-03 — Child Abuse
+
+### Arrest Decision in DV Cases
+
+| Offense Level | Action |
+|---|---|
+| **Felony or VOOP** | **ARREST** — do not ask questions about whether victim wants arrest |
+| **Misdemeanor** | **Probably arrest** — but do NOT ask questions; if victim states UNPROMPTED they do not want arrest, arrest is not mandatory BUT officer retains discretion |
+| **Any Misd or Violation in MOS presence** | ARREST perpetrator — do NOT ask victim if they want arrest made |
+
+> **Exam Alert:** DV arrests are NEVER eligible for a DAT. No DAT for any domestic violence arrest.
+
+### Victim Declines Arrest — Factors for Exercising Discretion
+
+If victim states, UNPROMPTED, that they do NOT want the violator arrested, the officer may STILL make the arrest considering:
+- **Past:** History (arrests, incidents, injuries, etc.) — if possible, conduct inquiry through Department databases
+- **Current:** Observations at scene (mental/physical state of defendant, drug or alcohol intoxication), statements (violator and witnesses), weapons (presence, access, or threatened use)
+- **Future:** Risk — will anyone in the house be at risk, including the elderly
+- If unsure whether arrest is appropriate → **arrest the offender over the victim's objections**
+
+### No Arrest Made
+- Have the **victim sign** Digital Activity Log OR
+  - If victim refuses → note their refusal to sign in Digital Activity Log
 
 ### Child Abuse Reporting
 
@@ -2892,7 +3991,37 @@ The following offenses qualify as family offenses when committed between family/
 
 > **Exam Alert:** Willful failure to report suspected child abuse is a CLASS A MISDEMEANOR plus civil liability. This is one of the most severe consequences for failure to act in the Patrol Guide. When probable cause exists for a crime against a child, arrest is mandatory and DAT is prohibited.
 
+> **See Also:** PG 215-03 — For signs of child abuse, turn to the juvenile matters section.
+
 ---
+
+### Perp Fled Scene
+
+| Offense Level | Action |
+|---|---|
+| **Violation** | Do NOT search for a Violation (that is only a referral) |
+| **Felony, Misdemeanor, or VOOP** | If the search might yield positive results → search the immediate vicinity |
+
+- Advise victim: call police if further contact with perp
+- Instruct victim to request an arrest and present the DIR as proof of previous complaint
+
+---
+
+### Recording DV Incidents Occurring OUTSIDE NYC (but in NY State)
+
+**UMOS:**
+- Prepare Complaint Report **Worksheet** (do NOT input to OMNIFORM)
+- Prepare DIR (do NOT input to FORMS)
+- Take photos with Dept smartphone (do NOT upload to FORMS)
+
+**Desk Officer:**
+- Forward paperwork to **ICCU** (Inter City Correspondence Unit)
+  - Scan AND email to ICCU
+  - Forward hard copies to ICCU via Dept mail
+
+> **Exam Alert:** For DV incidents occurring outside NYC but in NYS, nothing goes into OMNIFORM or FORMS. Worksheets and hard copies only, forwarded to ICCU.
+
+**Arrest situation** for a family offense outside NYC (but in NYS): Confer with Legal Bureau and make the arrest if appropriate. Process as FOA (For Other Authority) per PG 208-03.
 
 ---
 
@@ -2925,20 +4054,38 @@ The following offenses qualify as family offenses when committed between family/
 
 ## Cross-Complaint — Primary Physical Aggressor
 
+> **Exam Alert:** Primary Aggressor Analysis applies ONLY to **Simultaneous Misdemeanor vs. Misdemeanor "Family Offenses."** It does NOT apply if a person committed an offense in response to or in retribution for a crime committed against them in the past — in that case, do NOT use Primary Physical Aggressor analysis.
+
+> **Exam Alert:** The primary consideration is prevention of future violence and safety of ALL household members.
+
 When probable cause exists that **more than one** family member committed a misdemeanor:
 
 ### Determination Criteria
-1. Comparative **extent of injuries**
-2. Whether any party is **threatening future harm**
-3. **Prior history** of domestic violence
-4. Whether any party acted **defensively**
+1. Comparative **extent of injuries** (wife's black eye vs. husband's scratch)
+2. **Defensive acts or injuries**
+3. **Current or future threats** (example: "I'm going to kill you")
+4. **Prior history** of domestic violence by a party
 
 ### Procedure
-1. Attempt to identify primary physical aggressor
-2. **Confer with patrol supervisor**
-3. Arrest the primary physical aggressor
-4. If unable to determine → **may arrest both parties**
-5. Document all factors in Activity Log and Complaint Report
+1. **Confer** — ALWAYS confer with **Patrol Supervisor**
+2. **Complaint Report and DIR** — ALWAYS prepare for **EACH** party
+   - Example: Husband and wife cross complaints = 2 complaint reports and 2 DIRs
+3. Document factors that led to determination OR inability to determine primary aggressor:
+   - Complaint Report: enter in "Details" section of the 61
+   - DIR: enter in "Incident Narrative" section
+   - Digital Activity Log
+4. If **Primary Aggressor identified:**
+   - Complaint Report #1 = "Victim" against the perp
+   - Complaint Report #2 = Perp against the "victim" and is "Closed to Patrol"
+5. **Statements:** Both Complaint Reports must include a statement in details section that offender was:
+   - NOT the "primary aggressor," OR
+   - WAS the "primary aggressor" and state reasons, OR
+   - Inability to determine who was the primary aggressor
+
+### Arrest
+- Primary Physical Aggressor → arrest
+  - However, **both parties may be arrested** if appropriate
+- Cannot identify Primary Aggressor → **MAY arrest both parties**
 
 > **Exam Alert:** Even when unable to determine the primary aggressor, it is lawful to arrest both parties. The primary consideration is always prevention of further violence and safety of ALL household members.
 
@@ -2946,18 +4093,107 @@ When probable cause exists that **more than one** family member committed a misd
 
 ## Order of Protection — Verification and Enforcement
 
-### Verification Methods (in order)
-1. Request complainant produce the OP
-2. Query **eJusticeNY** application (desktop or smartphone "Portal" app)
-3. Query **zFINEST** (name search — info only, no copy produced)
-4. Contact **Central Records Division, Identification Unit** by phone
+### Obtaining and/or Verifying an OOP
 
-### Out-of-State Orders (Violence Against Women Act)
-Enforce if:
-- Order appears **valid on its face** (not expired, signed by judge)
-- Probable cause of violation exists
-- Offender had **notice** of the order
-- Offender had **opportunity to be heard**
+**E-Justice App** enables the user to:
+- **Desktop:** Print/save as PDF from Dept desktop
+- **Dept Smartphone:** Save/forward PDF on Dept smartphone
+- **Family & Criminal Ct OOPs:** Can be printed via E-Justice
+- **Supreme Ct OOPs:** No printing, but info can be accessed via the Order Protection application on E-Justice App OR requisitioned by Central Records Division, ID Section
+
+**Z-Finest App** can also provide:
+- Above information BUT no actual copy of Order
+- Search by name of complainant or perp
+
+### Verification Methods (in order)
+1. Request complainant/victim produce the OOP
+2. If C/V can NOT produce OOP:
+   - **E-Justice** — PRINT a copy from E-Justice NY app
+   - If E-Justice cannot provide a copy → call **Central Records Division**, ID section to obtain info (verify OOP was issued, court of issuance, specific conduct prohibited, expiration date)
+   - **Z-Finest** app can also provide info and search by name (but no actual copy)
+3. **Confirm OOP** — properly served via either E-Justice NY OR Z-FINEST
+
+> **Exam Alert:** Hope Card (Ops Order 11 s.2025) — For Final OOPs, a wallet-size card OR digital version. UMOS scan the QR code with Dept phone to verify.
+
+### Charges for OOP Violations
+
+> **Exam Alert:** If the underlying prohibited act is also an offense, charge that violation or crime TOO. A prohibited act is not always illegal conduct — some orders prohibit visiting victims at work, etc., which is not an offense by itself.
+
+### Criminal Contempt for OOP Violations
+
+| Court That Issued OOP | Charge |
+|---|---|
+| **Supreme Court, Family Court, or Criminal Court** | **Criminal Contempt** or **Aggravated Criminal Contempt** |
+
+- Criminal Contempt for OOP violation is **NOT a Family Offense** and there is **NO concurrent jurisdiction**
+- If violation occurred in NYC → arrest goes to **Criminal Court**
+- Advise victims they can independently file a petition in Family Court
+
+### Three Ways to Verify Notice (Violator Must KNOW About the Order)
+
+| Method | Detail |
+|---|---|
+| **Violator** | Ask violator if they knew of the order |
+| **Victim** | Have the victim verify the knowledge of the offender |
+| **Court** | If necessary, during business hours, call the court of issuance |
+
+### Cannot Verify OOP
+- Effect arrest IF UMOS has **probable cause** the order exists based on:
+  - Credible information supplied by complainant/victim or other credible source
+
+### Out-of-State Orders of Protection
+Enforce out-of-state OOPs (includes tribal courts and U.S. territories) if:
+- Perpetrator had **notice** of the order AND
+- **Opportunity to be heard:**
+  - Appeared in court, OR
+  - Served and failed to appear in court, OR
+  - Served and had notice to appear within 30 days of issuance of the OOP
+- Out-of-state OOP — effect arrest if above criteria met AND:
+  - Signed by Judge
+  - Not expired
+  - Opportunity to be heard
+- Charge under NYS Penal Law (Criminal Contempt, etc.)
+
+> **Exam Alert:** Victim cannot produce a copy of the out-of-state OOP → attempt to verify as listed above AND check NCIC (Statewide Registry of Orders of Protection or Order of Protection files in NCIC).
+
+### Serving a Summons/OOP
+- Prepare and sign **Statement of Personal Service**
+  - Give white copy to victim
+  - File blue at pct/PSA of service
+- Document in Online database: enter in either zFINEST or eJusticeNY (to ensure future police action can be taken in a timely fashion)
+
+---
+
+## Violation Out of UMOS Presence
+
+| Situation | Action |
+|---|---|
+| **Concurrent Jurisdiction exists** | Inform complainant case can be adjudicated in Family Court, Criminal Court "Summons Part," or both |
+| **No Concurrent Jurisdiction** | Refer C/V to "Summons Part" of Criminal Court |
+| **Offender Information** | Victim MUST have offender's address available for eventual service |
+
+### Complaint Report — Open or Closed?
+
+> **Exam Alert:** Think: "Would you have arrested him?"
+
+| Offense Level | Report Status |
+|---|---|
+| **Violation** | **CLOSED** |
+| **Felony or VOOP** | **OPEN** |
+| **Misdemeanor** | OPEN if C/V wants an arrest OR OPEN if C/V does not want arrest but UMOS believes arrest is warranted given above criteria |
+
+- **Open Complaints:** Mark as Referred to the PDS (Precinct Detective Squad)
+- **Closed Complaints:** Mark C/W referred to court
+
+### Violations of Order of Protection — Complaint Report
+- Note in "Details" of Complaint Report:
+  - OOP verified
+  - Court that issued OOP
+  - Perp's possible location
+
+### DIRs as Rosario Material
+
+> **Exam Alert:** DIRs are potential "Rosario" material. If an arrest is made, the Arrest Officer must give a copy of the incident's DIR to the ADA. When requested by the DVPO, make all DIRs regarding an arrested person available to an ADA.
 
 ---
 
@@ -2973,15 +4209,261 @@ Enforce if:
 | **Victim copies** | Give pink copies of DIR and Victim Rights Notice |
 | **Radio disposition** | Use 10-90F, 10-92F, 10-93F codes |
 
+### Firearms Inquiry and Seizure in DV Incidents
+
+**MUST ask** about guns in the residence/other location (business, other residences, etc.). This includes rifles, shotguns, antique firearms, electric dart guns, disguised guns, imitation weapons, etc.
+
+**UMOS responding to a DV report WILL SEIZE ANY FIREARMS and License/permit if:**
+
+| Condition | Detail |
+|---|---|
+| **OOP exists** against the holder | Does NOT say he had to violate it for us to take it |
+| **Physical Force or threat of** | Is involved in incident — does NOT say by the holder |
+| **License holder arrested** | Regardless of the charge |
+
+**MAY Seize Firearm if:**
+- UMOS reasonably believes that the presence of firearms at a location creates an **imminent risk of physical injury or higher**. Remove as follows:
+  - Seize **illegally possessed** firearm(s) and make an arrest
+  - Seize **legally possessed** firearm(s) if imminent risk of physical injury or more
+  - Voucher **legally possessed** firearms voluntarily surrendered by participants in domestic incidents
+
+**Notify:**
+- If the licensee/permit holder was involved → Notify **License Division, Incident Section**
+- Licensee must also immediately notify License Division of the incident
+
+### Regarding the Complaint Report
+- If incident occurred **in NYC** → Prepare a Complaint Report for the incident
+- If incident occurred **outside NYC but in NYS** → Prepare a Complaint Report **Worksheet** (do NOT input to OMNIFORM; submit to D.O. who will forward to ICCU)
+
+### Desk Officer DV Responsibilities
+- **Verify** accuracy and completeness of all forms
+- **Transport** — have perp removed to BCS
+- **Digital Photos** — ensure digital photos of DV-related evidence (injuries/property damage) are taken on Dept smartphone
+  - NYC incidents → Uploaded photos to FORMS
+  - Outside NYC/NYS → Print photos, voucher, and attach to Complaint Report Worksheet
+- **Forward to Detective Squad:** open Complaint Report to detective squad; completed and signed photocopy of the DIR
+- **DIR** — ensure original DIR is promptly entered into FORMS (for NYC incidents ONLY)
+
 ---
 
 ## P.G. 208-70: Processing of NYS Domestic Incident Reports
 
-- Hard copy required for all **founded** DV incidents
-- **No hard copy** for unfounded incidents within NYC (enter directly into FORMS)
-- Hard copy **required** for incidents outside NYC but within NYS
+### UMOS Responsibilities
+- Import DIR into **FORMS** (for incidents within NYC)
+- Narrative section — enter the following:
+  - If verbal dispute only
+  - Court & Docket # of OOP
+  - Reporting Officer's Tax # (in "Reporting Officer" box)
+- Receipt to victim or complainant, if present:
+  - DIR — give copy of both pages (pink copies) AND
+  - **Victim Rights Notice** (pink copy)
+- Submit hard copy of DIR with any other reports (61, OLBS, etc.) to Desk Officer
+- **Statement of Allegations/Supporting Deposition (pg 2):**
+  - Have victim complete
+  - Do NOT enter "Refused" or "Same as page 1" unless the victim actually refuses
+  - Foreign language statements must be transcribed and translated as accurately as possible
+  - D.O. review DIR to see if Statement of Allegation is done in a foreign language → if so, follow 212-90 LEP
+  - ID of any interpreter used should be entered into DIR section: **Interpreter Service Provider Name**
+
+> **Exam Alert:** Walk-Ins — MOS will make DIR for walk-ins. For unfounded NYC incidents, there is NO hard copy; the DIR is entered directly into FORMS.
+
+> **Exam Alert:** The DA wants a handwritten statement — the DA can use it as an accusatory instrument.
+
+### DIR Hard Copy and FORMS Upload Table
+
+| Incident Type | Hard Copy DIR | Upload to FORMS |
+|---|---|---|
+| **NYC Founded** | Yes | Yes |
+| **NYC Unfounded** | **No** | Yes |
+| **NYS Unfounded** (outside NYC) | **Yes** | **No** |
+| **NYS Founded** (outside NYC) | **Yes** | **No** |
+
+> **Exam Alert:** NYC Unfounded = no hard copy but still enters into FORMS. NYS (outside NYC) incidents = hard copy prepared but do NOT upload DIR to FORMS; forward to D.O. for review.
+
+### Desk Officer DIR Responsibilities
+- Ensure accuracy and completeness of all forms
+- For incidents within NYC → designate MOS to input DIR info to FORMS
+- Forward all copies of NYC DIRs to **DV Sergeant**
+
+> **Exam Alert:** DIRs are forwarded by the DV Sergeant, NOT the Desk Officer. The Desk Officer forwards them to the DV Sergeant who then handles distribution.
+
+### DV Sergeant DIR Responsibilities
+- Review and compare hard copy of NYC DIRs to electronic copy — address discrepancies
+- Maintain file of DIRs prepared in the command or forwarded from other commands
+  - NYC Incident — Command of Occurrence: Original (DV sgt's copy) & 1st copy (PDS) filed in command of occurrence
+  - If command of occurrence is not complainant's/victim's resident pct → send photocopy to DV sergeant at that precinct (if incident within NYC)
+- For incidents outside NYC but within NYS → DIR forwarded to ICCU
+- ECMS/DVIMS — Review and update for NYC incidents
+
+### Radio Codes for DV Incidents
+
+| Code | Meaning |
+|---|---|
+| **F = Family** | |
+| 10-90 F1 | Dispute, but No offense occurred |
+| 10-90 F2 | Unfounded family |
+| 10-92 F | Arrest (Family) |
+| 10-93 F | Complaint report (Family) |
+| **J = Child Abuse (Juvenile)** | |
+| 10-90 J1 | No offense of child abuse |
+| 10-90 J2 | Unfounded allegation of child abuse |
+| 10-92 J | Arrest — Child Abuse |
+| 10-93 J | Complaint Report — Child Abuse |
+
+### Founded vs. Unfounded — NYC vs. NYS
+
+| Incident | Action |
+|---|---|
+| **Founded in NYC** | Prepare hard copy DIR and enter into FORMS |
+| **Unfounded NYC** | Do NOT prepare hard copy but ENTER the required information into FORMS |
+| **Founded or Unfounded outside NYC but in NYS** | Prepare hard copy of DIR; do NOT upload DIR to FORMS; forward to D.O. for review |
+| **If radio run, ICAD #** | For founded incidents (conflict, dispute, altercation, disturbance, etc.) enter ICAD # on DIR |
 
 > **Sergeant Focus:** Strangulation injuries are often internal and not immediately visible. Supervisors must ensure victims receive medical evaluation even when external injuries are absent.
+
+---
+
+## Assigned Detective and DVPO Responsibilities
+
+### Assigned Detective
+- **Interview** — immediately attempt to interview the complainant
+- **Investigate** — obtain facts and information (all addresses, nicknames, DOB, phone numbers, email addresses, information regarding relatives and associates, etc.)
+- **Computer checks** — conduct necessary computer checks re: all involved persons/locations
+- If can NOT immediately apprehend → confer with Pct/PSA DVU Sgt (DVPO will assist in making collar within the confines of the command)
+
+### 61 Left Open to the Squad — I-Card
+
+> **Exam Alert:** Ensure "I" Card includes NYSID #, if possible.
+
+- Activate **"I" CARD** for named perpetrator
+  - NO later than **end of assigned tour** REGARDLESS of whether complainant was interviewed OR DIR was forwarded to the Detective Squad
+- Communicate/forward activated (and cancelled) "I" CARD info to Pct/PSA DVU daily
+  - Date, time, and name of who notified → enter into Enterprise Case Management System
+- Forward Investigation Card to DV Unit of Pct/PSA **of offender's residence**
+
+### Detective Squad C.O.
+- Confer **bi-weekly** with Pct/PSA C.O. and DVU Sgt re: active and cancelled domestic violence "I" cards
+
+### Domestic Violence Prevention Officer (DVPO)
+- **DVIMS** — open and manage a case in DVIMS (Note: NOT ECMS)
+- **Conferrals** — documents all interactions with PDS and Special Victims Squad members assigned to the case
+- **Apprehension Efforts** — assist in apprehension efforts within the confines of the Precinct/PSA
+- **Confer** with assigned detective PRIOR to making home visit for named perp
+- **Effect arrest** — if named perpetrator is present during the home visit
+  - If arrest for a serious felony or complex investigation → assigned detective will assist DVPO
+- **Notify** Squad (not assigned detective, as they may be off) to cancel the "I" CARD when named perpetrator is arrested
+- **Inform** assigned detective of all attempts to locate named perpetrators
+
+> **Exam Alert:** The assigned detective documents arrest efforts by DVPO in ECMS (not DVIMS). The DVPO uses DVIMS for case management, but the assigned detective uses ECMS to document DVPO arrest efforts.
+
+### Sweeps
+- **Coordinated** by Detective Zone Commanders and Precinct Detective Squad Commanders
+- **Includes** Precinct/PSA C.O., Special Operations Lt, and Domestic Violence Unit Sergeant
+- **Purpose:** Expeditiously apprehend multiple named perpetrators
+
+---
+
+# Section 208 — Taking Pictures of Domestic Violence
+
+Covers P.G. 208-39
+
+---
+
+## P.G. 208-39: Taking Pictures of Domestic Violence
+
+### UMOS Responsibilities
+
+1. **Determine** if photos must be taken → comply with PG 208-36
+2. **Ask** if victim is willing to be photographed
+3. **Explain** photos are crucial evidence for:
+   - Criminal prosecution AND/OR
+   - Civil court (divorce/child custody hearing, etc.)
+4. **Refusal** — if victim not willing to allow photos, note refusal in:
+   - Digital Activity Log (have victim sign entry, if possible)
+   - DIR
+   - Complaint Report
+
+### What to Photograph
+
+Take photos including but not limited to:
+- Visible injuries
+- Victim from the waist up for ID purposes
+- Weapons
+- Damaged property
+- Overall scene to illustrate disarray
+- Blood on clothes/hands or ripped clothing of either perp or victim
+
+> **Exam Alert:** Photos do NOT substitute for vouchering physical evidence (weapons, clothes, etc.). If evidence exists, it must still be vouchered separately.
+
+### Qualified Situations — Additional Photos
+
+| Situation | Photo Required |
+|---|---|
+| **No arrest effected** | Photo of appropriate recent photo of the perp on victim's phone/other source |
+| **Threatening social media or texts** | Photo of perp's contact information AND victim's IMEI # on phone |
+| **OOP violated by calls or repeated/threatening calls** | Victim's call log, perp's contact info, victim's IMEI # |
+| **Apologetic texts or social media messages** | Messages that indicate culpability |
+| **Aggravated Harassment** | Caller ID on the phone (photo) |
+| **Stalking** | Flowers, cards, notes (photo) |
+
+### Taking and Uploading Photos
+
+**UMOS:**
+- Take photographs with Dept smartphone
+  - Use these tabs in the app: "Domestic Violence," "DV Photos," "Take Picture"
+  - Do NOT voucher the photos
+- **If incident occurred IN NYC** → upload through FORMS
+- **If incident occurred OUTSIDE NYC but INSIDE NYS:**
+  - Do NOT upload to FORMS
+  - Print photos
+  - Voucher the photos
+  - Attach photos to Complaint Report Worksheet
+
+**DIR — NYC incidents:**
+- Ensure "Photos Taken" box in "Evidence" section (Evid) of DIR is completed
+- After putting photos in FORMS (for NYC incidents) on smartphone → press save (this reserves a DIR#)
+
+**DIR Number:**
+- Document DIR # on scratch copy of DIR and in Digital Activity Log
+
+### DVPO (Domestic Violence Prevention Officer) Photo Responsibilities
+- Review **DAILY** to ensure photos were taken as necessary:
+  - Review completed DIRs
+  - Finalized 61 printouts
+  - Photos in DVIMS
+- **Follow-up with victims:**
+  - Take digital photos as necessary — special attention to injuries that were NOT visible at the outset but are NOW visible
+  - Add additional photos through FORMS using "Maintenance Tab"
+
+### Training Sergeant Responsibility (Note: NOT DV Sergeant)
+- Taking and uploading DV photos
+  - Ensure all UMOS assigned to cmd are properly trained in taking/uploading DV digital photos
+
+> **Sergeant Focus:** The Training Sergeant (not the DV Sergeant) is responsible for ensuring all UMOS know how to take and upload DV photos. The DVPO reviews daily to ensure photos were taken. Injuries that were not visible initially may become visible later — follow-up photography is critical.
+
+### Preparing the DIR — Incident Narrative Content
+
+The DIR Incident Narrative must include:
+
+**Primary Physical Aggressor:**
+- List factors used to determine if there was/was NOT a Primary Physical Aggressor
+
+**Perpetrator Information** — list in BOTH the Narrative of DIR AND the Details of Complaint Report (61):
+- Work — where does perp work and work hours
+- Car — does perp drive a car? (state & plate, if known)
+- Places perp frequents (places where perp could be located, other than residence — obtain as much detail as possible)
+- Email address of perp
+- Social media profile (include all account names) of perp
+
+### Evidence Documentation on DIR
+- Enter arrest or investigatory evidence in the appropriate caption on DIR
+  - Including photos uploaded to FORMS
+- Incident **outside NYC** → do NOT upload photos to FORMS
+  - Voucher photos and attach to Complaint Report Worksheet
+
+### NYC Incidents — DIR Additional Requirements
+- Ensure Pct/PSA DVPO's name and phone # are entered in **Prior History** section on page 2 of DIR
+- Advise all parties DVPO may contact regarding this (NYC) incident
 
 ---
 
@@ -3386,6 +4868,10 @@ Covers P.G. 208-05
 | **Special attention areas** | Waistband, armpit, collar, groin |
 | **Who performs** | Arresting or assisting officer |
 
+> **Exam Alert:** Gender does NOT matter for a field search. Any officer may conduct a Level 1 frisk regardless of the arrestee's gender. Gender matching is required only at Level 2 (facility search) and Level 3 (strip search).
+
+> **Exam Alert:** "Unusual objects" found during a frisk are removed by the searching officer. The PG says unusual objects — this is NOT limited to weapons or contraband. Any unusual object is removed.
+
 #### Level 2: SEARCH AT POLICE FACILITY
 
 | Aspect | Detail |
@@ -3395,8 +4881,11 @@ Covers P.G. 208-05
 | **NOT the same as** | Strip search — this is a more thorough pat-down with outer garment removal |
 | **Gender not apparent or arrestee objects** | Assign gender **requested by arrestee** (consistent with officer safety and resource availability) |
 | **Critical rule** | **NEVER** search a person to determine their gender |
+| **Outer garments include** | Wigs, ties, shoes, socks, wallet, handbags |
 
 > **Exam Alert:** A search at the police facility is NOT a strip search. It involves removal of outer garments but not undergarments. The distinction between Level 2 and Level 3 is frequently tested.
+
+> **Exam Alert:** If the gender of the officer assigned to conduct the search differs from the gender requested by the arrestee, the Desk Officer OR Supervisor supervising the search must make a detailed Command Log entry documenting: (1) factors considered in assigning the searching member, and (2) identities of the member(s) who actually conduct the search. Under NO circumstances shall MOS conduct searches for the purpose of determining gender, nor ask questions about anatomy without a reasonable basis.
 
 #### Level 3: STRIP SEARCH
 
@@ -3432,13 +4921,19 @@ When determining whether reasonable suspicion exists for a strip search, conside
 - Subject's reputation (extremely violent person)
 - Acts of violence
 - Unaccounted "hits" on magnetometers or walk-through metal detectors
-- Discoveries or information from previous searches of same individual or co-arrestees
+- Discoveries or information from previous searches of same individual **OR others arrested with him/her**
+
+> **Exam Alert:** A strip search requires Reasonable Suspicion BEYOND the Probable Cause for the arrest. The standard is higher — you need articulable facts that the person may be concealing a weapon, evidence, or contraband in such a manner that previous search methods did not discover.
+
+> **Exam Alert:** DATs and strip searches — a prisoner who will receive a DAT CAN still be strip searched if a factual basis exists. Getting a DAT does not shield the prisoner from a strip search. However, NO strip search will be conducted once a decision is made to void the arrest or release on a summons.
 
 ### ABSOLUTE PROHIBITION: Body Cavity Search
 
 - **UNDER NO CONDITIONS** shall any MOS conduct a body cavity search
 - If an object or foreign material is **visually detected** within any body cavity during a strip search → notify **desk officer immediately**
-- It should NOT be necessary to touch the body, **except for hair examination**
+- It should NOT be necessary to touch the body, **but may touch hair**
+- Object WILL NOT be removed without a **search warrant**
+  - Once search warrant obtained, must seek assistance of a **medical professional** to remove
 
 ### Subsequent Strip Search
 
@@ -3446,12 +4941,51 @@ A subsequent strip search may NOT be conducted unless there is **reasonable beli
 
 ### Mobility Disability Considerations
 
+#### Frisk of Person in Wheelchair/Scooter
+| Step | Action |
+|---|---|
+| 1 | **Rear cuff** in seat |
+| 2 | Frisk lower body by sliding hands up each leg and under buttocks, **palms UP** |
+
+> **Exam Alert:** The exam loves to reverse the UP/DOWN direction. When frisking the PERSON in the wheelchair, palms face UP (sliding up legs and under buttocks). When searching the DEVICE (wheelchair), palms face DOWN (sliding under the seat and over accessible areas). Very easy for an examiner to switch these.
+
+#### Search of Assistive Device (Wheelchair, etc.)
+- Slide hands, **palms DOWN**, under the seat and over accessible areas
+- Search all attachments and compartments
+
+#### Search at the Arrest Processing Facility
 | Step | Action |
 |---|---|
 | 1 | **Ask consent** to remove arrestee from assistive device for search |
-| 2 | If consent given but arrestee cannot lift themselves → dispatch **EMS** |
-| 3 | If arrestee **refuses** → Contact **Legal Bureau** for guidance |
-| 4 | Transport to **ADA-compliant precinct** |
+| 2 | If consent given, search device including all attachments and compartments |
+| 3 | Identify appropriate seating area to move arrestee for thorough search |
+| 4 | If consent given but arrestee cannot lift themselves → dispatch **EMS** (EMS will assist with search OR remove to hospital) |
+| 5 | May use a **handheld metal detector** to assist (but it does NOT eliminate the need to search) |
+| 6 | When search complete, return device if safe; if not safe, comply with PG 210-08 "Holding Pens" |
+| 7 | If arrestee **refuses** search → Contact **Legal Bureau** for guidance |
+| 8 | Lodge prisoner in **ADA-compliant cell** |
+
+> **Exam Alert:** A handheld metal detector may ASSIST with the search of a mobility-disabled prisoner, but it does NOT eliminate the need for a physical search. The exam may present a scenario where an officer relies solely on the metal detector — that is incorrect.
+
+### Strip Search Documentation
+
+#### Command Log — Authorizing Supervisor Records:
+- Rank, name, and command of supervisor authorizing the search
+- Rank, name, and command of MOS performing the search
+- Name of prisoner
+- Basis for the search AND results (including negative results)
+
+#### OLBS "Narrative Section"
+- Supervisor authorizing the search must ensure the Command and **Command Log page number** are documented in the "Narrative" section of the OLBS
+
+#### Digital Activity Log
+- Desk Officer directs A/O to prepare Digital Activity entry with info from Command Log entry
+
+#### Prisoner Movement Slip — "Detention Alert" Section
+- Desk Officer enters in the Detention Alert section:
+  - "Strip Searched"
+  - Command where strip search was conducted
+  - Command Log page number
 
 > **Sergeant Focus:** Supervisors must ensure that strip searches are NEVER conducted routinely. Every strip search requires (1) reasonable suspicion, (2) immediate supervisor or borough court section supervisor approval, and (3) same-gender officer in a private, secure location. Document the basis for reasonable suspicion. NEVER allow a body cavity search under any circumstances.
 
@@ -3546,15 +5080,95 @@ Covers specialized processing requirements for juvenile offenders, coordinating 
 
 ---
 
-## P.G. 208-34: Arrests — Organized Crime Offenses
+## P.G. 208-34: Bribery Arrest
 
-Covers arrest procedures for organized crime-related offenses, including coordination with specialized units and intelligence sharing protocols.
+> **Exam Alert:** PG 208-34 is "Bribery Arrest" and covers the arrest process for the CHARGE of Bribery. PG 208-35 is "Attempted Bribery" and covers the process of getting wired up (when a UMOS is offered a bribe). Attempted Bribery is NOT a charge — if a UMOS is offered a bribe, the perp is charged with Bribery. An actual exchange does NOT have to take place; the mere offer is sufficient.
+
+> **Prior Test:** A past exam offered "Charge with Attempted Bribery" as an answer choice — it was WRONG. There is no "attempted bribery" charge. The correct charge is Bribery (PL 200.00 et seq.).
+
+### Bribery Arrest Procedure (PG 208-34)
+
+**Arresting Officer:**
+- Effect the arrest and notify the D.O. or Supervisor
+
+**Desk Officer/Supervisor:**
+1. If legality of charges is in doubt or immediate legal assistance is required → Notify **Legal Bureau** (if Legal is closed → call **Operations** to arrange consult with Department attorney)
+2. Notify **IAB** — obtain IAB Log number; IAB instructs to call Boro Investigations for technical assistance
+3. Notify **Platoon Commander** (if unavailable → CO/Duty Captain)
+
+> **Exam Alert:** In a bribery arrest, the call to Legal Bureau comes BEFORE the call to IAB. However, the call to Legal is CONDITIONAL — it is only made if there is doubt about legality or immediate legal assistance is needed. It is not always made.
+
+**Platoon Commander (or CO/Duty Captain if PC unavailable):**
+- Investigate — interview Arresting Officer
+- Prepare Report on Typed Letterhead — **7 copies** of 49 to Chief of Department (ALL copies MUST include IAB Log #)
+  - Original goes DIRECT by Dept. Mail to C.O.D.
+  - Fax copy to IAB Command Center
+  - Retain remaining copies at desk pending result of initial arraignment
+- Notify CO/Duty Captain who reviews actions taken
+
+**Arresting Officer — Prior to Pre-Arraignment:**
+- Confer with immediate supervisor and/or ICO concerned
+
+**A/O AND Supervisory Officer or ICO:**
+- Consult with ADA to ensure Bribery-related charge is in Complaint (Court section assists)
+
+**Arresting Officer — After Affidavit Complete:**
+- Notify D.O./Supervisor of ADA's name and CHARGE
+- Court Appearances — maintain record of ALL court appearances including the **"4 Ds"**:
+  - **D**ate
+  - **D**ocket number
+  - **D**A's name
+  - **D**isposition
+
+> **Memory Aid — 4 Ds (Bribery Court Appearances):** Date, Docket#, DA's name, Disposition. Report info to C.O. after EACH court appearance. C.O. is responsible for follow-up and final reports.
+
+> **Exam Alert:** After a bribery arrest, the Arresting Officer reports court appearance info directly to the Commanding Officer — this BREAKS the chain of command (UMOS goes straight to C.O.).
+
+**ICO Member Effecting Arrest — After Arraignment:**
+- Obtain through BCS: 4 items (Judge, Court docket, NYSID #s, Disposition) and 3 dates (Arraignment date, Adjournment date, Grand Jury date if any)
+- Update Report on Typed Letterhead and forward remaining copies of 49 to:
+  - Chief of Department x 2 (1 Direct, 1 through channels)
+  - Chief of IAB
+  - C.O. of A/O
+  - One to File
+- Maintain a folder for all Bribery arrests
+
+### DA Refuses to Charge Bribery
+
+**Arresting Officer:**
+- Notify **C.O./Duty Captain** (Break the Chain of Command!)
+- If Bribery was only charge and DA refuses → obtain signed "Declined Prosecution"
+- Deliver D.P. to C.O.
+- Make complete Digital Activity Log entry
+- Secure release of prisoner
+- If perp already at courthouse → notify Court Section Supervisor
+- Notify IAB Command Center of results
+
+> **Exam Alert:** When the ADA refuses to draw up the bribery charge, the ARRESTING OFFICER (not the Desk Officer) makes the notifications. Compare this to a regular bribery arrest where the Desk Officer notifies Platoon Commander and IAB.
+
+| Scenario | Who Notifies IAB & Platoon Commander? |
+|---|---|
+| **Regular Bribery Arrest** | **Desk Officer** notifies Platoon Commander (if unavailable → CO/Duty Captain) and IAB |
+| **ADA Refuses to Draw Up Charge** | **Arresting Officer** notifies C.O./Duty Captain and IAB |
+
+**C.O. — Final Disposition:**
+- Prepare Report on Typed Letterhead (49) with History & Appearances
+- Forward to: PC (PC only receives the FINAL report, not the original), Chief of Dept, Chief IAB
+
+> **Exam Alert:** The Platoon Commander does NOT receive a copy of the original report. The PC only receives a copy of the Final Report upon disposition.
 
 ---
 
-## P.G. 208-35: Arrests — Prostitution-Related Offenses
+## P.G. 208-35: Attempted Bribery (Getting Wired Up)
 
-Covers procedures for prostitution and sex trafficking arrests, including victim identification protocols and specialized unit notifications.
+There are only **3 steps** in this procedure:
+
+**A/O:**
+1. **Notify** D.O./Supervisor ASAP (if not possible, call IAB direct)
+2. **Document** — enter facts in Digital Activity Log
+
+**Desk Officer/Supervisor:**
+3. **Notify** IAB and be guided by IAB re: action to be taken and technical assistance; also notify Boro Investigations and request assistance
 
 ---
 
@@ -3803,6 +5417,105 @@ Project Reset provides an alternative to traditional arrest processing by divert
 
 ---
 
+# Section 208 — Uniformed and Civilian MOS Domestic Violence
+
+Covers P.G. 208-37
+
+---
+
+## P.G. 208-37: Uniformed and Civilian MOS Domestic Violence
+
+> **Exam Alert:** PG 208-37 covers UMOS and CMOS involved in a domestic incident. PG 212-32 covers UMOS and CMOS "Off-Duty Incidents." Know the overlap: 208-37 directs UMOS to remain at the scene when feasible and consistent with personal safety but does NOT direct CMOS.
+
+### Responding MOS
+- **Medical** — obtain medical attention if necessary
+- **Investigate** — ascertain facts
+- **Supervisor** — ensure the Patrol Supervisor is responding (central should have already sent him)
+
+### Walk-In Complaints
+**Responding MOS:** Notify D.O.
+
+**Desk Officer:** Do NOT let anybody who is not investigating the incident talk to the complainant.
+
+### Patrol Supervisor
+
+#### Document
+- **ALWAYS** prepare DIR
+  - Provide copy DIR (pink copy) and "Victim Rights Notice" (pink) to complainant/victim, if present
+
+#### Counseling
+- **ALWAYS** apprise parties of counseling
+
+> **Exam Alert:** Counseling is available to MOS AND family. May contact for services, referrals, shelter, and other resources including: Family Assistance Section, Employee Assistance Unit, Counseling Services Unit, Chaplains' Unit, Behavioral Care and Support Section (formerly Psych Services), Sick Desk/Sick Desk Supervisor, NYPD Helpline, Operations Unit.
+
+### Cross Complaints or Doubt — Who is the Victim or Complainant
+- Notify **CO/Duty Captain** who will determine action
+
+### MOS Victim
+- Notify **CO/Duty Captain** who will ensure appropriate action and apprise of counseling
+- Duty Captain (if incident occurred in NYC) → respond and take appropriate action and apprise of counseling
+
+### MOS Perpetrator
+- Notify **D.O.**, Pct of occurrence
+- Document — direct a 61 (Complaint Report) be prepared
+
+### No Offense Alleged
+- Counsel parties involved
+- Document — have a DIR prepared
+
+### Patrol Supervisor Notification Summary
+
+| Situation | Desk Officer | CO/Duty Captain |
+|---|---|---|
+| **Cross Complaint or Doubt** | xxx | Yes |
+| **MOS Victim** | xxx | Yes |
+| **MOS Perpetrator** | Yes | xxx |
+| **No Offense Alleged** | xxx | xxx |
+
+> **Exam Alert:** MOS Perpetrator → notify Desk Officer. MOS Victim → notify CO/Duty Captain. Cross Complaint/Doubt → notify CO/Duty Captain. These notification paths are frequently tested.
+
+> **PG Conflict:** PG 208-37 says no notification here for off-duty incidents, BUT PG 212-32 "Off-Duty Incidents" says notify the Desk Officer who then notifies the Captain. Know both procedures exist.
+
+---
+
+## When an MOS Has Committed an Offense
+
+### Patrol Supervisor
+- Document — direct a 61 be prepared
+- Notify — Desk Officer, pct of occurrence
+
+### Desk Officer
+- Notify and confer with **C.O./Duty Captain**
+- Notify **IAB** — they determine the appropriate investigating command
+  - IAB Log # must be entered in **THREE places:**
+    1. DIR in box "Results of Investigation and Basis of Action Taken" (direct that DIR be entered into FORMS including IAB log #)
+    2. Complaint Report, enter in "Details" section
+    3. FORMS Database
+
+> **Exam Alert:** The IAB Log number must appear in THREE places: "Results" box of DIR, "Details" of the 61, and FORMS Database. This is a high-yield detail for the exam.
+
+### Desk Officer — Report on Typed Letterhead
+- 49 x 5 (+ 1 if guns removed) to:
+  - Chief of IAB (with original of DIR)
+  - 2 C.O.'s — Precinct of Occurrence & M.O.S.'s Command
+  - C.O. Medical Division
+  - C.O. Employee Resources Section (Fax Immediately)
+  - If Guns Removed → Personnel Orders Division
+- Forward sealed envelope with copies of Complaint Report & DIR
+
+### C.O./Duty Captain
+- **Investigation** — conduct immediate investigation and take appropriate action as per 208-36
+- **Duty Status** — prior to changing duty status, have IAB conduct background check (duty status decision is **CO/Duty Captain's**, not IAB's)
+- **Offender not present AND further investigation required** → confer with and request help of IAB if necessary
+
+### Commanding Officer of MOS
+- **File** — keep CONFIDENTIAL FILE on all MOS assigned who have been involved in domestic incidents
+- **Confer with IAB** — regarding status of ongoing investigations
+
+> **Sergeant Focus:** Supervisors play a critical role in MOS DV incidents. The C.O./Duty Captain makes the duty status decision (not IAB), but must have IAB conduct a background check first. The confidential file requirement is ongoing — the C.O. maintains it for ALL MOS who have been involved in DV incidents.
+
+---
+
 # Section 208 — Key Terms, Forms, and Abbreviations
 
 ---
@@ -3874,6 +5587,36 @@ Project Reset provides an alternative to traditional arrest processing by divert
 | **Foreign National** | Any person who is **NOT a United States citizen**, regardless of immigration status | P.G. 208-56 |
 | **Mandatory Notification Countries** | Countries requiring automatic consular notification upon arrest of their citizen, handled through the Intelligence Division Operations Unit (24 hrs) | P.G. 208-56 |
 
+## Bribery Terms
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **Bribery Arrest (PG 208-34)** | The arrest process for the CHARGE of Bribery; covers notification chain, reporting, and court appearances | P.G. 208-34 |
+| **Attempted Bribery (PG 208-35)** | The process of getting wired up when a UMOS is offered a bribe; Attempted Bribery is NOT a criminal charge — the perp is charged with Bribery | P.G. 208-35 |
+| **4 Ds (Bribery Court Appearances)** | Date, Docket#, DA's name, Disposition — the four items an arresting officer must record for all court appearances in a bribery case | P.G. 208-34 |
+
+## DV Investigation Terms
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **DRAMAS** | Mnemonic for personal family offenses: Dis Con / Reckless Endangerment / Aggravated Harassment 2nd, Harassment 1st or 2nd / Menacing 2nd or 3rd / Assault 2nd or 3rd (or Attempts) / Strangulation 1st or 2nd, Criminal Obstruction of Breathing, Stalking all degrees | P.G. 208-36 |
+| **C GIF CUSS** | Mnemonic for property/sexual family offenses: Criminal Mischief (all degrees) / Grand Larceny (3rd and 4th) / Identity Theft (1st, 2nd, 3rd) / Forcible Touching / Coercion 2nd (sub 1, 2, 3) / Unlawful Dissemination of Intimate Image / Sexual Misconduct / Sexual Abuse 3rd & Sexual Abuse 2nd sub 1 | P.G. 208-36 |
+| **Primary Physical Aggressor** | The person identified as the primary aggressor in a simultaneous misdemeanor vs. misdemeanor family offense; determined by comparative extent of injuries, defensive acts, current/future threats, and prior DV history | P.G. 208-36 |
+| **ICCU** | Inter City Correspondence Unit — receives forwarded paperwork for DV incidents occurring outside NYC but within NYS | P.G. 208-36 |
+| **Hope Card** | Wallet-size card or digital version for Final OOPs; UMOS scan QR code with Dept phone to verify (Ops Order 11 s.2025) | P.G. 208-36 |
+| **DVPO** | Domestic Violence Prevention Officer — opens/manages cases in DVIMS, assists in apprehension, conducts home visits, follows up with victims on photos | P.G. 208-37 |
+| **DVIMS** | Domestic Violence Incident Management System — used by DVPO for case management (NOT the same as ECMS) | P.G. 208-37 |
+| **ECMS** | Enterprise Case Management System — used by assigned detective to document DVPO arrest efforts | P.G. 208-37 |
+| **I-Card** | Investigation Card activated for named DV perpetrator; must be activated no later than end of assigned tour; should include NYSID # | P.G. 208-36 |
+| **Rosario Material** | DIRs are potential Rosario material; if an arrest is made, A/O must give copy of DIR to ADA | P.G. 208-36 |
+
+## Firearm Seizure in DV
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **Mandatory Seizure** | WILL seize firearms and license/permit if: OOP exists against holder, physical force or threat of involved in incident, or license holder is arrested (regardless of charge) | P.G. 208-36 |
+| **Discretionary Seizure** | MAY seize if UMOS reasonably believes presence of firearms creates imminent risk of physical injury or higher | P.G. 208-36 |
+
 ---
 
 ## Forms
@@ -3902,6 +5645,14 @@ Project Reset provides an alternative to traditional arrest processing by divert
 | **CUNY** | City University of New York | Notified for offenses at CUNY facilities |
 | **DOE** | Department of Education | School Safety Division notified for DOE-related offenses |
 | **VTL** | Vehicle and Traffic Law | VTL 1192 (DWI) is a DAT disqualifier |
+| **ICCU** | Inter City Correspondence Unit | Receives forwarded DV paperwork for incidents outside NYC but within NYS |
+| **DVPO** | Domestic Violence Prevention Officer | Opens/manages cases in DVIMS; assists in apprehension within pct/PSA confines |
+| **DVIMS** | Domestic Violence Incident Management System | DVPO case management system (NOT ECMS) |
+| **ECMS** | Enterprise Case Management System | Assigned detective documents DVPO arrest efforts here |
+| **IAB** | Internal Affairs Bureau | Notified for bribery arrests and MOS DV offenses; provides log number |
+| **BCS** | Borough Court Section | Where perps are transported; also where ICO obtains post-arraignment info |
+| **LLS** | Language Line Service | Certified interpreter service used to verify DV info from non-English speaking victims |
+| **FORMS** | Finest Online Records Management System | System for inputting DIRs, photos, and other records for NYC incidents |
 
 ---
 
@@ -3916,6 +5667,12 @@ Project Reset provides an alternative to traditional arrest processing by divert
 | **4 days** | If next tour > 4 days away, reassign DA conferral to another officer | P.G. 208-82 |
 | **$500** | Federal food stamp threshold for Operations Unit notification | P.G. 208-69 |
 | **27** | Number of specific offenses on the Order of Protection needed list (DAT disqualifier Category 3) | P.G. 208-81 |
+| **7** | Copies of 49 (Report on Typed Letterhead) to Chief of Department in a bribery arrest | P.G. 208-34 |
+| **3** | Steps in the Attempted Bribery (getting wired up) procedure (PG 208-35) | P.G. 208-35 |
+| **3** | Places the IAB Log # must appear when MOS commits DV offense (DIR Results box, 61 Details, FORMS Database) | P.G. 208-37 |
+| **5** | Copies of 49 (+1 if guns removed) for MOS DV offense report | P.G. 208-37 |
+| **10 years** | Lookback period for Menacing 1st (do Menacing 2nd with conviction in last 10 years) — DAT Category 3 disqualifier | P.G. 208-81 |
+| **5 years** | Lookback period for Aggravated Family Offense (family offense with prior conviction within 5 years) — DAT Category 3 disqualifier | P.G. 208-81 |
 
 ---
 
@@ -4325,6 +6082,118 @@ D. Only once, then proceed without NYSID
 
 ---
 
+### Question 26
+**An officer is conducting a frisk of a prisoner in a wheelchair. When frisking the prisoner's lower body (legs and under buttocks), which direction should the officer's palms face?**
+
+A. Palms facing down, sliding along each leg
+B. Palms facing up, sliding hands up each leg and under buttocks
+C. Palms facing inward toward the body
+D. It does not matter as long as the search is thorough
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 208-05, when frisking a mobility-disabled prisoner in a wheelchair, the officer frisks the lower body by sliding hands up each leg and under buttocks with palms UP. When searching the device (wheelchair) itself, palms face DOWN. The exam frequently reverses the UP/DOWN direction.
+</details>
+
+---
+
+### Question 27
+**A UMOS is offered a bribe by a suspect during a traffic stop. What charge should the suspect face?**
+
+A. Attempted Bribery
+B. Bribery — the mere offer is sufficient; no actual exchange is required
+C. Corruption of a Public Official
+D. No charge unless the officer accepts the bribe
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 208-34 and 208-35, "Attempted Bribery" is NOT a criminal charge. If a UMOS is offered a bribe, the perp is charged with Bribery. An actual exchange does not have to take place; the mere offer is sufficient. A past exam offered "Charge with Attempted Bribery" as an answer choice and it was wrong.
+</details>
+
+---
+
+### Question 28
+**In a bribery arrest, the ADA refuses to draw up the bribery charge. Who makes the notifications to the C.O./Duty Captain and IAB?**
+
+A. The Desk Officer, as in a regular bribery arrest
+B. The Arresting Officer — this is an exception to the normal notification chain
+C. The Platoon Commander
+D. The patrol supervisor on duty
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 208-34, when the ADA refuses to draw up the bribery charge, the Arresting Officer (not the Desk Officer) notifies the C.O./Duty Captain and IAB Command Center. This differs from a regular bribery arrest where the Desk Officer handles notifications. This breaks the chain of command.
+</details>
+
+---
+
+### Question 29
+**Which mnemonic lists the personal crimes that qualify as family offenses?**
+
+A. C GIF CUSS
+B. DRAMAS
+C. SAFETEA
+D. CRIMES
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 208-36, DRAMAS covers the personal family offenses: Dis Con, Reckless Endangerment, Aggravated Harassment 2nd/Harassment 1st or 2nd, Menacing 2nd or 3rd, Assault 2nd or 3rd (or Attempts), Strangulation 1st or 2nd/Criminal Obstruction of Breathing/Stalking all degrees. C GIF CUSS covers the property/sexual crimes.
+</details>
+
+---
+
+### Question 30
+**A domestic violence incident occurs outside NYC but within New York State. Which of the following is correct regarding documentation?**
+
+A. Prepare DIR and enter it into FORMS; prepare Complaint Report and enter into OMNIFORM
+B. Prepare DIR and Complaint Report Worksheets; do NOT input to FORMS or OMNIFORM; forward to ICCU
+C. No documentation required since the incident is outside NYPD jurisdiction
+D. Prepare DIR in FORMS but use the Complaint Report Worksheet instead of OMNIFORM
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 208-36 and 208-70, for DV incidents occurring outside NYC but within NYS, prepare a Complaint Report Worksheet (do NOT input to OMNIFORM), prepare DIR (do NOT input to FORMS), and take photos (do NOT upload to FORMS). Forward all paperwork to ICCU (Inter City Correspondence Unit) by scanning/emailing and sending hard copies via Dept mail.
+</details>
+
+---
+
+### Question 31
+**When an MOS commits a domestic violence offense, in how many places must the IAB Log number be documented?**
+
+A. One — the DIR only
+B. Two — the DIR and the Complaint Report
+C. Three — the DIR "Results" box, "Details" of the 61, and FORMS Database
+D. Four — the DIR, Complaint Report, Digital Activity Log, and FORMS
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 208-37, when an MOS commits a DV offense, the IAB Log number must appear in THREE places: (1) DIR in the box "Results of Investigation and Basis of Action Taken," (2) Complaint Report "Details" section, and (3) FORMS Database.
+</details>
+
+---
+
+### Question 32
+**A Criminal Court Order of Protection is violated. The violation occurred in NYC. What charge is appropriate and where is the arrest processed?**
+
+A. Family Offense — processed in Family Court with concurrent jurisdiction
+B. Criminal Contempt or Aggravated Criminal Contempt — processed in NYC Criminal Court; NOT a Family Offense and NO concurrent jurisdiction
+C. Violation of Court Order — processed in the court that issued the OOP
+D. Criminal Contempt — processed in Family Court since the OOP was issued there
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 208-36, Criminal Contempt for violating a Supreme Court, Family Court, or Criminal Court OOP is charged as Criminal Contempt or Aggravated Criminal Contempt. This is NOT a Family Offense, there is NO concurrent jurisdiction, and if the violation occurred in NYC, the arrest goes to Criminal Court.
+</details>
+
+---
+
 # Section 209 — Summonses
 
 ## Source
@@ -4427,6 +6296,10 @@ A member of the service is authorized to issue a summons or notice of violation 
 | **Capacity** | Violator must be **able to care for self** (not incapacitated by illness, injury, or intoxication) |
 | **Offense type** | Must fall within an eligible statute (see below) |
 
+### Discretion for CJRA Violations
+
+For any of the 6 CJRA offenses, a member may judiciously **warn and admonish** the violator instead of issuing a summons, OR issue a summons/arrest for a corresponding crime.
+
 ### Eligible Statutes for Summons Issuance
 
 | Statute | Notes |
@@ -4518,6 +6391,12 @@ The CJRA allows certain violations to be issued as **civil summonses** returnabl
 
 > **Exam Alert:** Memorize all 6 CJRA violations. A common exam trick is listing a violation NOT on this list (e.g., disorderly conduct) and asking if it qualifies for CJRA civil summons. Also note: CJRA does NOT apply in the transit system — use TAB (Transit Adjudication Bureau) instead.
 
+> **Exam Alert:** For all 6 CJRA violations, do NOT use the Health Code — use the **NYC Administrative Code**. The exam may present a Health Code section for public urination or littering; the correct source of law is always the Administrative Code for these offenses.
+
+> **Exam Alert:** Parks Regs Title 56 is listed as one of the 6 CJRA violations but is **not specifically defined** in the PG 209-03 procedure itself. The NYC Parks website indicates Parks Regs are summonable. Know that Parks Regs are described as "Rules of the City of NY" in 209-03 and as "RCNY" in 209-12.
+
+> **Exam Alert:** DO NOT use OATH summonses for **NYC Transit Rules and Regulations**. Transit violations require a **TAB** summons (covered in PG 209-15/209-39), not an OATH civil summons.
+
 ### OATH Recidivist — NOT Eligible for Civil Summons
 
 A violator is classified as an **OATH Recidivist** and must receive a Criminal Court summons (not OATH civil) if ANY of the following apply:
@@ -4530,6 +6409,10 @@ A violator is classified as an **OATH Recidivist** and must receive a Criminal C
 
 > **Exam Alert:** The OATH Recidivist criteria are a top exam target. Remember: **2 felonies / 2 years, 3 OATH / 8 years, parole/probation.** Any one condition disqualifies the person from receiving a civil summons.
 
+### When to Issue a "C" Summons Instead of an OATH
+
+If a member issues a Criminal Court ("C") summons instead of an OATH for one of the 6 CJRA violations, they must note the **Reason Code** in the appropriate space on the summons. The "C" summons form (PG 209-11) now has **4 check boxes** corresponding to these codes.
+
 ### NYPD Codes for CJRA Processing
 
 | Code | Meaning | Notes |
@@ -4541,6 +6424,22 @@ A violator is classified as an **OATH Recidivist** and must receive a Criminal C
 
 > **Sergeant Focus:** When a Criminal Court summons is issued under **Code 3** (law enforcement exception), a **patrol supervisor MUST respond to the scene** to verify the exception. This is a mandatory supervisory response — failure to respond is a procedural violation.
 
+> **Prior Test:** A UMOS writes a "C" summons instead of an OATH for a CJRA violation. A patrol supervisor must respond — true or false? **WRONG — the supervisor must respond ONLY for Code 3** (law enforcement exception). If the officer used Code 1, 2, or 4, no supervisor response is required. The exam tests whether you know the supervisor response is specific to Code 3, not to every "C" summons.
+
+> **Exam Alert:** PG 209-03 Code 2 covers two scenarios: (1) **Active warrant** — UMOS writes the summons, D.O. directs "an" officer (does not have to be the arresting officer) to return to issuing court; if court is closed, process as online arrest. (2) **I-Card (Probable Cause to Arrest)** — UMOS writes C summons and releases person to responding Detective per PG 208-23.
+
+> **See Also:** PG 208-23 — Investigation Card procedures for releasing person to Detective Borough/Bureau Wheel.
+
+### When to Remove Violator to Command
+
+| Situation | Action |
+|-----------|--------|
+| Violator has **no valid ID** | Remove to command for identification |
+| Violator has **active warrant or I-Card** | "Perp — Probable Cause to Arrest"; remove to command |
+| Committed act on **MTA or NYC Transit property/conveyance** AND in violation of court order **banning entry** | Charge with additional offense of **Criminal Contempt 2nd Degree**; remove to command |
+
+> **Exam Alert:** When removing a violator to the command, transport in the **RMP and move to a new location**. The PG does NOT say you "can't put the perp in the RMP and move location" — it says you DO transport in the RMP. Read the question carefully.
+
 ### Identity and Processing Rules
 
 | Situation | Action |
@@ -4548,6 +6447,62 @@ A violator is classified as an **OATH Recidivist** and must receive a Criminal C
 | Violator has **no valid ID** | Remove to command for identification |
 | Violator has **active warrant** | Issue Criminal Court summons; return to issuing court |
 | Identity/residence verification needed | **Desk officer** makes the **FINAL determination** |
+
+### Generally Accepted Forms of Identification
+
+| # | ID Type |
+|---|---------|
+| 1 | Valid Photo Driver License (apparently any state) |
+| 2 | NYS Driver Permit |
+| 3 | NYS Non-Driver ID |
+| 4 | Valid Passport, Citizenship, or Naturalization Papers |
+| 5 | IDNYC (Municipal ID Card), other government photo ID |
+
+> **Exam Alert:** The word "generally" means other ID may be accepted at the officer's discretion. The officer should conduct a **name check** through radio or mobile device after obtaining identification.
+
+### OATH Summons Issuance Requirements
+
+- Issue in **numerical order**
+- Write **legibly in Block Letters** with **black or blue ballpoint pen**
+- Enter all available information required by captions, including the **return date received from D.O./Counterpart at Roll Call**
+- **One violation per summons** — separate summons for each additional offense
+
+### Recorded Police Activity (RTR)
+
+If the violator records police activity during the encounter:
+- Enter **"RTR"** for "Right to Record" on the summons
+- **Circle** at end of the details section
+
+### CJRA Processing — Desk Officer Role
+
+| Step | Action |
+|------|--------|
+| 1 | **Question** UMOS regarding the circumstances of the incident |
+| 2 | **Document** — make Command Log entry with: who, where, when, and what (but NOT why) |
+| 3 | Include: Name, rank, shield # of UMOS; violator's name, address, description; location; time and reason for removal to command; time violator left command; offense charged and serial # of summons |
+| 4 | **Identification** — make final determination that ID and residence are verified |
+
+> **Exam Alert:** If the violator cannot be identified after every effort (third party contact, Dept computer, booking photo, DAS, Mobile ID Device), process as an **online arrest**.
+
+### CJRA Processing — Operations Coordinator
+
+- Designate an MOS to enter information from OATH summons into **FORMS**
+- Ensure designated MOS reviews the **"Details of Charges"** section
+
+### CJRA Processing — Command Clerk
+
+| Task | Details |
+|------|---------|
+| **File** | OATH summons by **date served**; retain **White Cardboard (Agency) copy** in command for **2 years** |
+| **Forward** | Insert all white copies of OATH summonses issued on same day into envelope addressed to OATH; forward to Boro in **AM mail** |
+
+> **Exam Alert:** The White Cardboard (Agency) copy is retained at the command for **2 years** — not 1 year, not 6 months. This retention period applies to both 209-03 and 209-12 OATH summonses.
+
+### Code 4 — Multiple Offenses Key Note
+
+> **Exam Alert:** When a traffic incident under PG 209-09 involves multiple offenses, **each separate summons goes to its own court** (TVB, "C" Criminal Court, etc.). If Code 4 applies and one or more is a non-CJRA violation returnable to Criminal Court, **all summonses are returnable to Criminal Court**. Select Code 4 when issuing "C" for Transit Rules (PG 209-39).
+
+> **See Also:** PG 209-09 — Traffic incident procedures where multiple summonses each route to their respective court.
 
 ---
 
@@ -4583,10 +6538,324 @@ A violator is classified as an **OATH Recidivist** and must receive a Criminal C
 ## Sergeant Study Notes
 
 - The **desk officer** is the final authority on identity/residence verification for CJRA processing
-- A **patrol supervisor must physically respond** when Code 3 (law enforcement exception) is used
+- A **patrol supervisor must physically respond** when Code 3 (law enforcement exception) is used — the supervisor must **respond and verify**, and the UMOS details the reason in their Digital Activity Log
+- For Code 3, the circumstances must be **limited** and the UMOS must **articulate the reason**
 - Supervisors should verify that officers check for OATH Recidivist status BEFORE issuing a civil summons
 - The CJRA does NOT apply in the transit system — supervisors must ensure officers use TAB procedures instead
 - When a violator cannot care for themselves (illness, injury, intoxication), a summons is NOT appropriate regardless of the offense — the person must be processed differently
+
+---
+
+# Section 209 — Electronic Summons Tracking System (ESTS)
+
+Covers P.G. 209-36
+
+---
+
+## P.G. 209-36: Electronic Summons Tracking System (ESTS)
+
+### Commanding Officer/Designee — Requisition and Safeguard
+
+| Task | Details |
+|------|---------|
+| **Requisition** | Parkers & Movers/Cs from **Dept of Finance**; OATHs from **OATH court**; TABs from **Transit** |
+| **Safeguard and inspect** | Verify **quantity** and **numeric order** |
+| **Irregular summonses** | Return irregular summonses to the above agencies with a **UF50** |
+| **Summons Box** | Designate a **secure receptacle** for served summonses under **direct control of D.O.** (property room, etc.) |
+
+### Summons Type Codes
+
+| Code | Summons Type |
+|------|-------------|
+| **A** | Parking Summons |
+| **B** | Moving Summons |
+| **C** | Criminal Court Summons |
+
+> **Exam Alert:** A = Parking, B = Moving, C = Criminal Court. The exam may use these letter codes in questions about distribution, scanning, and forwarding procedures.
+
+### Number of Summonses in a Pack
+
+| Summons Type | Quantity Per Pack |
+|--------------|------------------|
+| **TABs and OATHs** | **25** |
+| **A, B, and C** | **20** |
+
+> **Exam Alert:** Know the pack sizes: TABs and OATHs come in packs of **25**; A (Parking), B (Moving), and C (Criminal Court) come in packs of **20**. Examiners test these numbers.
+
+### Distribution Card Documentation
+
+- Ensure summonses are recorded on **Distribution Card**
+  - Record **first and last number** of each packet in the 1st column
+- A, B, C, and OATH recorded separately on same type of **Summons Distribution Card**
+- TABs recorded on separate **TAB/Notice of Violation Distribution Card**
+
+### Signing Out New Summonses — UMOS
+
+| Step | Action |
+|------|--------|
+| 1 | Obtain summons pack from **D.O./Distributing Supervisor** |
+| 2 | **Sign the Distribution Card** (to receive summonses) |
+| 3 | Ensure correct number of summonses in pack and consecutively numbered |
+| 4 | Document on appropriate certification card (A = Certification of Parking Summonses Served; TABs = Certification of TAB/Notice of Violation Served; B, C, OATH = Certification of Moving/Criminal Court Summonses Served) |
+
+### Returning Finished Summonses — UMOS
+
+- When summons pack is finished, **sign Certification Card**
+- Give summonses to **clerical staff** (NOT to D.O.)
+  - Include appropriate copy of served summonses
+
+> **Exam Alert:** When a summons pack is finished, the UMOS gives it to **clerical staff**, NOT the D.O. This is a frequently tested detail. The Certification Card is the card the MOS carries on patrol.
+
+### Two Signatures — Key Distinction
+
+| Card | When Signed | Purpose |
+|------|-------------|---------|
+| **Distribution Card** | When **receiving** summonses | Acknowledges receipt of new summons pack |
+| **Certification Card** | When **returning** summonses | Certifies all summonses are accounted for |
+
+### Desk Officer/Distributing Supervisor — Distribution
+
+| Task | Details |
+|------|---------|
+| **Before issuing** | Review ESTS to see if officer has unused summonses; determine need for more |
+| **Distribute** | In **numerical order** |
+| **"C" summons packs** | Ensure *"Don't Enforce Loitering 1,3,4&7"* **sticker** is on each "C" summons pack |
+| **Acknowledge receipt** | Have officer acknowledge receipt on **Distribution Card** |
+
+### Desk Officer/Distributing Supervisor — Unserved and Missing
+
+| Situation | Action |
+|-----------|--------|
+| **Unserved summonses** | Scan unserved summonses back into ESTS |
+| **MOS cannot produce unused summonses** | Notify **IAB** and obtain Log # |
+| **Missing summonses** | Notify **IAB** and obtain Log #; notify **ICO immediately** |
+
+> **Exam Alert:** If the ICO is not available when summonses are missing, notify the **CO or XO** (NOT the Duty Captain). This is a specific exam trap.
+
+### Damaged Summonses
+
+- **Break the chain** (separate from the pack)
+- Notify **C.O. without delay**
+
+### Bar Code Reader/Scanner Inoperable
+
+The PG gives instructions in **5 separate places** for what to do when the bar code reader/scanner is inoperable. The steps are **identical every time**:
+
+1. Input summonses **manually**
+2. Notify the **Borough**
+3. Call in the **Telephone Record**
+
+> **PG Conflict:** The PG says "Patrol or Transit Borough" but does **not mention Housing**. In March 2020, an I.O. changed 1 of these 5 steps to add Housing but neglected to update the other 4. The exam will likely test the PG language ("Patrol or Transit Borough") but know that Housing was added by I.O.
+
+### ESTS Inoperable
+
+- If ESTS is inoperable, enter summonses **manually**
+- Call **Patrol or Transit Borough** to replace the reader
+- Document notification to Borough in **Telephone Record**
+
+> **Exam Alert:** NO ONE other than the **D.O./Distributing Supervisor** scans summonses. Officers do not scan their own summonses into ESTS.
+
+---
+
+## Unused Summonses Returned
+
+### UMOS
+
+| Situation | Action |
+|-----------|--------|
+| **Temporary assignment** | If temporarily assigned to enforcement, obtain "sufficient #" at enforcement command; return there at end of assignment |
+| **Transfer or Separation** | Give unused summonses to D.O./Distributing Supervisor at command where received |
+
+### Desk Officer/Distributing Supervisor
+
+- Scan unused returned summonses same as above
+- Forward with Certification Card to **C.O./Designee**
+
+---
+
+## Missing Summonses
+
+### Key Rules
+
+| Scenario | Who Is Notified |
+|----------|----------------|
+| Officer requests more summonses and D.O. determines officer has unused summonses but **cannot produce them** | D.O. calls **IAB** |
+| Officer is **transferred or separated** from the Department and summonses are missing | D.O. calls **IAB AND** notifies **ICO immediately**; if ICO unavailable, notify **CO/XO** |
+
+### Missing Summonses Subsequently Found
+
+After IAB was notified and summons purged from ESTS Exception Report:
+- **Desk Officer** calls **IAB Command Center IMMEDIATELY** to determine if summons can be reentered to ESTS
+- Enter name of IAB person notified in **"Add Summons Follow-Up Note"** in ESTS
+
+---
+
+## Summonses Served — Processing
+
+### UMOS
+
+- Deliver remaining copies, intact, to **D.O. at EOT** on **date of issuance**
+- **NEVER** directly in the receptacle
+
+> **Exam Alert:** The UMOS delivers served summons copies to the D.O. at end of tour on the date of issuance. They are NEVER placed directly into the summons receptacle — the D.O. must examine them first.
+
+### Desk Officer
+
+| Step | Action |
+|------|--------|
+| 1 | **Examine** entries on summons for **accuracy, completeness, and legibility** |
+| 2 | **Scan** summons served during tour **prior to EOT** |
+| 3 | If ESTS inoperable: enter manually, call Patrol or Transit Borough to replace reader, document in Telephone Record |
+| 4 | After summonses scanned, place summonses (including Court Copy) in the **summons receptacle** |
+| 5 | **Improperly prepared summonses** — follow PG 209-06 (steps are identical) |
+
+---
+
+## First Platoon D.O./Supervisor
+
+### Separation and Forwarding
+
+| Task | Details |
+|------|---------|
+| **Separate summonses** | By adjudicating agency AND date of service; count the number returnable to each agency |
+| **"B" summonses (movers)** | Place Complaint/Information copy in pre-printed envelope; forward to TSO to enter in FORMS |
+| **Marijuana summonses** | Ensure **paper clipped** to Supporting Deposition/Field Test; photocopy and file at command |
+| **Separate Complaint/Information (Pt 1)** | Separate from remainder of summonses |
+
+### Traffic Safety Officer
+
+- **Daily** — enter info of each "B" summons served in **"B Summons" app in FORMS** using "Paper" option
+- Enter serial # from **top left** of summons
+- Store Complaint/Information (Pt.1) copies in a **secure location** at command
+
+### Operations Coordinator
+
+- Supervise "B" summonses entry into FORMS app
+- Maintenance of copies kept at command
+
+### Scanning and Batching
+
+| Parameter | Limit |
+|-----------|-------|
+| **Package** (groups for scanning) | **100 or less** |
+| **Scan** (at network scanner) | **No more than 50** simultaneously |
+
+> **Exam Alert:** Do NOT mix up the packaging and scanning numbers. Package in groups of 100 or less, but scan no more than 50 at a time. Examiners like to **invert these numbers** on test day.
+
+### Cover Sheet
+
+- Print a **Precinct Cover Sheet** from "Summons Menu" in OMNIFORM for **each type** of summons (A, B, C, etc.)
+
+### Exception Report — Missing Summonses
+
+If a summons remains on the Exception Report (Served but Not Batched), it is considered **MISSING**:
+- Notify **immediately**: ICO (or if ICO unavailable, C.O./X.O.) AND IAB (obtain Log #)
+- Account for missing summons in ESTS **"Terminate/Void"** function — enter IAB Log # in notes
+- **Void**: comply with PG 209-18 "Summonses Served/Prepared in Error"
+- **Purge**: void purges missing summons from Exception Report; summons # and history remain in ESTS
+
+---
+
+## Forwarding Summonses
+
+### Pre-Printed Envelopes
+
+- Place Scanned Complaint/Information copies in pre-printed envelopes and **SEAL** them
+- Fill out the captions on envelope
+- **Sign on appropriate space** on the flap of envelope
+- Enter ESTS generated **Tracking #** below the flap on envelope
+
+### Transmittal Report
+
+- Print a Transmittal Report from ESTS
+- Attach to pre-printed envelopes
+- Forward Transmittal Sheet and Pre-Printed Envelopes daily, each morning to boro/designated command
+  - Forward sealed envelopes **daily**, regardless of number enclosed
+
+### Housing Bureau
+
+- Messenger takes envelopes from PSA directly to court (PVB, OATH, Criminal, etc.)
+
+### Outside Agencies Issued Summonses
+
+- Do **NOT** scan outside agency summonses
+- Traffic safety does **NOT** enter outside agency "B" summonses into the application in FORMS
+- Place summonses by outside agency in **separate envelope** marked **"Outside Agency"**
+- Forward summonses as indicated above
+
+> **Exam Alert:** Outside agency summonses must be kept completely separate — do not scan them, do not enter them in FORMS. They go in their own envelope marked "Outside Agency."
+
+### Remaining Copies of Summonses
+
+- Place in a separate Dept envelope
+- Mark envelope **"File"** and leave envelope **UNSEALED**
+
+### Clerical Member
+
+- File envelope with command file copies of summonses served in command
+- By date of service in command record room
+- Maintain file copies for **six months**
+- After six months, remove file copies and retain in **storage cartons** in command record room
+
+---
+
+## Integrity Control Officer (ICO) Responsibilities
+
+### ICO Weekly
+
+| Report | Action |
+|--------|--------|
+| **ESTS Exception Report** | Generate and review; if discrepancies found, notify IAB and obtain Log # |
+| **Scanned Summons Analysis Report** | Monitor in Omniform — "Supervisor" function of Summons Menu — to ensure summonses are being scanned into network scanner **including cover sheet** |
+
+### ICO Monthly
+
+| Report | Action |
+|--------|--------|
+| **ICO Ageing Report** | Monitor for summonses distributed but **not served for 90 days** (NOT 30 days) |
+| **Self-Inspection Reports** | ESTS Self Inspection to ensure all summonses accounted for; "B Summons" Self-Inspection of app in FORMS |
+
+> **Exam Alert:** The ICO Ageing Report threshold is **90 days**, not 30 days. If any UMOS is listed on the ICO Ageing Report, the ICO must conduct an **IMMEDIATE investigation**. This is a commonly tested number.
+
+### ICO — Warrant and Missing Summons Checks
+
+| Task | Details |
+|------|---------|
+| **Warrant checks** | Ensure warrant checks were conducted |
+| **Missing summonses** | Confirm notification to IAB and Log # obtained; ensure 1st Platoon D.O. made entries regarding missing summonses in ESTS including IAB Log #; notify C.O./X.O. of missing summons |
+
+### C.O./X.O. — Missing Summonses
+
+| Task | Details |
+|------|---------|
+| **Notification** | Confirm notification to IAB and IAB Log # was obtained |
+| **ESTS** | Confirm ESTS System was updated with IAB Log # |
+| **Void and Document** | Ensure missing summonses were terminated/voided in ESTS and PG 209-18 was complied with |
+
+---
+
+## Common Exam Angles
+
+1. **Summons type codes** — A = Parking, B = Moving, C = Criminal Court
+2. **Pack sizes** — TABs/OATHs = 25; A/B/C = 20
+3. **Two signatures** — Distribution Card (receive) vs. Certification Card (return)
+4. **Finished summonses** — Go to clerical staff, NOT the D.O.
+5. **Missing summonses** — Notify IAB and ICO immediately; if ICO unavailable, notify CO/XO (not Duty Captain)
+6. **Bar code reader inoperable** — 5 identical steps in PG; "Patrol or Transit Borough" (Housing added by I.O.)
+7. **Package vs. scan limits** — Package 100 or less, scan 50 or less (examiners invert these)
+8. **ICO Ageing Report** — 90 days, not 30; UMOS on report = IMMEDIATE investigation
+9. **Outside agency summonses** — Do NOT scan, do NOT enter in FORMS, separate envelope
+10. **Loitering sticker** — "Don't Enforce Loitering 1,3,4&7" sticker on each "C" summons pack
+
+## Sergeant Study Notes
+
+- Ensure officers sign the Distribution Card when receiving summonses and the Certification Card when returning
+- Review ESTS regularly to verify no officer has unused summonses outstanding for extended periods
+- When distributing summonses, always distribute in **numerical order** and verify consecutive numbering
+- Monitor the ICO Ageing Report monthly — any UMOS with summonses outstanding 90+ days requires immediate investigation
+- Verify that the "Don't Enforce Loitering 1,3,4&7" sticker is present on all "C" summons packs before distribution
+- NO ONE other than the D.O./Distributing Supervisor should be scanning summonses into ESTS
+- Damaged summonses: break the chain and notify C.O. without delay
 
 ---
 
@@ -4601,6 +6870,14 @@ Covers P.G. 209-12, 209-20
 ### OATH Jurisdiction
 
 The Office of Administrative Trials and Hearings (OATH) handles civil enforcement of various city code violations that do not rise to criminal court level. These are **separate from** the 6 CJRA violations covered in P.G. 209-03.
+
+### OATH Jurisdiction — Source of Law
+
+Non-CJRA OATH summonses are written **ONLY** for NYC codes:
+- **Administrative Code** and
+- **Parks Regs (RCNY — Rules of the City of New York)**
+
+> **Exam Alert:** Do NOT issue OATH summonses for **State codes** such as the Vehicle and Traffic Law (VTL) or the Alcoholic Beverage Control Law (ABC). State code violations go to Criminal Court or TVB, not OATH.
 
 ### Non-CJRA OATH Offenses
 
@@ -4625,6 +6902,79 @@ The Office of Administrative Trials and Hearings (OATH) handles civil enforcemen
 | **Returnable to** | OATH | OATH |
 
 > **Exam Alert:** Do not confuse CJRA civil summonses with non-CJRA OATH summonses. Both are returnable to OATH, but CJRA summonses require recidivist screening and NYPD Code assignment. Non-CJRA OATH summonses do not.
+
+### Civil Penalty Only
+
+- If the offense has **ONLY a civil penalty** (e.g., Cigarette Sale to Minor), the violator **cannot** be taken to the station house
+- Issue the OATH summons in the field
+
+> **Exam Alert:** An OATH summons for a civil-penalty-only offense cannot result in removal to the command. The violator must be processed in the field. Do not confuse this with CJRA violations where removal is permitted for ID purposes.
+
+### Canine Waste Law
+
+- **NEVER** write a blind person for a canine waste violation
+- Use **discretion** regarding elderly and handicapped individuals
+
+### Violation NOT Observed by UMOS
+
+When the UMOS did **not personally observe** the violation:
+- Probable cause for the OATH summons can be based on a **witness statement**
+- In the "Details of Charge(s)" section, enter: *"informed by [witness name], whose contact info is known to the NYPD, that he observed..."*
+- Complete the **"Statement of Witness"** section on the back of the White (OATH) copy
+- Have the witness sign to indicate they witnessed the offense and the summons is accurate
+- If the witness **refuses to ID self and/or sign**, write **"REFUSED"** in the witness signature caption
+- Enter all witness contact information in the **Digital Activity Log**
+
+> **PG Conflict:** PG 209-03 OATH summonses (CJRA) can NOT be based on "informed by" — those 6 violations must be **personally observed** by the UMOS. PG 209-12 OATH summonses (non-CJRA) CAN be "informed by" a witness. Know both rules exist.
+
+### 209-12 Key Differences from 209-03
+
+| Feature | PG 209-03 (CJRA) | PG 209-12 (Non-CJRA) |
+|---------|-------------------|----------------------|
+| **Violations** | 6 specific CJRA violations only | Any NYC Admin Code / RCNY violation |
+| **"Informed by" witness** | NOT permitted — must be observed | Permitted |
+| **Recidivist check** | Required | Not applicable |
+| **NYPD Codes** | Codes 1-4 | Use Code 4 box for non-CJRA |
+| **Parks Regs described as** | "Rules of the City of NY" | "RCNY" |
+
+### UMOS Processing — Non-CJRA OATH
+
+| Step | Action |
+|------|--------|
+| 1 | Inform violator of offense |
+| 2 | Obtain ID and residence (if refused or in doubt — take to Precinct, no mention of P.S.) |
+| 3 | If properly IDed, **separate OATH for each violation** |
+| 4 | Write in **BLOCK letters** with **blue or black ballpoint pen** |
+| 5 | Confer with Desk Officer regarding arrest if violation could go on OATH or "C" summons — D.O. authorizes arrest to Criminal Court |
+| 6 | If violator has recorded police activity, enter **"RTR"** and circle at end of details section |
+
+### Non-CJRA OATH Summons Completion
+
+- Use OATH summons form — insert **3-digit OATH code**, Section of Law, and **Mail-in and Maximum penalties**
+- Fill in all captions, especially the **"Affidavit" on back**
+- **Sign in TWO places:** bottom front AND the Affidavit
+- **Return date:** obtained from Desk Officer via FINEST, **EXCEPT TEA** (Traffic Enforcement Agents) who use their existing schedule
+- For **non-CJRA OATH offense**, check the **Code 4 box**
+
+> **Exam Alert:** The officer must sign the OATH summons in **TWO places** — bottom of the front and the Affidavit (Certificate of Service) on the back. If the Affidavit is not signed, the summons **will be dismissed**.
+
+### Person Less Than 18 Years of Age
+
+When serving an OATH summons on a person under 18:
+- Serve the **parent or guardian** either:
+  - **In person** when the summons is served, OR
+  - **By mail**
+
+### OATH Copy Distribution
+
+| Copy | Disposition |
+|------|-------------|
+| **White Cardboard (Agency Copy)** | Retained with the Certification Card |
+| **White (OATH Copy)** | Sent to command of occurrence at EOT as directed by C.O. |
+| **Yellow** | Issuing officer keeps |
+| **Pink (Violator/Respondent Copy)** | Given to violator |
+
+> **Exam Alert:** For **vehicle alarm violations** (PG 214-24), the **Pink copy** goes with the **Certification Card** instead of the White Cardboard. This is a specific exception to the normal copy distribution.
 
 ### Processing Requirements
 
@@ -4807,12 +7157,40 @@ Covers P.G. 209-21, 209-22, 209-23, 209-24, 209-26, 209-28, 209-30, 209-31, 209-
 - If no tablet available, use **department smartphone**
 - Do **NOT unnecessarily detain** a person solely for the purpose of conducting a license check if no other cause for detention exists
 
+> **Exam Alert:** PG 209-24 is a **driver's license check** — this is NOT a warrant check (that is the next procedure). Do not confuse the two on the exam.
+
 ### DMV System Inoperative
 
-- If the DMV computer system is **inoperative**, make an **Activity Log entry** with the motor vehicle operator's information
+- If the DMV computer system is **inoperative** and circumstances do not warrant detention, and the operator possesses valid license, registration, and insurance:
+  - Make a **Digital Activity Log entry** with: name, address, phone, DOB, and License #
 - Do NOT delay the stop indefinitely waiting for the system
 
 > **Exam Alert:** License checks are mandatory at traffic collisions, car stops, and investigatory situations — but officers may NOT unnecessarily detain a person solely for a license check when no other cause exists.
+
+### Search DMV Records
+
+| Method | Details |
+|--------|---------|
+| **"Pedigree" tab** | Search using last name, first name, DOB, and gender |
+| **"License" tab** | Secondary check of operator's **Client ID** |
+
+- Examine DMV files with the **same name and address** but **different dates of birth**
+- Examine other documents for other names, addresses, or DOBs
+- Be alert for **out-of-state licenses** which may have been issued with lax ID standards
+- **VOUCHER** any items suggesting additional driving records/identifications
+- Review suspect's criminal history in Dept databases — do "Name Search" on **DAS, NYPSIN, and Accurint**
+
+### Consolidation of Client ID Request
+
+- Fill out **Consolidation of Client ID Request** if applicable
+- Attach pertinent supporting data
+- Give to **D.O.** for review before distributing as per instructions on form
+
+> **Exam Alert:** The Consolidation of Client ID Request form is given to the **D.O.** for review before distribution — this follows the general rule. However, in most other contexts, the D.O. distributes the form. The exam may test who distributes it: here in 209-24, it is the **UMOS** who fills it out and gives it to the D.O., not the D.O. who distributes it.
+
+### False Personation
+
+- If an operator **intentionally lies** regarding ID to deceive a police officer, they can be charged with **False Personation** — a **Class B Misdemeanor** (PL 190.23)
 
 > **Sergeant Focus:** Supervisors should monitor that officers conduct mandatory license checks at every qualifying stop. The Activity Log entry when DMV is inoperative creates the audit trail.
 
@@ -5058,14 +7436,17 @@ Covers P.G. 209-09, 209-10, 209-11, 209-15, 209-16, 209-17, 209-18, 209-19
 
 ### Vehicle Report Requirement
 
-- Complete a **VEHICLE REPORT** in FORMS for **every** vehicle, bicycle, e-scooter, or e-bike stop
-- This applies regardless of whether a summons is actually issued
+- Complete a **VEHICLE REPORT** in FORMS for **every** vehicle stop (car, e-bike, e-scooter, motor scooter, bicycle, etc.)
+- This applies **whether enforcement action is taken or not**
+
+> **Exam Alert:** The Vehicle Report requirement applies to ALL vehicle/bicycle/e-scooter/e-bike stops — not just those resulting in a summons. "RTR" notation is required when the violator exercises their right to record.
 
 ### Recording by Violator
 
 - If the violator **records police activities** during the stop, note **"RTR"** (Right to Record) on the summons
+- **Circle** at the end of the details section
 
-> **Exam Alert:** The Vehicle Report requirement applies to ALL vehicle/bicycle/e-scooter/e-bike stops — not just those resulting in a summons. "RTR" notation is required when the violator exercises their right to record.
+> **Exam Alert:** "RTR" stands for "Right to Record" — it must be entered on the summons AND circled at the end of the details section. This applies to both traffic stops (209-09) and OATH encounters (209-03, 209-12). Per I.O. 2s.21, if the violator has recorded police activity, enter "RTR."
 
 > **Sergeant Focus:** Supervisors must verify that Vehicle Reports are completed for every stop. Missing reports indicate either unreported stops or incomplete documentation — both require corrective action.
 
@@ -5558,7 +7939,121 @@ D. Issue a Criminal Court summons instead, since OATH requires valid ID
 
 ---
 
-**Score: _____ / 15**
+---
+
+### Question 16
+**A UMOS writes a "C" summons instead of an OATH for an open container violation and selects Code 1 (OATH Recidivist). Must a patrol supervisor respond to the scene?**
+
+A. Yes, a supervisor must respond any time a "C" is issued instead of an OATH
+B. Yes, the desk officer must verify all "C" summons codes
+C. No, a patrol supervisor must respond to the scene ONLY for Code 3 (law enforcement exception)
+D. No, but the commanding officer must be notified within 24 hours
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 209-03, a patrol supervisor must respond to the scene and verify the exception ONLY when Code 3 (law enforcement exception) is used. Codes 1, 2, and 4 do not require a supervisory response. This is a frequently tested distinction.
+</details>
+
+---
+
+### Question 17
+**When a UMOS finishes a summons pack, the served summonses should be given to:**
+
+A. The Desk Officer for review and filing
+B. The Operations Coordinator for data entry
+C. Clerical staff, with the appropriate copy of served summonses
+D. The Integrity Control Officer for accountability review
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 209-36, when the summons pack is finished, the UMOS signs the Certification Card and gives the summonses to **clerical staff** (not the D.O.), along with the appropriate copy of served summonses.
+</details>
+
+---
+
+### Question 18
+**TABs and OATHs come in packs of how many summonses? And A, B, and C summonses?**
+
+A. TABs/OATHs = 20; A/B/C = 25
+B. TABs/OATHs = 25; A/B/C = 20
+C. TABs/OATHs = 25; A/B/C = 25
+D. TABs/OATHs = 50; A/B/C = 100
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 209-36, TABs and OATHs come in packs of **25**, while A (Parking), B (Moving), and C (Criminal Court) summonses come in packs of **20**.
+</details>
+
+---
+
+### Question 19
+**The ICO Ageing Report monitors summonses that have been distributed but not served for how many days?**
+
+A. 30 days
+B. 60 days
+C. 90 days
+D. 120 days
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 209-36, the ICO Ageing Report monitors summonses distributed but not served for **90 days**. If any UMOS appears on the ICO Ageing Report, the ICO must conduct an **IMMEDIATE investigation**. The exam commonly tests 30 days as a distractor.
+</details>
+
+---
+
+### Question 20
+**An OATH summons is written for a non-CJRA violation based on a witness statement. The witness refuses to sign the Statement of Witness section. What should the officer write in the witness signature caption?**
+
+A. "Unable to obtain"
+B. "N/A"
+C. "REFUSED"
+D. Leave the caption blank
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 209-12, if the witness refuses to ID themselves and/or sign the Statement of Witness, the officer writes **"REFUSED"** in the witness signature caption. Note: CJRA violations (209-03) must be personally observed and cannot be based on witness statements — only non-CJRA OATH summonses (209-12) can use "informed by."
+</details>
+
+---
+
+### Question 21
+**Missing summonses are discovered when an officer is being transferred from the Department. Who must the Desk Officer notify?**
+
+A. IAB only
+B. IAB and the Commanding Officer
+C. IAB and the ICO immediately; if ICO unavailable, the CO or XO
+D. IAB and the Duty Captain
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 209-36, when an officer is transferred or separated from the Department and summonses are missing, the D.O. must call **IAB AND** notify the **ICO immediately**. If the ICO is unavailable, notify the **CO or XO** — NOT the Duty Captain.
+</details>
+
+---
+
+### Question 22
+**During a mandatory driver's license check under PG 209-24, the operator intentionally provides a false identity. What charge applies?**
+
+A. Criminal Impersonation — Class A Misdemeanor
+B. False Personation — Class B Misdemeanor
+C. Obstructing Governmental Administration — Class A Misdemeanor
+D. Identity Theft — Class E Felony
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 209-24, when an operator intentionally lies regarding their identification to deceive a police officer, they can be charged with **False Personation (PL 190.23)**, which is a **Class B Misdemeanor**.
+</details>
+
+---
+
+**Score: _____ / 22**
 
 ---
 
@@ -5590,9 +8085,9 @@ D. Issue a Criminal Court summons instead, since OATH requires valid ID
 
 | File | Topics Covered |
 |------|---------------|
-| [section-210-general-procedure.md](section-210-general-procedure.md) | General prisoner procedures, desk officer duties, transport rules, high risk factors, leg restraints, pregnant prisoners, attorney/visitor access, security survey, other agency hospitalized prisoners (210-01, 210-02, 210-03) |
-| [section-210-medical-meals.md](section-210-medical-meals.md) | Medical/psychiatric treatment, bedside arraignment, MLD fingerprinting, prisoner meals, meal cost and schedule, expense reporting (210-04, 210-05, 210-06) |
-| [section-210-holding-pens.md](section-210-holding-pens.md) | Unusual occurrences, holding pen guidelines, 30-minute inspections, 3-hour max detention, separation rules, suicide prevention item removal, menstrual hygiene (210-07, 210-08) |
+| [section-210-general-procedure.md](section-210-general-procedure.md) | General prisoner procedures, desk officer duties, transport rules, high risk factors, leg restraints, pregnant prisoners (incl. medical facility rules), attorney/visitor access, security survey, hospitalized prisoners (two desk officer split, search/property, interviewers vs visitors comparison, UF-50, authorized family, restraint types, guarding rules), other agency hospitalized prisoners (210-01, 210-02, 210-03) |
+| [section-210-medical-meals.md](section-210-medical-meals.md) | Medical/psychiatric treatment (MTP form, ACR/PCR/PIN numbers, hospital selection, narcotics ingestion triple notification, psych admission to Bellevue/Elmhurst, escorting officer duties, DOC custody, prescription medication handling, medicine to go), bedside arraignment, MLD fingerprinting, prisoner meals, meal cost and schedule, expense reporting (210-04, 210-05, 210-06) |
+| [section-210-holding-pens.md](section-210-holding-pens.md) | Unusual occurrences (definition, typed letterhead copies, IAB notification), holding pen guidelines, 30-minute inspections, 3-hour max detention, separation rules, suicide prevention item removal, menstrual hygiene (210-07, 210-08) |
 | [section-210-release.md](section-210-release.md) | Release of prisoners, voided arrest vs. decline prosecution, supervisor conferral, warrant checks, record sealing, other agency release conflicts, ADA-directed release (210-13, 210-15, 210-16, 210-17) |
 | [key-terms.md](key-terms.md) | All key terms, forms, critical numbers, and abbreviations from Section 210 |
 | [review-questions.md](review-questions.md) | 15 multiple-choice practice questions with hidden answers |
@@ -5785,8 +8280,11 @@ A prisoner is considered **high risk** based on ANY of the following:
 | **MUST** use | For **ALL hospital transports** |
 | May **NOT** use | For **punitive purposes** |
 | Does not replace | **Rear handcuffing** — leg restraints are used IN ADDITION to rear cuffs |
+| If NOT used for hospital | **Desk Officer** must make a detailed **Command Log entry** explaining why |
 
 > **Exam Alert:** The two mandatory triggers for leg restraints are (1) refusal to be fingerprinted and (2) ALL hospital transports. Leg restraints are NEVER used as punishment and do NOT replace rear handcuffing.
+
+> **Exam Alert:** If leg restraints are NOT used for a hospital transport, the **Desk Officer** must document the reason in a detailed Command Log entry. The PG does not mention psych specifically — it says ALL prisoners going to the hospital for medical treatment should have leg restraints.
 
 ---
 
@@ -5797,6 +8295,8 @@ A prisoner is considered **high risk** based on ANY of the following:
 | Initial restraint | **Rear cuff**, absent exceptional circumstances |
 | Assessment | **Immediate supervisor** determines if less restrictive method is appropriate |
 | Less restrictive options | Front cuff, or one hand cuffed to a stationary post |
+| Prohibition | **Leg restraints shall NOT be employed** on pregnant prisoners |
+| Notification | Guarding officer notifies immediate supervisor of restraint method used |
 
 #### Factors for Supervisor Assessment
 
@@ -5808,8 +8308,29 @@ A prisoner is considered **high risk** based on ANY of the following:
 | Demeanor of the prisoner |
 | Late-stage pregnancy / fall risk |
 | Active labor |
+| Newborn has been discharged from the hospital |
+| Attending physician's recommendations regarding restraints |
 
 > **Sergeant Focus:** The **immediate supervisor** (sergeant) makes the determination on whether to use less restrictive restraints for pregnant prisoners. This is a direct supervisory decision — not a desk officer or commanding officer decision. Document the assessment and rationale.
+
+#### Pregnant Prisoner at Medical Facility — Special Rules
+
+| Stage | Rule |
+|-------|------|
+| **Pregnant (general)** | Least restrictive manner — front cuffing, one hand to stationary post |
+| **In labor** | **NO CUFFS, NO RESTRAINT of any manner** |
+| **During delivery** | Stay **outside** delivery room |
+| **Post-delivery** | Only cuff/restrain in **exceptional circumstances** determined by immediate supervisor case by case |
+
+> **Exam Alert:** A prisoner in **active labor** receives NO cuffs and NO restraints of any kind. During delivery, the officer stays **outside** the delivery room. Post-delivery restraint requires "exceptional circumstances" — determined by the immediate supervisor on a case-by-case basis.
+
+#### UMOS Documentation — Pregnant Prisoner Restraint
+
+| Requirement |
+|-------------|
+| Digital Activity Log entry indicating whether exceptional circumstances exist |
+| Facts which supported the determination |
+| If applicable, document the type of restraints authorized |
 
 ---
 
@@ -5848,13 +8369,297 @@ A prisoner is considered **high risk** based on ANY of the following:
 
 ## P.G. 210-02: Hospitalized Prisoners
 
-### Guarding Hospitalized Prisoners
+### Prisoner Admitted — Arresting/Guarding Officer
 
-When a prisoner requires hospitalization, a member of the service must be assigned to guard the prisoner at the hospital. Key considerations:
+When a prisoner is admitted to the hospital:
 
-- Continuous guard must be maintained
-- Relief must be arranged through the command
-- Prisoner remains in police custody throughout hospitalization
+| Step | Action |
+|------|--------|
+| Notify two desk officers | (1) Desk Officer, **Precinct of Arrest** and (2) Desk Officer, **Precinct of Hospitalization** |
+| Request relief | Request relief from Desk Officer, Precinct of Hospitalization |
+| Remain with prisoner | Stay with prisoner until relieved by guarding officer |
+| Once relieved | Arresting officer returns to process the arrest (10-2) |
+
+> **Exam Alert:** The arresting/guarding officer calls **two different desk officers** — the Pct of Arrest and the Pct of Hospitalization. Many exam questions test which desk officer handles which duty. The Pct of Arrest handles the arrest report, notifications, and court coordination. The Pct of Hospitalization handles reliefs, guarding logistics, and hospital-level decisions.
+
+### Search of Prisoner at Hospital (by A/O if direct from scene)
+
+| Rule | Detail |
+|------|--------|
+| Gender appropriate | Search must be gender appropriate |
+| If no gender-appropriate officer available | Hospital personnel search; **witnesses are mandated** |
+| Clothing | Removed by hospital personnel, then officer searches clothing |
+| Receipt | Give hospital staff receipt for property received from them |
+| Property removed | Remove usual property AND deliver to D.O. Pct of Arrest OR designated arrest processing facility |
+| Property kept by hospital | Give D/O a list of property kept by hospital, **EXCEPT clothing** |
+
+> **See Also:** PG 208-02 — Directs listing property in digital Activity Log.
+
+### Property Removed from Prisoner
+
+Property is removed when it is:
+
+| Category | Examples |
+|----------|----------|
+| Unlawfully carried | — |
+| Required as evidence | — |
+| Lawfully carried but dangerous | Dangerous to life, could facilitate escape, used to attempt suicide, could assault another (glass, sharp edges, belts, neckties, shoelaces, drawstrings, etc.) |
+| Used to deface or damage property | — |
+
+### Press Card Handling
+
+| Item | Action |
+|------|--------|
+| Press Card | Issued by Mayor's Office of Media/Entertainment — invoice as appropriate (safekeeping, evidence, etc.) |
+
+### NYPD Auxiliary Police Property
+
+| Item | Action |
+|------|--------|
+| Shield or I.D. card | Forward to **Auxiliary Police Section** with report of facts |
+| Voucher | Do **NOT** voucher |
+
+### Pistol License
+
+| Item | Action |
+|------|--------|
+| Pistol license | Forward to **Commanding Officer, License Division** with report of facts |
+| Voucher | Do **NOT** voucher |
+
+### Desk Officer, Precinct of Arrest — Hospitalized Prisoner Duties
+
+| Duty | Details |
+|------|---------|
+| Arrest Report | Direct OLBS be prepared; generate arrest number in OMNIFORM |
+| OLBS & Print Cards | Direct UMOS to deliver copies to **Desk Officer, Pct of Hospitalization** (not direct to hospital) |
+| Borough Court Section | Notify BCS supervisor |
+| Telephone Record | Enter notification including: prisoner's name, arrest #, date/time went 97H, admission #, whether printed or not |
+| DAT or Bedside Arraignment | Have guarding officer issue D.A.T. if eligible; if not eligible, bedside arraignment |
+
+> **Exam Alert:** OLBS and print card copies go to the **Desk Officer, Precinct of Hospitalization** — NOT directly to the hospital. The exam may present a scenario where the desk officer sends documents directly to the hospital; this is incorrect.
+
+### D.O. Precinct of Arrest — MLD Procedures
+
+When a hospitalized prisoner requires fingerprinting:
+
+| Step | Action |
+|------|--------|
+| Verify MLD availability | Notify Patrol Borough concerned |
+| Designate UMOS | A UMOS trained in MLD use, **other than the A/O**, retrieves the MLD |
+| Safety requirement | At least **2 UMOS** must be present during MLD fingerprinting |
+| Command Log entry | Name, rank, tax number of designated UMOS and location where MLD is to be utilized |
+
+> **Exam Alert:** The MLD may **NOT** be used for any purpose other than hospitalized prisoner fingerprints. If the MLD is in a location with minimal or no cell connection, captured prints are stored until a proper network connection is established, then transmitted.
+
+### Desk Officer, Precinct of Hospitalization — Duties
+
+| Duty | Details |
+|------|---------|
+| Dept of Corrections | Ask if hospital has a DOC Prison Ward; make Telephone Record of inquiry |
+| DOC has room | Follow P.G. 210-05 |
+| Continuous effort | Make continuous effort to have DOC assume custody |
+| Reliefs | Ensure appropriate reliefs for guarding officer |
+| OLBS & Prints | Send duplicates of OLBS and prints (**finger AND palmprints**) to guarding officer |
+| Staffing | UMOS from Pct of Hospitalization guard prisoners |
+
+> **Exam Alert:** Asking DOC to take the prisoner is the duty of the **D/O Precinct of Arrest** under P.G. 210-04 when the prisoner comes from your command as a new arrest. Do not confuse with the Pct of Hospitalization's role, which is hospital-level logistics.
+
+> **Prior Test:** If the precinct of hospitalization is short-staffed and officers are sent from outside commands, who performs patrol and who guards? — The outside officers perform **patrol**, and officers from the precinct of hospitalization guard prisoners.
+
+### Patrol Supervisor — Hospitalized Prisoner
+
+When notified of a prisoner's admission:
+
+| Step | Action |
+|------|--------|
+| Respond to hospital | Evaluate escape potential — examine room and officer attentiveness |
+| Instruct guarding member | Security, visits, handcuffing, constant vigilance |
+| Hospital room inadequate | Request a move to a more secure room |
+| Lack of cooperation | Report to **Commanding Officer** (breaking the chain!) |
+| No room change available | Take additional steps (another guard, etc.) and document in Digital Activity Log |
+| ICU admission | Evaluate again; assess escape potential; if escape potential exists, use **Plastic Flex Cuffs** (additional data) |
+
+> **Exam Alert:** When hospital security is inadequate, the **escorting officer** requests a room change — NOT the Patrol Supervisor. The PG specifically states the escorting officer "requests room change if security inadequate." The patrol supervisor's role is to evaluate and instruct, and to report lack of cooperation to the C.O.
+
+### Who Guards the Prisoner?
+
+| Rule | Detail |
+|------|--------|
+| Gender | Guard can be **gender neutral** |
+| Juvenile | **Plainclothes** officer guards juveniles |
+
+> **Exam Alert:** Unlike searches (which must be gender appropriate), guarding a hospitalized prisoner can be **gender neutral**. However, juvenile prisoners must be guarded by a **plainclothes** officer.
+
+### Guarding Member — Security Measures
+
+| Duty | Details |
+|------|---------|
+| Constant observation | Even though prisoner is cuffed |
+| No passing items | Do not let anyone pass items to prisoner |
+| Periodic area checks | Especially after visits, treatments, and tour changes |
+| Phone use | **No phone for prisoner** UNLESS Desk Officer or Patrol Supervisor approves |
+| Phone approval documentation | Activity Log entry: supervisor approving, who prisoner called, name/relationship/phone number |
+| Keep D.O. informed | Update Desk Officer of Hospital on prisoner's condition |
+
+### UMOS Visiting Hospital (Plainclothes)
+
+| Rule | Detail |
+|------|--------|
+| Firearms and weapons | Keep **all** firearms and weapons **concealed** |
+| Visibility | Not visible to hospital personnel or visitors |
+| Accessibility | Not accessible to prisoners or unauthorized persons |
+
+### Housing and Transit — Guarding Rules
+
+| Rule | Detail |
+|------|--------|
+| Who guards | Housing and Transit guard their **own** prisoners |
+| Arresting officer | Call PSA/TD covering location of hospital when perp admitted; request relief from PSA/TD D.O. |
+| Multiple arrests | If A/O has other arrests to process, D.O. Precinct of Hospitalization might guard prisoner — but only for **1 tour** |
+
+> **See Also:** PG 210-03 — Other agencies: if A/O has other perps, Patrol will guard but make 2nd call for relief in **1 hour**.
+
+### Interviewers and Visitors — 210-01 vs. 210-02 Comparison
+
+> **Exam Alert:** 210-01 has 10 "Interviewers" and 1 "Visitor" (Parent/Guardian). 210-02 has a similar but different list of 10 "Interviewers" and 3 "Visitors." The exam frequently tests the differences between these two lists.
+
+**Interviewers at Hospital (210-02):**
+
+| Authorized Interviewer | Notes |
+|-----------------------|-------|
+| Ranking officer, this Department | (210-01 says "Supervisory officer") |
+| Detective | (210-01 includes "Detective Bureau or Detective Squad" — broader) |
+| District Attorney or representative | Same as 210-01 |
+| Chief Medical Examiner or representative | Same as 210-01 |
+| Official of city dept if prisoner is employee | Same concept as 210-01 |
+| Federal law enforcement officer | Same as 210-01 |
+| Member of clergy (upon prisoner request) | Same as 210-01 |
+| Parole or probation officer | **Not in 210-01 interviewer list** |
+| Hospital personnel (assigned to treat) | **Not in 210-01 interviewer list** |
+| Social worker | **Not in 210-01 interviewer list** |
+
+**Visitors at Hospital (210-02):**
+
+| Authorized Visitor | Requirements |
+|-------------------|-------------|
+| Telegram recipient | Hospital Superintendent states perp is seriously ill |
+| Family member | Issued a **UF-50** (form 49 to an outsider) from D.O. Pct of Arrest authorizing visit |
+| **LAWYER** | "If requested" — drops down from Interviewer list to Visitor list |
+
+> **Prior Test:** Where does a lawyer fall in 210-02? — A lawyer is a **Visitor**, NOT an Interviewer at the hospital. In 210-01 (at the precinct/BCS), the lawyer is an Interviewer. This is a major distinction the exam tests.
+
+> **PG Conflict:** In 210-01, a lawyer (prisoner's legal representative) is listed as an "Interviewer." In 210-02, the lawyer drops to the "Visitor" list ("if requested"). Know both lists exist — the exam may present a hospital scenario where "lawyer" appears as an interviewer option.
+
+### Documentation Differences — 210-01 vs. 210-02
+
+| Location | Documentation Type | Notes |
+|----------|-------------------|-------|
+| 210-01 (Pct or BCS) | **Arrest Report Supplement** (ARS) | Lawyer = "interview"; Parent/Guardian = "visit" |
+| 210-02 (Hospital) | **Digital Activity Log** | Guarding MOS logs "visitors" only — no mention of "interviewers" documentation |
+
+> **Exam Alert:** At the hospital, visitors sign the **Digital Activity Log** — there is no mention of documenting "interviewers" in the Activity Log. The guarding MOS updates the D.O. Pct of Arrest, who then lists "visitors" on an ARS.
+
+### UF-50 — Authorized Family Visits
+
+| Detail | Rule |
+|--------|------|
+| What is UF-50 | A memo with the **Official Seal of NYC** preprinted in the upper left corner |
+| Purpose | For communications **outside the Department** |
+| Where to apply | In person at the **Precinct of Arrest** (not the Pct of Hospitalization) |
+
+> **Exam Alert:** Family members apply for visit authorization at the **Precinct of Arrest**, NOT the Precinct of Hospitalization. The exam may try to trick you into selecting the hospital precinct.
+
+### Who Is Authorized Family?
+
+| Category | Includes |
+|----------|----------|
+| Married individuals | Includes "common-law" marriages |
+| Same-sex couples | — |
+| Registered NYC domestic partners | — |
+| Persons in "intimate relationships" | — |
+| People in a family-type relationship | — |
+| Family members | Children at least 16 years old, siblings, different generations (includes in-laws) |
+
+> **Exam Alert:** If a potential visitor is likely to **interfere with an ongoing investigation**, consult with the **investigative supervisor** before issuing authorization. Watch for the exam presenting an "assigned detective" as the correct answer — that is wrong; it must be the investigative **supervisor**.
+
+### Guarding Officer — Visitor Procedures
+
+| Step | Action |
+|------|--------|
+| Activity Log entry | Make entry AND have visitor **SIGN** Activity Log |
+| Before EOT | Notify D.O. Pct of Arrest of all visitors during tour |
+| D.O. Pct of Arrest | Make Command Log entry from guarding officer notification; make ARS with visitor info |
+| Prisoner under 18 | Notify **parent/guardian** of impending release — make **Command Log entry** (NOT Telephone Record) |
+
+> **Exam Alert:** When a prisoner under 18 is about to be released from the hospital, the D.O. Pct of Arrest notifies the parent/guardian and makes a **Command Log entry** — NOT a Telephone Record. This is a specific distinction the exam tests.
+
+### Who Pays for Hospitalization?
+
+| Rule | Detail |
+|------|--------|
+| Non-NYC HHC hospital | D.O. Pct of Arrest sends report in sealed envelope to **NYC HHC Fiscal Affairs, General Accounting Dept** with all pertinent details |
+
+### Prisoner's Condition — Arraignment Readiness
+
+| Condition | Who Acts | Action |
+|-----------|----------|--------|
+| Condition permits arraignment | **Guarding Officer** | Notify D/O Pct of **ARREST** |
+| Near death or totally incapacitated | **D.O. Pct of HOSPITALIZATION** | Notify **Commanding Officer** |
+
+### Restraint Types at Hospital
+
+#### Leg Shackles
+
+| When Used | Detail |
+|-----------|--------|
+| Arm or wrist injuries | — |
+| Refused prints | — |
+| Hospital transport | UNLESS D/O decides not due to extenuating circumstances |
+| Escape potential | No discretion — mandatory |
+
+#### Long Chain Cuffs
+
+| When Used |
+|-----------|
+| Comatose prisoner |
+| Paralyzed prisoner |
+| Last stage of pregnancy |
+
+#### No Cuffs Decision
+
+| Role | Action |
+|------|--------|
+| Patrol Supervisor | Confers with **doctor** and makes recommendation to D.O. Pct of Hospitalization |
+| D.O. Pct of Hospitalization | **Decides** whether cuffs off if "impractical or inexpedient" (e.g., comatose) |
+
+> **Exam Alert:** The decision to remove cuffs entirely rests with the **Desk Officer, Precinct of Hospitalization** — NOT the Patrol Supervisor. The PS confers with the doctor and makes a recommendation, but the D.O. decides. Do not confuse with the pregnant prisoner restraint decision (which IS the immediate supervisor's call).
+
+#### High Escape Potential — Two Sets of Cuffs
+
+| Who Directs | Detail |
+|-------------|--------|
+| Desk Officer or Patrol Supervisor | Direct all guarding UMOS to have **2 sets of cuffs** available |
+| Purpose | Switch cuffed hands during treatment/transfer with relieving officer — keep **one hand cuffed** during process |
+| Prohibition | Do NOT cuff both hands unnecessarily |
+
+#### Cuffed to Bed or Gurney
+
+| Rule | Detail |
+|------|--------|
+| Double lock | Always double lock handcuffs |
+| Observation | Even if cuffed, maintain **constant observation** |
+| Before removing for treatment | Use a **second pair** to cuff free hand BEFORE removing original cuff |
+
+### Commanding Officer, Pct of Hospitalization — Prisoner Near Death/Incapacitated
+
+| Duty | Details |
+|------|---------|
+| Investigation | Direct investigation of prisoner's condition, history, and arrest situation |
+| Guard removed | If guard removed: contact hospital daily, direct PS to visit, weekly telephone message to BCS each **Wednesday** |
+| Guard required | Assign UMOS when condition warrants |
+| Prisoner dies | Notify BCS with date/time of death and doctor issuing death certificate; have guarding MOS obtain copy of death certificate; direct D.O. to forward to Chief Clerk's Office, borough Criminal Court |
+
+> **Exam Alert:** When a guard is removed from a hospitalized prisoner, the weekly status update to BCS is made each **Wednesday** — not any other day. This specific day is a testable detail.
 
 ---
 
@@ -5892,24 +8697,37 @@ When a prisoner requires hospitalization, a member of the service must be assign
 1. **Attorney interview location** — Muster room ONLY at precinct; supervisor-designated location at borough court
 2. **Transport chain threshold** — More than 2 prisoners requires chains
 3. **Desk officer transport check** — Must step from behind desk to personally verify
-4. **Leg restraint triggers** — Refused fingerprinting AND all hospital transports
-5. **Pregnant prisoner restraint** — Immediate supervisor (sergeant) determines less restrictive method
+4. **Leg restraint triggers** — Refused fingerprinting AND all hospital transports; if not used for hospital, D.O. must document in Command Log
+5. **Pregnant prisoner restraint** — Immediate supervisor (sergeant) determines less restrictive method; NO restraints during labor; stay outside delivery room
 6. **Parent/guardian visit** — Age 18-21, more than 4 hours, 15 minutes max, muster room, desk officer/BCS supervisor present
 7. **High risk factors** — All 7 factors; any single factor qualifies
 8. **Security survey** — Last week of September, due September 30th
 9. **Other agency hospitals** — 1-hour follow-up if no relief provided
 10. **$1.80 meal cap and NO hot liquids**
+11. **Two desk officers for hospitalized prisoners** — Pct of Arrest (arrest report, court, notifications) vs. Pct of Hospitalization (reliefs, guarding, hospital logistics)
+12. **Interviewers vs. Visitors (210-01 vs. 210-02)** — Lawyer is an Interviewer at precinct (210-01) but drops to Visitor at hospital (210-02)
+13. **Family visit authorization** — Applied for at Precinct of **Arrest**, NOT Pct of Hospitalization; UF-50 required
+14. **Guard gender** — Gender neutral for guarding, but plainclothes for juveniles
+15. **Room change request** — Made by **escorting officer**, NOT Patrol Supervisor
+16. **No cuffs decision** — D.O. Pct of Hospitalization decides (not PS); PS confers with doctor and recommends
+17. **Under 18 release notification** — Command Log entry, NOT Telephone Record
+18. **Weekly BCS update** — Each Wednesday when guard removed from hospitalized prisoner
+19. **2 sets of cuffs** — High escape potential; keep one hand cuffed during transfer/treatment
+20. **Housing/Transit** — Guard own prisoners; Pct of Hospitalization may guard for only **1 tour** if A/O has other arrests
 
 ## Sergeant Study Notes
 
 - The **desk officer** is the central figure in prisoner management: cell assignments, attendant assignments, custody log entries, transport verification, and authorized visitor access
-- **Sergeants** make the restraint determination for pregnant prisoners — know the 6 assessment factors
+- **Sergeants** make the restraint determination for pregnant prisoners — know the assessment factors including physician recommendations
 - The desk officer must **physically step from behind the desk** to verify prisoner security before transport — this is a hands-on check
 - **High risk** prisoner designation triggers additional escort requirements during transport
 - Attorney visits at the precinct are in the **muster room ONLY** — document everything on the Arrest Report Supplement
 - The **1-hour follow-up** rule for other agency hospitalized prisoners prevents NYPD from absorbing another agency's guarding responsibilities indefinitely
 - **Zero tolerance** policy on prisoner sexual assault/harassment — any allegation must be reported and investigated
-- Communicable disease information about prisoners is **confidential** and cannot be released without written consent from the Deputy Commissioner, Legal Matters
+- Communicable disease information about prisoners is **confidential** and cannot be released without written consent from the Deputy Commissioner, Legal Matters — isolate prisoner if isolated cell is available
+- Know the **two-desk-officer split** for hospitalized prisoners and which duties belong to which D.O.
+- The **escorting officer** requests room changes at the hospital when security is inadequate — the Patrol Supervisor evaluates and instructs but does not make the request
+- When guard is removed from a near-death prisoner, the **Wednesday** weekly update to BCS is a testable detail
 
 ---
 
@@ -5921,18 +8739,46 @@ Covers P.G. 210-07, 210-08
 
 ## P.G. 210-07: Unusual Occurrences Involving Prisoners
 
-### Reporting Requirements
+### Prisoner Unusual — Defined
 
-Any unusual occurrence involving a prisoner must be immediately reported to the desk officer and patrol supervisor. Unusual occurrences include:
+An unusual occurrence is any of the following involving an **unarraigned adult prisoner** OR a **juvenile under 18** in NYPD custody or Corrections:
 
 | Occurrence | Action |
 |-----------|--------|
-| Prisoner injury | Notify desk officer and patrol supervisor; arrange medical treatment |
-| Prisoner illness | Notify desk officer and patrol supervisor; arrange medical treatment |
-| Prisoner attempted suicide | Notify desk officer and patrol supervisor; arrange immediate medical treatment |
-| Prisoner escape | Notify desk officer and patrol supervisor; initiate pursuit and notifications |
-| Prisoner death | Notify desk officer and patrol supervisor; secure scene; notify commanding officer |
-| Prisoner altercation | Notify desk officer and patrol supervisor; separate prisoners; document |
+| Assaults MOS | Notify desk officer and patrol supervisor |
+| Prisoner sexually assaulted/harassed (or alleges such) | Notify desk officer and patrol supervisor |
+| Escapes or attempts escape | Notify desk officer and patrol supervisor; if escape/attempt, notify **IAB Command Center** |
+| Other unusual (catchall) | Notify desk officer and patrol supervisor |
+
+> **Exam Alert:** The definition covers **any prisoner, any age** — both unarraigned adults and juveniles under 18 in custody or Corrections. The four categories are: assaults MOS, sexual assault/harassment (or allegation), escape/attempt, and other unusual.
+
+### Desk Officer — Notifications
+
+| Notify | Details |
+|--------|---------|
+| C.O./Duty Captain **AND** Operations Unit | Provide prisoner's name, sex, and charge |
+| If escape or attempt | Also notify **IAB Command Center** |
+
+### Commanding Officer/Duty Captain — Investigation and Report
+
+| Duty | Details |
+|------|---------|
+| Conduct investigation | — |
+| Prepare report | **Typed letterhead (form 49)** |
+| Forward to Chief of Department | Number of copies varies (see below) |
+| One additional copy to each | Chief of Patrol, Chief of IAB, Chief of Training, C.O. Criminal Justice Bureau (CJB), C.O. Performance Monitoring Unit, each intermediate command, C.O. of UMOS if different |
+
+### Copies to Chief of Department
+
+| Situation | Number of Copies |
+|-----------|-----------------|
+| **Adult prisoner** | **3** copies |
+| **Child in custody is DOA** | **2** copies |
+| **Child in custody** (not DOA) | **1** copy |
+
+> **Exam Alert:** The number of copies of the typed letterhead (49) report forwarded to the Chief of Department depends on the prisoner: **3 for adult, 2 for child DOA, 1 for child in custody**. This is a frequently tested numerical detail.
+
+> **See Also:** PG 221-03 — Suicide/injury of prisoner. PG 221-05 — DOA SILD.
 
 > **Sergeant Focus:** The patrol supervisor must respond to ALL unusual occurrences involving prisoners. Document the incident thoroughly in the Command Log, prepare required reports, and notify the commanding officer for serious incidents (death, escape, serious injury).
 
@@ -6023,6 +8869,17 @@ The following items must be removed from prisoners upon placement in a holding p
 6. **Supervisor documentation** — Record condition (sleeping, alert) AND position (sitting, lying down)
 7. **Menstrual hygiene** — Products on request; female MOS escort to restroom
 8. **PD244-1410** — Prisoner Holding Pen Roster must be maintained
+9. **Unusual occurrence definition** — Unarraigned adult or juvenile under 18: assaults MOS, sexual assault/harassment, escape/attempt, other unusual
+10. **Typed letterhead (49) copies** — 3 for adult prisoner, 2 for child DOA, 1 for child in custody
+11. **Escape/attempt** — Notify IAB Command Center in addition to standard notifications
+12. **Prisoner DOA or seriously injured by police action** — UMOS: request PS response, safeguard scene, obtain medical attention; PS comply with PG 221-05
+
+### Prisoner DOA or Seriously Injured by Police Action / Police Firearms Discharge
+
+| Role | Duty |
+|------|------|
+| UMOS | Immediately request response of Patrol Supervisor; safeguard crime scene; obtain medical attention |
+| Patrol Supervisor | Respond and comply with **PG 221-05** |
 
 ## Sergeant Study Notes
 
@@ -6059,23 +8916,256 @@ A prisoner must be removed to the hospital when any of the following conditions 
 
 > **Exam Alert:** Ill, intoxicated, and emotionally disturbed prisoners are NOT to be placed in holding pens (see P.G. 210-08). They must be removed to a hospital for evaluation and treatment.
 
-### Desk Officer Responsibilities
+### Which Hospital?
+
+| Situation | Hospital |
+|-----------|----------|
+| Non-emergency | **Local** hospital |
+| Life-threatening | **Nearest** hospital |
+| Narcotics/dangerous substance ingestion | Go **DIRECTLY** to **nearest** hospital (NEVER to stationhouse) |
+
+> **Exam Alert:** A perp who ingests narcotics or a dangerous substance goes directly to the **nearest** hospital — NEVER to the stationhouse first. The exam may present a scenario asking whether to process the arrest first; the answer is always go directly to the hospital.
+
+### Narcotics Ingestion — Triple Notification
+
+When a prisoner ingests narcotics or a dangerous substance, notify **Patrol Supervisor AND Communications Section** three times:
+
+| Notification | When |
+|-------------|------|
+| 1st | Upon observing or suspecting ingestion |
+| 2nd | When transport to hospital is initiated |
+| 3rd | When 84 (arrived) at hospital |
+
+Additionally, inform **EMS and hospital personnel** of the type and quantity of drugs ingested.
+
+### UMOS — Initial Medical Treatment Duties
 
 | Duty | Details |
 |------|---------|
-| Notification | Notify patrol supervisor of prisoner's condition |
-| EMS | Request ambulance for transport when necessary |
-| Documentation | Prepare **MEDICAL TREATMENT OF PRISONER (PD244-150)** |
-| Command Log | Enter details of medical treatment and transport |
-| Guarding | Assign MOS to guard prisoner at hospital |
+| Request ambulance | Accompany prisoner to hospital from place of arrest if necessary |
+| Notify | Desk Officer |
+| Medical Treatment of Prisoner Form | Prepare when prisoner: receives treatment, refuses treatment after claiming injury/illness, has apparent need for treatment, has previously treated injuries, has prescribed medication, has communicable disease status |
+
+> **Exam Alert:** A prisoner who **volunteers** their positive communicable disease status triggers MTP preparation **only** if not already on the Prisoner Movement Slip.
+
+### Medical Treatment of Prisoner Form (MTP) — Key Details
+
+| Detail | Rule |
+|--------|------|
+| Reserve function | Enter info from Section I of MTP into MTP app in FORMS by selecting the "Reserve" function; number generated by FORMS entered on the MTP |
+| Copy of MTP | Accompanies prisoner until no longer in NYPD custody |
+| Upon treatment completion | Allow hospital personnel to make a **copy** of the MTP |
+| Signing | If perp, doctor, or hospital staff refuses to sign, note on MTP and in Digital Activity Log |
+
+### Section I of MTP — Transport Numbers
+
+| Transport Method | Number Recorded |
+|-----------------|----------------|
+| Taken by **EMS** (ambulance) | **ACR** # (Ambulance Call Report) |
+| Taken by **other means** (RMP, etc.) | **PCR** # (Patient Care Report) |
+
+> **Memory Aid — ACR vs PCR:** **A** = Ambulance (ACR), **P** = Police/other (PCR). The ACR number comes from the ambulance attendant. The PCR number also comes from the ambulance attendant (received from them).
+
+### Remarks Section of MTP
+
+| Content | Notes |
+|---------|-------|
+| Specific treatment instructions from EMS | — |
+| Whether EMS took perp to hospital room for further treatment | — |
+| **RMA** | Check-box for RMA; does **NOT** go in remarks |
+
+### Supervisor at Scene
+
+| Duty | Details |
+|------|---------|
+| If perp 97H from scene | Ensure MTP is prepared as above |
+| Review and sign | **Section I** of MTP |
+
+### Desk Officer — Prisoner Needs Medical Treatment During Arrest Process
+
+| Duty | Details |
+|------|---------|
+| Medical/drug/psych treatment needed | Call ambulance and have prisoner taken to hospital |
+| Command Log entry | ACR or PCR # AND if Medic Alert Emblem worn, name of whom notified |
+| 2nd Command Log entry | When prisoner leaves the stationhouse |
+| MTP | Ensure prepared; review and sign Section I |
+| Escort | Assign UMOS to escort prisoner; direct A/O to continue arrest process when possible |
+| Relief | Ensure appropriate relief for guarding officer |
+
+> **See Also:** PG 210-01 — Release of confidential status information (communicable disease): Only **DCLM** (Deputy Commissioner, Legal Matters) can authorize release. Isolate prisoner if isolated cell is available.
+
+### Arresting/Escorting Officer — Transport to Hospital
+
+| Duty | Details |
+|------|---------|
+| Restraint | **Rear cuff** AND use **leg restraints** before transporting |
+| Double lock | **DOUBLE LOCK** both cuffs and leg restraints |
+| Custody | Remain with perp at all times in hospital |
+| Medic Alert | Notify Desk Officer; make Digital Activity Log entry with name of person notified and Medic Alert Emblem |
+
+### Prisoners Requiring Psychiatric Admission
+
+| Step | Action |
+|------|--------|
+| Notify D.O. of psych status | Before leaving local hospital for Bellevue/Elmhurst |
+| Transport | Ride in **(private) ambulance** with prisoner to Bellevue/Elmhurst |
+| Digital Activity Log | Enter **PIN** # (Patient Identification Number) obtained from hospital intake |
+
+> **Exam Alert:** The **PIN** (Patient Identification Number) is different from the ACR or PCR number. The PIN is obtained from hospital intake people — NOT from EMS. The exam tests: ACR = initial EMS transport, PCR = initial RMP/other transport, PIN = secondary transport to Bellevue/Elmhurst.
+
+### Psych Admission — Where Transported?
+
+| Gender | Hospital |
+|--------|----------|
+| **Men** | **Bellevue** |
+| **Women** | **Elmhurst General** |
+
+> **Exam Alert:** Generally, men go to **Bellevue** and women go to **Elmhurst** for psychiatric admission. Transport is done by hospital via **private contract** — NOT FDNY EMS.
+
+### Psych Admission — D.O. Pct of Arrest/Boro Court Section
+
+| Duty | Details |
+|------|---------|
+| Confer with medical staff | Medical staff determines appropriate transfer method and hospital |
+| Determine additional resources | D.O. determines if additional resources needed for the transfer |
+| Additional resources decision | **Patrol Supervisor** decides if extra personnel or equipment (like ESU) are needed |
+
+### Desk Officer — Psych Treatment Documentation
+
+| Duty | Details |
+|------|---------|
+| Command Log entry | **PIN** # (NOT ACR or PCR), Medic Alert information, new location of prisoner |
+
+> **Exam Alert:** For psych transfers, the Desk Officer logs the **PIN number** in the Command Log — NOT the ACR or PCR. The exam may present choices mixing up these numbers.
+
+### Escorting Officer at Hospital
+
+| Duty | Details |
+|------|---------|
+| Security assessment | Assess security of location at hospital (not just for psych) |
+| Inadequate security | **Escorting officer** requests room change (NOT Patrol Supervisor!) |
+| Doctor wants cuffs/restraints removed | Do NOT remove UNLESS doctor requests AND explain circumstances of arrest |
+| Doctor insists on removal | Request **Patrol Supervisor** to respond; do NOT remove without PS on scene and authorizing |
+| Doctor asks officer to leave exam room | Explain circumstances, stay right outside, attempt to maintain visual contact |
+| Leaving room vs. cuffs off | Guarding officer is **NOT** required to request PS when asked to leave the room (only for cuffs removal) |
+
+> **Prior Test:** Doctor asks the guarding officer to remove cuffs — what is the correct response? Explain circumstances of arrest. If doctor still wants them off, request **Patrol Supervisor** to respond. Do NOT remove without PS present and authorizing. BUT if doctor asks you to **leave the room**, you do NOT need the PS — just step outside and maintain visual contact.
+
+> **Exam Alert:** There is a critical distinction between a doctor asking to **remove restraints** (requires PS response and authorization) versus asking the officer to **leave the examination room** (officer complies, steps outside, maintains visual contact — no PS needed). The exam frequently tests this difference.
+
+### DOC Taking Custody — Psych Admission
+
+| Role | Duty |
+|------|------|
+| D.O. Command of Arrest | Request DOC prison ward to lodge and take custody |
+| If DOC refuses | Consult with **BCS Supervisor** (BCS Sup responsible for resolving with DOC Custody Management Unit) |
+| Documentation | Telephone Record of consult with BCS supervisor |
+| Notify | Escorting officer of attempts to have DOC accept custody |
+
+### Escorting Officer — DOC Taking Custody
+
+| Duty | Details |
+|------|---------|
+| Search prisoner | Search **again** before giving over to DOC |
+| Digital Activity Log | Entry of results of search |
+| Forward to DOC Supervisor | OLBS-W, MTP, Prisoner Movement Slip, Active Warrant (physical copy for live arrest cases) |
+| Active warrant only (no new arrest) | Forward Active Warrant (physical copy) and MTP only |
+
+### When Prisoner Released Back from DOC
+
+| Role | Duty |
+|------|------|
+| BCS | Notifies D.O. Pct of Arrest |
+| D.O. Command of Arrest | Make TR of ID, location, arrest/warrant info; arrange for EO to respond within **4 hours** to DOC prison ward to take custody |
+| If unable within 4 hours | Notify **BCS Supervisor** (BCS Sup coordinates with DOC Custody Management Unit) |
+
+### Escorting Officer — Prisoner Released from DOC
+
+| Duty | Details |
+|------|---------|
+| Transport | Take prisoner to command to finish arrest process or go to BCS if processing completed |
+| Wheelchair/mobility impaired | **Confer with BCS Supervisor** before transport |
+| MTP | Deliver completed MTP to D.O. at BCS; BCS Sup gives buff copy to A/O-EO; A/O or EO delivers to D.O. command of arrest |
+
+### D.O. Command of Arrest — After DOC Release
+
+| Duty | Details |
+|------|---------|
+| MTP data | Ensure data from buff MTP entered into FORMS; finalize ALL pending submissions within FORMS |
+
+### Operations Coordinator, Command of Arrest
+
+| Duty | Details |
+|------|---------|
+| MTP | Ensure all MTPs finalized within FORMS |
+| File | **FILE** the buff copy Medical Treatment of Prisoner Form |
+
+### Prescription Drugs — Medication at Time of Arrest
+
+| Duty | Details |
+|------|---------|
+| Invoice | **Voucher** the medication |
+| MTP | Prepare MTP with prescription label info (name, address, phone of pharmacy/physician) in Remarks section |
+
+### Medication Brought to Precinct by Family/Household Member
+
+| Step | Action |
+|------|--------|
+| Verify | Family/household member properly identified; states prisoner has medical condition and needs medication |
+| MTP in Remarks | Family member's name, address, phone; medical condition; pharmacy info; doctor name |
+
+> **Exam Alert:** UMOS are **NOT required to accept** and voucher medication from family or friends. This is an important distinction — accepting medication from outside sources is discretionary, not mandatory.
+
+### Prisoner Not at Facility Where Family Brought Medication
+
+| Step | Action |
+|------|--------|
+| UMOS | Determine if prisoner still in Dept custody; ascertain location; inform supervisor |
+| Supervisor notified | Contact D.O. at facility where prisoner located — **DUAL Command Log entry** (both the notifying supervisor and the receiving D.O. make entries) |
+| Command Log entries include | Time of notification, prisoner's name, name of supervisor receiving/making notification |
+| Supervisor where prisoner located | Prepare Medical Treatment of Prisoner Form |
+
+### Doctor Wants Prescription Medication Delivered
+
+| Role | Duty |
+|------|------|
+| UMOS | Provide doctor with voucher # and phone # to D.O. where meds are vouchered |
+| D.O. (where medication located) | Provide doctor with NAME of medication; if not in stock, arrange delivery |
+| D.O. | Check medication name against voucher info; enter RTO in FORMS-P; sign and enter Dr's name, hospital, and UMOS delivering in Remarks |
+| UMOS delivering | Have Dr. **sign** Digital Activity Log; if Dr. refuses, note refusal with name and title but still give medication |
+| Medication returned to command | Will be "**INVOICED AGAIN**" |
+
+### Doctor Gives Prisoner Medicine To Go
+
+| Step | Action |
+|------|--------|
+| Take custody of meds | **No voucher** needed |
+| Give meds to | **Nurse Practitioner (NP)** at BCS until perp needs to self-administer |
+| NP not authorized to administer | If NP cannot administer that form of medication, prisoner must be brought to hospital |
+
+> **Exam Alert:** When a doctor provides medicine for a prisoner to take, the medication goes to the **Nurse Practitioner at BCS** — no voucher is needed. But if the NP is not authorized to administer that specific form of medication, the prisoner must go back to the hospital.
+
+### Prisoner Security — Additional Personnel for Hospital Transport
+
+The Patrol Supervisor/Desk Officer assigns additional personnel to accompany A/Os based on:
+
+| Factor |
+|--------|
+| Type of offense (violent crime, resisting, etc.) |
+| Size of perp |
+| History of perp |
+| Suspected escape opportunity |
+| **Lack of physical signs of injury** (may be faking) |
+
+> **Exam Alert:** One of the factors for assigning additional personnel is **lack of physical signs of injury** — meaning the prisoner might be faking to create an escape opportunity. This is a counterintuitive factor that the exam may test.
+
+### ESU Consideration
+
+| Rule | Detail |
+|------|--------|
+| ESU | Supervisors may consider using ESU for **extraordinary circumstances** |
 
 > **Sergeant Focus:** When a prisoner requires medical treatment, the patrol supervisor must be notified. The sergeant should verify that the desk officer has properly documented the condition, arranged transport, and assigned a guard. Prisoners with medical conditions cannot simply be held in the cellblock.
-
-### Prisoners Requiring Psychiatric Treatment
-
-- Follow aided case procedures in addition to prisoner protocols
-- Prisoner remains in police custody throughout psychiatric evaluation
-- Restraint decisions must balance prisoner safety with the safety of hospital staff
 
 ---
 
@@ -6161,6 +9251,16 @@ Reduce manpower required to guard hospitalized prisoners by expediting the arrai
 6. **Bail location** — Borough criminal court, NOT the stationhouse
 7. **Desk officer meal authority** — Can authorize additional meals for medical/unusual conditions or missed meal periods
 8. **Expense report** — Due by the 15th of each month
+9. **ACR vs PCR vs PIN** — ACR = ambulance transport, PCR = RMP/other transport, PIN = secondary transport to psych facility
+10. **Which hospital** — Non-emergency = local; life-threatening = nearest; narcotics ingestion = DIRECTLY to nearest (NEVER stationhouse)
+11. **Psych admission destination** — Men to Bellevue, Women to Elmhurst; transport by private ambulance (not FDNY EMS)
+12. **Cuffs off vs. leave room** — Doctor asks to remove restraints = request PS response; doctor asks to leave room = comply, step outside, maintain visual contact (no PS needed)
+13. **UMOS not required to accept family medication** — Accepting outside medication is discretionary
+14. **Medicine to go from doctor** — Goes to Nurse Practitioner at BCS; no voucher; if NP cannot administer, prisoner goes to hospital
+15. **DOC custody** — D.O. Command of Arrest requests DOC take custody; if refused, consult BCS Supervisor
+16. **4-hour deadline** — Arrange EO to respond to DOC prison ward within 4 hours of notification
+17. **Lack of physical signs of injury** — Factor for additional personnel (prisoner may be faking)
+18. **Triple notification for narcotics ingestion** — PS and Communications Section notified 3 times (observation, transport initiated, arrived at hospital)
 
 ## Sergeant Study Notes
 
@@ -6171,6 +9271,12 @@ Reduce manpower required to guard hospitalized prisoners by expediting the arrai
 - Prisoners released from the hospital before arraignment must be escorted **rear cuffed** to court with a **signed medical release**
 - Ill, intoxicated, and emotionally disturbed prisoners must be removed to hospital — they cannot be held in standard cellblock or holding pen conditions
 - The patrol supervisor must be notified whenever a prisoner requires medical treatment
+- Know the **three transport numbers**: ACR (ambulance), PCR (RMP/other), PIN (secondary psych transport) — each has a different source and context
+- The **escorting officer** requests room changes when hospital security is inadequate — NOT the Patrol Supervisor
+- Removing restraints at a doctor's request requires **Patrol Supervisor on scene** — but leaving the exam room does NOT require a PS
+- For narcotics ingestion, the **triple notification** to PS and Communications is a high-frequency exam item
+- **Medication returned to command** after delivery will be "invoiced again" — know this procedural detail
+- When DOC refuses custody, the BCS Supervisor resolves the issue with DOC's Custody Management Unit
 
 ---
 
@@ -6371,6 +9477,19 @@ Certain prisoner categories require additional notifications, procedures, or han
 | **Urgent Police Action** | Response to an emergency, active pursuit, or moving surveillance | P.G. 209-30 |
 | **Necessary Police Action** | Less than urgent; enhances safety of an operation; NOT solely for the member's convenience | P.G. 209-30 |
 
+## Hospitalized Prisoner Terms
+
+| Term | Definition | Source |
+|------|-----------|--------|
+| **ACR (Ambulance Call Report)** | Report number obtained from ambulance attendant when prisoner is transported by EMS; recorded in Section I of MTP | P.G. 210-04 |
+| **PCR (Patient Care Report)** | Report number obtained from ambulance attendant when prisoner is transported by RMP or other means (not EMS); recorded in Section I of MTP | P.G. 210-04 |
+| **PIN (Patient Identification Number)** | Number obtained from hospital intake people when prisoner is transferred to Bellevue/Elmhurst for psychiatric admission; NOT the same as ACR or PCR | P.G. 210-04 |
+| **UF-50** | A memo with the Official Seal of NYC preprinted in the upper left corner; used for communications outside the Department; issued to authorize family visits to hospitalized prisoners | P.G. 210-02 |
+| **Plastic Flex Cuffs** | Additional data restraint used when a hospitalized prisoner admitted to ICU is assessed as having escape potential | P.G. 210-02 |
+| **Long Chain Cuffs** | Restraint used when prisoner is comatose, paralyzed, or in last stage of pregnancy | P.G. 210-02 |
+| **Prisoner Unusual** | An unarraigned adult prisoner or juvenile under 18 in NYPD custody or Corrections who: assaults MOS, is sexually assaulted/harassed (or alleges such), escapes/attempts, or other unusual occurrence | P.G. 210-07 |
+| **Typed Letterhead (49)** | Report prepared by the C.O./Duty Captain for prisoner unusual occurrences; forwarded to Chief of Department (3 copies adult, 2 copies child DOA, 1 copy child in custody) | P.G. 210-07 |
+
 ## Other Agency Terms
 
 | Term | Definition | Source |
@@ -6389,6 +9508,7 @@ Certain prisoner categories require additional notifications, procedures, or han
 | Transport Dispatch | **PD171-132** | Records prisoner transport details including destination and escort | P.G. 210-01 |
 | Meal Voucher | **PD144-051** | Documents prisoner meal purchases; max $1.80 per meal | P.G. 210-06 |
 | Arrest Report Supplement | **PD244-157** | Records attorney visit details: name, address, phone, who retained, interview status, arrival/departure times | P.G. 210-01 |
+| Medical Treatment of Prisoner (MTP) | **PD244-150** | Documents medical treatment; use "Reserve" function in FORMS app; copy accompanies prisoner until no longer in NYPD custody | P.G. 210-04 |
 | Decline Prosecution Letter | — | Issued by ADA when DA declines to prosecute; required before prisoner release | P.G. 210-16 |
 | OLBS Arrest Worksheet | — | Must include reason for void, property returned, witnesses, authorizing supervisor, and time of release for voided arrests | P.G. 210-13 |
 | Expense Report | — | Submitted by the 15th of each month for prisoner meal expenditures | P.G. 210-06 |
@@ -6407,6 +9527,15 @@ Certain prisoner categories require additional notifications, procedures, or han
 | **MOS** | Member of Service | NYPD personnel |
 | **OLBS** | On-Line Booking System | Used to process arrest worksheets including voided arrests |
 | **TBTA** | Triborough Bridge and Tunnel Authority | Listed as other police agency |
+| **ACR** | Ambulance Call Report | Number for EMS transport; recorded on MTP Section I |
+| **PCR** | Patient Care Report | Number for RMP/other transport; recorded on MTP Section I |
+| **PIN** | Patient Identification Number | Number from hospital intake for psych transfer; NOT same as ACR/PCR |
+| **MTP** | Medical Treatment of Prisoner | Form documenting medical treatment; "Reserve" function in FORMS app |
+| **HHC** | NYC Health and Hospitals Corporation | Fiscal Affairs/General Accounting handles billing for non-HHC hospitals |
+| **NP** | Nurse Practitioner | At BCS; administers medication given by doctor for prisoner to take |
+| **ESU** | Emergency Service Unit | Supervisors may consider ESU for extraordinary hospital transport circumstances |
+| **IAB** | Internal Affairs Bureau | Notified via IAB Command Center for prisoner escape/attempt |
+| **CJB** | Criminal Justice Bureau | C.O. receives copy of unusual occurrence report |
 
 ---
 
@@ -6432,6 +9561,13 @@ Certain prisoner categories require additional notifications, procedures, or han
 | **6** | Items removed from prisoners in holding pens (belts, neckties, shoelaces, drawstrings, jackets, overcoats) | P.G. 210-08 |
 | **5** | Required elements on OLBS Arrest Worksheet for voided arrests | P.G. 210-13 |
 | **10** | Number of agencies classified as "other police agencies" | P.G. 210-03 |
+| **4 hours** | Deadline for EO to respond to DOC prison ward to take custody of released prisoner | P.G. 210-04 |
+| **3** | Copies of typed letterhead (49) to Chief of Dept for adult prisoner unusual occurrence | P.G. 210-07 |
+| **2** | Copies of typed letterhead (49) to Chief of Dept for child in custody DOA | P.G. 210-07 |
+| **1** | Copy of typed letterhead (49) to Chief of Dept for child in custody (not DOA) | P.G. 210-07 |
+| **1 tour** | Maximum time Pct of Hospitalization may guard a Housing/Transit prisoner if A/O has other arrests | P.G. 210-02 |
+| **Wednesday** | Day of weekly telephone message to BCS when guard removed from hospitalized prisoner | P.G. 210-02 |
+| **3 notifications** | Times PS and Communications Section notified when prisoner ingests narcotics/dangerous substance | P.G. 210-04 |
 
 ---
 
@@ -6681,7 +9817,121 @@ D. The BCS intake supervisor
 
 ---
 
-**Score: _____ / 15**
+---
+
+### Question 16
+**A hospitalized prisoner's doctor requests that the guarding officer remove the prisoner's handcuffs. What is the correct procedure?**
+
+A. Remove the cuffs immediately as directed by the doctor
+B. Explain the circumstances of the arrest; if the doctor insists, request the Patrol Supervisor to respond — do NOT remove without the PS present and authorizing
+C. Refuse the request and document it in the Activity Log
+D. Contact the desk officer for permission to remove the cuffs
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 210-04, if a doctor requests cuffs be removed, the guarding officer explains the circumstances of arrest. If the doctor still wants them off, the officer requests the **Patrol Supervisor** to respond. Cuffs are NOT removed without the PS on scene and authorizing. Note: this is different from a doctor asking the officer to **leave the room**, which does NOT require the PS.
+</details>
+
+---
+
+### Question 17
+**A prisoner ingests narcotics during arrest. How many times must the Patrol Supervisor and Communications Section be notified?**
+
+A. Once — when the ingestion is observed
+B. Twice — when observed and when arriving at the hospital
+C. Three times — when observed, when transport initiated, and when arrived at hospital
+D. Four times — when observed, when transport initiated, when arrived, and when treated
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 210-04, the Patrol Supervisor AND Communications Section are notified **three times**: (1) upon observing or suspecting ingestion, (2) when transport to hospital is initiated, and (3) when 84 (arrived) at hospital. The prisoner goes DIRECTLY to the nearest hospital — never to the stationhouse first.
+</details>
+
+---
+
+### Question 18
+**In P.G. 210-02, a prisoner's lawyer requests to interview the prisoner at the hospital. Under the Patrol Guide, the lawyer is classified as:**
+
+A. An Interviewer — same as at the precinct under 210-01
+B. A Visitor — "if requested" by the prisoner
+C. Not permitted to visit hospitalized prisoners
+D. An Interviewer only if approved by the Commanding Officer
+
+<details>
+<summary>Answer</summary>
+
+**B.** Under P.G. 210-02, a lawyer drops from the "Interviewer" list (where they appear in 210-01 at the precinct) to the **"Visitor"** list at the hospital. The lawyer may visit "if requested" by the prisoner. This is one of the key differences between the 210-01 and 210-02 interviewer/visitor lists.
+</details>
+
+---
+
+### Question 19
+**A prisoner requires psychiatric admission. Generally, male prisoners are transported to which facility, and by what means?**
+
+A. Elmhurst General by FDNY EMS
+B. Bellevue by FDNY EMS
+C. Bellevue by private ambulance contract
+D. Kings County Hospital by RMP
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 210-04, male prisoners requiring psychiatric admission are generally transported to **Bellevue** (women to Elmhurst General). Transport is by hospital via **private contract** — NOT FDNY EMS. The escorting officer rides in the private ambulance with the prisoner.
+</details>
+
+---
+
+### Question 20
+**How many copies of the typed letterhead (49) report does the Commanding Officer forward to the Chief of Department for an unusual occurrence involving an adult prisoner?**
+
+A. 1 copy
+B. 2 copies
+C. 3 copies
+D. 4 copies
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 210-07, the number of copies sent to the Chief of Department varies: **3 for an adult prisoner**, 2 for a child in custody who is DOA, and 1 for a child in custody (not DOA). One additional copy goes to each: Chief of Patrol, Chief of IAB, Chief of Training, C.O. CJB, C.O. Performance Monitoring Unit, each intermediate command, and C.O. of UMOS if different.
+</details>
+
+---
+
+### Question 21
+**A family member brings prescription medication to the precinct for a prisoner who has already been transferred to another facility. What documentation is required?**
+
+A. Single Command Log entry at the receiving facility
+B. Dual Command Log entries — both the notifying supervisor and the receiving D.O. make entries
+C. Telephone Record only
+D. Activity Log entry by the desk officer
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 210-04, when a prisoner is not at the facility where family brought medication, the supervisor contacts the D.O. at the facility where the prisoner is located. **Both** the notifying supervisor AND the receiving D.O. make Command Log entries, including time of notification, prisoner's name, and name of supervisor receiving/making notification.
+</details>
+
+---
+
+### Question 22
+**Who decides whether to remove handcuffs entirely from a hospitalized prisoner when restraint is deemed "impractical or inexpedient" (e.g., prisoner is comatose)?**
+
+A. The Patrol Supervisor
+B. The Commanding Officer
+C. The attending physician
+D. The Desk Officer, Precinct of Hospitalization
+
+<details>
+<summary>Answer</summary>
+
+**D.** Per P.G. 210-02, the **Desk Officer, Precinct of Hospitalization** decides whether cuffs are removed when deemed "impractical or inexpedient." The Patrol Supervisor confers with the doctor and makes a recommendation, but the D.O. makes the final decision. Do not confuse with pregnant prisoner restraint (where the immediate supervisor decides).
+</details>
+
+---
+
+**Score: _____ / 22**
 
 ---
 
@@ -7962,13 +11212,15 @@ After studying this chapter, you should be able to:
 | File | Procedures Covered | Topic |
 |------|-------------------|-------|
 | [section-212-tour-operations.md](section-212-tour-operations.md) | 212-03, 212-08, 212-10 | Tour expiration, Activity Logs, Interrupted Patrol Log |
+| [section-212-crime-scene-encounters.md](section-212-crime-scene-encounters.md) | 212-04, 212-11 | Crime scene procedures, investigative encounters (Stop, Question & Frisk), three levels, RTKBC, Stop Report review |
 | [section-212-transit-operations.md](section-212-transit-operations.md) | 212-16, 212-17, 212-19, 212-21, 212-22, 212-23, 212-24 | Train evacuations, critical situations, animals, photography, radio malfunction, station inspection, power removal |
 | [section-212-housing-operations.md](section-212-housing-operations.md) | 212-26, 212-28, 212-60 | NYCHA facility inspection, disabled elevators, interior patrol |
 | [section-212-special-incidents.md](section-212-special-incidents.md) | 212-36, 212-43, 212-45, 212-47, 212-54, 212-55, 212-56 | Former/retired MOS, vacate orders, asylum, counterfeit money, jumpers, fireworks injuries, diplomatic incidents |
-| [section-212-media-information.md](section-212-media-information.md) | 212-49, 212-76 | Press access, MOME credentials, official information release |
+| [section-212-hazmat-bombs-fire.md](section-212-hazmat-bombs-fire.md) | 212-37, 212-40, 212-58 | Hazardous materials (SECTAR, IACC), bombs/explosive devices, fire procedures, two alarm fires, CIMS |
+| [section-212-media-information.md](section-212-media-information.md) | 212-49, 212-76, 212-77 | Press access, MOME credentials, official information release, release of info to news media, RATCOP |
 | [section-212-firearms-licensing.md](section-212-firearms-licensing.md) | 212-44, 212-46, 212-84, 212-85, 212-118, 212-128 | Firearms dealers, unlawful possession, pistol license verification, rifle/shotgun permits, ERPO |
 | [section-212-elections.md](section-212-elections.md) | 212-86, 212-87, 212-88 | Before polls, during polls, after polls |
-| [section-212-technology-systems.md](section-212-technology-systems.md) | 212-12, 212-78, 212-99, 212-108, 212-121, 212-129 | Intelligence reporting, RTCC, AMBER Alert, VGTOF, unauthorized radio, facial recognition |
+| [section-212-technology-systems.md](section-212-technology-systems.md) | 212-12, 212-78, 212-99, 212-108, 212-121, 212-123, 212-127, 212-129 | Intelligence reporting, RTCC, AMBER Alert, VGTOF, unauthorized radio, BWC, gunshot detection, facial recognition |
 | [section-212-miscellaneous.md](section-212-miscellaneous.md) | 212-06, 212-41, 212-48, 212-50, 212-51, 212-52, 212-65, 212-66, 212-69, 212-70, 212-73, 212-74, 212-81, 212-82, 212-79, 212-91, 212-100 | Reserve surgeon, alarms, labor disputes, bicycle patrol, immigration policy, civilian commendations, subpoena fees, auxiliary police |
 | [section-212-interaction-procedures.md](section-212-interaction-procedures.md) | 212-104 | Deaf/hard of hearing communication, ADA compliance |
 
@@ -7976,8 +11228,8 @@ After studying this chapter, you should be able to:
 
 | File | Contents |
 |------|----------|
-| [key-terms.md](key-terms.md) | 25+ critical terms, numbers, handling codes, and radio codes |
-| [review-questions.md](review-questions.md) | 25 multiple-choice questions with detailed answer explanations |
+| [key-terms.md](key-terms.md) | 60+ critical terms, numbers, handling codes, radio codes, and mnemonics |
+| [review-questions.md](review-questions.md) | 35 multiple-choice questions with detailed answer explanations |
 
 ## Complete Procedure Index
 
@@ -7987,6 +11239,8 @@ After studying this chapter, you should be able to:
 | P.G. 212-06 | RMP Transport Reserve Surgeon | miscellaneous | completed |
 | P.G. 212-08 | Activity Logs | tour-operations | completed |
 | P.G. 212-10 | Interrupted Patrol Log | tour-operations | completed |
+| P.G. 212-04 | Crime Scene | crime-scene-encounters | completed |
+| P.G. 212-11 | Investigative Encounters (Stop, Question & Frisk) | crime-scene-encounters | completed |
 | P.G. 212-12 | Citywide Intelligence Reporting System | technology-systems | completed |
 | P.G. 212-16 | Evacuations of NYC Transit Trains | transit-operations | completed |
 | P.G. 212-17 | Critical Situations on NYC Transit | transit-operations | completed |
@@ -7997,6 +11251,7 @@ After studying this chapter, you should be able to:
 | P.G. 212-24 | Removal of Power in Subway | transit-operations | completed |
 | P.G. 212-26 | Inspection of NYCHA Facilities | housing-operations | completed |
 | P.G. 212-28 | Disabled Housing Authority Elevator | housing-operations | completed |
+| P.G. 212-37 | Hazardous Materials | hazmat-bombs-fire | completed |
 | P.G. 212-36 | Incidents Involving Former/Retired MOS or Off-Duty LE | special-incidents | completed |
 | P.G. 212-41 | Alarms — DOE Facilities | miscellaneous | completed |
 | P.G. 212-43 | Vacate Orders for Residential Buildings | special-incidents | completed |
@@ -8012,6 +11267,7 @@ After studying this chapter, you should be able to:
 | P.G. 212-54 | Person Threatening to Jump from Structure | special-incidents | completed |
 | P.G. 212-55 | Investigation of Aided Cases — Illegal Fireworks Injuries | special-incidents | completed |
 | P.G. 212-56 | Diplomatic Incidents | special-incidents | completed |
+| P.G. 212-58 | Fire | hazmat-bombs-fire | completed |
 | P.G. 212-60 | Interior Patrol of Housing Authority Buildings | housing-operations | completed |
 | P.G. 212-65 | Bicycle Patrol | miscellaneous | completed |
 | P.G. 212-66 | City Policy Concerning Identifying Information | miscellaneous | completed |
@@ -8020,6 +11276,7 @@ After studying this chapter, you should be able to:
 | P.G. 212-73 | Bicycle Registration Program | miscellaneous | completed |
 | P.G. 212-74 | Community Notification Protocol | miscellaneous | completed |
 | P.G. 212-76 | Information Concerning Official Business of Department | media-information | completed |
+| P.G. 212-77 | Release of Information to News Media | media-information | completed |
 | P.G. 212-78 | Utilization of Real Time Crime Center (RTCC) | technology-systems | completed |
 | P.G. 212-79 | Subpoena Fees | miscellaneous | completed |
 | P.G. 212-81 | Unauthorized Display of Badges/Plates/Cards | miscellaneous | completed |
@@ -8035,7 +11292,10 @@ After studying this chapter, you should be able to:
 | P.G. 212-104 | Interaction with Persons Who Are Deaf or Hard of Hearing | interaction-procedures | completed |
 | P.G. 212-108 | NCIC/VGTOF Notifications | technology-systems | completed |
 | P.G. 212-118 | Incidents Involving Holders of Handgun Licenses or Rifle/Shotgun Permits | firearms-licensing | completed |
+| P.G. 212-40 | Bombs | hazmat-bombs-fire | completed |
 | P.G. 212-121 | Unauthorized Radio Transmission | technology-systems | completed |
+| P.G. 212-123 | Body Worn Cameras (BWC) | technology-systems | completed |
+| P.G. 212-127 | Gunshot Detection | technology-systems | completed |
 | P.G. 212-128 | Extreme Risk Protection Order (ERPO) | firearms-licensing | completed |
 | P.G. 212-129 | Facial Recognition Technology | technology-systems | completed |
 
@@ -8052,6 +11312,256 @@ After studying this chapter, you should be able to:
 - Technology system limitations (facial recognition, AMBER Alert authority)
 - Auxiliary police coordinator requirements
 - ADA compliance for deaf/hard of hearing interactions
+
+---
+
+# Section 212 — Crime Scene and Investigative Encounters
+
+## P.G. 212-04 — Crime Scene
+
+### Police Line vs. Crime Scene Tape
+
+| Tape Type | Color / Letters | Purpose |
+|-----------|----------------|---------|
+| **Police Line Do Not Cross** | White tape with **blue** letters | Establish a "secure area" for police operations (close streets, secure transit facilities, etc.) |
+| **Crime Scene Do Not Cross** | Yellow tape with **black** letters | Safeguard a specific area where objects may be evidence; may be **within** the Police Line |
+
+- Both tapes also display: **NYPD Crime Stoppers 1-800-577-TIPS (8744)**
+- Crime Scene tape: Only authorized, trained, equipped, actively involved personnel whose presence is **absolutely required** will be permitted — absent exigents involving life or safety
+- Deployment of Crime Scene tape for any other reason is **strictly prohibited**
+
+> **Exam Alert:** Know the color distinction: Police Line = white tape/blue letters (secure area). Crime Scene = yellow tape/black letters (evidence area). Crime Scene tape may exist **within** the Police Line perimeter.
+
+### Crime Scene Evidence Cone
+
+- 5-inch-tall orange cone with "NYPD" in black letters
+- Placed **next to** small evidence to prevent disturbance (shell casings, bullet fragments, etc.)
+
+> **Exam Alert:** Per PG 219-01, the sergeant's vehicle should contain **5** Crime Scene Evidence Cones ("Five by Five").
+
+### Barrier Tape Duty — Key Distinction
+
+> **PG Conflict:** In PG 212-04 (Crime Scene), it is the **UMOS** duty to "utilize barrier tape as appropriate." In PG 212-05 (Transit Crime Scene), it is the **Patrol Supervisor** who utilizes barrier tape. Know which role applies to each procedure.
+
+### UMOS Responsibilities
+
+- Request through radio dispatcher:
+  - Patrol Supervisor
+  - PDS / Specialty Unit required
+- Detain witnesses and persons with pertinent information
+- Secure Crime Scene:
+  - Remove unauthorized persons
+  - Do not disturb evidence
+  - Initially secure a **LARGE** area when uncertain
+  - Utilize barrier tape and Crime Scene Evidence Cones as necessary
+- Advise Patrol Supervisor and Detectives of witnesses detained and other case info
+- Document: Digital Activity Log entries (observations, suspect/witness info, statements)
+
+### Patrol Supervisor Responsibilities
+
+- Assess the scene and determine if CSU services are required
+- Call CSU **direct on landline** or if no landline available, through radio dispatcher
+
+> **Exam Alert:** On test day, the correct answer for how the Patrol Supervisor contacts CSU is via **landline** (direct call). Do NOT choose "department-issued cell phone" — the PG specifies landline first, radio dispatcher only if landline unavailable.
+
+- Provide specific details: cross streets, apt #, time/date, crime, weapon, # of victims, hospital
+- If Patrol Supervisor cannot respond to scene: detective **on scene** MAY request CSU and other required notifications
+
+> **Exam Alert:** The procedure says the detective may request CSU — it does NOT say the detective requests "Shots Fired." Watch for that distinction on the exam.
+
+- Confer with Crime Scene Unit upon arrival
+- Notify Desk Officer of details and request additional assistance if required
+- Secure Crime Scene — have "Crime Scene" signs posted
+
+### When to Request Crime Scene (CSU) — The HARBOR Mnemonic
+
+> **Memory Aid — HARBOR:** When Crime Scene Must Respond
+> - **H**omicide
+> - **A**ggravated assault with dangerous instrument AND victim likely to die
+> - **R**ape (forcible)
+> - **B**urglary involving forced safe OR circumvented alarm
+> - **O**ther crime in which CSU services will assist the investigation
+> - **R**obbery OR hijacking with injury caused by firearm
+
+> **Exam Alert:** For burglary, CSU responds when the safe is **forced** OR the alarm is **circumvented**. Compare this carefully with the "Refer to Squad" criteria in PG 207-07 where the safe merely needs to be **involved** and the gun merely **involved**.
+
+### Refer to Squad (207-07) vs. Request Crime Scene (212-04)
+
+| Crime | Refer to Squad (207-07) | Request Crime Scene (212-04) |
+|-------|------------------------|------------------------------|
+| **Assault** | SPI | **Likely** & D.I. |
+| **Robbery** | Firearm or D.I. **Used**; Victim 60+ | Firearm **Caused Injury** |
+| **Burglary** | Safe **Involved**; Gun **Involved**; >$5,000 stolen (Manhattan >$10,000); Person Present | Safe **Forced** OR Circumvented Alarm |
+
+> **Prior Test:** Past exams have mixed up the Squad referral rules from 207-07 with the CSU request rules from 212-04. The key difference: Squad referrals use broader criteria (involved/used), while CSU requests use narrower criteria (forced/caused injury).
+
+### DOA Cross-Reference
+
+> **See Also:** PG 216-04 — In a DOA case, the **detective** notifies CSU, not the patrol supervisor.
+
+---
+
+## P.G. 212-11 — Investigative Encounters (Stop, Question & Frisk)
+
+### BWC Requirement
+
+> **Exam Alert:** Per PG 212-11, **always activate BWC** if assigned one, no matter what level the stop is. This applies to Level 1, 2, and 3 encounters.
+
+### Three Levels of Encounter
+
+| Element | Level 1 — Request for Information | Level 2 — Common Law Right of Inquiry | Level 3 — Terry Stop |
+|---------|-----------------------------------|---------------------------------------|---------------------|
+| **Based on** | Objective **credible** reason | **Founded** suspicion | **Reasonable** suspicion of Felony or PL Misdemeanor |
+| **ID Self** | Verbally & display shield if practicable | Verbally: Rank, Name, Shield, Command; display shield, absent exigent circumstances | Verbally: Rank, Name, Shield, Command; display shield, absent exigent circumstances |
+| **Ask** | Only **related** questions | May ask **accusatory** questions | May ask **accusatory** questions |
+| **Detain/Force** | May NOT detain or use force | May NOT detain or use force | **May** detain or use force |
+| **Search** | May NOT even ask to search | **May** ask to search | **May** ask to search |
+| **Paperwork** | Level 1 Encounter Report | Level 2 Encounter Report, RTKBC, CLRI (if asked to search) | Stop Report, RTKBC, Digital Activity Log entry |
+
+> **Exam Alert:** The critical distinction is that at Level 1, you may NOT even **request** consent to search. At Level 2, you MAY ask. At Level 3, you MAY ask and document the request on a **Stop Report** (not a CLRI).
+
+### False or Inconsistent Information
+
+- At **any** level of encounter, false or inconsistent information **may** escalate the encounter
+
+### DeBour vs. Terry — Legal Framework
+
+| Case | Court | Levels |
+|------|-------|--------|
+| **People v. DeBour** | NYS Court of Appeals | Articulates 4 levels: (1) Request for info — no suspicion; (2) CLRI — **founded** suspicion; (3) Forcible stop — **reasonable** suspicion; (4) Arrest — probable cause |
+| **Terry v. Ohio** | Federal (Supreme Court) | Provides authority for Level 3: forcibly stop and **possibly** frisk, based on reasonable suspicion |
+
+> **Exam Alert:** DeBour is the **state** case (Court of Appeals) and provides the 4-level framework. Terry is the **federal** case (Supreme Court) and provides Level 3 stop-and-frisk authority. Know which court decided each.
+
+### Level 1 Steps — "Request for Information"
+
+1. **Reason:** Objective credible reason to approach
+2. **ID self:** Verbally AND display shield conspicuously, if practicable
+3. **Detain/Force:** Do NOT detain; do NOT threaten use of force
+4. **Search:** Do NOT request consent to search
+5. **Questions:** General, non-threatening, related to reason for approach
+   - Pointed and accusatory questions NOT permitted
+   - Person may refuse to answer and is free to leave
+   - May inform person free to leave, but NOT required to UNLESS person specifically asks
+6. **Explain reason:** Should explain, UNLESS it would impair a criminal investigation
+7. **Protective measures:** In rare cases, may engage protective measures for safety
+
+### Level 2 Steps — "Common Law Right of Inquiry"
+
+- Based on **founded suspicion of criminality**
+- ID self: Rank, Name, Shield, Command; display shield conspicuously
+- Do NOT detain or use force
+- May ask pointed and accusatory questions
+- Person may refuse and walk away
+- If person runs, UMOS may pursue
+- Request consent to search (voluntary; elicit clear "yes" or "no")
+- BWC must video record consent request and response
+- Document on CLRI — Consent Search Report
+
+### Level 3 Steps — "Terry Stop"
+
+- Based on **reasonable suspicion** of Felony or PL Misdemeanor
+- Stop, detain, and investigate
+- Reasonable force may be used
+- May frisk when person may be armed AND dangerous, or stopped for violent crime
+- Notify radio dispatcher: location, # of persons, need for additional units
+
+### Length of Detention (Level 3)
+
+- May detain as long as necessary to confirm or dispel suspicion
+- Authority to detain ends when tasks tied to the stop are completed or reasonably should have been completed
+
+### Frisk Rules
+
+- Frisk defined: carefully running hand down outside of person's clothing
+- Purpose: ensure officer safety — NOT to locate evidence of a crime (such as drugs)
+- No requirement to question suspect before conducting a lawful frisk
+- If object felt that may be a weapon: search only interior portions necessary to remove it
+- **Bag/personal property** — need RS bag could contain weapon AND within person's reach:
+  - Soft bag: run hands down outside; open ONLY if you feel contours of a weapon
+  - Rigid and unlocked: open to ensure no weapon
+  - Rigid and locked: need search warrant or consent
+
+> **Exam Alert:** Mass transit checkpoint inspections of backpacks/containers for explosive devices follow different rules and are NOT governed by the frisk rules above.
+
+### Transport Rules (Level 3)
+
+- Do NOT transport or move suspect UNLESS:
+  - Voluntary consent, or
+  - Exigency (hostile crowd, threat to safety, hospital show-up, etc.)
+- Release immediately if probable cause does not exist after investigation
+
+### RTKBC (Right to Know Business Card)
+
+- **RTKBC:** Pre-printed with Rank, Last Name, Shield #; blanks for command & phone #
+- **RTKBC-G (General):** Blanks to fill in your ID when/if you run out of RTKBCs
+- Given out in Levels 2 and 3 when asking accusatory questions and/or consent to search
+- NOT submitted through FORMS; NOT reviewed by supervisor; given to the person
+
+> **Exam Alert:** Per AG 305-08, MOS are required to carry an appropriate amount of RTKBCs when on patrol **in uniform** or on enforcement duty **in civilian clothes**.
+
+### When RTKBC is NOT Required
+
+- Reasonably expect: danger of physical injury, imminent property damage, imminent escape, imminent destruction of evidence
+- Security search at public building/facility/event/gathering (including MTA random checks UNLESS requested by subject)
+- Undercover activity
+- Exigent circumstances
+- Verifying ID for restricted area entry (public health, safety, security concern)
+- Encounter ends in **arrest or summons** — do NOT offer RTKBC unless requested
+
+### Stop Report — Supervisor Review
+
+- Each Level 3 stop: 1 Stop Report per person stopped
+- Stop Report submitted through FORMS to Patrol/Unit Supervisor
+- Reviewing supervisor must be at least **1 rank higher** than member
+
+> **Exam Alert:** The Stop Report binder is maintained at the desk in **sequential order** — not chronological. This means filed by report number order, not by date/time.
+
+### Patrol Supervisor/Unit Supervisor Review Duties
+
+- Respond to scene of stops **when feasible**
+- Review Stop Report in FORMS (cellphone, tablet, desktop)
+- Confirm narrative states a specific suspected felony or PL misdemeanor in **plain language** (not Penal Law section numbers)
+- Determine if two "Narrative" captions include facts/circumstances for reasonable suspicion
+- Follow-up action: instruct, train, or discipline as appropriate
+
+### Supervisory Action — 3 Things to Determine
+
+1. Was the **stop** based on RS of a Felony or PL Misdemeanor?
+2. Was the **frisk** supported by RS the person was armed and dangerous?
+3. Was there a reasonable basis for the **search**?
+
+### Stop Report Outcomes
+
+| Scenario | Action |
+|----------|--------|
+| **Not accurate or incomplete** (stop was proper) | Check "No" on Report Accurate; enter instructions in "Note"; return to MOS for correction |
+| **Accurate and complete but stop was NOT proper** | Check appropriate field(s); select Follow-Up Action; **Approve** (no void) |
+| **Prepared in error** (was Level 1 or 2, or arrest not result of Level 3) | Select fields; **Approve** (no void); note in "Comments" it was prepared in error and reason |
+
+> **Exam Alert:** In all three scenarios above, the Stop Report is **approved** — never voided. Even when the stop was improper or the report was prepared in error, the supervisor approves and documents the issue.
+
+### Training Sergeant Duties (212-11)
+
+- Conduct command-level training for compliance
+- Record sessions in **TACTICS** (Training Attendance Certification Transcript Integration Collection System)
+- Track, record, and report training referred from Stop Reports to the C.O. on a **quarterly** basis
+
+### ICO Duties (212-11)
+
+- Self-inspection of Stop Reports per QAD program
+- Ensure supervisors reviewed Stop Reports and Digital Activity Log entries
+- Determine if supervisor properly reviewed stop, frisk, search, and force
+
+> **See Also:** PG 202-30 — The XO has the exact same duty as the ICO regarding stop report review.
+
+### Furtive Movements and High Crime Area
+
+- "Furtive movements" or mere presence in "high crime area" alone are **insufficient** for a stop or frisk
+- Must not define "high crime area" too broadly (e.g., an entire precinct or borough)
+- A generalized description (M/W/25) based on gender, race, and age alone is **insufficient**
+
+> **Exam Alert:** Race may only be considered when the stop is based on a specific and reliable description that includes not just race, age, and gender, but **other identifying characteristics**. A generalized script (18-25 year old male of a particular race) is NOT sufficient for a stop.
 
 ---
 
@@ -8290,6 +11800,296 @@ A court-issued Order of Protection prohibiting the purchasing or possessing of *
 
 ---
 
+# Section 212 — Hazardous Materials, Bombs, and Fire
+
+## P.G. 212-37 — Hazardous Materials
+
+### On-Scene Coordinator
+
+> **Exam Alert:** The On-Scene Coordinator for a hazmat incident is the **highest ranking uniformed supervisor** at the scene — this could be a Patrol Supervisor.
+
+### Inter-Agency Command Center (IACC)
+
+- Separate and distinct from the police temporary HQ (Command Post)
+- IACC Log maintained by assigned UMOS
+
+### Trigger for Response
+
+- Involving **suspected** hazmat OR where **legality** of hazmat shipment is questionable
+- If legality is questionable, Motor Carrier Safety Unit (MCSU) member will clarify
+
+### Minimal Outdoor Distances
+
+| Distance | Condition |
+|----------|-----------|
+| **300 feet** | Any spill; any fire EXCEPT military shipment or tanker truck |
+| **1,000 feet** | Any explosion OR suspected device; fire involving military shipment or tanker truck |
+
+> **Exam Alert:** Memorize the two outdoor distances: 300 feet for spills/fires, 1,000 feet for explosions/suspected devices/military/tanker fires. These distances may be **expanded** as needed.
+
+### Indoor Distances
+
+| Condition | Distance |
+|-----------|----------|
+| **Spill** | Just that room |
+| **Fire or Explosion** | All rooms/areas where person may be exposed, including floors **above and below** |
+
+### Radiation
+
+- Evacuate to the distance where the radiation pager alarm shuts off (per PG 212-102)
+
+### UMOS Duties
+
+- Notify Desk Officer AND Communications Section
+- Establish minimum "frozen areas"
+- Request response of Patrol Supervisor, ESU Supervisor/Personnel, AND Highway District MCSU
+
+### Patrol Supervisor Duties
+
+- Evaluate and confer with ESU Supervisor/member OR MCSU member
+- If radiation: notify NYC Dept. of Health
+- Notifications and request for Bomb Squad: request **Communications** to notify **Operations** Unit and have Bomb Squad respond
+
+> **PG Conflict:** In HazMat (212-37), the **Sergeant** calls the Bomb Squad through Communications Unit and Operations. In PG 218-37 (Exploding Currency), the **UMOS** requests the Bomb Squad if bank personnel confirm they passed a dye pack. Know who makes the request in each procedure.
+
+- Maintain frozen area security until hazmat is secured/neutralized
+- Establish Command Post
+- Advise Operations by phone with all info (location, time, source, danger, materials, markings, other agencies, action taken)
+- Highway Units: if vehicle involved, detain for safety check; notify Highway Supervisor for escort duties
+
+### Frozen Area Rules
+
+> **Exam Alert:** Exclude vehicle and pedestrian traffic from the frozen area. Restrict entry to those properly **trained and equipped** for hazmat — EXCEPT when **absolutely necessary** to save life or prevent serious injury.
+
+### When Incident Involves "SECTAR"
+
+- **S**ignificant Fire, **E**xplosion, **C**hemical Burn OR **T**oxic **A**ir Release / **R**adiation Hazard to personnel/public
+- This elevates from suspected/questionable to an actual hazmat incident
+
+### On-Scene Coordinator Expanded Duties
+
+- Assume control; establish IACC (as close as possible to incident, separate from Command Post)
+- Ensure communications link between Operations and IACC
+- Assign UMOS to maintain IACC Log
+- Notify Operations immediately with all material details (spell out chemical names carefully)
+- Request Mobile Decontamination Vehicle (MDV) **through Operations**
+  - If on-scene coordinator unavailable: FDNY Deputy Chief+, EMS Director+, or DEP Director/Asst Commissioner+ may also request (through Ops)
+- Establish police lines; evacuate to sufficient distance
+- Parking: designate on high ground and/or **upwind** to avoid contamination
+- Traffic Plan "C" (PG 213-13): consider implementing
+- Detain exposed persons (except those needing medical treatment); obtain names/addresses for Command Post Log
+- Coordinate with FD, DEP, Sanitation to prevent hazmat from entering sewer system
+- After Action Critique: critique with agency reps and advise OEM of results
+
+### Entries in Logs
+
+| Entry | Command Post Log | IACC Log |
+|-------|-----------------|----------|
+| Medical treatment (names/addresses of exposed not needing emergency care) | Yes | Yes (same) |
+| Significant info, personnel arrival/departure | Yes | Yes (same) |
+| Radiation (ESU reports name/shield of exposed MOS) | Yes | Not specifically required |
+| Safety Officer ID | Yes | Not specifically required |
+
+### Substances Other Than Liquids Rendered Safe
+
+- ESU Supervisor advises Patrol Supervisor to have Dept. of Sanitation notified to clean up and dispose of substances **other than liquids** that have been rendered safe
+
+### C.O. Precinct of Occurrence
+
+- Document on Report on Typed Letterhead (49)
+- Have transcript of all Command Post Log entries put on 49
+- Forward to **C.O. Police Lab**
+
+> **Exam Alert:** The CO does NOT prepare the 49 — the CO has it prepared. The unusual recipient is the C.O. Police Lab, not Operations or Borough.
+
+---
+
+## P.G. 212-40 — Bombs
+
+### Key Notification Rules
+
+> **Exam Alert:** For bomb incidents (212-40): No Desk Officer notification, No Borough notification, No Bureau notification. Only Communications Unit and Operations.
+
+### Key Numbers
+
+> **Exam Alert:** Stop search **20 minutes** before threatened explosion time. Do NOT resume search for at least **1 hour after** threatened time. Evacuate to at least **1,000 feet**.
+
+### MOS Receiving Threat
+
+- Obtain all relevant info and details
+- Immediately notify Communications Unit (C.U.) and give details
+- Provide caller's location and telephone number if available
+
+### Responding UMOS
+
+- Respond to location; ID and interview caller
+- Ascertain caller's location/phone; obtain nature of threat (time, location, device type)
+- Request response of Patrol Supervisor and ESU
+
+### Patrol Supervisor/Ranking Officer on Scene
+
+- Review actions taken
+- Determine if additional personnel or equipment needed
+- Confer with premise owner/representative (not the caller)
+- Search: ensure preliminary search/evacuation based on type of premise, location, nature of business, prior history
+
+### Threatening Letter/Package by Mail/Delivery
+
+- UMOS: request Patrol Supervisor response
+- Safeguard letter/package in suitable envelope/bag to minimize handling
+  - Mark "For Latent Fingerprint Processing"
+  - **Do NOT copy** contents of letter/package
+- Make list of ALL who handled it (include Tax & Shield #s)
+- Request Laboratory Examination; immediately forward with Request for Laboratory Examination form
+
+> **See Also:** PG 218-09 — Questioned documents may be secured in PSE using cardboard inserts. Do not write on envelope once document is inside.
+
+### Unattended Article
+
+- Do NOT move or disturb — **ONLY** examined/disturbed by UMOS in the Bomb Squad
+- Assess threat to public safety based on: prior history, sensitive location, physical indications (exposed wires, oil stains, odor), recent political events, high-traffic area
+- If owner identified: have owner retrieve property
+- If **no owner** and/or **possible danger to public safety**: treat as Suspected Explosive Device
+
+### Suspected/Reported Explosive Device
+
+- UMOS: evacuate if necessary
+- Notify C.U. via **landline** (if available)
+  - If landline unavailable: use radio or cellphone from position of hard cover, as far as possible from item, after everyone cleared from immediate area
+
+> **Exam Alert:** Do NOT use cellphone or radio **near** a suspected explosive device. The proper method is landline first. Only use radio/cellphone from hard cover at maximum distance.
+
+- Request: Operations notified, Patrol Supervisor, ESU, and **Duty Captain**
+
+### Search Teams
+
+- Use stairs, NOT elevators (exception: elevators inaccessible to public)
+- Do NOT use radio or cellphone while anyone is in **direct proximity** to discovered item
+- Do NOT touch or disturb a suspected explosive device under any circumstances
+- Discontinue search **20 minutes prior** to threatened explosion time, regardless of evacuation status
+- Do NOT resume search for at least **1 hour after** threatened time
+
+### Evacuation Distance
+
+- At least **1,000 feet** from unattended article or suspected device
+- May increase or decrease based on circumstances, location, ESU/Bomb Squad recommendation
+
+### ESU Safeguards Device
+
+- ESU safeguards device pending arrival of Bomb Squad
+- Absent an ESU Supervisor, Senior ESU member on scene determines necessary preliminary steps
+
+### Post-Explosion Bomb Scene
+
+- Ensure Bomb Squad notified and responding
+- Search for deceased, injured, trapped persons immediately
+- Instruct searchers to be cautious of **secondary devices**
+- Limit search teams to minimum number of UMOS
+- Once search/evacuation done: no one allowed in (including FD) **unless** a fire exists
+- Do NOT correct dangerous conditions UNTIL Bomb Squad declares area free of secondary devices AND crime scene search is completed
+- Direct **ESU** to remove injured to safe location for medical treatment (not EMS)
+
+> **Exam Alert:** At a post-explosion scene, direct **ESU** to remove injured persons — NOT EMS. Watch for exam answers that say "direct EMS to remove" — the correct answer is ESU.
+
+- Safeguard but do NOT move bodies of deceased persons
+- Have **EMS** administer medical treatment at **safe locations**
+- All UMOS evacuate to safe distance (1,000+ feet) and await Bomb Squad after initial search
+- Document: Complaint Report for bomb threat, suspected device, or post-explosion incident
+
+---
+
+## P.G. 212-58 — Fire
+
+### Radio Dispatcher Duties
+
+- Immediately assign available unit to respond
+- Notify Patrol Supervisor
+- Broadcast new information received via ICAD or from scene
+- Notify Patrol Supervisor and any other responding supervisors of all available information
+
+### UMOS Duties
+
+- Park vehicles to prevent interference with firefighting
+- Ensure area in front of building secured for FDNY; fire hydrants free of vehicles
+- Notify dispatcher: give 10-84; ensure FDNY responding; provide pertinent details
+- Direct responsible **person** to remain in front to direct fire apparatus if fire not in view
+- Warn/assist evacuated persons; prevent persons from reentering building; secure lobby
+
+### Patrol Supervisor Duties
+
+- Respond to **ALL** building/structure fires in command
+
+> **See Also:** PG 202-19 — Patrol Supervisor responds to: **W**eapons, **E**mergency, **B**urglary, **S**erious Crime.
+
+- Confer with FDNY **supervisor** (not just any firefighter)
+- Tactical Retreat: if smoke and heat suddenly present, advise MOS to evacuate/tactically retreat to predetermined exit
+- If fire is suspicious: notify Desk Officer AND request precinct detective squad
+- Ensure access for emergency vehicles; confirm fire hydrants accessible; maintain clear path for ambulances
+
+### Persons Permitted Through Fire Lines
+
+- The Mayor and vehicle
+- Ambulance, Police, and FDNY vehicles
+- Members of govt. agencies and vehicles, **in performance of duty**
+- Employees of public service corporations and vehicles, in performance of **emergency** duty
+- Red Cross personnel **in performance of duty** (NO vehicles)
+- Persons holding valid **unexpired** press credentials (NO vehicle)
+
+> **Exam Alert:** Red Cross personnel and press credential holders are allowed through fire lines on foot only — NO vehicles. Public service corporation employees must be performing **emergency** duty specifically.
+
+### UMOS Documentation
+
+- Digital Activity Log: location, time, persons displaced/injured, cause, extent of damage, suspicion of arson, dangerous conditions
+- If fire is suspicious: Complaint Report
+- Aided Report for each injured person
+- Secure premises once firefighting concluded
+
+### Desk Officer — FRUITS Notification
+
+> **Memory Aid — FRUITS:** When Desk Officer notifies Operations AND Borough:
+> - **F**orced entry by F.D.
+> - **R**elocation of tenants
+> - **U**nusual fire
+> - **I**njury/death
+> - **T**hree alarms or more
+> - **S**uspicious fire
+
+### Two Alarm Fires
+
+- When fire reaches 2nd alarm: **FD** notifies NYPD Operations Unit, who directs duty captain to scene
+
+> **Exam Alert:** At **2 alarms**, FD notifies Operations. At **3 alarms**, the Desk Officer notifies Operations. Know who makes the notification at each alarm level.
+
+### First NYPD Supervisor at Scene
+
+- Proceed immediately to FDNY Incident Command Post
+- Remain until relieved or Command Post demobilized
+- Advise FDNY Incident Commander of MOS inside affected building (number, unit, last known location)
+
+### CIMS Primary Agency Matrix — Fire Suppression
+
+- Incident Commander (IC) is the **ranking FDNY officer**
+- NYPD co-locates its command post with FDNY's
+- Highest-ranking NYPD uniformed supervisor: remain with IC, work and coordinate with Primary Agency
+- PD responsibilities: site management; accountable for inner perimeter, crowd/traffic control
+
+### MOS Entering Building on Fire — Last Resort
+
+- NYPD not trained to fight fires; should AVOID entering
+- Notify dispatcher of all observations **PRIOR to entry**
+- Inform FDNY on scene how many MOS entered, including last known location
+- Use stairs IN TEAMS OF TWO, NOT elevator
+- Inspect floor **below** fire floor; note other stairways, exits, areas of refuge
+- Stairwell door: place back of hand to detect heat
+  - Unusually warm door = "immediately dangerous to life and health" (requires PPE)
+  - Do NOT open — drawing smoke
+- Absent exigents, MOS should NOT operate on any floor **ABOVE** the fire
+- Do NOT hold elevator on any floor — FDNY will recall elevators
+
+> **Exam Alert:** When approaching a fire floor, MOS should inspect each floor **below** the fire floor. They should NOT operate above the fire. Use prone position/crawl, stay close to wall, use wall as guide in smoke conditions.
+
+---
+
 # Section 212 — Housing Operations
 
 ## P.G. 212-26 — Inspection of NYCHA Facilities
@@ -8440,6 +12240,81 @@ Cooperate with the press and do not interfere with news gathering.
 
 ---
 
+## P.G. 212-77 — Release of Information to News Media
+
+### General Rule
+
+- **Media inquiries should be directed to DCPI**
+- MOS provide assistance ONLY when:
+  - It does not pose a threat to personal safety of MOS, the public, or the news media
+  - It does not interfere with police operations, crime scene investigations, or other emergency service providers
+  - It does not infringe on the rights of the accused or privacy/security of crime victims
+- Even if other agencies are involved, ALL media requests go through DCPI
+- Unauthorized communication with news media without conferral with DCPI is **PROHIBITED**
+
+> **Exam Alert:** MOS are required to **immediately** notify DCPI of any interaction with the media. This is an absolute requirement.
+
+### Highest Ranking UMOS Addressing Media
+
+- Prior to addressing media, confer with DCPI regarding info to be released
+- Briefly describe incident: how called to scene, type of job, location, # of aideds, etc.
+
+### Crime Scenes or Frozen Areas
+
+> **Exam Alert:** Media access to an incident does NOT extend to interior crime scenes or frozen areas. This applies to all media, including MOME press card holders (per PG 212-49).
+
+### Information NOT to Be Released
+
+- **Juvenile under 18** taken into custody — EXCEPT Juvenile Offender or Adolescent Offender (can be released)
+  - If case drops from Criminal Court to Family Court: offender becomes Juvenile Delinquent and ID can NOT be released from that point forward
+- **Abused child** — neglected or abused child or child complainant under 18
+- **Sex crime** victim ID or location of sex assault if victim's residence or perp's residence (if not apprehended)
+- **Communicable disease** info indicating a person has one
+- **Arrest/booking photo** unless it would serve a law enforcement purpose
+- **Witness or confidential informant** information
+- **MOS, complainant, or witness** — address or phone # of any of these three; info that may hinder prosecution or jeopardize safety
+
+### Civil Rights Law — Sex Crime Victim ID
+
+- Allows victims to bring private action if their ID is disclosed
+- MOS releasing records **must** ensure sex offense victim identity is NOT divulged
+- Proper release of sex crime victim ID is limited to:
+  - Defendant and their counsel or guardian
+  - Public officers/employees investigating, prosecuting, and keeping records relating to offense
+
+### Communicable Disease — Confidentiality
+
+- Prisoner or victim status regarding communicable disease (HIV, AIDS, etc.) is confidential
+- Generally do NOT release to public, media, family, friends, or other prisoners
+- Any release requires written consent of the **DCLM** (Deputy Commissioner, Legal Matters)
+
+### Prisoner Volunteers Medical Status
+
+- If prisoner volunteers positive medical status or is treated medically: use isolation cells if available
+- Document on Prisoner Movement Slip **or** Medical Treatment of Prisoner (either form)
+
+### Releasable Information Post Arrest
+
+- **Pedigree:** name, age, residence, employment, marital status, similar background (after ID confirmed)
+- **Charge:** substance or text of charge
+- **Complainant info:** only when appropriate, ID of complainant
+- **Agency involved:** identity of investigating/arresting agency and length of investigation
+- **Arrest information:** circumstances surrounding arrest (time, place, resistance, pursuit, possession/use of weapons, description of items seized)
+
+### Release ONLY After Conferral with DCPI AND Chief of Detectives — "A RAT COP"
+
+> **Memory Aid — RATCOP:** Information released only after conferral with DCPI AND Chief of Detectives:
+> - **R**eputation — statements concerning reputation/character of accused or witness
+> - **A**nticipated testimony of prospective witness
+> - **T**est — performance of tests, results of tests, OR refusal by accused to take a test
+> - **C**redibility of prospective witness
+> - **O**pinion/speculation concerning evidence or argument in the case
+> - **P**hotos, films, videotape and/or mug shot
+
+> **Exam Alert:** RATCOP items require conferral with **both** DCPI and Chief of Detectives before release. This is a commonly tested mnemonic.
+
+---
+
 ## P.G. 212-76 — Information Concerning Official Business of Department
 
 ### General Principles
@@ -8513,9 +12388,45 @@ Cooperate with the press and do not interfere with news gathering.
 
 ## P.G. 212-52 — Labor Dispute
 
-- Primary duty: preserving the peace during labor disputes.
-- Maintain neutrality between parties.
-- Ensure public safety while respecting lawful protest rights.
+### UMOS
+
+- Preserve peace and prevent destruction of property
+- Request Patrol Supervisor
+- Notify Desk Officer
+
+### Patrol Supervisor
+
+- Respond to the scene
+- Interview management and union representatives **separately**
+- Advise both sides of the following rules:
+  - No sticks/poles that may be injurious; no professional agitators/offensive language
+  - Precinct **C.O.** determines the number of pickets allowed
+  - Force/violence not tolerated; right of public to use streets/sidewalk protected
+  - Law enforced impartially
+- Obtain information for Strike Report
+- Notify: telephone D/O for **immediate** assignment of personnel, if required
+- Document: deliver Strike Report to D/O
+- Command Post: set up if required (**NOT** in facilities of Management or Labor)
+
+> **Exam Alert:** The Command Post for a labor dispute must NOT be set up in the facilities of either management or labor. This ensures the appearance of neutrality.
+
+### Desk Officer
+
+- Confer with C.O./Duty Captain regarding personnel assignments
+- Make assignments as directed; obtain personnel from Pct. if available, or request from Borough
+- Notify Operations
+- Document: have Strike Report prepared and forwarded; sign above "Reviewed By" caption
+
+### Harassment and Labor Disputes
+
+> **Exam Alert:** Certain Penal Law sections of harassment will NOT be enforced at labor disputes:
+> - **Harassment 1st degree (PL 240.25):** Prohibits intentionally and repeatedly harassing by following in public place; engaging in conduct placing person in reasonable fear of physical injury
+> - **Harassment 2nd degree (PL 240.20):** Course of conduct that alarms/seriously annoys with no legal purpose
+>
+> However, any **violence or physical harassment** WILL be enforced — if they strike/shove/kick or attempt/threaten physical contact.
+
+- Picketing, leafleting, and demonstrating are exempt from harassment arrest
+- May refer **victim** to Court for injunction or NLRB (National Labor Relations Board)
 
 ---
 
@@ -8682,8 +12593,33 @@ Cooperate with the press and do not interfere with news gathering.
 
 ## P.G. 212-47 — Counterfeit Money
 
-- Follow established procedures for handling and documenting counterfeit currency.
-- Notify appropriate investigative units.
+### When Counterfeit Money Is Detected
+
+- Determined that the passer is an innocent victim, OR
+- No indication who passed it
+
+### Investigating Officer
+
+- Document: have person **last in possession** of the bill:
+  - Write name/date across the **face of the bill** or scratch initials **on** a coin
+- Sign: rank, name, shield, date on bill or scratch initials on coin
+
+### Desk Officer
+
+- Document: prepare **4 copies** of report on Typed Letterhead (49x4) to **Chief of Patrol**
+- Deliver:
+  - Have messenger sign itemized receipt in **Property Receipt Book**
+  - Deliver 49x4 and counterfeit bill to **Patrol Borough** office
+  - Messenger brings back 1 copy of the 49 as a receipt from Borough
+- Receipt: attach receipted copy of 49 to the entry in the Property Receipt Book
+
+> **Exam Alert:** No voucher is prepared for counterfeit money. The bill goes to the Patrol Borough office with the 49x4, not to the Property Clerk.
+
+### Cross-References for Counterfeiting
+
+> **See Also:** PG 208-47 — Arrests for counterfeiting: D/O or counterpart notifies Dept. of Treasury, US Secret Service **by phone direct**.
+
+> **See Also:** PG 207-06 — Complaints of counterfeiting: D/O notifies Operations; Operations notifies US Treasury Dept., Secret Service Bureau.
 
 ---
 
@@ -8847,6 +12783,240 @@ Cooperate with the press and do not interfere with news gathering.
 
 ### FBI Unable to Confirm
 - Do **NOT** arrest unless probable cause exists for a federal, state, or local law violation.
+
+---
+
+## P.G. 212-123 — Body Worn Cameras (BWC)
+
+### Who Must Wear BWC
+
+> **Exam Alert:** Desk Officer, Telephone Switchboard Operator, and Station House Security are **required** to wear BWC while performing duty. These are positions you might not expect to need a BWC.
+
+### Platoon Commander Duties (If No P/C: D.O. or Unit Sup)
+
+- At start of tour: account for all BWCs assigned to command and enter details **in the Command Log**
+- Once per tour: review BWC video footage; log in to ID videos not properly categorized; instruct users to categorize as appropriate; document in Command Log Entry
+- Prohibited recording: notify C.O./Duty Captain
+- At EOT: account for all BWCs; ensure all returned to docking station for upload and recharging
+
+### UMOS Rules
+
+- Prior to roll call/start of tour: obtain BWC from docking station; turn on and inspect
+- Position: attach to outermost garment near breast pocket area for optimal recording field of view (use mounting hardware provided)
+- Use: ONLY if personally issued AND authorized by Dept. to record official activity while on-duty
+- Use of non-Department device is **strictly prohibited**
+
+> **Exam Alert:** Non-Department recording devices are strictly prohibited. The BWC must be personally issued to the member using it.
+
+### Supervisor Conducting Roll Call
+
+- After start of tour but prior to roll call: provide time for UMOS to obtain BWC from docking station
+- Inspect: ensure BWC properly affixed to uniform/outermost garment, turned on, and working
+
+### BWC Damaged/Unaccounted For
+
+- Platoon Commander (or D.O./Unit Sup) immediately investigates
+- Comply with PG 217-10 (Accidents — Dept Property) or PG 219-20 (Loss or Theft of Dept Property)
+- Document in Command Log; notify ITB Service Desk for replacement
+
+### Recording Rules — "Police Action"
+
+**Police Action Defined:** Police service, law enforcement, or investigative activity conducted in furtherance of official duties, including:
+- Responding to calls for service
+- Addressing QOL conditions
+- Handling pick-up assignments
+- Any self-initiated investigative or enforcement actions (witness canvass, car stop, investigative encounters)
+
+**NOT considered Police Action:**
+- Routine consensual conversations with the public as part of community engagement
+- Admin duty or non-enforcement function
+- Routine activities in Dept facilities
+- Dept meetings or training
+
+> **Exam Alert:** Even though meetings/training are NOT police action, the D.O., Telephone Switchboard Operator, and Station House Security ARE required to wear BWC while performing duty.
+
+### Timing
+
+- Begin recording **prior** to arrival at incident location OR prior to any self-initiated police action
+- Exceptions:
+  - Vehicle operator may activate immediately **after** arrival if necessary for safe vehicle operation
+  - Activate as soon as feasible after taking necessary action for human health/safety during unanticipated or exigent occurrences
+
+### Mandatory Activation
+
+- Police action (as defined above)
+- Any interaction that escalates and becomes adversarial with potential evidentiary value
+- Person under arrest or otherwise in custody
+  - Immediately inquire if med/psych treatment necessary (ensure BWC activated when asking)
+
+### Discretionary Activation
+
+- Non-mandatory recording activities where officer judges it would be beneficial
+- May discontinue recording if victim or witness requests anonymity during interview
+
+### Prohibited Activation
+
+- Off-duty employment (including paid detail)
+- Sex crime victim interview (as soon as it becomes apparent)
+- Strip searches
+- Inside medical facility UNLESS necessary for police action (arrest, EDP, etc.)
+- Certain briefings (tactical discussions, resource capabilities, after-action debriefs involving ESU)
+- Confidential or undercover involved (CI/UC interviews or when CIs/UCs are present)
+
+> **Exam Alert — Mandatory vs. Prohibited:** Mandatory takes precedence over prohibited. Example: effecting an arrest where undercovers and informants are involved on scene — **activate BWC** because the arrest is mandatory.
+
+### If UC or CI Is Recorded
+
+- Enter note in comments section of video management system that a UC is **visible**
+- Detective Bureau supervisor prepares Report on Typed Letterhead to DCLM with description of officer and clothing
+
+### Deactivation Rules
+
+- Verbally document: state aloud on camera the reason prior to deactivation
+- Crime scene established: may deactivate after arrival at active scene
+- Subject NOT present: may deactivate after attempted apprehension/warrant execution when subject is not present
+
+### Political Activity
+
+- Handschu Guidelines: prohibit indiscriminate recording of political activity
+- TARU documents protests, demos, political events by photo/video
+- UMOS activate BWC at protest/demo/political event only when:
+  - Enforcement action being taken
+  - Unlawful activity occurring (whether or not enforcement action taken)
+  - Directed by the **incident commander**
+
+### IDTU Responds to Hospital/Medical Facility
+
+- Tech and A/O both activate BWCs
+- Record questions on Interrogation Warnings to Persons in Police Custody
+- Record blood draw (whether by consent or court order)
+- If medical personnel request stop recording: capture request if possible, turn off BWC, record request in Digital A/L
+
+### BWC Documentation — Video Management System
+
+- Select all applicable categories from dropdown list
+- Arrests: enter complete arrest # beginning with borough letter in "ID" field
+- Investigative encounters NOT ending in arrest/summons: select "Investigative Encounter" and select **final level** in "Add Metadata"
+- All Level 2 encounters not escalating beyond Level 2: document apparent race, gender, more than one individual in "Add Metadata"
+- Categorize **all** BWC videos within the **next two scheduled tours**
+
+### End of Tour
+
+- Insert BWC into docking station at station house to upload video and recharge battery
+
+### Arrest Process
+
+- Arresting/assigned officer: identify all BWC videos associated with arrest plus any pertinent video from **previous incidents**
+- Prepare **two** checklists: District Attorney Body-Worn Camera Checklist AND Arrest Checklist
+- Transmit video to DA via "Case Share"
+- Desk Officer: ensure A/O shared video with DA and DA BWC Checklist prepared
+
+### Viewing Recordings — "GO 15" (A.G. 318-11)
+
+- Member may view own BWC video as subject or witness in official Dept investigation (GO 15 statement) prior to making statement at time/place deemed appropriate by supervisor in charge
+
+### Failed to Record
+
+- Patrol/Unit Supervisor: investigate when notified member failed to record mandatory encounter
+- Document in **uniformed member's** Digital A/L (not supervisor's)
+- Prepare Report on Typed Letterhead (49) to Professional Standards Bureau through channels
+
+### Prohibited Recording
+
+- Patrol/Unit Supervisor notifies Desk Officer (or Unit Commander if no D.O.)
+- Commanding Officer: investigate; prepare Report on Typed Letterhead (49) to **Chief of Department** through channels, with copies to DC Information Technology and Professional Standards Bureau
+
+### Typed Letterhead Comparison
+
+| Fail to Record (Mandatory Event) | Record a Prohibited Incident |
+|----------------------------------|------------------------------|
+| **Patrol/Unit Supervisor** prepares 49 to Professional Standards Bureau through channels | **Commanding Officer** prepares 49 to Chief of **Department** through channels (copies to DC IT and PSB) |
+
+> **Exam Alert:** For failure to record, the **Patrol Supervisor** writes the 49 (to PSB). For a prohibited recording, the **Commanding Officer** writes the 49 (to Chief of Dept). Know who writes and who receives in each scenario.
+
+### BWC — Additional Data
+
+- Access Code: cover the lens when inputting access code to keypad at Dept facility
+- BWC is **Department property** (hardware, software, video, audio, captured data)
+- Do NOT share with anyone except MOS for official purposes, prosecutors as described, or as authorized by PC
+- Audit trail: video management system maintains audit trail for all transactions
+- Video deleted after **39 months** (certain categories retained longer: arrest, homicide)
+- CO may request longer retention through channels to DC Information Technology
+- Disclosure: ONLY share with DA, US Attorney, or Special Prosecutor
+  - Do NOT share with CCRB, ACS, NYC Law Dept, Corp Counsel (except Family Court prosecutions), or other police jurisdictions
+  - Refer all requests to Legal Bureau's BWC Unit
+- Show-ups: do NOT use still shot of video for a show-up
+- Photo arrays: MAY use (print and paste) for photo arrays
+- Witnesses/victims/civilians: cannot view recordings; refer to prosecutor or Legal Bureau Subpoena Litigation Unit
+- FOIL requests: FOIL@NYPD.ORG or a860-openrecords.nyc.gov/new
+
+> **Exam Alert:** BWC video is automatically deleted after **39 months**. Do NOT use BWC video stills for show-ups, but MAY use for photo arrays.
+
+---
+
+## P.G. 212-127 — Gunshot Detection
+
+### UMOS
+
+- Respond: canvass for perps, victims, evidence, witnesses; ensure BWC activated
+- Ascertain whether alert is confirmed or unconfirmed
+- Confirmed activations include:
+  - Person shot or evidence of such (blood, blood trail)
+  - Ballistics or firearms evidence
+  - Property damage from gunfire
+  - 1 or more 911 calls for shots fired
+  - Eye/earwitness to the shooting (if necessary, establish crime scene)
+- Whether confirmed or unconfirmed: notify Patrol Supervisor AND Communications
+- Safeguard potential evidence of possible shooting
+- Request TARU to retrieve video evidence
+- Confirmed or unconfirmed — document:
+  - Prepare 61 for ALL alerts; leave **OPEN** to Precinct Detective Squad
+  - Note in narrative that incident originated as a gunshot detection alert
+  - Ensure "Shots Fired" caption is checked regardless of classification
+
+### Crime Classification for Complaint Report
+
+| Condition | Classification | PD Code |
+|-----------|---------------|---------|
+| No other offense; no ballistics evidence | "Investigate Shots Fired" | **083** |
+| No other offense; ballistics evidence found | "Investigate Shot Fired, Ballistics Recovered" | **088** |
+| Shotspotter alert; no ballistics | "Investigate Gunshot Detection Alert" | **080** |
+| Shotspotter alert with ballistics | "Investigate Gunshot Detection Alert, Ballistics Recovered" | **089** |
+
+> **Exam Alert:** Know the four PD codes for gunshot detection classification. The key distinction is whether it is a Shotspotter alert (080/089) vs. general shots fired (083/088), and whether ballistics evidence was recovered.
+
+### Patrol Supervisor
+
+- Respond to **confirmed** alerts
+- Notify and request response of PDS, C.O./X.O./Duty Captain, CSU or ECT as appropriate
+- Notify Desk Officer with pertinent details
+
+> **Exam Alert:** Operations and Borough are NOT specifically notified by anyone in the initial gunshot detection response — they receive notifications directly through the system.
+
+### Desk Officer
+
+- Confirmed alerts: update Operations, Patrol Borough, and Pct/PSA/TD C.O./X.O./Duty Captain
+
+### C.O./X.O./Duty Captain
+
+- Respond to all **confirmed** alerts
+- Supervise response: ensure thorough canvass for evidence and victims
+
+### 1st Platoon Desk Officer
+
+- Review all 61s for previous 24 hours; ensure all gunshot alerts are **open** to the squad
+- If 61 says no evidence recovered: review alert and determine if additional 911 calls exist
+- Determine if daylight canvass necessary (review ICAD narratives, Complaint Report, audio)
+
+### Neighborhood Coordination Officer
+
+- Open companion case for confirmed alerts in Enterprise Case Management System (ECMS)
+- Conduct daylight canvass for cameras, ballistics, witnesses, etc.
+
+### Commanding Officer
+
+- Review alert reports; ID problematic locations requiring additional resource deployment
+- Chronic false alerts: document and notify **Information Technology Bureau (ITB)**
 
 ---
 
@@ -9223,6 +13393,47 @@ Report to duty captain/incident commander:
 | **TRS** | Telecommunications Relay Service — dial 711 for deaf/hard of hearing communication |
 | **4th Platoon Rule** | Members on 1800x0200 subpoenaed for next-day court reassigned to 3rd platoon (1600x2400) |
 
+## Investigative Encounter Terms
+
+| Term | Definition |
+|------|-----------|
+| **Level 1 Encounter** | Request for Information — based on objective credible reason; no detention, no search request |
+| **Level 2 Encounter** | Common Law Right of Inquiry — based on founded suspicion; may ask accusatory questions and request consent to search |
+| **Level 3 Encounter** | Terry Stop — based on reasonable suspicion of felony or PL misdemeanor; may detain, use force, frisk |
+| **DeBour** | NYS Court of Appeals case articulating the 4-level encounter framework (request for info, CLRI, forcible stop, arrest) |
+| **Terry v. Ohio** | Federal Supreme Court case providing authority for Level 3 forcible stop and possible frisk |
+| **RTKBC** | Right to Know Business Card — pre-printed card given to persons at Level 2 and 3 encounters |
+| **RTKBC-G** | Right to Know Business Card — General — blank version used when regular RTKBCs are exhausted |
+| **CLRI** | Common Law Right of Inquiry — Consent Search Report; prepared when consent to search is requested at Level 2 |
+| **Stop Report** | Documentation prepared for each Level 3 (Terry) stop; submitted through FORMS; reviewed by supervisor |
+| **TACTICS** | Training Attendance Certification Transcript Integration Collection System — records training sessions for investigative encounter compliance |
+| **Protective Measures** | Tactics short of a frisk (order hands from pockets, instruct person to put down object) used when officer safety is at risk |
+| **Frisk** | Carefully running hand down outside of person's clothing to check for weapons — NOT to locate evidence |
+
+## Crime Scene and Incident Terms
+
+| Term | Definition |
+|------|-----------|
+| **Police Line Do Not Cross** | White tape with blue letters; establishes secure area for police operations |
+| **Crime Scene Do Not Cross** | Yellow tape with black letters; safeguards area where evidence may be present |
+| **Crime Scene Evidence Cone** | 5-inch orange cone marked "NYPD" in black; placed next to small evidence items |
+| **HARBOR** | Mnemonic for mandatory CSU response: Homicide, Aggravated assault (likely to die), Rape (forcible), Burglary (forced safe/circumvented alarm), Other (CSU assists), Robbery/hijacking (firearm caused injury) |
+| **IACC** | Inter-Agency Command Center — separate from police Command Post; established at hazmat/SECTAR incidents |
+| **SECTAR** | Significant fire, Explosion, Chemical burn, Toxic Air Release, Radiation hazard — triggers full hazmat response |
+| **MDV** | Mobile Decontamination Vehicle — requested through Operations by on-scene coordinator |
+| **FRUITS** | Mnemonic for when D.O. notifies Ops AND Borough for fires: Forced entry by FD, Relocation of tenants, Unusual fire, Injury/death, Three alarms+, Suspicious fire |
+| **RATCOP** | Mnemonic for info released only after conferral with DCPI AND Chief of Detectives: Reputation, Anticipated testimony, Test results, Credibility, Opinion/speculation, Photos/films/mug shot |
+
+## BWC and Technology Terms
+
+| Term | Definition |
+|------|-----------|
+| **BWC** | Body Worn Camera — Dept property; must be personally issued; activate for all police action |
+| **Police Action** | Police service, law enforcement, or investigative activity in furtherance of official duties — triggers mandatory BWC activation |
+| **GO 15 (A.G. 318-11)** | Rule allowing member to view own BWC video as subject/witness in Dept investigation prior to making statement |
+| **Gunshot Detection** | Alert system (Shotspotter) that detects potential gunfire; generates confirmed or unconfirmed alerts |
+| **ECMS** | Enterprise Case Management System — NCO opens companion case for confirmed gunshot alerts |
+
 ## Critical Numbers
 
 | Number | Significance |
@@ -9243,6 +13454,15 @@ Report to duty captain/incident commander:
 | **711** | TRS dial code for deaf/hard of hearing relay service |
 | **(212) 504-4115** | TTY number for 311 system |
 | **0900-1700** | License Division hours (Mon-Fri); Legal Bureau ERPO Unit hours (Mon-Fri) |
+| **300 feet** | Minimum outdoor hazmat distance for spills and most fires |
+| **1,000 feet** | Minimum outdoor hazmat distance for explosions/suspected devices/military/tanker fires; bomb evacuation distance |
+| **20 minutes** | Discontinue bomb search before threatened explosion time |
+| **1 hour** | Do not resume bomb search after threatened explosion time |
+| **39 months** | BWC video automatic deletion period |
+| **PD Code 080** | Investigate Gunshot Detection Alert (Shotspotter, no ballistics) |
+| **PD Code 083** | Investigate Shots Fired (no ballistics) |
+| **PD Code 088** | Investigate Shot Fired, Ballistics Recovered |
+| **PD Code 089** | Investigate Gunshot Detection Alert, Ballistics Recovered |
 
 ## Handling Codes (VGTOF)
 
@@ -9637,7 +13857,157 @@ Test your knowledge of Command Operations procedures. Click each answer to revea
 
 ---
 
-**25. Can an MOS request a breathalyzer test from a diplomat suspected of DWI?**
+**25. In a Level 2 investigative encounter, the UMOS requests consent to search. What document must be prepared?**
+
+- A) Stop Report
+- B) Common Law Right of Inquiry — Consent Search Report (CLRI)
+- C) Level 2 Encounter Report only
+- D) Arrest Report
+
+<details><summary>Answer</summary>
+
+**B) Common Law Right of Inquiry — Consent Search Report (CLRI).** Per P.G. 212-11, when consent to search is requested at Level 2, the UMOS prepares a CLRI. At Level 3, the request is documented on the **Stop Report** instead.
+
+</details>
+
+---
+
+**26. What does the HARBOR mnemonic stand for regarding when Crime Scene Unit must respond?**
+
+- A) Homicide, Assault (any), Robbery, Burglary (any), Officer-involved, Rape
+- B) Homicide, Aggravated assault (likely to die), Rape (forcible), Burglary (forced safe/circumvented alarm), Other (CSU will assist), Robbery/hijacking (firearm caused injury)
+- C) Homicide, Arson, Robbery, Burglary, Obstruction, Rape
+- D) Homicide, Assault (SPI), Robbery (any), Burglary (safe involved), Other crimes, Rape
+
+<details><summary>Answer</summary>
+
+**B) Homicide, Aggravated assault (dangerous instrument AND likely to die), Rape (forcible), Burglary (forced safe OR circumvented alarm), Other crime (CSU will assist investigation), Robbery OR hijacking (firearm caused injury).** Per P.G. 212-04, these are the specific criteria for mandatory CSU response.
+
+</details>
+
+---
+
+**27. At a hazmat scene, what is the minimum outdoor evacuation distance for an explosion or suspected device?**
+
+- A) 300 feet
+- B) 500 feet
+- C) 1,000 feet
+- D) 1,500 feet
+
+<details><summary>Answer</summary>
+
+**C) 1,000 feet.** Per P.G. 212-37, the minimum outdoor distance for any explosion or suspected device is 1,000 feet. For spills and most fires, the distance is 300 feet. The 1,000-foot distance also applies to fires involving military shipments or tanker trucks.
+
+</details>
+
+---
+
+**28. During a bomb threat search, teams must discontinue searching how long before the threatened explosion time?**
+
+- A) 10 minutes
+- B) 15 minutes
+- C) 20 minutes
+- D) 30 minutes
+
+<details><summary>Answer</summary>
+
+**C) 20 minutes.** Per P.G. 212-40, search teams must discontinue 20 minutes prior to the threatened explosion time, regardless of whether the premise is evacuated or occupied. Search must NOT resume for at least 1 hour after the threatened time.
+
+</details>
+
+---
+
+**29. At a post-explosion bomb scene, who removes injured persons to safe locations for medical treatment?**
+
+- A) EMS
+- B) FDNY
+- C) ESU
+- D) Responding UMOS
+
+<details><summary>Answer</summary>
+
+**C) ESU.** Per P.G. 212-40, the patrol supervisor/ranking officer directs **ESU** to remove injured to safe locations — not EMS. EMS administers medical treatment at the safe locations, but the physical removal is an ESU responsibility.
+
+</details>
+
+---
+
+**30. The RATCOP mnemonic identifies information that may only be released after conferral with DCPI AND which other official?**
+
+- A) Borough Commander
+- B) Chief of Patrol
+- C) Chief of Detectives
+- D) Police Commissioner
+
+<details><summary>Answer</summary>
+
+**C) Chief of Detectives.** Per P.G. 212-77, RATCOP items (Reputation, Anticipated testimony, Test results/refusal, Credibility, Opinion/speculation, Photos/films/mug shots) require conferral with both DCPI and Chief of Detectives before release.
+
+</details>
+
+---
+
+**31. Under PG 212-123, who prepares the Typed Letterhead (49) when a member fails to record a mandatory BWC event vs. when a member records a prohibited incident?**
+
+- A) Patrol Supervisor writes both
+- B) Commanding Officer writes both
+- C) Fail to record: Patrol Supervisor; Prohibited recording: Commanding Officer
+- D) Fail to record: Commanding Officer; Prohibited recording: Patrol Supervisor
+
+<details><summary>Answer</summary>
+
+**C) Fail to record a mandatory event: Patrol/Unit Supervisor prepares the 49 (to Professional Standards Bureau). Record a prohibited incident: Commanding Officer prepares the 49 (to Chief of Department, with copies to DC IT and PSB).** Per P.G. 212-123, know who writes and who receives in each scenario.
+
+</details>
+
+---
+
+**32. BWC video is automatically deleted after how many months?**
+
+- A) 12 months
+- B) 18 months
+- C) 24 months
+- D) 39 months
+
+<details><summary>Answer</summary>
+
+**D) 39 months.** Per P.G. 212-123, BWC video is automatically deleted after 39 months. Certain categories (arrest, homicide) may be retained longer. The C.O. may request extended retention through channels to DC Information Technology.
+
+</details>
+
+---
+
+**33. At what alarm level does FDNY notify NYPD Operations, and at what alarm level does the Desk Officer notify Operations?**
+
+- A) FD notifies at 2 alarms; D.O. notifies at 3 alarms
+- B) FD notifies at 3 alarms; D.O. notifies at 2 alarms
+- C) Both notify at 2 alarms
+- D) Both notify at 3 alarms
+
+<details><summary>Answer</summary>
+
+**A) FD notifies NYPD Operations at 2 alarms; the Desk Officer notifies Operations at 3 alarms.** Per P.G. 212-58, this is a commonly tested distinction about who initiates the Operations notification at each alarm level.
+
+</details>
+
+---
+
+**34. In PG 212-52 (Labor Disputes), certain harassment charges will NOT be enforced. Which type of harassment WILL be enforced?**
+
+- A) Harassment 1st degree (PL 240.25)
+- B) Harassment 2nd degree (PL 240.20)
+- C) Any violence or physical harassment (strike/shove/kick)
+- D) Following a person in a public place
+
+<details><summary>Answer</summary>
+
+**C) Any violence or physical harassment.** Per P.G. 212-52, Harassment 1st degree (PL 240.25) and Harassment 2nd degree (PL 240.20) will NOT be enforced at labor disputes. However, any actual violence or physical harassment — striking, shoving, kicking, or attempting/threatening same — WILL be enforced.
+
+</details>
+
+---
+
+**35. Can an MOS request a breathalyzer test from a diplomat suspected of DWI?**
 
 - A) No, this would violate diplomatic immunity
 - B) Yes, and the diplomat must comply
@@ -9694,6 +14064,384 @@ This study guide covers 17 procedures from Section 213. Six procedures have full
 - Pay special attention to authorization levels: who can order what, and at what rank
 - Memorize the security alert level colors and order (G-B-Y-O-R)
 - The numerical limits in 213-06 (20/5/4, 7:30, 2 hours) are classic exam question material
+
+---
+
+# Duties at a Disorder — P.G. 213-05
+
+## Overview
+
+P.G. 213-05 details the duties and responsibilities of each rank when responding to an unusual disorder. This is one of the most heavily tested procedures in the 213 series. Sergeants must understand the role hierarchy, the Command Post structure, deployment planning, prohibited tactics, team assignments, and the distinction between mobilization levels.
+
+---
+
+## Pct CO / XO / Duty Inspector / Duty Captain or Above
+
+### Enroute
+- Contact **Command Post (CP)** by radio OR phone for assessment
+
+### Upon Arrival
+- Assume duties of **Incident Commander**
+  - Designate the Mobilization Point
+
+> **Exam Alert:** The CO/XO, Duty Captain need NOT be present to raise the Mobilization Level, but they MUST confer with one of the above before raising it.
+
+### Designate/Deploy
+- **Mobilization Point**
+- **Traffic and Security Posts**
+- **Rooftop and overhead security**
+
+### Additional Personnel
+- **After** briefing by Patrol Supervisor, Boro Wheel, **or** Operations Unit
+  - Authorize mobilization of additional personnel if necessary
+
+### Debrief
+- **Highest ranking supervisor** on scene conducts the debrief
+
+---
+
+## Command Post (CP)
+
+### Establish and Staff
+- Ensure properly staffed and operating Command Post has been established
+- Assign **"Command Post Staff"**:
+  - **Operations, Intelligence, Personnel/Admin & Logistics**
+
+### Location
+- ID location for CP
+
+### Disorder Plan
+- Obtain Disorder Plan from Pct/PSA/TD
+
+### Review Disorder Area
+- Personally, or if unable, **by map**
+
+> **Exam Alert:** Only Levels 3 & 4 involve Precincts. If Boro SRG goes, the Duty Captain responds with a "Command Post Staff." On ANY mobilization, the Duty Captain is going.
+
+---
+
+## Communications
+
+- Confer with Communications regarding appropriate **citywide frequency**
+- **Captain and above** have special or additional frequency
+- **Cell phones** at CP to improve communications
+- **RMPs with MDTs** — Direct Personnel Officer to deploy RMPs with MDTs where needed (Mobilization Point, Borough, CP)
+- Implement **"Dual Dispatch System"**
+
+### Dual Dispatch System
+
+| Priority | Dispatched To |
+|----------|--------------|
+| **High** priority | Detail officers |
+| **Low** priority | Precinct officers |
+
+> **Exam Alert:** In the Dual Dispatch System, HIGH priority jobs go to DETAIL officers and LOW priority jobs go to PRECINCT officers. Do NOT let the exam trick you by inverting high and low. This is a classic exam trap.
+
+---
+
+## Deployment Plan — Seven Things to Estimate
+
+The CO/IC creates a plan by estimating **seven things** about the disorder:
+
+1. **Leadership** — Identify leadership; if a smaller group, identify specific individuals
+2. **Size and Movement** — Number of participants, geographic boundary of area involved
+3. **Motivation and Intent** — Whether majority of participants are disorderly; use Community Affairs and Detectives to identify future locations the crowd may target
+4. **Duration and Intensity** — Whether the disorder has escalated to violence or property damage
+
+### Sectors
+- Divide area into sectors for mobile patrol by SRG, preferably in **vans**
+
+### Deployment
+- Deploy **2/3** of available enforcement personnel
+- Hold **1/3 in reserve**
+- When sufficient mobile forces are deployed in sectors, assign additional personnel if needed:
+  - **Foot posts** — Sufficient size: **1 Sgt & 8 P.O.s**
+  - **Perimeter security posts** and **1 disorder control squad (1 & 8)**
+
+> **Exam Alert:** The deployment ratio is 2/3 deployed, 1/3 held in reserve. Foot posts are staffed at 1 Sergeant and 8 officers. These numbers are frequently tested.
+
+### SRG Tactics
+- Use mobile tactics of **"speed, surprise & deception"**
+- Deploy as a unit, when possible, to mobile or foot posts within designated sectors
+
+### Tactical Actions
+- **Contain/Exclude** disorderlies from specific areas
+  - Contain & isolate by sectoring, perimeter security, or other appropriate manner
+- **Disperse** — Order them to disperse
+- **Arrests** — Direct that arrests be made, when appropriate
+- **Intelligence** — Begin rumor control using Community Affairs and Community Leaders
+
+---
+
+## Perimeter Security Post Duties
+
+- Prevent disorderlies from:
+  - Entering particular areas
+  - Creating dangerous crowd conditions
+  - Impeding traffic
+- **Reroute** public or private transportation vehicles around the area as necessary
+- **Curiosity seekers and unauthorized persons**
+  - Keep them out of the area **when dangerous conditions exist**
+
+> **Exam Alert:** The rule about keeping curiosity seekers out is a QUALIFIED rule (added in 2021). You keep them out only "when dangerous conditions exist" — not automatically. The exam may test this qualifier.
+
+---
+
+## Rooftops, Alleys, Rear Yards
+
+- Provide **rooftop and overhead security**
+- Do **NOT** allow a Sergeant to assign a UMOS **alone** to Rooftops, Alleys, or Rear Yards (this is a directive to the Lieutenant)
+- **Only uniformed** officers in Rooftops, Alleys, and Rear Yards
+- Do NOT permit a Sergeant to assign **fewer than 2 officers** in uniform to these locations
+
+> **Exam Alert:** A sergeant cannot assign a single officer alone to rooftops, alleys, or rear yards. The minimum is 2 officers, and they must be in uniform. This is a safety directive aimed at the Lieutenant level but the Sergeant must also know it.
+
+---
+
+## Captain's Instructions (to ALL Supervisors)
+
+- **Nature, mission, objectives** — Specific objectives for specialized units
+  - Use minimum force
+  - Specialized equipment & tactics
+- **"Unity of Assignment"** — No independent/unauthorized actions (act like a TEAM)
+  - Captain commands SRG or a Borough's worth of Precinct cops and maintains unity
+- **Post Boundaries**
+  - Boundaries of their post/sector
+  - Arrest process area
+  - Command Post (CP) & phone number at CP
+- **Communication**
+  - Radio frequencies & call signals
+  - Immediate reporting of unusual/important incidents
+  - **Ring schedule:**
+    - Every **30 minutes** for enforcement units
+    - Every **60 minutes** for other units
+- Provide Borough & Operations with regular updates on progress & need for additional resources
+
+> **Exam Alert:** The ring schedule is 30 minutes for enforcement units and 60 minutes for other units. Do not confuse these intervals.
+
+---
+
+## Prepare for Relief
+
+- Confer with new Incident Commander
+- Outgoing and Incoming IC should debrief all field commanders on:
+  - Changing patterns of disorder
+  - Strength of disorderly groups
+  - Any police-related incidents occurring during tour
+  - Any recommendations for changes in overall strategy
+
+---
+
+## Operation of Command Post
+
+- Assist Incident Commander in operation of CP **if directed**
+  - Operations, Personnel, Intelligence, Logistics
+
+---
+
+## Lieutenant Duties
+
+### Respond
+- Quickly & safely to the **stationhouse**
+
+### Mobilization Point
+- Ascertain mobilization point & respond promptly by RMP
+
+### Assignment
+- **Mobile Field Force (MFF) Commander**
+  - 3 to 5 squads of 1 & 8, each from Precincts
+
+### Parking
+- Direct parking of department vehicles in **designated spaces only** at mobilization point
+- Have Sergeants give vehicle keys to security detail if required
+
+### Personnel Documentation
+- **Collect ROSTERS** and turn Rosters into the Command Post
+
+### Communications
+- Instruct Sergeants regarding RADIO:
+  - Ensure all are on the proper frequency
+  - Maintain radio discipline
+  - Warn against unauthorized transmissions
+
+### Inspect
+- Inspect Sergeant's proper uniform and equipment
+
+### Instructions
+- Follow instructions of Captain
+- Instruct Sergeants, and ensure Sergeants and subordinates receive the following:
+  - **TEAM CONCEPT**
+    - Importance of TEAM CONCEPT in disorder control
+    - Mission of the team
+    - No independent action; follow direction and adhere to team concept
+  - **Tactics**
+    - Maintain formation of 1 arm's length between adjoining MOS
+    - Be in "onguard" stance when in line or wedge formation
+  - **Locations**
+    - Post/Sector boundaries
+    - Nature of disorder
+    - ~~Location & phone # of CP & arrest process area~~
+  - **Ranking Officers**
+    - ID of Incident Commander
+    - MFF Lt & other key ranking officers
+  - **Communications**
+    - Equipment information
+    - Proper radio frequency & their MFF call sign
+  - **Use of Force**
+    - Use minimum force
+    - Don't PUNISH, rather be PROFESSIONAL
+    - Importance of de-escalation tactics and crowd psychology
+    - Tolerate verbal abuse by crowd attempting to incite
+    - Maintain firearms discipline
+  - **Arrest Team**
+    - Supervisor should NOT wade into crowd
+    - Ensure A/O observes perpetrator's actions
+  - **Rooftops, Alleys, Rear Yards**
+    - Be aware of dangers (rock/bottle throwers, snipers, etc.)
+    - Do NOT permit Sergeant to assign fewer than 2 officers in uniform
+
+### Prohibited Tactics
+- **Complacency**
+- **Breaking formation**
+- **Unnecessary conversation**
+- **Congregating**
+
+> **Exam Alert:** The four prohibited tactics are: complacency, breaking formation, unnecessary conversation, and congregating. If you see these as answer choices, they are all prohibited.
+
+---
+
+## Proper Uniform & Equipment
+
+**Lt, Sgt & Cop — ALL must have:**
+- Helmet
+- Baton
+- Flashlight
+- Disorder Guidelines **available in RMP**
+
+**For Lt & Sgt — Add:**
+- **ROSTERS** to the above list
+
+> **Exam Alert:** Disorder Guidelines must be available in the RMP — not carried on person. Rosters are required for Lieutenants and Sergeants only, not for police officers.
+
+---
+
+## Inspections (When Preparing to Respond)
+
+- **Desk Officer** (except Transit, per PG 213-03)
+  - Stages & inspects for proper equipment
+- **Sergeant**
+  - Ensures proper equipment (213-03)
+  - **Upon arrival at mobilization point** — Conduct thorough inspection of members assigned (213-05)
+- **Lieutenant**
+  - After obtaining rosters (213-05), warn against "unauthorized transmissions"
+
+### After Getting Instructions at Mobilization Point — Enroute to Staging Area or Post
+- Sergeant ensures proper equipment (213-03)
+
+---
+
+## Sergeant Duties
+
+### Respond
+- Respond to Station House (**10-02**)
+  - Form squad of **8 officers**
+  - 1st platoon squad becomes **2 officers**
+  - Ensure members are properly equipped
+  - Report to mobilization point **in a van**
+
+### Roster
+- While enroute, prepare Roster of members
+- Upon arrival, submit roster to Lieutenant
+
+### Communication (While Enroute)
+- Have members turn radios to the correct frequency **BUT**
+  - **Only Sgt and the van operator** will have radios turned on while enroute
+
+> **Exam Alert:** While enroute to the mobilization point, only the Sergeant and the van operator have their radios turned on. All other members have their radios tuned to the correct frequency but turned OFF. This prevents radio confusion during transit.
+
+### Assignment
+- May assist Incident Commander as CP Staff (Ops, Personnel, Intel, Logistics)
+
+### Instruct
+- Relay instructions from Lieutenant to your squad
+
+### Parking
+- Direct parking only in **designated areas**
+- Have keys given to security detail, if required
+
+---
+
+## UMOS Duties
+
+### Reporting
+- Respond to Station House (**10-02**) **OR**
+- Report direct to the Mobilization Point, as directed
+  - Do **NOT** drive through disorder to get to mobilization point
+
+### Communications
+- When directed, turn radio to proper channel
+
+### Instructions — RECORD the Important Ones:
+- Sector/Post Boundaries
+- Nature of disorder
+- Mission of TEAM, Equipment info
+- Location & phone # of Command Post and Arrest Process Area
+- Ranking supervisors
+- Radio Frequency & call signs
+
+---
+
+## Mobilization Levels — Two Types
+
+> **Exam Alert:** There are TWO DIFFERENT TYPES of mobilizations. Levels 1 & 2 are SRG mobilizations. Levels 3 & 4 are PCT/TD/PSA mobilizations. The exam will test whether you know which type corresponds to which level.
+
+| | Levels 1 & 2 | Levels 3 & 4 |
+|---|---|---|
+| **Type** | **SRG** Mobilizations | **PCT/TD/PSA** Mobilizations |
+
+| Level | Description |
+|-------|------------|
+| **Level 1** | SRG from affected Patrol Borough + 1 Patrol Supervisor from affected TD/PSA |
+| **Level 2** | SRGs **Citywide** + 1 Patrol Supervisor from affected TD/PSA |
+| **Level 3** | PCTs/TD/PSAs from affected Patrol Borough — 1 & 8 from each PCT/TD/PSA in the Borough |
+| **Level 4** | PCTs/TD/PSAs **Citywide** — 1 & 8 from each PCT/TD/PSA Citywide |
+
+### Level 3 & 4 — Arrest Platoon
+- **1st Platoon** — 1 Sergeant from 3 commands picked by Operations, plus 2 P.O.s from each command
+
+---
+
+## Team Assignments
+
+### Crowd Dispersal
+- Give warnings to disorderly crowds, including instructions to step out of roadways or disperse from the area
+- Take action against unlawful and disorderly groups
+- In line or wedge formations, direct team to disperse a disorderly crowd
+
+### Mobile Response
+- Create patrol sectors in disorder area for mobile response units
+- Create a mobile **reserve** for emergency response and reliefs
+
+### General Patrol
+- Select appropriate posts for patrol
+- Foot patrol — Provide foot patrol teams to create a sense of police presence in area
+
+### Perimeter Duty
+- ID borders of disorder and provide perimeter security on appropriate roadways:
+  - Detour traffic around the disorder area
+  - ID alternate routes for detoured traffic
+  - Prevent unauthorized entry into the disorder area
+  - Prevent disorderly groups from entering specific disorder area
+
+### Escort Duty
+- **Liaison** with other agencies and utilities
+- **Staging location** — Provide staging locations where the system of escorts can be administered
+
+### Arrest Duty
+- Implement appropriate arrest tactics under the supervision of sergeants and lieutenants
+
+### Protecting Vulnerable, Sensitive, or Critical Locations
+- Responsible for correctly identifying locations and providing security for designated areas
 
 ---
 
@@ -9806,6 +14554,8 @@ This section is among the most exam-critical in the entire Patrol Guide. It cove
 - Arresting officers process **no more than 5 prisoners** each
 - Arrest supervisors assigned **no more than 4 arresting officers**
 
+> **Exam Alert:** The norm is 4 A/O's per Sergeant, 5 collars per cop = 1 Sergeant for 20 perps. When expecting MORE than 20 arrests, the Large Scale Arrest Processing procedure (PG 213-06) kicks in.
+
 #### Processing Time Limit
 - First Amendment Activity arrest processing: **7 hours 30 minutes** maximum for violations/misdemeanors
 
@@ -9829,6 +14579,36 @@ The MAPC must provide:
 #### Documentation
 - **Command log** maintained at MAPC
 - Arresting officer stays with prisoner group through processing
+
+#### Incident Commander Duties (Large Scale — PG 213-06)
+- Arrest teams: Have arrests made in groups of no more than 20 perps with their arresting/assigned officers (4 cops & 1 Sergeant)
+- **ONE Patrol Wagon** to designated Precinct stationhouse
+- Ensure arresting/assigned officers know how to **articulate** the arrests (do not want Declined Prosecutions)
+- Notify the Desk Officer of how many collars to expect
+
+#### Arrest Supervisor Duties (Large Scale — PG 213-06)
+- **Photograph** — Before placing in wagon, have each perp photographed with arresting/assigned officers
+- **Document** — Ensure MASS ARREST PEDIGREE LABEL affixed to back of photo with captions filled
+- **Property** — If perp has property, ensure MASS ARREST PEDIGREE LABELS get put on each receptacle
+- **Warrant Checks** — Ensure that city, state, and federal warrant checks are performed
+- **10-84 at SH with prisoners** — Inform Incident Commander/Command Post when 10-84 at stationhouse
+  - To verify if prisoners will be D.A.T.'d, summonsed, or processed as online arrest
+- **LiveScan** — Assign "other than A.P.O." to do LiveScan
+- **Review & Sign** — ALL arrest paperwork
+
+> **Exam Alert:** The Sergeant needs approval from the Incident Commander to D.A.T. (Desk Appearance Ticket) or process under PG 96. The IC also arranges rides to court for "keepers" (prisoners not eligible for DAT). Photographs are taken BEFORE placing perps in the wagon.
+
+#### Precinct APO (Arrest Processing Officer)
+- Primary function: Return arresting/assigned officers to patrol
+- Assist with computer functions and ensure paperwork is properly prepared
+
+#### Precinct Commanding Officer
+- Ensure command has adequate supply of arrest paperwork for arrest processing
+- If anticipating a large-scale arrest situation, send a **TELEPHONE MESSAGE** to the **Borough Court Section Supervisor** with all pertinent details including the number of arrestees anticipated
+- Borough Court Section notifies the D.A. and Office of Court Administration to expedite
+- Borough Court Section may set aside a **centralized processing area**
+
+> **Exam Alert:** For large-scale arrests, the Precinct CO sends a TELEPHONE MESSAGE (not a phone call, not an email) to the Borough Court Section Supervisor. The BCS then notifies the D.A. and may establish a centralized processing area.
 
 ### Supervisor Responsibilities (Arrest Processing Supervisor)
 - Ensure prisoners are fed (food required if held more than 2 hours)
@@ -9914,14 +14694,21 @@ This section covers the foundational procedures for mobilization, emergency resp
 
 ---
 
-## P.G. 213-03 — Rapid Mobilization *(Source Unavailable)*
+## P.G. 213-03 — Rapid Mobilization
 
-> **Note:** This procedure could not be cleanly extracted from the source PDF. The title and related information below are derived from cross-references in other procedures.
+> **Note:** Full exam-focused content for this procedure is now available in the dedicated file: **section-213-rapid-mobilization.md**. The summary below highlights the most critical points.
 
 ### Known Information
 - Establishes procedures for rapidly assembling personnel during emergencies
 - Part of the 213-01 through 213-08 series referenced by P.G. 213-09
 - Related to P.G. 213-04 (Mobilization Readiness Levels), which likely defines the escalation tiers that trigger rapid mobilization
+- Patrol Supervisor calls Level 1 through radio; for missing persons, must consult CO/Duty Captain PRIOR
+- Platoon Commander serves as Incident Commander until CO/Duty Captain arrives, then becomes Operations Officer at Field Command Post
+- Supplementary Restraint Kits contain 300 flex cuffs, 40 flex cuff cutters, 40 Cold Fire extinguishers
+
+> **PG Conflict:** PG 213-03 says Lt/Sgt should "go direct" to the mobilization point. PG 213-05 says Lt/Sgt should "10-02 FIRST," then go. On test day, if the question references 213-05 (Duties at a Disorder), the answer is 10-02 First.
+
+> **See Also:** section-213-rapid-mobilization.md — Full procedure with role-by-role duties, bureau exceptions, and supplementary restraint kit details.
 
 ---
 
@@ -9936,14 +14723,23 @@ This section covers the foundational procedures for mobilization, emergency resp
 
 ---
 
-## P.G. 213-05 — Duties at Unusual Disorder *(Source Unavailable)*
+## P.G. 213-05 — Duties at a Disorder
 
-> **Note:** This procedure could not be cleanly extracted from the source PDF. The title and related information below are derived from cross-references in other procedures.
+> **Note:** Full exam-focused content for this procedure is now available in the dedicated file: **section-213-duties-at-disorder.md**. The summary below highlights the most critical points.
 
 ### Known Information
 - Outlines specific duties of members of service responding to unusual disorders
 - Part of the 213-01 through 213-08 series referenced by P.G. 213-09
 - Supported by P.G. 213-07 (Unusual Disorder Maps), P.G. 213-08 (Unusual Disorder Plan), and P.G. 213-09 (Unusual Disorder Kits)
+- Deployment ratio: 2/3 deployed, 1/3 in reserve; foot posts at 1 Sgt & 8 P.O.s
+- Dual Dispatch System: HIGH priority to detail officers, LOW priority to precinct officers
+- Ring schedule: every 30 minutes for enforcement units, every 60 minutes for other units
+- Two types of mobilizations: Levels 1 & 2 = SRG; Levels 3 & 4 = PCT/TD/PSA
+- Prohibited tactics: complacency, breaking formation, unnecessary conversation, congregating
+
+> **Exam Alert:** Sergeants respond to the stationhouse (10-02) first under PG 213-05, form a squad of 8 officers, and report to the mobilization point in a van. While enroute, only the Sergeant and van operator have radios turned on.
+
+> **See Also:** section-213-duties-at-disorder.md — Full procedure with deployment plans, team assignments, lieutenant/sergeant duties, and mobilization level details.
 
 ---
 
@@ -10004,12 +14800,290 @@ This section covers the foundational procedures for mobilization, emergency resp
 |-----------|-------|--------|-------------|
 | 213-01 | Command Post Operations | Cross-reference only | Framework for command post setup |
 | 213-02 | Emergency Incidents | Cross-reference only | Emergency response protocols |
-| 213-03 | Rapid Mobilization | Cross-reference only | Personnel assembly procedures |
+| 213-03 | Rapid Mobilization | **Full content** (see dedicated file) | Role-by-role duties, bureau exceptions, restraint kits |
 | 213-04 | Mobilization Readiness Levels | Cross-reference only | Tiered alert system |
-| 213-05 | Duties at Unusual Disorder | Cross-reference only | MOS duties during disorders |
+| 213-05 | Duties at a Disorder | **Full content** (see dedicated file) | Deployment, team assignments, mobilization levels |
 | 213-07 | Unusual Disorder Maps | Cross-reference only | Map preparation and use |
 | 213-08 | Unusual Disorder Plan | Cross-reference only | Overall disorder response plan |
 | 213-09 | Unusual Disorder Kits | **Full content** | Kit contents, storage, inspections |
+
+---
+
+# Off-Duty Mobilization — P.G. 213-10
+
+## Overview
+
+P.G. 213-10 covers the mobilization of off-duty members, both uniformed and civilian. It establishes primary and alternate mobilization points, defines who responds, and outlines the specific duties of the CO/Ranking Member at the permanent command and at alternate mobilization points. Sergeants must know the mobilization point rules, roster categories, and the Operations call protocol.
+
+---
+
+## Primary Mobilization Point
+
+- The **"primary" mobilization point** is a member's **permanent command**
+- **Captains and above** ALWAYS report to their permanent command
+
+---
+
+## Alternate Mobilization Points
+
+Alternate mobilization points can be used based on a member's residence, at the direction of the **Police Commissioner, 1st Deputy, or Chief of Department**.
+
+| Residence | Alternate Mobilization Point |
+|-----------|------------------------------|
+| **City resident** | Permanent command (default) |
+| **Staten Island resident** (permanent command on S.I.) | Permanent command |
+| **Staten Island resident** (permanent command NOT on S.I.) | **122 Precinct** |
+| **Upstate resident** | **50 Precinct** (Van Cortlandt Park) |
+| **North of the LIE** | **110 Precinct** (Flushing Meadow Park) |
+| **South of the LIE** | **113 Precinct** (Baisley Pond Park) |
+
+> **Exam Alert:** The primary mobilization point is ALWAYS the member's permanent command, UNLESS the PC, 1st Deputy, or Chief of Department designates otherwise. Memorize the three alternate park locations: Van Cortlandt Park (50 Pct), Flushing Meadow Park (110 Pct), Baisley Pond Park (113 Pct).
+
+> **Memory Aid — ALTERNATE MOBILIZATION PARKS:** **V-F-B** (Van Cortlandt, Flushing Meadow, Baisley Pond) = Precincts **50, 110, 113** = Upstate, North of LIE, South of LIE.
+
+---
+
+## Who Responds
+
+- **RDO Members** AND members scheduled for the **next upcoming tour**
+  - If member's next tour does not start within the next **8 hours**, do NOT report — come in for your next scheduled tour as usual
+
+> **Exam Alert:** Not everyone who is off duty responds. Only RDO members and those scheduled for the next upcoming tour. If the next tour is more than 8 hours away, do NOT report early.
+
+### Example
+- 0900 hours mobilization activated and member is scheduled for a 12x8
+  - Report for 12x8 as scheduled
+
+---
+
+## Roster Reporting Members (1 & 8 in Three Main Categories)
+
+| Category | Assignment |
+|----------|-----------|
+| **On Duty** | Members of Patrol, Housing & Transit Bureau get assigned to operational control of their bureau |
+| **Next Platoon** | Utilized as per the needs of their permanent command |
+| **RDO** | Organized into **Mobile Field Forces** & deployed as rapid response units by their borough |
+
+### Detective Bureau (DB)
+- **Investigative Functions** — Chief of Detectives determines who will be assigned to investigative functions, if necessary
+- **Non-Investigative Functions** — Operations Unit will direct detectives assigned to non-investigative functions; deployed to supplement Patrol Services Bureau, Housing Bureau, and Transit Bureau
+
+### CMOS (Civilian Members of Service)
+- Perform routine duties at their permanent command, UNLESS otherwise directed
+
+---
+
+## Mobile Field Force (MFF) Structure
+
+- **Platoon** under command of a **Lieutenant**
+  - Composed of **3 to 5 squads**
+  - Each squad consisting of **1 & 8** (1 Sergeant and 8 officers)
+
+---
+
+## CO / Ranking Member at Permanent Command
+
+### Roster Personnel
+- Ensure members are on rosters (1 Sgt and 8 officers) grouped in three categories:
+  - RDO
+  - Next platoon
+  - On-duty
+
+### Parking
+- Set up parking for responders, close the street if necessary
+- Provide security
+
+### Mobilization Point
+- If mobilization point activated in CO/Ranking Member's command:
+  - Assign personnel to establish and maintain the mobilization point
+
+### Notify
+- Patrol Borough of Personnel available:
+  - By Rank and Squads (number of squads and categories: RDO, Next Platoon, On-duty)
+  - Personnel assigned to command (number using to address needs of the command)
+  - Vehicles (number of operational vehicles, by type)
+
+> **Exam Alert:** The Borough gives its numbers to Operations — not the individual command. The command reports UP to the Borough.
+
+### Designate
+- Phone line that will not interfere with Department business — leave it open to give instructions to mobilized members (e.g., roll call, clerical)
+
+### Notify (Call Protocol)
+- Direct a call to key personnel (by phone, by resident precinct, etc.)
+- Direct a call to **everyone** — up to **3 times**:
+  - Early morning hours, OR
+  - Other times if maybe they did not hear it, OR
+  - Poor response
+
+---
+
+## Transportation
+
+- Call **Transit Bureau direct** for traffic control along route to MP
+- Call **THE BOROUGH** for transportation of people to permanent commands from mobilization point
+
+> **See Also:** PG 213-03 — Rapid Mobilization for on-duty mobilization procedures.
+
+---
+
+## Ranking Member at Mobilization Point ("Alternate Response Points")
+
+### Command Post
+- Set up Command Post
+
+### Establish and Deploy
+- Traffic Posts along route to Mobilization Point
+- Security Posts
+- Parking
+  - Set up **parking** for the responders
+  - Close the street if you have to & provide security
+- Transportation
+  - Arrange transportation of mobilized members to their commands through the Borough
+
+### Notify
+- Operations of numbers, by:
+  - Rank — how many showed up
+  - Number of members transported to commands
+
+---
+
+## Operations Call Protocol
+
+> **Exam Alert:** The supervisor at the permanent command is told specifically NOT to call Operations directly (Operations does not want 77 or more calls). Instead, the supervisor at the command calls the Borough, who calls Operations. However, the supervisor at the Alternate Mobilization Point DOES call Operations directly — because there are only 3 alternate mobilization points (Van Cortlandt Park, Baisley Pond Park, Flushing Meadow Park).
+
+| Location | Who to Call |
+|----------|-----------|
+| **Supervisor at Permanent Command** | Call the **Borough** (Borough calls Operations) |
+| **Supervisor at Alternate Mobilization Point** | Call **Operations DIRECT** |
+
+---
+
+# Rapid Mobilization — P.G. 213-03
+
+## Overview
+
+P.G. 213-03 establishes the procedures for rapidly mobilizing personnel during emergencies. It defines the specific roles and responsibilities of each rank from Patrol Supervisor through Duty Captain, including bureau-specific exceptions for Transit and Housing. Sergeants must understand the chain of actions for calling, activating, and escalating mobilizations.
+
+---
+
+## Patrol Supervisor
+
+- Call **Level 1** through the radio
+  - If for a **missing person**, consult with CO/Duty Captain **PRIOR** to calling, absent exigent circumstances
+  - If a level higher than Level 1 is needed, call the **CO/Duty Captain** (Captain must immediately respond)
+- Be Incident Commander until outranked, demobilized, etc.
+- Be prepared to brief ranking MOS upon their arrival
+
+> **Exam Alert:** For a missing person mobilization, the Patrol Supervisor must consult with the CO/Duty Captain BEFORE calling a Level 1 — unless exigent circumstances exist. This is a common exam trap; the default for most mobilizations is to call Level 1 directly, but missing persons require prior consultation.
+
+---
+
+## Platoon Commander (PSA/TD if Housing or Transit)
+
+- Assume the role of **Incident Commander** until CO/Duty Captain arrives
+- After CO/Duty Captain arrival, assume duties of **Operations Officer** in the Field Command Post
+
+> **Exam Alert:** The Platoon Commander does not simply step aside when the CO arrives — they transition to Operations Officer in the Field Command Post. Know this role change.
+
+---
+
+## Duty Captain
+
+- **Update** on the situation
+  - While enroute, obtain estimate of situation from Platoon Commander/Patrol Supervisor
+- **Additional Resources**
+  - Request resources from either: **Borough, Operations**, or if not on scene, from **Communications**
+- **Higher Level Mobilization**
+  - AFTER conferral with either Borough, Operations, OR Platoon Commander/Patrol Supervisor
+  - Order a higher level, if necessary
+
+> **Exam Alert:** The Duty Captain must CONFER before raising the mobilization level. The conferral is with Borough, Operations, OR the Platoon Commander/Patrol Supervisor. On ANY mobilization, the Duty Captain is going to respond.
+
+---
+
+## Activating Supervisor
+
+- **Inform**
+  - Operations AND Borough — reason for mobilization (and update both)
+- **Mobilization Point & Route**
+  - Designate:
+    - Mobilization Point (MP) and route
+    - Make traffic posts for quick access
+  - Inform:
+    - Radio of MP and route
+  - Provide:
+    - Security for MP and staging area
+
+> **See Also:** PG 213-05 — Duties at a Disorder, for what happens after mobilization is activated.
+
+---
+
+## Bureau Exceptions — Transit
+
+- Desk Officer (D/O) notifies affected patrol officers of Transit Bureau facility to respond to MP
+- Members respond **BY "Transit System"** (train or bus) to the Transit Bureau location
+- D/O notifies CP of personnel available at the facility
+- Supervisor at CP communicates with Transit Bureau units that do **NOT** have citywide radios
+
+> **Exam Alert:** Transit Bureau members respond to the mobilization point via the transit system (train or bus) — NOT by personal vehicle or RMP. This is a frequently tested distinction.
+
+---
+
+## Bureau Exceptions — Transit & Housing (Levels 3 and 4)
+
+- **Level 3** mobilization only assigned to **Transit/Housing property**
+- **Level 4** can be assigned **where needed** (not limited to Transit/Housing property)
+
+> **Exam Alert:** At Level 3, Transit and Housing personnel stay on their own property. At Level 4, they can be assigned anywhere. The exam may present a scenario where a Level 3 mobilization assigns Transit officers outside Transit property — that would be incorrect.
+
+---
+
+## Desk Officer Role (Levels 2, 3, or 4 — Including Housing)
+
+- **Stage, Inspect & Supply**
+  - Responders with a van
+  - Send them to the mobilization point
+  - **Exception:** Transit members respond by train (not by van)
+
+---
+
+## Crowd Management Unit (CMU)
+
+- Deploys specially trained UMOS to **mass demonstrations citywide**
+- CMU is supplemented with borough uniformed patrol personnel as **Mobile Field Forces (MFF)**
+
+---
+
+## Supplementary Restraint Kits
+
+- Placed in each **patrol borough command** and strategic locations across the City
+- Each supplemental restraint kit contains:
+  - **300** flex cuffs
+  - **40** flex cuff cutters
+  - **40** "Cold Fire" fire extinguishers with holders
+
+> **Exam Alert:** Know the contents of the Supplementary Restraint Kit: 300 flex cuffs, 40 flex cuff cutters, 40 Cold Fire extinguishers. Do not confuse these numbers with the Unusual Disorder Kit (P.G. 213-09).
+
+### If Supplementary Restraint Kits Are Needed
+
+- **Patrol Borough Operations Unit, Incident Commander, or other competent authority** will:
+  - Direct a responding MFF to obtain and bring the equipment to the mobilization point
+  - The use of supplemental restraint kit(s) will be documented in the **Command Post Log**
+- **Incident Commander:**
+  - At conclusion of incident/event, designate a UMOS to return the kit to where it was obtained
+
+---
+
+## P.G. 213-03 vs. P.G. 213-05 — Critical Exam Distinction
+
+> **PG Conflict:** PG 213-03 says Lt/Sgt should **go direct** to the mobilization. PG 213-05 says Lt/Sgt should **10-02 FIRST**, then go. On test day, be guided by the governing procedure: if the question references 213-05 (Duties at a Disorder), the answer is **10-02 First**. If it references 213-03 (Rapid Mobilization/how to CALL), the answer is go direct.
+
+| | 213-03 (How to CALL) | 213-05 (How to RESPOND) |
+|---|---|---|
+| **Lt/Sgt** | Go direct to the Mobilization Point | 10-02 FIRST |
+| **P.O.** | Gives no direction to the responding P.O. | 10-02 First OR go direct, as directed |
+
+> **Prior Test:** A question asks: "Upon learning of a mobilization for a disorder, what should the sergeant do first?" — The correct answer is **10-02 (report to station house) first**, because the governing procedure for responding to a disorder is PG 213-05, which requires 10-02 before going to the mobilization point.
 
 ---
 
@@ -10982,10 +16056,18 @@ Eviction and civil process procedures define the boundaries of police authority 
 
 ## P.G. 214-12 — Unlawful Evictions
 
+> **Exam Alert:** This procedure applies to **residential dwellings ONLY — NOT commercial** premises. The exam will test this distinction.
+
 ### Key Points
 
 - Purpose: protect persons unlawfully evicted from dwelling units
 - Classification: **Class A misdemeanor**, **NOT fingerprintable**
+
+### Dwelling Unit Definition
+
+- Any building or portion used as a home, residence, or sleeping place
+- **DOES include:** privately owned hotels, including those taking government funding (HRA, etc.)
+- **Does NOT include:** hospitals, convents or monasteries, **NYCHA property** (government housing is exempt)
 
 ### Methods of Unlawful Eviction
 
@@ -10993,18 +16075,35 @@ Eviction and civil process procedures define the boundaries of police authority 
 - Denial of essential services (heat, electricity, water)
 - Removing possessions from the premises
 - Removing or changing locks without providing a key
-- Course of conduct interfering with the comfort of the occupant
+- Course of conduct interfering with the occupant's comfort, repose, peace, and quiet
+- Failing to take reasonable and necessary action to restore occupancy if any of the above occur
 
-### When the Law Applies
+> **Prior Test:** Past exam scenario had a landlord cutting off **hot water** — the correct answer is this is **NOT** an unlawful eviction. Cutting the **heat** or **water** qualifies as denial of essential services, but **hot water alone does not**. Know the distinction.
+
+### Legal Bureau Bulletin (LBB Vol 49 #1, August 2019)
+
+- LBB adds: "Allowing other serious **Building and Health Code violation**" as an additional method of unlawful eviction
+- The above acts count as unlawful eviction only if done for the **purpose** of eviction
+  - Example: landlord who fails to provide heat because they do not want to pay the oil bill (not for the purpose of eviction) = NOT unlawful eviction
+
+### When the Law Applies (Legitimate Occupancy)
 
 - Tenant has a lease, **OR**
-- Occupied for **30 or more consecutive days**, **OR**
-- SRO (Single Room Occupancy) tenant requesting a lease under rent stabilization
+- Occupied pursuant to a lease, **OR**
+- Lawfully occupied for **30 or more consecutive days**, **OR**
+- Hotel SRO and occupant requests a lease (a **mere verbal request** is sufficient), **OR**
+- Sublet tenant (tenant who sublets is considered an owner)
 
 ### When the Law Does NOT Apply
 
 - Valid **Warrant of Eviction** has been issued
 - **Government Order to Vacate** is in effect
+
+### Summons Procedure
+
+- Separate summons for **each offense** (numerous apartments = numerous summonses)
+- Charge under: NYC Admin Code or NYS Real Property Actions and Proceedings Law
+- Summons returnable to **SAP of Manhattan Criminal Court**, except Staten Island
 
 ### Summons Return Dates (Minimum 21 Days Out)
 
@@ -11012,18 +16111,44 @@ Eviction and civil process procedures define the boundaries of police authority 
 |---------|-----------|
 | Manhattan/Bronx | **Tuesday** |
 | Brooklyn/Queens | **Thursday** |
-| Staten Island | **First Wednesday** of the month |
+| Staten Island | Returnable to **S.I. Criminal Court**, **First Wednesday** of the month |
+
+### Summons Preparation
+
+- Complete "Complaint/Information" on front of summons with specific details of violation
+- If offense committed in officer's presence: officer **signs** the "Complaint/Information" section
+- If not committed in officer's presence: ensure crime was committed AND complainant signs
+  - If complainant refuses to sign: **UMOS can sign** "based on information & belief" if information is complete
+- If a **civilian is the complainant**: cross out "Complainant's" and "Complainant" and substitute "Officer's" and "Officer" on front; cross out "I personally observed..." above complainant's name
+- Serve summons: personally serve violator with Criminal Court (**pink**) copy
+
+> **Exam Alert:** If the complainant refuses to sign, UMOS can sign "based on information and belief" — but only if the information is complete. Know the civilian complainant modifications to the summons form.
+
+### Enforcement Action
+
+- **Summons** when: victim is allowed to re-enter AND violator is properly identified
+  - Even if services (heat) are NOT turned back on, it is still just a summons
 
 ### Arrest Criteria
 
-- Arrest when violator **cannot be identified**, OR
-- Arrest when violator **refuses to permit reentry**
+- Arrest when violator **cannot be identified** (meaning you cannot summons), OR
+- Arrest when violator **refuses or physically blocks reentry**
 - When arrest is necessary: bring to criminal court for **prompt arraignment — NO DAT**
 
 ### Domestic Violence Consideration
 
 - If potential for violence between family/household members: follow DV guidelines
-- Do **NOT** demand entrance in such situations
+- Demanding re-entry is **NOT required** — follow **P.G. 208-36**
+
+> **See Also:** PG 208-36 — Domestic violence procedures govern when eviction involves family/household members with potential for violence.
+
+### Victims Unable to Get Temporary Housing
+
+- Refer to **NYC Department of Homeless Services**
+
+### Commanding Officer
+
+- If a **pattern** of unlawful evictions at a particular location: confer with **Legal Bureau** regarding civil action through **Corporation Counsel**
 
 ### Supervisor Responsibilities
 
@@ -11033,45 +16158,90 @@ Eviction and civil process procedures define the boundaries of police authority 
 - Ensure proper return date on summons based on borough
 - Direct arrest when violator cannot be identified or refuses reentry
 
-> **Exam Alert:** Occupancy threshold is **30 or more consecutive days** without a lease. Summons return dates: Manhattan/Bronx = **Tuesday**, Brooklyn/Queens = **Thursday**, Staten Island = **First Wednesday**. All return dates must be at least **21 days** out. **NO DAT** when arrest is made — prompt arraignment required.
+> **Exam Alert:** Occupancy threshold is **30 or more consecutive days** without a lease. Summons return dates: Manhattan/Bronx = **Tuesday**, Brooklyn/Queens = **Thursday**, Staten Island = **First Wednesday**. All return dates must be at least **21 days** out. **NO DAT** when arrest is made — prompt arraignment required. This procedure applies to **residential ONLY — NOT commercial** premises. NYCHA property is **exempt**.
 
-> **Sergeant Focus:** Class A misdemeanor but NOT fingerprintable. If DV potential exists between family/household members, follow DV guidelines and do NOT demand entrance. Arrest only when the violator cannot be identified OR refuses to permit reentry.
+> **Prior Test:** Cutting off **hot water** alone is NOT an unlawful eviction. Cutting **heat** or **water** (essential services) IS. The exam has tested this distinction directly.
+
+> **Sergeant Focus:** Class A misdemeanor but NOT fingerprintable. If DV potential exists between family/household members, follow DV guidelines and do NOT demand entrance. Arrest only when the violator cannot be identified OR refuses to permit reentry. If complainant refuses to sign summons, UMOS may sign "based on information and belief."
 
 ---
 
 ## P.G. 214-13 — Evictions, Repossessions, Civil Process
 
-### Key Points
+### Desk Officer
 
-- Police role is strictly to **preserve peace and protect life/property ONLY**
-- Execution of the warrant is the **sole responsibility** of the city marshal or sheriff
-- MOS will **NOT** assist in breaking a door or damaging property
-- City marshal/sheriff must force entry in the **least disruptive way**
+- Assign UMOS to assist
+
+### UMOS Role
+
+- Preserve the peace and protect life/property
+- Examine marshal/sheriff's **ID** and **warrant**
+- Do **NOT** assist in entry or in damaging property
+- Marshal will enter in the **least disruptive way**
+
+### Subject Allows Entry
+
+- Enter and remain until process executed
+- Notify desk officer when eviction is complete
+
+### Documentation (Digital Activity Log)
+
+- Marshal's name/shield and time entered
+- Name of subject and whether they were present
+- Who is responsible for property (the marshal or the landlord)
+  - If **landlord** endorses warrant: landlord is responsible for tenant's property AND eviction is complete
+  - If **marshal** is taking property: record name/address of moving company, name of driver of each van, time van left, and location of warehouse for storage
+
+### LBB Vol 14 #8 — Warrant of Eviction
+
+- **72-hour Notice of Service** required: prior to eviction, tenant advised they will be evicted and removed within 72 hours
+- Starts the **day after** service, **NOT including** Sat/Sun/Holidays
+- **No 72-hour notice** necessary for **Repossession Orders**
+- **Order to Seize Property** does NOT authorize forced entry **UNLESS** explicitly stated on the "Order"
+- **Stay of Eviction:** once eviction is complete, a stay of eviction is **unenforceable**; attempts to pay does NOT allow re-entry
+
+> **Exam Alert:** Warrant of Eviction execution hours are **Monday-Friday 0800-1700**. Do NOT confuse with Search Warrant hours which are **0600-2100 Monday-Friday**. The exam tests this distinction.
+
+### LBB Vol 49 #1 — Re-Entry Restriction
+
+- Police **cannot break in** to let a tenant re-enter **UNLESS** there is **medicine inside that is vital to life**
+
+### Arrest (No ID or Refuses Re-Entry)
+
+- Prepare **OLBS**, but:
+  - **No** Complaint Report
+  - **No** Fingerprints
+  - **No** Photo (Class "A" Misdemeanor but not in the PL, so no photos either)
+  - **No** DAT
+- Transport violator to Criminal Court for **prompt arraignment** — No DAT
+
+### Subject Refuses Entry
+
+- UMOS: notify **desk officer** and, before taking any further action, request response of **patrol supervisor**
+- Patrol supervisor: respond and assess — consider making them an **EDP**
 
 ### Property Removal Rules
 
 - Marshal/sheriff or landlord are **NOT permitted** to place property on the sidewalk
 - A vehicle must be on scene and property must be loaded **immediately**
 
-### Special Circumstances
+### Commanding Officer
 
-- If subject appears emotionally disturbed: comply with **P.G. 221-13**
-- MOS preserve peace only — do not participate in the actual eviction process
-
-### Documentation
-
-- Activity Log must record: marshal's name and shield, time of entry, location, tenant name, and who is responsible for the property
+- If a pattern at a particular location: confer with **Legal Bureau** regarding civil action through **Corporation Counsel**
 
 ### Supervisor Responsibilities
 
 - Ensure MOS understand their role is limited to peacekeeping
 - Verify MOS do not assist in breaking doors or damaging property
 - Confirm a vehicle is present for property removal before the process begins
+- If subject refuses entry: patrol supervisor responds and considers EDP designation
 - Direct compliance with P.G. 221-13 if an emotionally disturbed person is encountered
 
-> **Exam Alert:** MOS will **NOT** assist in breaking doors or damaging property. Property must **NOT** be placed on the sidewalk — a vehicle must be on scene for immediate loading. The marshal/sheriff bears sole responsibility for executing the warrant.
+> **Exam Alert:** MOS will **NOT** assist in breaking doors or damaging property. Property must **NOT** be placed on the sidewalk — a vehicle must be on scene for immediate loading. Warrant of Eviction hours: **Mon-Fri 0800-1700** (NOT the same as search warrant hours). Once an eviction is complete, a Stay of Eviction is **unenforceable**. 72-hour notice is required for evictions but **NOT** for repossession orders.
 
-> **Sergeant Focus:** The police role is exclusively peacekeeping. Ensure Activity Log entries include the marshal's name/shield, time of entry, location, tenant name, and who is responsible for property.
+> **PG Conflict:** Warrant of Eviction execution is Mon-Fri 0800-1700, but Search Warrant execution is 0600-2100 Mon-Fri. Know both timeframes — the exam has presented these as answer choices together.
+
+> **Sergeant Focus:** The police role is exclusively peacekeeping. When arrest is made for unlawful eviction: OLBS only — no Complaint Report, no fingerprints, no photo, no DAT. If subject refuses entry to the marshal, the patrol supervisor should consider making them an EDP. Police cannot break in to let a tenant re-enter unless medicine vital to life is inside.
 
 ---
 
@@ -11213,11 +16383,16 @@ This section covers six diverse quality-of-life procedures. The most heavily tes
 
 ## P.G. 214-33 — Care and Disposition of Animals
 
+> **Exam Alert:** The procedure statement says "When UMOS **responds to complaint**..." — police respond to complaints about animals, they do not proactively seek out animals. This is a key framing distinction for exam scenarios.
+
 ### Key Points
 
-- **Dangerous animal** = menaces, threatens, attacks, or bites a person
-- **DANGEROUS ANIMAL/BITE REPORT (PD311-152)** prepared in **every instance** — even if the animal is gone
+- **Dangerous animal** = mammal, amphibian, reptile, bird, or insect that menaces, attacks, or bites a person
+- **Wild animal** = naturally inclined and capable of harming a human
+- **DANGEROUS ANIMAL/BITE REPORT (PD311-152)** prepared in **every instance** — even if the animal is **90-Z (gone) and there are no injuries**
+- **ICAD number** must be entered on Aided and Dangerous Animal/Bite Report
 - An animal is **NEVER** placed in the trunk of a Department vehicle
+- **ACC** = Animal Care and Control of NYC
 - Process offender for **DAT** if eligible
 
 ### Dangerous Dog Categories (4)
@@ -11227,26 +16402,51 @@ This section covers six diverse quality-of-life procedures. The most heavily tes
 3. Bites without provocation
 4. Used for fighting purposes
 
-### Animal Care & Control (AC&C) Response
+### Animal Care & Control (ACC) Response
 
 | Time | Resource |
 |------|----------|
-| Mon-Fri 0800-2000 | AC&C Rescue Units |
-| 24/7 | Brooklyn AC&C Control Center |
-| After hours | Contact Operations Division for on-call AC&C member |
-| AC&C response >15-30 minutes | Request ESU |
+| Mon-Fri 0800-2000 | ACC "Rescue Units" |
+| Tues-Sat (business hours) | Other ACC Control Centers |
+| 24/7 | Brooklyn ACC "Control Center" |
+| 2000-0800, Weekends, Holidays | **Operations** will notify ACC member on call (provide contact person at scene) |
+| ACC response >15-30 minutes | Request ESU |
+
+### ESU Request Criteria
+
+- ACC cannot respond expeditiously (15-30 mins), OR
+- ACC response time cannot be ascertained, OR
+- Owner/person in control of premises is arrested (97H, etc.) AND no one able to care for animal
+
+### Transport
+
+- **ESU bags the animal** and **RMP transports** it to an ACC facility
+- Place kennel in **backseat** of RMP (remove rear seat if necessary)
+- **NEVER** put animal in the trunk of a Department vehicle
+- Obtain **receipt** from ACC to give to the desk officer
+
+### Search Warrant Consideration
+
+- If there is advance information of a dog at a warrant location: confer with the **Canine Unit of ESU**
+
+> **Exam Alert:** For search warrants where a dog may be present, confer with the **Canine Unit of ESU** — not just any ESU team.
 
 ### Use of Force
 
-- Only to prevent harm or injury
+- **Physical force:** used only to prevent harm or injury to the animal, other animals, or persons
+- **Deadly physical force:** shoot a dog or other animal to protect self or others from **imminent physical injury**
+- Before using deadly physical force: make every attempt at **other reasonable means** to contain the threat from dangerous animals
 - **Firearm** used ONLY to protect from **imminent physical injury** with **no opportunity to retreat**
 
-### Desk Officer Notifications
+### Desk Officer Responsibilities
 
-- Notify the **Department of Health and Mental Hygiene** by phone for:
-  - Rabid animal
-  - Suspected rabid animal
-  - Animal that bit, scratched, or abraded a human
+- Review, sign, and distribute the DANGEROUS ANIMAL/BITE REPORT:
+  - **"Dept of Health" copy** goes to **Mail & Distribution Unit**
+  - **"Command Copy"** gets filed
+- Notify the **Department of Health and Mental Hygiene** by phone when:
+  - **Human** is bitten, scratched, or abraded by an animal
+  - **Human** is exposed to a rabid animal
+  - **Owner** is located after the form has been forwarded
 
 ### Agriculture & Markets Law Citations
 
@@ -11258,16 +16458,22 @@ This section covers six diverse quality-of-life procedures. The most heavily tes
 | 355 | Abandonment | Misdemeanor |
 | 360 | Poisoning (horses, mules, cattle) | Felony |
 
+### Patrol Supervisor
+
+- Transport: assign a resource to transport animal to an ACC facility, if necessary
+- Kennel: have a kennel brought to the scene from command concerned; get additional kennels from an adjoining command or the Patrol Borough
+
 ### Supervisor Responsibilities
 
 - Ensure the DANGEROUS ANIMAL/BITE REPORT (PD311-152) is prepared in every instance
-- Desk officer must notify the Dept of Health and Mental Hygiene by phone for rabid, suspected rabid, or bite/scratch/abrasion cases
+- Desk officer must notify the Dept of Health and Mental Hygiene by phone for bite/scratch/abrasion, exposure to rabid animal, or when owner is located after form forwarded
 - Ensure animals are never placed in the trunk of a Department vehicle
-- Evaluate use of force — firearm only when imminent physical injury and no retreat opportunity
+- Evaluate use of force — attempt other reasonable means before deadly physical force
+- Assign transport resources and ensure kennels are available
 
-> **Exam Alert:** The DANGEROUS ANIMAL/BITE REPORT (PD311-152) is prepared in **every instance**, even if the animal is gone. Animals are **NEVER** placed in the trunk of a Department vehicle. Firearms are used ONLY for **imminent physical injury** with **no opportunity to retreat**. Request ESU if AC&C response exceeds **15-30 minutes**.
+> **Exam Alert:** The DANGEROUS ANIMAL/BITE REPORT (PD311-152) is prepared in **every instance**, even if the animal is 90-Z (gone) and there are no injuries. Animals are **NEVER** placed in the trunk of a Department vehicle. Before using deadly physical force, make every attempt at **other reasonable means**. Request ESU if ACC response exceeds **15-30 minutes**. For search warrants with dogs, confer with the **Canine Unit of ESU**.
 
-> **Sergeant Focus:** The desk officer must notify the Dept of Health and Mental Hygiene by phone for three situations: rabid animal, suspected rabid animal, or any animal that bit/scratched/abraded a human. Know all four dangerous dog categories and the Agriculture & Markets Law sections.
+> **Sergeant Focus:** The desk officer must notify the Dept of Health and Mental Hygiene by phone for three situations: human bitten/scratched/abraded, human exposed to rabid animal, or owner located after form forwarded. ESU bags the animal, RMP transports to ACC. Know all four dangerous dog categories and the Agriculture & Markets Law sections. ACC Brooklyn Control Center is open **24/7**; Rescue Units are Mon-Fri 0800-2000.
 
 ---
 
@@ -11275,53 +16481,130 @@ This section covers six diverse quality-of-life procedures. The most heavily tes
 
 ### Key Points
 
-- **CHRONIC 311 CONDITION:** **5 or more** requests in a **28-day period** for the same condition at the same location
+- **OMAP** is the designated liaison to NYC 311
+- **CHRONIC 311 CONDITION:** **5 or more** requests in a **28-day period** for the same **specified condition** at the same location
 - **5 or more** calls within an **8-hour period**: prioritize for **immediate response**
-- MOS: notify Communications Section with **10-42 code** upon receipt, specify complaint type
+- MOS: notify Communications Section with **10-42 code** upon receipt, giving **location and type of job** (abandoned car, illegal fireworks, etc.)
 - Desk officer: manually refresh the 311 system **at least every hour**
+
+> **Exam Alert:** The 311 system breaks the "Golden Rule." Generally, you refer the **complaint** (not the complainant) to the appropriate agency. But HERE, you refer the **complainant** — tell them to call 311 directly.
 
 ### Daily Review and Logging
 
 - **Second Platoon Desk Officer** reviews the 311 system at **0800 daily** for the previous 24 hours
 - Command Log entries required at the **beginning AND end** of each tour with the number of pending assignments
 
-### Switchboard Operator
+### TS Operator
 
+- Record QOL service requests received via telephone in the **Telephone Dispatch Log**
 - Inform callers to call **311 directly** in the future
+- Refer to another city agency if the job requires referral — instruct person to call 311 NOW
+- Duplicate 311 calls: confer with D.O. to reconcile duplicates in the 311 system
+- Dispatch QOL assignments: have QOL jobs in 311 or TS **requiring investigation** dispatched as a command assignment
+
+> **Exam Alert:** The TS operator gives the **assignment**, BUT the UMOS gives the **dispositions** to the desk officer. Do not confuse who gives what.
+
+### UMOS
+
+- Notify: give radio a **10-42** with location and type of job
+- Respond expeditiously except if on an emergency assignment
+- Upon completion: radio promptly AND notify D.O. of dispositions and uncompleted assignments by EOT
+
+### Platoon Commander/Desk Officer
+
+- Monitor 311 system at least **every hour** — refresh to identify assignments requiring attention
+- Determine if assignment can be: handled during tour, OR deferred (to special units/SOL, or to another command/city agency)
+- Indicate all deferrals in 311 system **or Telephone Record**, as appropriate
+- Deferred assignment gets interim disposition: "Deferred" or "Open"
+- Dispatch assignments as resources become available, **EXCEPT**: assignments deferred to Special Ops Lt AND any assignment with **5+ calls in 8 hours** (requires immediate response)
+- Monitor for improperly routed assignments and reassign to appropriate command through 311
+- Command Log entries at start and end of tour indicating number of pending assignments
+
+> **Exam Alert:** Deferrals are indicated in the 311 system or the **Telephone Record** — NOT the Telephone Dispatch Log. On test day, do NOT fall for checking the prior day's 311 — that is the **Second Platoon Desk Officer's** job at 0800.
+
+### Second Platoon Desk Officer
+
+- At **0800** conduct a **24-hour review** of 311 assignments (0800 yesterday to 0800 today)
+- Account for all assignments and ensure dispositions are properly assigned
+- Initiate investigation to resolve unmarked dispositions
+- Take corrective action as necessary
 
 ### Special Ops Lt Responsibilities
 
-- Review deferred requests
-- Design and implement response plans
-- Conduct a **monthly audit** of 311 callers
+- Review deferred 311 assignments — initiate response, ensure dispositions entered and reported properly, update from "deferred" to appropriate code
+- Identify QOL conditions requiring complex or sustained response — design and implement plan using command resources and/or other Department units, government agencies, community resources
+- Locations of deferred assignments: create list **by address** and request, maintain current copy at the desk
+- QOL strategies: coordinate command's QOL strategy, design response plans for chronic unresolved conditions, administer QOL self-inspection
+- Conduct a **monthly audit** of identified 311 callers to assess quality of service
 - Provide a **weekly update** of the 28-day chronic conditions list posted at the desk
 
-### CO Responsibilities
+### CO/XO Responsibilities
 
-- Direct the quality of life sergeant to make **daily callbacks**
-- Minimum **2 attempts** per caller
+- Review command QOL strategies, analyze performance, modify as necessary
+- Deficiencies: have referred to appropriate supervisor or Training Sergeant for necessary action and follow-up
+- Confer with Training Sergeant to ensure effective training on QOL matters
+- **Directly** direct NCO Sergeant to: callback identified 311 callers daily (minimum **2 attempts** per caller), document all contacts and attempts
+
+> **Exam Alert:** The CO **personally directs** the NCO Sergeant for 311 callbacks — this breaks the normal chain of command. This sounds like a Special Ops Lt job, but the PG assigns it to the CO directly. The exam may test who directs the NCO Sgt.
+
+### NCO Sergeant
+
+- Callback identified 311 callers daily — minimum **2 attempts** per caller, document all contacts
+- Take follow-up action: interview callers to determine if resolved or needs further action, confer with SOL
+- Create list of **chronic conditions** for the last 28-day period, update **weekly**, post at the desk
+- Ensure NCOs are aware of list of locations of 311 service requests in their sector
 
 ### 311 Assignment Types
 
-Abandoned Vehicle, Animal Abuse, Blocked Driveway, Drug Activity, Encampment, Illegal Fireworks, Mass Gathering, Noise (6 types), Panhandling, Squeegee, Vending
+Abandoned/Derelict Vehicle, Animal Abuse, Bike/Roller/Skate Chronic, Blocked Driveway, Disorderly Youth, Drinking, Drug Activity, Graffiti, Encampment, Homeless Street Condition, Illegal Fireworks, Mass Gathering Complaint, Noise (Commercial, House of Worship, Park, Residential, Street/Sidewalk, Vehicle), Non-Emergency Police Matter, Panhandling, Posting Advertisement, Squeegee, Traffic/Illegal Parking, Urinating in Public, Vending
+
+### 311 Requests with Media Files
+
+- Monitor and give **special attention** to 311 assignments that have media files (i.e., photos attached)
+
+### Referrals to Other City Agencies (Additional Data)
+
+- Refer conditions not within the Department's purview to the appropriate city agency
+- Call **311 DIRECT** (will NOT be created anonymously)
+- Provide: member's name, Dept email, smartphone # OR TS phone #
+- Obtain a **NEW Service Request #**
+- Make original request disposition **10-95** "Refer to Other Agency"
+- Put new # in **"Notes to Customer"** before finalizing old request
+
+### Integrity Issues (Additional Data)
+
+- **Improper parking permit use:** command concerned handles complaints (tow, 96, etc.) — give disposition (location, plate#, agency of plate, summons #, violation, etc.) to **Traffic Management Center**
+- Authorized MOS: sign on and sign off when unable to safeguard, even if for a brief period
+- MOS conducting oversight, analysis, investigation should use Dept computer system as appropriate
 
 ### Administrative
 
-- **OMAP** = designated liaison to NYC 311
 - Improperly routed requests: reassign via the 311 system
-- Referrals to other agencies: disposition **10-95** "Refer to Another Agency"
+- Computer issues: notify **ITB Service Desk** 24/7
+- System failures or program malfunctions: referred to **NYC DoITT Citywide Service Desk**
+- Document notifications in the **Telephone Record**
+
+### Training Sergeant
+
+- Conduct command level training on QOL matters, including instruction on operation of the 311 system
+
+### ICO
+
+- Randomly inspect for proper dispositions, compliance with reporting requirements, and system integrity
+- Investigate derelictions of duty or other deficiencies
 
 ### Supervisor Responsibilities
 
 - Second Platoon Desk Officer: review 311 system at 0800 daily
 - Desk officer: refresh 311 system at least every hour
 - Command Log: entries at beginning and end of each tour
-- Special Ops Lt: monthly audit, weekly chronic conditions update, review deferred requests
-- CO: direct daily callbacks with minimum 2 attempts per caller
+- Special Ops Lt: monthly audit, weekly chronic conditions update, review deferred requests, maintain deferred list by address
+- CO/XO: review QOL strategies, directly direct NCO Sgt for daily callbacks (min 2 attempts)
+- NCO Sgt: daily callbacks, create/update chronic conditions list weekly
 
-> **Exam Alert:** CHRONIC condition = **5+ requests** in **28 days**. Immediate response trigger = **5+ calls** in **8 hours**. Second Platoon Desk Officer reviews at **0800 daily**. Desk officer refreshes **at least every hour**. Special Ops Lt: **monthly** audit, **weekly** chronic conditions update. CO directs **daily** callbacks with minimum **2 attempts** per caller.
+> **Exam Alert:** CHRONIC condition = **5+ requests** in **28 days**. Immediate response trigger = **5+ calls** in **8 hours**. Second Platoon Desk Officer reviews at **0800 daily**. Desk officer refreshes **at least every hour**. Special Ops Lt: **monthly** audit, **weekly** chronic conditions update. CO directly directs NCO Sgt for **daily** callbacks with minimum **2 attempts** per caller. Deferrals are recorded in 311 system or the **Telephone Record** (NOT the Telephone Dispatch Log). When referring to another city agency, call 311 directly and obtain a new service request number.
 
-> **Sergeant Focus:** Multiple supervisory layers with different frequencies: hourly (desk officer refresh), daily (0800 review, callbacks), weekly (chronic conditions list), monthly (311 caller audit). The 10-42 code is used to notify Communications Section. Disposition 10-95 for referrals to other agencies.
+> **Sergeant Focus:** Multiple supervisory layers with different frequencies: hourly (desk officer refresh), daily (0800 review, callbacks), weekly (chronic conditions list), monthly (311 caller audit). The 10-42 code is used to notify Communications Section with location and type of job. Disposition 10-95 for referrals to other agencies. The CO breaks the chain of command by personally directing the NCO Sgt. Give special attention to 311 assignments with media files (photos).
 
 ---
 
@@ -11471,6 +16754,16 @@ These five procedures cover vehicle-related enforcement and snow emergency opera
 | Access Warrant | Court Order signed by a Supreme Court judge allowing DOB to inspect premises |
 | OMAP | Designated liaison between NYPD and NYC 311 |
 | CVTF | Citywide Vandals Task Force — handles graffiti vandal debriefing |
+| ACC | Animal Care and Control of NYC — responds to animal complaints |
+| ICAD Number | Identifier entered on Aided and Dangerous Animal/Bite Report |
+| LBB | Legal Bureau Bulletin — supplemental legal guidance that modifies or clarifies PG procedures |
+| Dwelling Unit | Any building or portion used as a home, residence, or sleeping place (includes private hotels with gov't funding; excludes hospitals, convents, NYCHA) |
+| Legitimate Occupancy | Tenant has a lease, occupied 30+ consecutive days, SRO requesting lease (verbal is sufficient), or sublet tenant |
+| Stay of Eviction | Court order to halt eviction — unenforceable once the eviction is already complete |
+| 72-Hour Notice of Service | Required notice before executing Warrant of Eviction; starts day after service, excludes weekends/holidays; NOT required for Repossession Orders |
+| Telephone Record | Document where 311 deferrals and notifications are recorded (not the Telephone Dispatch Log) |
+| Chronic 311 Condition | 5+ service requests in 28 days for the same specified condition at the same location |
+| NCO Sergeant (311) | Directed by CO to make daily callbacks to identified 311 callers; maintains 28-day chronic conditions list |
 
 ## Critical Numbers
 
@@ -11500,6 +16793,12 @@ These five procedures cover vehicle-related enforcement and snow emergency opera
 | 311 callback attempts | Minimum 2 per caller |
 | 311 Special Ops Lt audit frequency | Monthly |
 | 311 chronic conditions list update | Weekly |
+| Warrant of Eviction execution hours | Mon-Fri 0800-1700 |
+| Search Warrant execution hours | Mon-Fri 0600-2100 |
+| 72-hour Notice of Service | Starts day after service, excludes Sat/Sun/Holidays |
+| ACC Brooklyn Control Center | 24/7 |
+| ACC Rescue Units | Mon-Fri 0800-2000 |
+| ACC Other Control Centers | Tues-Sat (business hours) |
 
 ## Key Forms
 
@@ -11523,6 +16822,13 @@ These five procedures cover vehicle-related enforcement and snow emergency opera
 | 10-42 | Notify Communications Section (311 receipt) |
 | 10-90N | Notice Served (alarm) |
 | 10-95 | Refer to Another Agency (311 disposition) |
+
+## Key Legal Bureau Bulletins
+
+| LBB | Topic | Key Point |
+|-----|-------|-----------|
+| Vol 49 #1 (Aug 2019) | Unlawful Evictions | Adds Building/Health Code violations as eviction method; acts must be done for PURPOSE of eviction; police cannot break in to let tenant re-enter unless medicine vital to life is inside |
+| Vol 14 #8 | Warrant of Eviction | 72-hour Notice of Service required; starts day after service excluding weekends/holidays; no 72-hour notice for Repossession Orders; Order to Seize Property does not authorize forced entry unless explicitly stated |
 
 ## Summons Return Dates — Unlawful Eviction
 
@@ -11743,6 +17049,93 @@ The same principle applies to other civil enforcement (P.G. 214-13, 214-18): pol
 
 </details>
 
+## Question 16
+A landlord has cut off hot water to a tenant who has lived in the apartment for two months without a lease. The tenant calls police claiming unlawful eviction. Is this an unlawful eviction?
+
+<details><summary>Answer</summary>
+
+**No.** While the tenant has legitimate occupancy (30+ consecutive days), cutting off **hot water** alone is NOT an unlawful eviction. The exam has tested this directly. Essential services that qualify as unlawful eviction when denied include **heat**, **water**, and **electricity** — but **hot water** by itself does not meet the threshold. The acts must also be done for the **purpose** of eviction (per LBB Vol 49 #1). (P.G. 214-12)
+
+</details>
+
+## Question 17
+A city marshal arrives to execute a Warrant of Eviction at 1830 hours on a Wednesday. The tenant has a Stay of Eviction. The eviction was already completed earlier that day. What should the sergeant consider?
+
+<details><summary>Answer</summary>
+
+Two key issues:
+
+1. **Time:** Warrants of Eviction may only be executed **Monday-Friday 0800-1700**. At 1830 hours, the execution window has passed. (Do NOT confuse with Search Warrant hours of 0600-2100.)
+
+2. **Stay of Eviction:** Once the eviction is **complete**, a Stay of Eviction is **unenforceable**. Attempts to pay rent or produce a stay does NOT allow re-entry after the eviction is complete.
+
+Additionally, per LBB Vol 49 #1, police **cannot break in** to let the tenant re-enter **UNLESS** there is medicine inside that is vital to life. (P.G. 214-13)
+
+</details>
+
+## Question 18
+During a 311 assignment review, you notice a condition has been deferred. Where should the deferral be indicated — in the Telephone Dispatch Log, the Telephone Record, or the 311 system?
+
+<details><summary>Answer</summary>
+
+Deferrals should be indicated in the **311 system** or the **Telephone Record**, as appropriate. The deferred assignment gets an interim disposition of "Deferred" or "Open." Do **NOT** confuse the Telephone Record with the Telephone Dispatch Log — the exam specifically tests this distinction. Notifications are documented in the Telephone Record. (P.G. 214-35)
+
+</details>
+
+## Question 19
+Under P.G. 214-33, ESU is called to capture a dangerous dog. How is the animal transported, and what specific unit should be contacted if a search warrant is planned at a location known to have a dangerous dog?
+
+<details><summary>Answer</summary>
+
+**Transport:** **ESU bags the animal** and then an **RMP transports** the animal to an ACC facility. The kennel is placed in the **backseat** of the RMP (rear seat may be removed if necessary). An animal is **NEVER** placed in the trunk of a Department vehicle.
+
+**Search warrant:** If there is advance information of a dog at a warrant location, confer with the **Canine Unit of ESU** — not just any ESU team. (P.G. 214-33)
+
+</details>
+
+## Question 20
+Who directs the NCO Sergeant to make daily callbacks to identified 311 callers — the Special Ops Lt or the CO? How many attempts are required per caller?
+
+<details><summary>Answer</summary>
+
+The **CO personally directs** the NCO Sergeant to make daily callbacks to identified 311 callers. This breaks the normal chain of command — it sounds like a Special Ops Lt responsibility, but the PG specifically assigns this to the CO. A minimum of **2 attempts** per caller is required, and all contacts and attempts must be documented. The NCO Sgt then interviews callers to determine if assignments were resolved or need further action, and confers with the SOL. (P.G. 214-35)
+
+</details>
+
+## Question 21
+A complainant in an unlawful eviction case refuses to sign the summons. Can the UMOS still proceed? What modifications are needed when a civilian is the complainant?
+
+<details><summary>Answer</summary>
+
+**Yes.** If the complainant refuses to sign, the **UMOS can sign** "based on information and belief" — but only if the information is **complete**.
+
+When a **civilian is the complainant**, the following modifications are required on the summons:
+- Cross out "Complainant's" and "Complainant" and substitute "Officer's" and "Officer" on the front
+- Cross out "I personally observed..." above the complainant's name
+- On the rear of the original summons, enter the complainant's full name, rank/full signature, and "Date Affirmed" under the appropriate sections
+- Complainant's name, address, and phone number go on the bottom
+
+(P.G. 214-12)
+
+</details>
+
+## Question 22
+When referring a 311 condition to another city agency, what is the correct procedure? Can the referral be made anonymously?
+
+<details><summary>Answer</summary>
+
+The referral **cannot** be made anonymously. The correct procedure is:
+
+1. Call **311 directly**
+2. Provide: member's **name**, **Dept email**, and **smartphone number** (or TS phone number)
+3. Obtain a **new Service Request number**
+4. Make the original request disposition **10-95** ("Refer to Other Agency")
+5. Put the new service request number in **"Notes to Customer"** before finalizing the old request
+
+(P.G. 214-35)
+
+</details>
+
 ---
 
 # Section 215 — Juvenile Matters
@@ -11931,6 +17324,12 @@ ACS Child Protection Specialists carry **cellular telephones** issued by their a
 ### Patrol Supervisor (continued)
 
 13. Take appropriate action
+
+### Desk Officer — Shelter and Child Location
+
+> **Exam Alert:** The Desk Officer must secure shelter for the child and comply with PG 215-01 (Child/Minor Requiring Care/Shelter). The D.O. instructs the P/G to call ACS; if after hours, call ACS Emergency Children's Services. If the child is a victim of a crime or abused by P/G, NEVER return the child to the home. If another agency with removal authority is present, NYPD will NOT override their decision to remove a child.
+
+> **Exam Alert:** **NEVER** provide parents or guardian the **location of the child** after removal. This is a critical rule tested on the exam.
 
 ### Additional Data
 
@@ -12135,9 +17534,105 @@ For certain serious offenses designated as felonies (robbery, etc.):
 
 ## P.G. 215-10 — Arrest of Juvenile Offender/Adolescent Offender
 
-*(Text unavailable in source PDF — review original Patrol Guide)*
-
 This procedure covers the arrest and processing of Juvenile Offenders (JO) and Adolescent Offenders (AO), who are processed through the criminal justice system rather than Family Court.
+
+### Definitions
+
+> **Exam Alert:** Know the precise age definitions. An AO is a 16- or 17-year-old charged with ANY felony. A JO is age- and offense-specific.
+
+| Term | Definition |
+|------|-----------|
+| **Adolescent Offender (AO)** | A **16- or 17-year-old** charged with **any felony** |
+| **Juvenile Offender (JO)** | A **13-, 14-, or 15-year-old** charged with specific serious felonies (see below) |
+
+### 13-Year-Old — Very Limited JO Eligibility
+
+> **Exam Alert:** A 13-year-old can ONLY be a JO for two subdivisions of Murder 2nd Degree. Nothing else.
+
+- **Intentional Murder** (Murder 2nd, Sub 1) — Intend death, cause death to anyone
+- **Deathly Reckless Murder** (Murder 2nd, Sub 2) — Figured someone would get killed by their actions but did it anyway, and kills anyone
+
+### 14- and 15-Year-Olds — MAR BAR MAK + Gun
+
+> **Memory Aid — MAR BAR MAK + Gun:** The felonies that make a 14- or 15-year-old a Juvenile Offender:
+> - **M**urder 2nd degree (Subs 1, 2, AND 3) + Attempted Murder 2nd
+> - **A**ssault 1st degree (Subs 1 and 2)
+> - **R**ape 1st degree (Subs 1 and 2)
+> ---
+> - **B**urglary 1st degree (all subs) AND Burglary 2nd degree (Sub 1)
+> - **A**rson 1st degree (all subs) AND Arson 2nd degree (all subs)
+> - **R**obbery 1st degree (all subs) AND Robbery 2nd degree (Sub 2)
+> ---
+> - **M**anslaughter 1st degree
+> - **A**ggravated Sexual Abuse 1st degree
+> - **K**idnapping 1st degree (plus attempt)
+> ---
+> - **Gun:** CPW 2nd degree committed within 1000 feet of a school
+
+### MAR — Detailed Breakdown
+
+| Offense | Subdivision Details |
+|---------|-------------------|
+| **Murder 2nd** | Sub 1 = Intend death, cause death to ANYONE; Sub 2 = Deathly Reckless; Sub 3 = Felony Murder (perp or partner causes death to non-participant during/attempting/fleeing a felony) |
+| **Assault 1st** | Sub 1 = Intend S.P.I., cause S.P.I. with a D.W./I.; Sub 2 = Intend to Disfigure or Amputate |
+| **Rape 1st** | Sub 1 = Force; Sub 2 = Physically helpless |
+
+> **Exam Alert:** The Criminal Sexual Act (CSA) has been repealed — those acts are now included in "Rape." The 2024 Rape definition update now includes Vaginal AND Oral AND Anal.
+
+### BAR — Detailed Breakdown with Shortcuts
+
+| Offense | Details | JO Shortcut |
+|---------|---------|-------------|
+| **Burglary 2nd** | Sub 1 = Building + 1 of 4 aggravating factors | If there is an aggravating factor, it is a JO. No aggravating factor = No JO. |
+| **Burglary 1st** | = Dwelling + 1 of 4 aggravating factors | Whether dwelling or not does NOT matter for JO determination |
+| **Arson 2nd** | Intend damage by Fire, person inside, perp knew/should have known | If someone is home, it is a JO |
+| **Arson 1st** | Intend damage by Explosion, person inside, perp knew/should have known; OR Fire/Explosion + (S.P.I. or $$$ or Bomb/Incendiary) | — |
+| **Robbery 2nd** | Sub 2 = Cause P.I. | If there is an INJURY, it is a JO |
+| **Robbery 1st** | Cause S.P.I.; OR Armed with D.W.; OR Use/Threaten Immediate Use of D.I.; OR Display what appears to be a firearm | — |
+
+> **Exam Alert:** The 4 aggravating factors for Burglary (1/4): (1) Armed with explosive or Deadly Weapon, (2) Cause P.I. to non-participant, (3) Use/Threaten immediate use of Dangerous Instrument, (4) Display what appears to be a firearm.
+
+### Burglary vs. Arson — "Building" Definition Comparison
+
+| Feature | Burglary "Building" | Arson "Building" |
+|---------|-------------------|-----------------|
+| Structure, vehicle, watercraft for lodging/business | Same | Same |
+| Enclosed motor truck/trailer | Yes | Any vehicle powered by other than Muscle (excludes wheelchairs, rail, tracks, snowmobiles) |
+| Each unit (apt) is a separate "Building" | Yes | **No** — separate units in one structure are NOT separate charges of Arson |
+
+> **Exam Alert:** Burglary goes further than Arson and separately spells out a "school" as a building.
+
+### MAK — Detailed Breakdown
+
+| Offense | Details |
+|---------|---------|
+| **Manslaughter 1st** | Intend S.P.I., kill ANYONE. Also: intend death but under extreme emotional disturbance with reasonable explanation; or kill mom during unlawful abortion (pregnant >24 wks) |
+| **Aggravated Sexual Abuse 1st** | Insert Object, cause Injury by Force, Physically helpless, or Victim under 11 (10) |
+| **Kidnapping 1st** | Abduct + Intent to Compel Ransom ($, Property, Conduct); OR Abduct + Victim Dies; OR Abduct + More than 12 Hrs. AND Intent to commit one of 4: P.I./Sex Abuse, Advance Felony, Terrorize Anyone, Govt. Interference |
+
+> **Exam Alert — Key Note on Sex Crimes:** Rape 1st and Agg Sexual Abuse 1st have the same 3 subdivisions (Force, Physically Helpless, Victim <11). However, Rape Sub 3 (Vic <11) does **NOT** make a JO, but Agg Sex Abuse Sub 3 (Vic <11) **DOES** make a JO. This is a critical distinction.
+
+### Gun — CPW 2nd Degree on School Grounds
+
+- "Loaded" Firearm, Machine Gun, Disguised Gun — **WITH INTENT**
+- "Loaded" Firearm — **OUTSIDE** of Home or Office (moved up from 3rd degree)
+- 5 or more firearms
+
+> **Exam Alert:** "Loaded" means the person has ammo **in his possession**. It does NOT actually have to be loaded in the gun.
+
+- Violation of this statute alone does NOT make a 14+ year-old a JO
+- Gun must be possessed on **"School Grounds"** (defined in Penal Law Section 220.00 Sub 14):
+  - Inside the property line of a school (Elementary up to and including High School), OR
+  - Outside the property line but **within 1000 feet in a Public Place** (includes parked vehicle)
+
+### Deadly Weapons — 9 Types
+
+> **Memory Aid — 9 DEADLY WEAPONS (for Burglary aggravating factor):**
+> - 1 Loaded weapon (whose shot can cause S.P.I./D.O.A.)
+> - 4 Slappers: Blackjack, Billy, Metal Knuckles, **Plastic Knuckles**
+> - 4 Knives: Switchblade knife, Pilum Ballistic knife, Metal knuckle knife, Dagger
+
+> **Exam Alert:** Note that Plastic Knuckles are included as a Deadly Weapon. There are exactly 9 deadly weapons defined in Penal Law Section 10.00.
 
 ---
 
@@ -12205,7 +17700,7 @@ This procedure covers the personal recognizance process for juvenile delinquents
 
 # Section 215 — Lost, Runaway, and At-Risk Children
 
-Covers: P.G. 215-01, 215-02, 215-03, 215-04, 215-05
+Covers: P.G. 215-01, 215-02, 215-03 (S.C.A.M.), 215-04, 215-05
 
 ---
 
@@ -12215,6 +17710,21 @@ Covers: P.G. 215-01, 215-02, 215-03, 215-04, 215-05
 
 This procedure addresses the handling of children or minors who require care and/or shelter. It is cross-referenced in multiple other Section 215 procedures.
 
+> **PG Conflict:** PG 215-01 says the UMOS should inquire if a **relative OR friend** will provide care for a child under 18. PG 215-02 (Lost Child) does **NOT** say "friend" — only **relative**. Know this distinction for the exam.
+
+### Key Comparisons: 215-01 vs. 215-02
+
+| Feature | 215-01 (Child Requiring Care/Shelter) | 215-02 (Lost Child) |
+|---------|---------------------------------------|---------------------|
+| Age listed | Under 18 | **NO** age listed |
+| First responder | UMOS | UMOS |
+| Who can take child | Relative **OR** friend | Only **relative** (no friend) |
+| If not located | UMOS notifies ACS | Bring child to command |
+| YCO notification | UMOS notifies YCO that child is in command | Desk Officer notifies YCO **always** |
+| D.O. special step | If left with relative/friend not in household, send copy of aided to Y.O., pct where child located | N/A |
+
+> **Exam Alert:** The exam may test the difference between 215-01 and 215-02. In 215-01, a "friend" can take the child; in 215-02, only a "relative" can. Also note that 215-01 specifies "under 18" while 215-02 lists no specific age.
+
 ---
 
 ## P.G. 215-02 — Lost Child
@@ -12223,10 +17733,12 @@ This procedure addresses the handling of children or minors who require care and
 
 ### Uniformed Member of the Service
 
-1. Notify desk officer/counterpart and radio dispatcher
+1. Notify desk officer/counterpart **AND** radio dispatcher
 2. Make brief inquiry in vicinity of place where found
-3. Bring child to command if relative not located
+3. If **relative** not located (*does NOT say friend as in 215-01*), bring child to command
 4. Prepare AIDED REPORT
+
+> **Prior Test:** A past promotion test asked: "What is the FIRST step when a UMOS finds a lost child?" — The correct answer is **notify the Desk Officer/counterpart AND the Radio Dispatcher**. The exam tested "first step" language specifically.
 
 ### Desk Officer
 
@@ -12267,11 +17779,156 @@ This procedure addresses the handling of children or minors who require care and
 
 ---
 
-## P.G. 215-03 — Emergency Removals or Investigations and Reporting of Abused, Neglected or Maltreated Children
-
-*(Text unavailable in source PDF — review original Patrol Guide)*
+## P.G. 215-03 — Suspected Child Abuse/Maltreatment — S.C.A.M. (Emergency Removal Procedure)
 
 This procedure covers emergency removals, investigations, and the reporting requirements for abused, neglected, or maltreated children. It includes addresses for ACS borough field offices and ACS Emergency Children's Services. It is extensively cross-referenced throughout Section 215.
+
+> **Exam Alert:** PG 215-03 is one of the most detailed procedures in Section 215. Know the role distinctions between UMOS, Patrol Supervisor, Desk Officer, YCO, and DVPO. The "Paper Chase" of 6 reports is a frequently tested detail.
+
+### UMOS — Initial Response
+
+1. **Request response of Patrol Supervisor (ALWAYS)**
+2. **IF** imminent danger **AND** parental/guardian consent:
+   - Take child before supervisor arrives
+3. **IF** UMOS does not have consent of parent/guardian:
+   - Wait for supervisor to arrive and authorize removal
+
+> **Exam Alert:** The Patrol Supervisor must ALWAYS be requested. The only time UMOS can act before the supervisor arrives is when there is imminent danger AND parental consent.
+
+### Patrol Supervisor — Emergency Removal Authority
+
+- **IF** there is reasonable cause to believe that continued presence in the home is imminently dangerous to child's life or health **AND** there is no time to get a Court Order:
+  - Direct removal of child without parental consent
+
+> **Exam Alert:** Diplomatic immunity of the person/residence shall NOT be a factor in the emergency removal analysis. The C.O./Duty Captain supervises removal and must comply with PG 212-56.
+
+### UMOS — Continued Actions
+
+- If probable cause a crime was committed: **Effect an Arrest (no DAT)**
+- Non-abusing parent/guardian: Advise of services for child, provide phone number for **"SAFE HORIZON"**
+- Domestic Violence: Look for indicators of other DV; prepare a separate 61 if appropriate
+
+### Custody of Child
+
+- Remove child to command **OR** Child Advocacy Center (CAC)
+  - Child remains at CAC until picked up by relative, friend, or ACS
+- If medical attention needed: take the child to the hospital
+
+> **Exam Alert:** The child is NEVER returned to the home if the child is a victim of a crime or abused by parent/guardian. If another agency with removal authority is present, NYPD will NOT override their decision to remove a child.
+
+### Patrol Supervisor — Notice of Removal
+
+- Direct UMOS to serve or affix **Notice-Temporary Removal of Child and Right to Hearing** to parent/guardian
+
+### The Paper Chase — 6 Reports
+
+> **Memory Aid — PAPER CHASE (6 Reports):**
+> 1. **C**omplaint Report
+> 2. **D**IR (Domestic Incident Report)
+> 3. **S**CAM (Report of Suspected Child Abuse or Maltreatment)
+> 4. **A**ided Report
+> 5. **N**otice — Temporary Removal of Child and Right to Hearing
+> 6. **A**ffidavit of Service of Notice
+
+- **Complaint but NO removal:** Reports 1, 2, and 3 are prepared
+- **Complaint AND Removal:** All 6 reports are prepared
+
+### UMOS — State Central Registry Notification
+
+- Notify **NYS Child Abuse and Maltreatment Register (State Central Registry)**
+  - If NYS refuses the case: enter time and name in Telephone Record (still make the form)
+  - If NYS accepts the case: enter Registry Number on SCAM report in "State Registry Number" box
+- Notify **ACS**:
+  - Borough field office (9-5) or Emergency Children's Services (ECS) if after hours
+  - ACS Instant Response Team Coordinator
+
+### Mail Call — Who Mails What and When
+
+| Paper | Mailed Out... | By Whom | To Where |
+|-------|--------------|---------|----------|
+| NOTICE | In 24 hours | UMOS | — |
+| AFFIDAVIT | In 24 hours (except weekends/holidays) | D.O. | Family Court in **removal** borough |
+| SCAM | Next department mail | D.O. | ACS Office in **residence** borough |
+
+> **Exam Alert:** The Affidavit goes to Family Court in the borough of **removal**. The SCAM goes to ACS in the borough of **residence**. These are different boroughs — do not confuse them.
+
+### SCAM Report Distribution (Desk Officer)
+
+- Original and 2nd copy to ACS field office in **borough where child resides**
+  - Via Department mail to precinct where ACS office is located
+  - D.O. at that command has mail delivered daily except Sat/Sun
+- If child resides outside city or with someone other than P/G (e.g., group home):
+  - Report to ACS in Manhattan
+- 3rd copy to YCO, 4th copy with the Aided Report to Youth Strategies Division
+- File copy with DIR attached
+
+### Notice of Removal — Service and Affidavit
+
+- UMOS serves parent/guardian with Notice of Removal **OR** affixes to door if P/G not present
+  - If affixed to door: member must also **MAIL** a copy out in 24 hours
+  - If residence is in another command: D.O. of that command ensures Notice served or posted
+- If P/G not notified of removal: comply with PG 216-03 (Unidentified Persons)
+- If identity of parent(s) or residence is unknown or outside NYC: Detective makes notification
+
+### Affidavit
+
+- UMOS who served Notice OR posted and mailed it **must** prepare the Affidavit
+- **Desk Officer:** Countersign Affidavit AND mail to Family Court in **borough of removal** within 24 hours (except weekends/holidays)
+- Ensure notification efforts are noted on the Affidavit
+
+> **Exam Alert:** Never provide parents or guardian the location of the child.
+
+### Referral — Age-Based Squad Notification
+
+| Condition | Refer To |
+|-----------|----------|
+| Victim less than 11 (10) abused by P/G | Special Victims Unit |
+| Sex Crime, any age (includes attempts) | Special Victims Unit |
+| All other SCAM Reports | PDU |
+
+### Youth Coordination Officer (YCO) Responsibilities
+
+- Inspect all copies of SCAM including reports prepared by TB/HB — provide SCAM Report **Serial Number**
+- Review other precinct records: confer with DV Sgt and assigned PDS investigator
+  - Check JR, Complaint Index, Aided Index, DIRs for previous contacts from the home
+- Make a folder for each SCAM report (whether removed or not), include all forms
+  - If review reveals need for further investigation: Document in ECMS and notify detective squad
+  - Enter results of review on rear of SCAM and forward to Youth Strategies Division
+- Maintain liaison with appropriate ACS Field Office
+
+### Domestic Violence Prevention Officer (DVPO) Responsibilities
+
+- Review DIR for accuracy and completeness
+- Record DIR in Precinct Domestic Incident Log
+- Enter information from DIR into Domestic Incident Report Database
+- Forward copy of DIR to Precinct Domestic Violence Investigator
+- Maintain file of DIRs (including copies of SCAM when attached)
+- Monitor at-risk locations and victims
+- Relay information of any other offenses committed within the household to **YCO AND the assigned investigator**
+- Maintain contact with complainants and advise them of rights and shelter availability
+
+### Radio Disposition Codes
+
+> **Exam Alert:** Child abuse uses "J" codes. If child abuse did NOT take place but other domestic violence occurred, use DV "F" codes instead.
+
+| Code | Meaning |
+|------|---------|
+| **10-90J(1)** | D.I.R. made, no offense |
+| **10-90J(2)** | D.I.R. made, Unfounded |
+| **10-92J** | D.I.R. made, Arrest |
+| **10-93J** | D.I.R. made, 61 Prepared |
+| **10-68A** | ACS escort |
+| **10-75F** | Home visit |
+
+> **Exam Alert:** If child abuse did not take place but other types of domestic violence occurred, use DV disposition codes with "F" suffix: 10-90F(1), 10-90F(2), 10-92F, 10-93F.
+
+### SVU — Instant Response Tracking Unit (SVU-IRST)
+
+- State Central Registry accepts law enforcement referrals from all mandated reporters (teachers, doctors, police) and the general public
+- Reports may be faxed to the SVU-IRTU who will determine the appropriate police response, including referral to a patrol precinct for initial investigation
+- SVU-IRTU may prepare a COMPLAINT REPORT and refer to the appropriate detective squad
+
+> **See Also:** PG 212-56 — Diplomatic immunity procedures related to emergency removal situations.
 
 ---
 
@@ -12329,9 +17986,127 @@ Covers: P.G. 215-13, 215-16, 215-17, 215-18, 215-27
 
 ## P.G. 215-13 — Handcuffing/Restraining Students in Schools
 
-*(Text unavailable in source PDF — review original Patrol Guide)*
+This procedure addresses the use of handcuffs and restraints on students in school settings, including students in emotional crisis, types of restraint, and the arrest process at schools.
 
-This procedure addresses the use of handcuffs and restraints on students in school settings.
+### Students in Emotional Crisis
+
+**Responding to a 911 call:**
+- Notify the principal (if not aware)
+- Request the presence of the school's **Crisis Intervention Team**
+- Inquire from school staff whether the crisis intervention plan has been followed prior to the call
+
+**Responding to a request from the principal or school's Crisis Intervention Team:**
+- Inquire:
+  - What de-escalation techniques were used by school staff
+  - Whether the parent/guardian has been notified
+  - Whether the student has a disability or other medical, mental, physical, or emotional condition
+  - Whether the school's Crisis Intervention Team has been notified
+  - Whether the crisis intervention plan has been followed prior to the request to intervene
+
+> **Exam Alert:** Unless responding to a 911 call or a request to intervene from the principal or school's Crisis Intervention Team, MOS must first observe the student and circumstances to determine if there is an imminent and substantial risk of physical or serious physical injury to anyone BEFORE engaging.
+
+- MOS may respond to a student in emotional crisis to prevent **imminent and substantial risk** of "physical injury" or "serious physical injury"
+- Use of mechanical restraints and response of EMS should only be used when a student's behavior creates an imminent and substantial risk of "physical injury" or "serious physical injury" to anyone
+
+### Types of Restraint
+
+| Type | Description | When Used |
+|------|------------|-----------|
+| **Constructive Restraint** | Physical control with NO restraining device; using minimal force to control movement | Child who is obeying commands; to ensure safety of child |
+| **Alternative Restraint** | Velcro device (alternative to metal handcuffs) for possible safety/flight risk and/or non-compliant child | Used only by MOS trained in them; all SSAs carry them and are trained |
+| **Metal Handcuffs** | Standard metal cuffs — LAST RESORT | When other means are not effective and risk of bodily harm exists |
+
+### Restraining Students — Key Rules
+
+> **Exam Alert:** Handcuffs/alternative restraints/Velcro cuffs should NOT be placed on a student while in a classroom, cafeteria, or area where other students are located. Coordinate with school officials to move student to a semi-private location (principal's office, school security office).
+
+- When possible and appropriate: MOS should confer and coordinate with school administrative staff (Principal/designee and school's Crisis Intervention Team) to reduce or eliminate the necessity to use force
+- Absent exigent circumstances, coordinate with school officials to have student removed to a **semi-private location**
+
+### Metal Cuffs — Age Restrictions
+
+> **Exam Alert:** Metal cuffs should NOT be used on students less than 12 (11) years old without prior approval of a Precinct NCO Sergeant, Patrol Sergeant, or School Safety Supervisor. Metal cuffs are a LAST RESORT.
+
+- Prior to metal cuffs: strongly consider verbal command, constructive or alternative restraint for **Non-Criminal Incidents**
+- Incidents related to school discipline only are generally **not a police matter** — MOS will ordinarily defer to school officials
+
+### Handcuffed to a Fixed Object — Children Under 12
+
+> **Exam Alert:** A student less than 12 will NOT be handcuffed to a restraining bar, chair, railing, or other fixed objects. Child must be kept under constant observation by UMOS/SSA at all times.
+
+### Level of Restraint by Age
+
+| Age | Restraint Standard |
+|-----|-------------------|
+| **Under 16** | Use reasonable belief standard to determine level (Constructive or Alternative). Consider alternatives generally for child less than 12, but any child less than 16 is eligible. |
+| **16 and above** | When necessary to handcuff, metal handcuffs will be used. Alternative restraints will **NOT** be utilized for students 16 and above. |
+
+### Factors for Determining Type of Restraint
+
+- **Physical:** Age and physical stature of child
+- **Offense:** Type of offense/nature of incident; use of weapons
+- **History:** Reputation with school authorities; history of emotional/behavioral difficulties
+- **Escape Risk:** Possible risk of escape
+- **Demeanor and Compliance:** Child's demeanor; compliance with instructions; demonstrating behavior that may cause imminent harm to self or others
+- **Parent/Guardian:** Presence of child's parent/guardian
+- **Special Circumstances:** Special Education Status; medical, mental, physical/emotional condition/limitation of child
+
+### Juvenile Removed to Department Facility
+
+> **Exam Alert:** When a juvenile is removed to a Department facility, notification must be made to the **Juvenile Crime Desk**. The Juvenile Crime Desk will assist supervisors in determining whether a juvenile should be released on a Juvenile Report System Worksheet or processed as a JD.
+
+### The Arrest Steps — UMOS/SSA Level I-III
+
+1. **Inform** school personnel of decision to arrest and basis UNLESS fight, flight, etc.
+2. **Notify, confer & coordinate** with SSD personnel AND principal/designee prior, UNLESS exigents exist
+   - If conferrals not possible due to exigents: notify SSD and principal/designee ASAP after arrest/restraint for emotional issues
+   - Discuss the option of referring low-level non-violent crimes/violations to school officials in lieu of arrest or summons
+3. **Remove student** if possible to semi-private location (principal's office, school security office)
+4. **Inform student** of authority and cause for arrest or summons, UNLESS physical resistance, flight, or other factors render impractical
+5. **Restraint** — Use appropriate restraint when applicable
+6. **Arrest Effected:**
+   - Request Pct NCO Sgt to respond OR, if NCO Sgt n/a, request Patrol Supervisor
+
+> **Exam Alert — PRIOR to arrest:** Absent exigents, notify **School Safety Division's Operations Unit** with info per PG 215-17 (name of school, suspect, charge, date of incident, date reported). Put Log # obtained from Ops in Activity Log.
+
+7. **Violation** — If offense is a violation, do **NOT** remove subject from a school to a Department facility
+8. **Observation** — Keep student under constant supervision regardless of level of restraint used
+
+### Rear-Handcuff Policy
+
+> **Exam Alert:** Department policy is to **rear-handcuff** students who are arrested in a school facility UNLESS mitigating circumstances dictate otherwise. Consideration should be given to student's age or special needs status. A decision may be made not to rear-handcuff when special circumstances exist.
+
+### Low-Level Misdemeanors or Violations
+
+- After review of incident by MOS and conferral with school principal/designee, non-violent misdemeanors may be referred to school officials for appropriate action
+
+### Precinct NCO Sergeant/Patrol Supervisor — Arrest Situation
+
+- Respond to school and verify probable cause exists to support the arrest
+- **Restraint:** Assess the type of restraint used and direct change in level as appropriate
+  - Metal cuffs used on student less than 12: **Notify CO/XO/Duty Captain**
+- **School Objects:** If school administrator objects to arrest, advise them to contact *their* Legal Department
+
+> **Exam Alert — Metal Cuffs on Child Under 12:** The C.O./X.O./Duty Captain must investigate and prepare a Report on Typed Letterhead including determination of necessity and appropriateness. Forward report to Chief of Patrol with copy to Commanding Officer, School Safety Division.
+
+### Precinct NCO Sergeant — School Meeting
+
+- At start of school year, meet with principals **in command** to apprise them of Department's cuffing guidelines
+
+### SSA Level I-II — Police Action
+
+- Be aware of all police action taken on school grounds
+- Document any police action taken on **SCHOOL SAFETY DIVISION CRIMINAL INCIDENT REPORT**
+
+### Probable Cause Determination
+
+> **Exam Alert:** Whether probable cause to arrest exists will be determined by the **Police Department**. While the desires of school personnel may be considered, the views of school personnel are **NOT controlling**. If conflict arises between UMOS and school personnel, UMOS will request response of Precinct NCO Sergeant or Patrol Supervisor. Under **no circumstances** will school personnel be permitted to interfere with an arrest the NCO Sgt or Patrol Supervisor has deemed warranted.
+
+### Legal Considerations
+
+- Whether the school is a DOE facility or NOT, MOS will adhere to the procedure and fulfill their duties as outlined within their scope of responsibilities
+
+> **See Also:** PG 215-17 — Police Actions at DOE Schools for pre-arrest notification requirements.
 
 ---
 
@@ -12397,11 +18172,14 @@ The following offenses warrant arrest ON school property:
 > - Off-campus arrest was considered for off-campus incidents
 > - Student records were not accessed without proper legal authority
 
+> **See Also:** PG 215-13 — Handcuffing/Restraining Students in Schools, which details the arrest steps, restraint types, and rear-handcuff policy.
+
 ### Related Procedures
 
 - On-Line Juvenile Report System (P.G. 215-08)
 - School Safety Division procedures
 - Reporting School-Related Criminal Incidents (P.G. 215-16)
+- Handcuffing/Restraining Students in Schools (P.G. 215-13)
 
 ### Forms and Reports
 
@@ -12546,6 +18324,33 @@ CO makes final determination
 | **10-68A** | Radio code: ACS CPS assistance request | P.G. 215-22 |
 | **10-84** | Radio code: arrival at ACS CPS scene | P.G. 215-22 |
 | **Section 1024 FCA** | Authorizes emergency removal of children | P.G. 215-22 |
+| **MAR BAR MAK + Gun** | Mnemonic for felonies making a 14/15-year-old a Juvenile Offender: Murder/Assault/Rape, Burglary/Arson/Robbery, Manslaughter/Agg Sexual Abuse/Kidnapping, + CPW 2nd within 1000 ft of school | P.G. 215-10 |
+| **S.C.A.M.** | Suspected Child Abuse or Maltreatment — the report (and procedure PG 215-03) for investigating and documenting child abuse/neglect cases | P.G. 215-03 |
+| **Paper Chase (6 Reports)** | The 6 documents prepared in a child removal case: Complaint Report, DIR, SCAM, Aided Report, Notice of Removal, Affidavit of Service. Only 3 are prepared if no removal (Complaint, DIR, SCAM). | P.G. 215-03 |
+| **Constructive Restraint** | Physical control with no restraining device, using minimal force necessary to control movement. Used for a child who is obeying commands. | P.G. 215-13 |
+| **Alternative Restraint** | Velcro device used as an alternative to metal handcuffs for possible safety/flight risk and/or non-compliant child. Used only by MOS trained in them; all SSAs carry and are trained. | P.G. 215-13 |
+| **Crisis Intervention Team** | School-based team that should be requested when responding to a student in emotional crisis. MOS should inquire about their involvement before engaging. | P.G. 215-13 |
+| **Deadly Weapon (9 types)** | 1 loaded weapon (shot can cause S.P.I./D.O.A.), 4 slappers (blackjack, billy, metal knuckles, plastic knuckles), 4 knives (switchblade, pilum ballistic, metal knuckle, dagger). Defined in Penal Law Section 10.00. | P.G. 215-10 |
+| **School Grounds** | For CPW 2nd degree JO purposes: inside school property line (elementary through high school) OR outside property line but within 1000 feet in a public place (includes parked vehicle). Penal Law Section 220.00 Sub 14. | P.G. 215-10 |
+| **SVU-IRST (Instant Response Tracking Unit)** | SVU unit that accepts law enforcement referrals from State Central Registry, determines appropriate police response, and may prepare complaint reports. | P.G. 215-03 |
+| **Safe Horizon** | Organization whose phone number is provided to the non-abusing parent/guardian for child services. | P.G. 215-03 |
+| **Juvenile Crime Desk** | Notified when a juvenile is removed to a Department facility. Assists supervisors in determining whether juvenile should be released on JR Worksheet or processed as JD. | P.G. 215-13 |
+| **10-90J(1)** | Radio disposition: D.I.R. made, no offense (child abuse "J" code) | P.G. 215-03 |
+| **10-92J** | Radio disposition: D.I.R. made, Arrest (child abuse "J" code) | P.G. 215-03 |
+| **10-93J** | Radio disposition: D.I.R. made, 61 Prepared (child abuse "J" code) | P.G. 215-03 |
+| **10-75F** | Radio disposition: Home visit | P.G. 215-03 |
+
+## Critical Numbers and Ages (Additional)
+
+| Number/Age | Significance | Source |
+|------------|-------------|--------|
+| **13-year-old JO** | Can ONLY be a JO for Murder 2nd degree, Subs 1 and 2 (Intentional and Deathly Reckless) | P.G. 215-10 |
+| **14- and 15-year-old JO** | Full MAR BAR MAK + Gun list applies | P.G. 215-10 |
+| **Under 12 (restraint)** | Metal cuffs should NOT be used without prior supervisor approval; NOT handcuffed to fixed objects | P.G. 215-13 |
+| **16 and above (restraint)** | Metal handcuffs used when necessary; alternative restraints will NOT be utilized | P.G. 215-13 |
+| **1000 feet** | Distance from school that defines "School Grounds" for CPW 2nd degree JO | P.G. 215-10 |
+| **24 hours** | Time limit for mailing Notice of Removal (UMOS) and Affidavit (D.O. to Family Court) | P.G. 215-03 |
+| **9** | Number of Deadly Weapons defined in Penal Law Section 10.00 | P.G. 215-10 |
 
 ## Key Forms
 
@@ -12557,6 +18362,10 @@ CO makes final determination
 | COMPLAINT REPORT WORKSHEET | PD313-152A | Criminal complaints involving juveniles |
 | MIRANDA WARNINGS FOR JUVENILE INTERROGATIONS | PD244-1413 | Juvenile questioning |
 | ON LINE BOOKING SYSTEM ARREST WORKSHEET | PD244-159 | Juvenile arrests |
+| DIR (DOMESTIC INCIDENT REPORT) | — | Child abuse cases involving DV; part of Paper Chase |
+| NOTICE — TEMPORARY REMOVAL OF CHILD AND RIGHT TO HEARING | — | Served on P/G or affixed to door when child is removed |
+| AFFIDAVIT OF SERVICE OF NOTICE | — | Documents who served/posted/mailed the Notice; D.O. countersigns and mails to Family Court |
+| SCHOOL SAFETY DIVISION CRIMINAL INCIDENT REPORT | — | SSA Level I-II documents police action on school grounds |
 
 ---
 
@@ -12866,6 +18675,146 @@ P.G. 215-22 — ACS CPS may request police assistance for four specific reasons:
 
 ---
 
+## Question 16
+
+Under P.G. 215-02, what is the FIRST step a UMOS should take upon finding a lost child?
+
+- A) Bring the child to the command
+- B) Prepare an Aided Report
+- C) Notify the desk officer/counterpart AND radio dispatcher
+- D) Make inquiry in the vicinity of where the child was found
+
+<details>
+<summary>Answer</summary>
+
+**C) Notify the desk officer/counterpart AND radio dispatcher**
+
+P.G. 215-02 — A past promotion test asked this exact question. The first step is to notify the Desk Officer/counterpart AND the Radio Dispatcher. Making inquiry in the vicinity comes second, followed by bringing the child to the command if a relative is not located.
+
+</details>
+
+---
+
+## Question 17
+
+Under P.G. 215-01 (Child/Minor Requiring Care/Shelter), who may take custody of a child? Compare this to P.G. 215-02 (Lost Child).
+
+- A) Both procedures allow a relative or friend to take the child
+- B) 215-01 allows a relative or friend; 215-02 allows only a relative
+- C) Both procedures allow only a relative to take the child
+- D) 215-01 allows only a relative; 215-02 allows a relative or friend
+
+<details>
+<summary>Answer</summary>
+
+**B) 215-01 allows a relative or friend; 215-02 allows only a relative**
+
+P.G. 215-01 states the UMOS should inquire if a "relative OR friend" will provide care. P.G. 215-02 says only "relative" — it does NOT say friend. This is a critical distinction between the two procedures.
+
+</details>
+
+---
+
+## Question 18
+
+Under P.G. 215-03 (Suspected Child Abuse/Maltreatment), when a complaint is made but NO child removal occurs, how many reports are prepared?
+
+- A) 1 report
+- B) 3 reports
+- C) 4 reports
+- D) 6 reports
+
+<details>
+<summary>Answer</summary>
+
+**B) 3 reports**
+
+P.G. 215-03 — The "Paper Chase" requires: Complaint but NO removal = 3 reports (Complaint Report, DIR, and SCAM). When there IS a removal, all 6 reports are prepared (adding Aided Report, Notice of Removal, and Affidavit of Service).
+
+</details>
+
+---
+
+## Question 19
+
+Under P.G. 215-03, the Affidavit of Service of Notice must be mailed by the Desk Officer to Family Court in which borough?
+
+- A) The borough where the child was found
+- B) The borough where the child resides
+- C) The borough of removal
+- D) The borough where the precinct of arrest is located
+
+<details>
+<summary>Answer</summary>
+
+**C) The borough of removal**
+
+P.G. 215-03 — The Affidavit goes to Family Court in the borough of REMOVAL (within 24 hours, except weekends/holidays). The SCAM report, by contrast, goes to the ACS Office in the borough of RESIDENCE. Do not confuse the two.
+
+</details>
+
+---
+
+## Question 20
+
+Under P.G. 215-13, metal handcuffs should NOT be used on a student less than what age without prior approval of a supervisor?
+
+- A) 10 years old
+- B) 11 years old
+- C) 12 years old
+- D) 16 years old
+
+<details>
+<summary>Answer</summary>
+
+**C) 12 years old**
+
+P.G. 215-13 — Metal cuffs should NOT be used on students less than 12 (11) years old without prior approval of a Precinct NCO Sergeant, Patrol Sergeant, or School Safety Supervisor. Metal cuffs are a last resort. Also, a student less than 12 will NOT be handcuffed to a fixed object.
+
+</details>
+
+---
+
+## Question 21
+
+A 14-year-old commits a Robbery 2nd degree, Sub 2 (causing physical injury). Under P.G. 215-10, is this person a Juvenile Offender?
+
+- A) No, because Robbery 2nd is not serious enough
+- B) Yes, because Robbery 2nd Sub 2 (causing P.I.) is on the JO list
+- C) No, because a 14-year-old can only be a JO for Murder 2nd
+- D) Yes, but only if a deadly weapon was used
+
+<details>
+<summary>Answer</summary>
+
+**B) Yes, because Robbery 2nd Sub 2 (causing P.I.) is on the JO list**
+
+P.G. 215-10 — Under the MAR BAR MAK + Gun mnemonic, Robbery 2nd degree Sub 2 (causing physical injury) makes a 14- or 15-year-old a Juvenile Offender. The shortcut: if there is an INJURY in a robbery, it is a JO.
+
+</details>
+
+---
+
+## Question 22
+
+Under P.G. 215-13, when a conflict arises between a UMOS who wishes to arrest a student and school personnel who object, what is the proper course of action?
+
+- A) Defer to the school principal's wishes
+- B) Contact the School Safety Division Operations Unit for guidance
+- C) Request response of the Precinct NCO Sergeant or Patrol Supervisor; school personnel may NOT interfere with an arrest deemed warranted
+- D) Release the student and file a report for follow-up
+
+<details>
+<summary>Answer</summary>
+
+**C) Request response of the Precinct NCO Sergeant or Patrol Supervisor; school personnel may NOT interfere with an arrest deemed warranted**
+
+P.G. 215-13 — Whether probable cause exists is determined by the Police Department. While school personnel's views may be considered, they are NOT controlling. Under no circumstances will school personnel be permitted to interfere with an arrest the NCO Sgt or Patrol Supervisor has deemed warranted. If the school administrator objects, advise them to contact their Legal Department.
+
+</details>
+
+---
+
 # Section 216 — Aided Cases
 
 ## Chapter Overview
@@ -12898,8 +18847,9 @@ After studying this chapter, you should be able to:
 | [section-216-special-aided.md](section-216-special-aided.md) | 216-07, 216-08, 216-09, 216-10, 216-11, 216-12 (cross-ref) |
 | [section-216-auxiliary-transit-notifications.md](section-216-auxiliary-transit-notifications.md) | 216-13, 216-14, 216-15, 216-16 |
 | [section-216-medical-programs.md](section-216-medical-programs.md) | 216-17 (cross-ref), 216-18 (cross-ref), 216-19, 216-20, 216-21, 216-22 |
-| [key-terms.md](key-terms.md) | Definitions, forms, critical numbers |
-| [review-questions.md](review-questions.md) | 20 multiple-choice exam prep questions |
+| [section-216-overdose-incidents.md](section-216-overdose-incidents.md) | 216-23 |
+| [key-terms.md](key-terms.md) | Definitions, forms, mnemonics, critical numbers |
+| [review-questions.md](review-questions.md) | 28 multiple-choice exam prep questions |
 
 ## Study Tips
 
@@ -12908,6 +18858,10 @@ After studying this chapter, you should be able to:
 - Understand the difference between **988 hotline** referrals and EDP handling (P.G. 216-01).
 - Know when uniformed members **will NOT** respond (nursing homes, DOC facilities).
 - The **investigating supervisor hierarchy** for auxiliary police injuries (P.G. 216-13) is testable.
+- Learn the **CHILD-ERS** mnemonic for the 8 aided case categories and **I C no P.A.I.N.** for Routine Sick at Home.
+- Know **TED the M.D. from D.C.** for the 7 categories of persons who may disturb a dead body.
+- Understand the **3 triggers** for requesting detective squad at overdose scenes: DOA, likely to die, NLX administered.
+- Remember hypodermic needles are **NOT** drug paraphernalia and Naloxone is **NOT** a controlled substance.
 
 ---
 
@@ -13186,10 +19140,12 @@ To ensure that notifications to concerned authorities and relatives are properly
 | 3 | Obtain names of witnesses and detain at scene if death is suspicious |
 | 4 | Screen area from public view, if possible |
 | 5 | Cover body with waterproof covering, if publicly exposed |
+
+> **See Also:** P.G. 219-01 — The Patrol Supervisor's car must have **4** waterproof body covers per P.G. 219-01.
 | 6 | Ascertain facts and notify desk officer as soon as possible |
 | 7 | Request aided be removed to hospital or doctor dispatched if pronouncement of death by ambulance attendant, EMT, or paramedic is questioned by anyone |
 
-> **Exam Alert:** FDNY EMS policy permits EMS personnel to **depart a location** of a deceased person prior to police arrival if: (1) a responsible adult is present, (2) no reasonable belief a crime was committed, and (3) the deceased is in a secure location.
+> **Exam Alert — EMS 90Z:** FDNY EMS policy permits EMS personnel to **depart a location** of a deceased person prior to police arrival if: (1) a responsible adult is present, (2) no reasonable belief a crime was committed, and (3) the deceased is in a secure location. If EMS left prior to police arrival: Communications Section notifies D.O. by **dept phone**, Patrol Supervisor ensures assigned sector responds, and if sector has not responded after more than **1 hour** after EMS left, notify C.O./X.O./Duty Capt. UMOS tells radio to have EMS come back if crime scene exists, integrity is an issue, or EMS left and no responsible adult is present per P.G. 216-04.
 
 #### Communications Section (Step 8-9)
 
@@ -13228,7 +19184,9 @@ To ensure that notifications to concerned authorities and relatives are properly
 | 12d | Communications Section, if death is unusual or homicide |
 | 13 | Record all calls to ME in Telephone Record |
 
-> **Exam Alert:** The **responding detective** (not the desk officer) will notify Crime Scene Unit if an apparent homicide, suicide, or suspicious death.
+> **Exam Alert:** The **responding detective** (not the desk officer) will notify Crime Scene Unit if an apparent homicide, suicide, or suspicious death. However, the Patrol Supervisor (P/S) notifies CSU, and PDS notifies **if** the P/S is unavailable per P.G. 212-04. Crime Scene will be called by PDS if it is an apparent homicide, suicide, or suspicious death per P.G. 216-04.
+
+> **Exam Alert:** Desk Officer notifications for dead body: (1) PDS **ALWAYS** for crime scene, (2) If Homicide/Suicide/Suspicious — notify **Operations**, (3) If Homicide/Unusual — notify **Communications**, (4) If floater pulled from navigable waters by **other than Harbor** — notify **Harbor Unit**. The D.O. records all calls to M.E. in the **Telephone Record** (D.O. no longer calls the M.E. directly — UMOS does that now) per P.G. 216-04.
 
 ### Persons Who May Disturb Body
 
@@ -13245,6 +19203,8 @@ The uniformed member will **prevent anyone from disturbing body or its effects, 
 | e. | Member of Highway District assigned as "collision technicians" or "collision investigators" |
 | f. | Member of Emergency Service Unit, if body is on train tracks or in subway tunnel |
 
+> **Memory Aid — TED the M.D. from D.C.:** **T**echnician (Highway collision technician/investigator), **E**SU (subway tunnel/train tracks), **D**octor/Paramedic/EMT, the **M**edical examiner (or assistant), **D**istrict attorney (or assistant), **D**etective Bureau/squad, **C**rime Scene Unit. These are the ONLY persons who may disturb a dead body per P.G. 216-04. Caution: the civilians (Doctor, ME, DA) should be cautioned not to disturb evidence.
+
 > **Sergeant Focus:** Memorize all six categories. Note that Highway District members must be specifically assigned as collision technicians/investigators — not just any Highway member.
 
 ### Identification Tag (Step 15-16)
@@ -13254,7 +19214,7 @@ The uniformed member will **prevent anyone from disturbing body or its effects, 
 | 15 | Prepare and attach **IDENTIFICATION TAG (PD317-091)** on body |
 | 16 | Obtain receipt on lower half of IDENTIFICATION TAG for body when removed to morgue, and for body and death certificate if released to a funeral director or other authorized person |
 
-> **Exam Alert:** An IDENTIFICATION TAG will be placed on **dead human bodies, parts of bodies, and human fetuses** that are to be delivered to the morgue.
+> **Exam Alert:** An IDENTIFICATION TAG (95 Tag) will be placed on **dead human bodies, parts of bodies, and human fetuses** that are to be delivered to the morgue. If the **morgue** takes the body, UMOS keeps the Death Certificate and obtains the lower half of 95 Tag as receipt, then gives both to the D.O. If a **funeral director** takes the body, the funeral director takes the Death Certificate and obtains the lower half of 95 Tag as receipt for body AND Death Certificate. The D.O. puts the 95 Tag receipt for body and Death Certificate (*if received*) in the **Property Receipt Book** per P.G. 216-04.
 
 ### Death Notification (Step 17)
 
@@ -13269,6 +19229,8 @@ A notification to a member of the immediate family of the deceased will be made:
 | 18 | Prepare AIDED REPORT or Police Accident Report (MV104AN), including details of who removed body |
 | 19 | Prepare COMPLAINT REPORT WORKSHEET (PD313-152A) |
 | 20 | Safeguard body and effects until instructions from patrol supervisor |
+
+> **Prior Test:** Correct answer on a recent test was that MOS should **not search** the body and effects until the Patrol Supervisor instructs them to do so per P.G. 216-04.
 | 21 | Deliver receipt for body and death certificate to desk officer |
 
 ### Patrol Supervisor Responsibilities (Steps 22-23)
@@ -13278,9 +19240,9 @@ A notification to a member of the immediate family of the deceased will be made:
 | 22 | Ascertain that detective squad, Crime Scene Unit, and Operations Unit have been notified, when necessary |
 | 23 | Have body and premises searched in the presence of witnesses, when possible, if deceased resided alone or died at a location other than residence |
 
-> **Exam Alert:** A **police officer of either sex** may search a dead body.
+> **Exam Alert:** A **police officer of either sex** may search a dead body. Any gender can search a DOA — don't be bashful per P.G. 216-04.
 
-> **Sergeant Focus:** The patrol supervisor must confer with the ME or assistant ME **prior to directing** a member to search the body to safeguard property.
+> **Sergeant Focus:** The patrol supervisor must confer with the ME or assistant ME **prior to directing** a member to search the body to safeguard property. The P/S also examines UMOS Digital A/L and certifies accuracy by signing rank and name, and makes their own Digital Activity Log entry per P.G. 216-04.
 
 ### Desk Officer Responsibilities (Steps 27-31)
 
@@ -13288,17 +19250,27 @@ A notification to a member of the immediate family of the deceased will be made:
 |------|--------|
 | 27 | Direct command clerk to prepare COMPLAINT REPORT from worksheet via OMNIFORM System |
 | 28 | Close complaint at precinct level when: deceased is properly identified, ME certifies death as natural, and relatives are present and notified |
+
+> **Exam Alert — TO CLOSE THE UF61 — NEED 3 THINGS:** (1) DOA is **identified**, (2) M.E. states cause is **natural**, and (3) **Relatives** are present and notified. All three must be met per P.G. 216-04.
 | 29 | Direct officer who discovered body in a **homicide** case to report to the **morgue at 0900 hours the next day** to identify the body to two Medical Examiners |
-| 29a | Assign officer first on scene, or another officer not on regular day off |
-| 30 | If deceased remains unidentified or relatives cannot be located, prepare MISSING/UNIDENTIFIED PERSONS REPORT and comply with P.G. 216-03 |
+| 29a | Assign officer first on scene, or if not available, another UMOS who is NOT RDO |
+| 30 | If DOA remains **unidentified** OR **no notification** can be made, prepare MISSING/UNIDENTIFIED PERSONS REPORT and a **new UF 61 number**; comply with P.G. 216-03 |
 | 31 | File receipt for body and death certificate in the Property Receipt Book |
 
 > **Exam Alert:** If a person dies as the direct result of a **police action**, the uniformed member involved in or actually witnessing the incident **WILL NOT** be assigned to identify the body at the morgue. Another member who can make the identification will be assigned.
 
 ### Additional Data
 
-- A body offensive to public decency may be removed from a public place. However, if death is suspicious, permission of the ME and the assigned detective must be obtained.
-- All notifications and appropriate Department reports are still required even if the body is removed by the Office of Chief Medical Examiner.
+- A body offensive to public decency may be moved from a public place. However, if death is **suspicious**, permission of **both** the M.E. **AND** the assigned detective must be obtained before moving.
+- All notifications and preparation of Department reports are still required even if a body is removed by OCME or to UMOS on scene.
+
+> **Exam Alert — Notifying Operations:** Don't wait for the whole story — make the call with preliminary facts for all unusual incidents including homicide and/or suspicious death. Make subsequent calls as more info comes in per P.G. 216-04.
+
+> **Exam Alert — DOA as Direct Result of Police Action:** The UMOS involved in or who actually witnessed the incident **WILL NOT** be assigned to identify the body at the morgue. DON'T use UMOS involved or who witnessed per P.G. 216-04.
+
+> **Exam Alert — Civilian Identifier:** The D.O. may direct the identifying UMOS to arrange for a relative or **other person who knew the deceased** to go to the morgue to ID the body in their presence per P.G. 216-04.
+
+> **Exam Alert — Medical Examiner Identification:** UMOS will ID body to **2** M.E.s at the morgue per P.G. 216-04.
 
 ### Key Forms
 
@@ -13350,17 +19322,27 @@ To render necessary aid, take corrective or summary action, and prepare the pres
 | g. | Adult/child requiring care due to arrest, hospitalization, or death of parent/guardian |
 | h. | Homeless individual |
 
-> **Exam Alert:** An aided case specifically excludes **prisoners**. If the person is a prisoner, different procedures apply (P.G. 210-01).
+> **Memory Aid — CHILD-ERS:** **C**hild (runaway/abandoned/destitute/abused/neglected), **H**omeless, **I**njured, **L**ost, **D**OA, **E**DP, **R**equires care (adult/child due to arrest/97H/death of parent/guardian), **S**ick. This mnemonic covers all eight aided case categories per P.G. 216-01.
 
-**ROUTINE SICK AT HOME** — Requires **ONLY** a digital Activity Log entry if the aided is at any residence AND:
+> **Exam Alert:** An aided case specifically excludes **prisoners** (use Medical Treatment of Prisoner form instead) and **NEVER** includes vehicle or bicycle collisions (use a PAR instead). Per P.G. 216-01.
+
+> **Exam Alert:** If from homeless "Outreach efforts," check "Other" and explain in details on the Aided Report per P.G. 216-01.
+
+**ROUTINE SICK AT HOME** — Requires **ONLY** a digital Activity Log entry if the aided is at **any** residence AND:
 - Is conscious and properly identified
 - No other police service or notification is required
 - No dependent adults or uncared-for children are in household
 - No other investigation is needed
 
-> **Exam Alert:** All four conditions must be met for "Routine Sick at Home" — if any one fails, a full AIDED REPORT is required.
+> **Memory Aid — I C no P.A.I.N.:** **I**dentified and **C**onscious, no **P**olice service needed, no dependent **A**dults or uncared-for children, no **I**nvestigation needed, no **N**otifications required. If all conditions are met = Routine Sick at Home = Activity Log entry only, NO Aided Report per P.G. 216-01.
 
-**ROUTINE SICK IN NURSING HOMES** — Uniformed members **WILL NOT** respond to routine sick cases in nursing homes. However, for anything other than routine sick (injury, cardiac, D.O.A., etc.), a uniformed member will respond, prepare an AIDED REPORT, and make necessary notifications.
+> **Exam Alert:** All four conditions must be met for "Routine Sick at Home" — if any one fails, a full AIDED REPORT is required. Note the aided must be at **any** residence (not just their own).
+
+> **Prior Test:** Past test had an old woman in a nursing home burnt by her morning coffee. The correct answer is that it requires a response and Aided Report because it is an **injury**, not a routine sick case per P.G. 216-01.
+
+**ROUTINE SICK IN NURSING HOMES** — Uniformed members **WILL NOT** respond to routine sick cases in nursing homes. No response and NO Aided Report. However, for anything other than routine sick (injury, cardiac, D.O.A., etc.), a uniformed member will respond, prepare an AIDED REPORT, and make necessary notifications.
+
+> **Exam Alert:** Two situations that produce NO Aided Report: (1) Routine Sick at Home (Activity Log only), and (2) Routine Sick in Nursing Home (no response at all). If it is an injury, cardiac, or DOA at a nursing home, treat it as a regular aided case per P.G. 216-01.
 
 ### Procedure — Uniformed Member of the Service
 
@@ -13374,14 +19356,18 @@ To render necessary aid, take corrective or summary action, and prepare the pres
 | 3 | Wait in view to direct the ambulance or have a responsible person do so |
 | 4 | Make a second call in **twenty (20) minutes** if ambulance does not arrive |
 | 5 | Make digital Activity Log entry (include Medic Alert notification name; include ACR/PCR number) |
-| 6 | Accompany **unconscious or unidentified** aided to hospital in body of ambulance |
+| 6 | Accompany **unconscious or unidentified** aided to hospital in body of ambulance (see 3 "UNs" below) |
+
+> **Exam Alert — The 3 "UNs":** Ride in the back of the ambulance with the aided when any of these apply: (1) **UN-identified**, (2) **UN-conscious**, (3) **UN-sound mind** (EDP per P.G. 221-13). Per P.G. 216-01.
 | 6a | Witness search by hospital authorities and sign hospital property record as witness |
 | 6b | Examine property removed in attempt to determine identity of aided |
 | 6c | Record in digital Activity Log a list of property removed and identity of person conducting search |
 | 7 | Obtain name, address, and telephone number of relative or friend for notification |
 | 8 | Prepare **AIDED REPORT** |
 
-> **Exam Alert:** If the aided has been **removed from the scene** prior to MOS arrival, the member will ascertain the location of the aided and obtain all information necessary for preparation of the AIDED REPORT.
+> **Exam Alert:** If the aided has been **removed from the scene** prior to MOS arrival (10-54 cannot be given back as 10-90Z), the member will find out where the aided was removed to, obtain all information necessary for the AIDED REPORT, and prepare it per P.G. 216-01.
+
+> **Exam Alert:** Medic Alert Emblems — **DO NOT REMOVE** the emblem. Notify both the radio dispatcher AND the ambulance attendant. Document in the Digital Activity Log who was informed of the Medic Alert. On the Aided Report, note in "Details" who was notified. For prisoners (P.G. 210), MOS does NOT enter the Medic Alert on the Medical Treatment of Prisoner form per P.G. 216-01.
 
 ### All Aided Cases
 
@@ -13403,9 +19389,11 @@ To render necessary aid, take corrective or summary action, and prepare the pres
 - When an aided is placed in care of ambulance or medical personnel at a hospital, the authority and responsibility for medical care rests solely with hospital personnel.
 
 **Unconscious Person in Manhole:**
-- Request Emergency Service Unit immediately
-- Member **WILL NOT DESCEND** into the manhole unless equipped with a **self-contained oxygen breathing apparatus** (e.g., Scott Air Pack) — NOT a filter mask
-- If atmosphere is believed safe, member must obtain a rope, tie it securely around their body, and have a capable person hold the free end before descending
+- Request Emergency Service Unit immediately — **ALWAYS** call ESU whether going down or not
+- Member **WILL NOT DESCEND** into the manhole unless equipped with a **Scott Air Pack** (self-contained oxygen breathing apparatus) — NOT a filter mask, NOT PPE given by the Department
+- May descend only if: (1) person is unconscious, (2) atmosphere is believed safe, (3) rope tied securely around body, and (4) a capable person holds the free end outside the manhole
+
+> **Exam Alert:** Two conditions must be distinguished for manhole descent per P.G. 216-01: The Scott Air Pack is required due to toxic gases/no oxygen. If no Scott Air Pack but atmosphere appears safe, member must still use a rope and have someone hold it.
 
 **Difference of Opinion with EMS:**
 - If not life-threatening and there is a dispute between aided/family and EMS regarding treatment/removal, **IMMEDIATELY** request patrol supervisor and EMS supervisor
@@ -13423,22 +19411,38 @@ To render necessary aid, take corrective or summary action, and prepare the pres
 - Accessible via Department smartphone app
 - **NOT** an alternative means for handling EDPs who pose a danger to themselves or others
 
-> **Exam Alert:** 9-8-8 is for voluntary mental health support only. If the person is a **danger to self or others**, comply with P.G. 221-13, "Mentally Ill or Emotionally Disturbed Persons."
+> **Exam Alert:** 9-8-8 is for voluntary mental health support only. If the person is a **danger to self or others**, comply with P.G. 221-13, "Mentally Ill or Emotionally Disturbed Persons." The 9-8-8 program is NOT an alternative for dealing with an EDP who poses a danger. Per P.G. 216-01.
+
+> **Exam Alert:** The 9-8-8 hotline is a free NYC Department of Health and Mental Hygiene (DOHMH) treatment referral program. Available 24/7 in more than 200 languages. MOS may access the 9-8-8 app on the Department smartphone. Reached by calling, texting 9-8-8, or live chatting via nyc988.cityofnewyork.us per P.G. 216-01.
+
+**Crime Victim Compensation (Domestic Violence and Aided Cases):**
+- MOS will notify innocent victims or dependents/surviving relatives of Crime Victim Compensation
+- Additional info/applications are available at any Pct/PSA/TD
+- For domestic violence aided cases, take pictures of **visible** injuries or property damage per P.G. 208-39
+
+**Desk Officer — Guardian Responsibilities:**
+- If the guardian of a dependent adult is arrested, DOA, or hospitalized, the Desk Officer will notify **Human Resources Administration Adult Protective Services** to obtain care per P.G. 216-01
 
 **Drug Overdose / Cocaine Psychosis:**
-- Request response of **patrol supervisor**
+- MOS: Request ambulance **AND** patrol supervisor
 - If ambulance not immediately available, supervisor determines if aided should be removed to hospital via RMP or await ambulance
-- Aided is **NOT to be brought to a police facility**
+- Aided is **NOT to be brought to a police facility** — **NEVER** bring an aided OD to the station house
 - Cocaine psychosis may cause paranoia, visual/auditory/tactile hallucinations, high body temperature, and seizures
 - **Sudden death may ensue** — bring to hospital, NOT police facility
 
-> **Sergeant Focus:** The patrol supervisor decides whether to transport via RMP or wait for ambulance. Either way, destination is the hospital — never a police facility.
+> **Sergeant Focus:** The patrol supervisor decides whether to transport via RMP or wait for ambulance. Either way, destination is the hospital — never a police facility. The Sgt. can decide to use the RMP *or* await the bus per P.G. 216-01.
 
 **Volunteer Medical Professional:**
-- Allow treatment by a doctor, EMT, or paramedic who volunteers services if the member reasonably believes the volunteer is a professional
-- Treatment should occur under observation of the member
-- Obtain identification (name and address) and record in Activity Log and on AIDED REPORT
-- Volunteer's role is limited to **medical assistance ONLY** — removal procedures are determined by EMS personnel
+- Only an **E.D.P.** can volunteer — that is, an **E**MT, **D**octor, or **P**aramedic
+- Allow treatment if the member reasonably believes the volunteer is a professional
+- Treatment should occur under MOS observation (*if possible*)
+- Once situation is under control, ask for ID (name and address)
+- Document volunteer's identity in Digital Activity Log and in "Details" section of the AIDED REPORT
+- Volunteer's role is limited to **medical assistance ONLY** — the volunteer does NOT dictate method of transport. Neither does NYPD. **EMS decides transportation**
+
+> **Exam Alert:** Do NOT say "NURSE" — nurses are not included. Only EMT, Doctor, or Paramedic may volunteer. Per P.G. 216-01.
+
+> **See Also:** P.G. 303-15 — Crime Prevention Officer notifies victims under 60 of Crime Victims Compensation within 5 days of receipt of the Complaint Report (UF 61). In absence of the CPO, the Operations Coordinator ensures it gets done.
 
 ---
 
@@ -13495,9 +19499,9 @@ To account for and properly document the use of Automated External Defibrillator
 
 **UTILIZATION OF AED** — Once an AED is **placed on an aided**, the Department considers that as utilized, **even if a shock is not administered**. When the AED pads are placed on an aided, the machine will perform an analysis and advise what actions should be taken.
 
-> **Exam Alert:** "Utilized" means pads are placed on the patient — a shock does NOT need to be delivered for it to count as utilized.
+> **Exam Alert:** "Utilized" means pads are placed on the patient — a shock does NOT need to be delivered for it to count as utilized. Once AED pads are **placed on aided**, whether you shock or not, it is considered **USED** per P.G. 216-19.
 
-**CARDIO PULMONARY RESUSCITATION (CPR) ADMINISTERED** — The Department considers CPR administered once a member performs rapid chest compressions or mouth-to-mouth ventilation on an aided.
+**CARDIO PULMONARY RESUSCITATION (CPR) ADMINISTERED** — The Department considers CPR administered once a member performs rapid **chest compressions** OR **mouth-to-mouth** ventilation on an aided. Either one counts as CPR per P.G. 216-19.
 
 ### AED Kit Contents
 
@@ -13523,6 +19527,8 @@ To account for and properly document the use of Automated External Defibrillator
 | 4a | Note assignment of AED kits by their serial numbers, with prefix "AED" (e.g., AED 1234) |
 | 5 | Ensure assignment of AED kits are noted on the roll call |
 | 6 | Secure AED kits not in use in appropriate location (e.g., radio room, property room) |
+
+> **Exam Alert:** AED serial numbers are prefixed with "AED" (e.g., AED 1234) in the Command Log. Ensure assignment is also documented on the **Roll Call** per P.G. 216-19.
 
 > **Sergeant Focus:** AED accountability happens **every tour** — the desk officer must account for all kits, assign them, notify dispatch, and make Command Log entries.
 
@@ -13550,14 +19556,14 @@ To account for and properly document the use of Automated External Defibrillator
 
 ### Prisoner AED/CPR Use
 
-> **Exam Alert:** If AED/CPR is administered on a **prisoner** in custody, a **MEDICAL TREATMENT OF PRISONER (PD244-150)** form will be completed **instead of** an AIDED REPORT.
+> **Exam Alert:** If AED/CPR is administered on a **prisoner** in custody, a **MEDICAL TREATMENT OF PRISONER (PD244-150)** form will be completed **instead of** an AIDED REPORT. This is the same distinction as Medic Alert emblems on prisoners per P.G. 216-19.
 
 ### Desk Officer — Post-Use (Steps 14-15)
 
 | Step | Action |
 |------|--------|
 | 14 | Telephone ESU desk to obtain an **AED/CPR Log number**; enter on AIDED REPORT or MEDICAL TREATMENT OF PRISONER form |
-| 14a | Forward copy of completed form to ESU-AED Coordinator via fax and Department mail to ESU, Attention: EMT School |
+| 14a | Forward copy of completed form to ESU-AED Coordinator via **fax** (to one person's attention) and **Department mail** to ESU, Attention: EMT School (mailed to another) |
 | 14b | Ensure AED is secured until delivery and is **not reassigned** |
 | 15 | Schedule appointment; ensure AED is delivered to ESU-AED Coordinator for downloading of information after each use |
 
@@ -13570,7 +19576,11 @@ To account for and properly document the use of Automated External Defibrillator
 
 ### Loss or Theft
 
-If an AED kit or its contents (except cloth/gauze compress and plastic gloves) are lost or stolen, comply with P.G. 219-20, "Loss or Theft of Department Property."
+If an AED kit or its contents (**except** cloth/gauze compress and plastic gloves) are lost or stolen, comply with P.G. 219-20, "Loss or Theft of Department Property."
+
+> **Exam Alert:** Replacement supplies = call ESU AED coordinator. Questions about training = call the Police Academy. Someone wants to donate an AED = confer with ESU per P.G. 216-19.
+
+> **See Also:** P.G. 305-08 — If trained in opioid antagonist kit, it is **mandatory** to carry it per P.G. 216-19.
 
 ### Key Forms
 
@@ -13800,6 +19810,191 @@ To accurately record section 9.58 removals, select:
 - Contact the **Legal Bureau** if the validity of a removal is in question
 
 > **Exam Alert:** If the validity of a Section 9.58 removal is questioned, contact the **Legal Bureau** — not IAB, not the district attorney.
+
+---
+
+# Section 216 — Response to Suspected Overdose Incidents
+
+## P.G. 216-23: Response to Suspected Overdose Incidents
+
+### Purpose
+
+To establish procedures for responding to suspected overdose incidents, including administration of Naloxone, evidence handling, and reporting requirements.
+
+### Key Definitions
+
+**OPIOIDS** — Opiate, synthetic or otherwise, including but not limited to heroin, morphine, oxycodone, fentanyl, methadone, hydrocodone, and codeine.
+
+**FENTANYL AND FENTANYL ANALOGUES:**
+- Fast acting (rapid onset) potent narcotic analgesic and synthetic opioid pain medication
+- Prescription opioid, about **30-50x more powerful** than heroin and **80-100x** more powerful than morphine
+- Substance can be absorbed through the skin — proper handling is essential to keep all persons safe
+
+> **Exam Alert:** Exercise **extreme caution** handling drugs/paraphernalia at overdose scenes. Even the slightest contact with fentanyl can be lethal. Utilize PPE (gloves, etc.) per P.G. 216-23.
+
+**OPIOID ANTAGONIST** — FDA-approved drug (Naloxone, Narcan, etc.) that negates or neutralizes the effects of an opioid. Shall be limited to naloxone and other meds **approved by the Department of Health** for such purpose.
+
+**OPIOID ANTAGONIST KIT** — Consists of:
+- Intranasal mucosal atomization devices
+- Safety gloves
+- Rescue Breathing Face Shield
+- Opioid Antagonist delivery devices
+
+> **Exam Alert:** If trained in opioid antagonist kit, it is **mandatory** that you carry it (also referenced in P.G. 305-08) per P.G. 216-23.
+
+**DRUG PARAPHERNALIA** — Items associated with use, preparation, manufacture, packaging, or storage of narcotics, including but not limited to straws, cutting agents, scales, strainers, pestles, empty or new glassine envelopes or vials, plastic bags, rubber stamps, drug records, etc.
+
+> **Exam Alert:** Hypodermic needles, syringes, and other objects used for injecting controlled substances into the body are **NOT** classified as drug paraphernalia per P.G. 216-23.
+
+**STAMPS** — Image and/or writing that drug dealers use to ID the dealer's "brand" for their product. When applicable, the stamp will be located on wax folds or glassines.
+
+### Naloxone (NLX) — Key Facts
+
+- Naloxone is **NOT a controlled substance** — possession by the public is legal
+- Possession does NOT establish probable cause to arrest or prove commission of an offense
+- Naloxone rescue kits are distributed to friends and family members of intravenous drug users
+- Some rescue kits contain a hypo to administer the Naloxone intravenously
+- Possession of a hypodermic instrument, in most circumstances, is **not a crime**
+
+> **Exam Alert:** The 911 Good Samaritan Law says not to arrest a person for possessing a controlled substance, marihuana, drug paraphernalia, or alcohol by someone under 21, when they sought in good faith health care for self or other experiencing a drug or alcohol overdose. **HOWEVER**, P.O.s are mandatory reporters of suspected child abuse — "A" misd if you don't per P.G. 216-23.
+
+### Procedure — Uniformed Member of the Service
+
+#### Medical Attention
+| Step | Action |
+|------|--------|
+| 1 | Request ambulance |
+| 2 | Render reasonable aid |
+| 3 | Request UMOS with Naloxone Kit, if not present |
+
+#### Naloxone Administration
+| Step | Action |
+|------|--------|
+| 4 | Ascertain from witnesses if Naloxone was administered prior to police arrival |
+| 5 | If person **unresponsive**: give NLX if appropriate, and have radio notify EMS that Naloxone was administered |
+| 6 | If person **not breathing and no pulse**: administer CPR/AED while waiting for additional NLX dose |
+| 7 | If person has NOT responded to Naloxone within **3-5 minutes**: administer 1 additional dose |
+
+#### Responding EMS
+| Step | Action |
+|------|--------|
+| 8 | Inform responding EMS personnel: (a) why suspected opioid overdose (physical signs, statements by witnesses, etc.), (b) any attempts to revive (CPR, AED, etc.) and number of NLX doses given |
+
+#### If Suspected Overdose Person Removed Prior to Police Arrival
+| Step | Action |
+|------|--------|
+| 9 | Ascertain which hospital |
+| 10 | Request response of Patrol Supervisor |
+| 11 | Notify detective squad |
+| 12 | Notify Desk Officer — inform if NLX was administered and by whom (NYPD, EMS, FDNY, family, friend, other) |
+
+#### Safeguard Scene
+| Step | Action |
+|------|--------|
+| 13 | Safeguard potential evidence: narcotics (including legally prescribed medicine), drug paraphernalia, pill bottles, **cellphones**, or anything to aid in finding source of substance |
+
+#### Evidence Handling
+| Step | Action |
+|------|--------|
+| 14 | Use proper precautions — PPE (gloves, etc.) |
+| 15 | Document prescription pills found on or in vicinity of person/body |
+| 16 | Include name, address, phone number of Dr, Pharmacy, and Patient listed on bottle |
+
+#### Investigation
+| Step | Action |
+|------|--------|
+| 17 | Attempt to identify witnesses |
+| 18 | Obtain from individual/family/witnesses any potential substance responsible for suspected overdose |
+
+#### Documentation
+| Step | Action |
+|------|--------|
+| 19 | Prepare **Complaint Report**: "Investigate Aided-Drug Overdose" OR "Investigate DOA-*Possible* Drug Overdose" |
+| 19a | Open to Squad if: DOA, Likely to die, or NLX administered |
+| 19b | "Details" section includes: stamps/markings on glassines or pills, Dr/Pharmacy/Patient info, ICAD #, type of call, type of location, suspected drug type, manner of ingestion, if NLX given + Naloxone Log #, name/position of person who gave NLX, condition of aided before/after NLX |
+| 20 | Prepare Aided Report or Medical Treatment of Prisoner (if person arrested) |
+| 21 | If UMOS gave NLX, prepare **NYS Public Safety Naloxone Administration Reporting (PSNAR)** — give to Desk Officer |
+| 22 | Voucher drug/paraphernalia as directed by ECT as Investigatory Evidence in FORMS-Property |
+
+### Patrol Supervisor
+
+| Step | Action |
+|------|--------|
+| 1 | Request **ECT** (Evidence Collection Team) to respond |
+| 2 | Request detective squad if: DOA, Likely to die, or Naloxone administered |
+| 3 | If **DOA**: prepare Report on Typed Letterhead to Chief of Department noting NLX given and by whom, department report serial #s and/or log #s (61, Aided, Naloxone Log #, etc.) |
+| 3a | Forward copy of 49 with copies of all reports to: Chief of Dept, Chief of Patrol, Chief of Crime Control Strategies, Crime Analysis Unit, Supervising Chief Surgeon, Borough/Bureau training coordinator, Training Sergeant |
+
+### Desk Officer
+
+| Step | Action |
+|------|--------|
+| 1 | Notify: C.O./Duty Captain, Patrol Borough, and **Operations** of fatal/non-fatal suspected overdoses |
+| 1a | If NLX given, obtain Naloxone Log # and advise who gave it (PD, FD, other person, etc.) |
+| 1b | Include any Department report serial or log #s prepared |
+| 2 | Document: Ensure notification to Ops and NLX Log # is on Aided, 61, Medical Treatment of Prisoner |
+| 3 | Review: Aided, 61, Medical Treatment of Prisoner — verify reports are accurate and complete |
+| 4 | Review **PSNAR** if prepared — forward for completeness and **EMAIL a copy to Operations Division** |
+
+### Detective Squad Investigator
+
+- Responds if DOA, Likely to die, or NLX used (those 3 triggers again)
+- Investigate and confer with ECT when appropriate
+
+### ECT Personnel
+
+| Step | Action |
+|------|--------|
+| 1 | Respond to **all** overdoses, fatal and non-fatal |
+| 2 | Photo all drugs/paraphernalia and upload photos to **Enterprise Case Management System (ECMS)** |
+| 3 | Document any relative stamps/markings on glassines or wax folds |
+| 4 | Voucher — ensure evidence is invoiced as "Investigatory Evidence" by initial responding unit |
+| 5 | Prints/DNA testing — if needed, follow P.G. 218-09, "Non-Drug Evidence going to the Lab" |
+
+### Detective Squad Supervisor
+
+| Step | Action |
+|------|--------|
+| 1 | Supervise initial investigation; ensure preliminary steps completed and photos uploaded to ECMS |
+| 2 | Prepare a **Detective Bureau Unusual Occurrence Report** and make appropriate notifications |
+| 3 | Review prior cases looking for **patterns or clusters** — if yes, notify DB Zone Captain for follow-up with Narcotics counterpart |
+
+### Hypodermic Syringes and Needles — Additional Data
+
+**Safe Handling and Invoicing:**
+- Utilize hypo container (comes in a plastic bag with instructions)
+- Hypo containers on **separate voucher** apart from other property/evidence in same occurrence
+- Place hypo containers in serialized **Plastic Security Envelope (PSE)** if involved in same occurrence
+- No other evidence (glassines, etc.) will be placed in the same security envelope
+
+**Storage:**
+- Invoice and PSE in property locker forwarded to **Property Clerk facility**
+
+**Critical Rules:**
+- **NEVER** attempt to remove or dislodge a needle from a hypodermic syringe
+- If hypo syringe/needles may bear fingerprints or other forensic evidence — safeguard until examined by Crime Scene Unit
+- If NOT evidence — make safe using hypo container, dispose in "sharps" container at medical facility
+
+> **Exam Alert:** Hypo needles and syringes are advisable to collect at overdose scenes as evidence in an overdose investigation, BUT **NOT** as evidence of the crime of possession of drug paraphernalia per P.G. 216-23.
+
+### Changes to the Law
+
+**Penal Law 220.45** (criminally possessing a hypodermic instrument) — **REPEALED**
+- Legalized the possession of hypodermic needles
+- No longer need to get from a needle exchange program or pharmacy to legally possess
+
+**Penal Law 220.03** (criminal possession of a controlled substance 7th) — **AMENDED**
+- No longer a violation to possess residue of a controlled substance on any hypodermic needle, regardless of where the needle was obtained
+
+**General Business Law Section 850:**
+- Hypo — no longer considered drug paraphernalia by statute
+
+**Public Health Law Section 3381(1)(c)(ii) — AMENDED:**
+- No limit on number of hypos available for sale
+- No longer a violation to purchase, possess with intent to sell, or offer for sale a hypo needle or syringe
+- **Lawful** to obtain/possess hypo syringe or needle regardless of whether possession was authorized
+
+> **Exam Alert:** If questions arise regarding the validity of an arrest related to these law changes, contact the **Legal Bureau** per P.G. 216-23.
 
 ---
 
@@ -14054,9 +20249,64 @@ To assist in the orderly removal of a person with a communicable disease.
 
 ---
 
-## P.G. 216-12
+## P.G. 216-12: School Crossing Guard (SCG) Injured Line of Duty
 
-*(Title and text unavailable in source PDF — review original Patrol Guide)*
+### Purpose
+
+To report and investigate injuries to School Crossing Guards sustained in the line of duty.
+
+### Procedure
+
+#### Uniformed Member of the Service
+- Request **Patrol Supervisor** to respond
+
+#### Patrol Supervisor
+- Interview School Crossing Guard (get hospital, EMS, and doctor info if removed)
+- Interview witnesses and have them make a **Witness Statement**
+- Document:
+  - **Employee's Notice of Injury (Law Department Form WCD 23)** — have SCG prepare in own handwriting, if possible, **2 copies**
+  - Submit to **C.O. of Precinct of occurrence** (breaks the chain of command)
+  - Have the UMOS prepare either an **Aided Report** or the **PAR**, if vehicle involved
+- Notify:
+  - Report circumstances to the Desk Officer
+  - If SCG brought to hospital, notify Ops promptly
+  - A **2nd notification** is required before final reports are prepared to update condition
+
+> **Exam Alert:** No LODI Report for Crossing Guards — it is a WCD 23 "Employee Notice of Injury" instead per P.G. 216-12.
+
+> **Exam Alert:** The WCD 23 is submitted to the **C.O. of the Precinct of occurrence** — this breaks the chain of command (not through the desk officer) per P.G. 216-12.
+
+#### Desk Officer
+- Document:
+  - Command Log entry regarding circumstances and result of investigation
+  - Report on Typed Letterhead (49) — attach a COPY of the Command Log entry and deliver to C.O.
+- Notify:
+  - Employee Resources Section (ERS), Civilian Employee Services Unit — **NEXT BUSINESS DAY**
+  - Operations — **WITHIN 24 HOURS**
+
+> **Exam Alert — Timely Reporting:** Desk Officer calls Operations within **24 hours**. C.O. directs "Supervisor's Report of Injury" within **48 hours** per P.G. 216-12.
+
+#### Commanding Officer
+- Forward 2 copies of (WCD 23, 49, and Witness Statement) to ERS, Attn: Civilian Employee Unit
+- Crossing Guard is **Not Paid** — keep Guard "on payroll, WITHOUT PAY" until they return and cause the "Election of Rate of Change Against Annual and/or Sick Leave Balances" form to be prepared
+- Notify ERS, Civilian Employee Unit when Guard returns to duty, goes sick again on this injury, and when returns again from that last sick
+- Document:
+  - Direct "Supervisor's Report of Injury" gets made within **48 hours**
+  - Direct "Report to Employee Benefits Unit" be prepared
+- C.O. directs that 3 reports get made (doesn't specifically say by whom):
+  1. Supervisor's Report of Injury — **WITHIN 48 HOURS**
+  2. Report to Employee Benefits Unit
+  3. Election of Rate of Change Against Annual and/or Sick Leave Balances
+
+#### Forms and Reports Summary
+
+| Who | Form/Report |
+|-----|-------------|
+| UMOS | Aided Report or PAR |
+| School Crossing Guard | Employee's Notice of Injury (WCD 23) — given to C.O. |
+| Desk Officer | Typed Letterhead (given to C.O.) |
+| Desk Officer | Command Log entry (given to C.O.) |
+| Witness | WITNESS STATEMENT — Injury To Member Of Department |
 
 ---
 
@@ -14078,6 +20328,25 @@ To assist in the orderly removal of a person with a communicable disease.
 | QMHP | Qualified Mental Health Professional — licensed psychologist, certified social worker, or registered professional nurse eligible to direct a Section 9.58 removal | P.G. 216-22 |
 | Mobile Crisis Outreach Teams | Hospital/community-based teams funded by DOHMH that assess, stabilize, and refer patients | P.G. 216-22 |
 | ACT Teams | "Hospitals on wheels" — richly staffed mental health teams licensed by NYS Office of Mental Health; may order involuntary transport | P.G. 216-22 |
+| Opioids | Opiate, synthetic or otherwise — includes heroin, morphine, oxycodone, fentanyl, methadone, hydrocodone, codeine | P.G. 216-23 |
+| Fentanyl | Fast-acting synthetic opioid, 30-50x more powerful than heroin, 80-100x more powerful than morphine; can be absorbed through the skin | P.G. 216-23 |
+| Opioid Antagonist | FDA-approved drug (Naloxone/Narcan) that negates or neutralizes effects of an opioid; limited to meds approved by Dept of Health | P.G. 216-23 |
+| Naloxone (NLX) | NOT a controlled substance; possession is legal; does NOT establish probable cause to arrest | P.G. 216-23 |
+| Drug Paraphernalia | Items associated with narcotics use/preparation/storage (straws, scales, glassines, etc.); hypodermic needles are NOT classified as drug paraphernalia | P.G. 216-23 |
+| Stamps | Image/writing drug dealers use to ID their "brand"; located on wax folds or glassines | P.G. 216-23 |
+| PSNAR | NYS Public Safety Naloxone Administration Reporting — prepared by UMOS who administers NLX; given to Desk Officer | P.G. 216-23 |
+| ECMS | Enterprise Case Management System — ECT uploads overdose photos here | P.G. 216-23 |
+| 911 Good Samaritan Law | Protects from arrest for possessing controlled substance/paraphernalia/alcohol (under 21) when seeking help in good faith for drug/alcohol overdose | P.G. 216-23 |
+| School Crossing Guard LOD | No LODI Report; uses Employee's Notice of Injury (WCD 23) instead; SCG prepares in own handwriting if possible | P.G. 216-12 |
+
+## Mnemonics
+
+| Mnemonic | Meaning | Source |
+|----------|---------|--------|
+| **CHILD-ERS** | **C**hild, **H**omeless, **I**njured, **L**ost, **D**OA, **E**DP, **R**equires care, **S**ick — the 8 aided case categories | P.G. 216-01 |
+| **TED the M.D. from D.C.** | **T**echnician (Highway CIS), **E**SU, **D**octor/Paramedic/EMT, **M**edical examiner, **D**istrict attorney, **D**etective Bureau, **C**rime Scene Unit — persons who may disturb a dead body | P.G. 216-04 |
+| **I C no P.A.I.N.** | **I**dentified and **C**onscious, no **P**olice service, no dependent **A**dults/uncared children, no **I**nvestigation, no **N**otifications — Routine Sick at Home criteria (Activity Log only) | P.G. 216-01 |
+| **3 "UNs"** | **UN**-identified, **UN**-conscious, **UN**-sound mind (EDP) — ride in back of ambulance with aided | P.G. 216-01 |
 
 ## Key Forms and Reports
 
@@ -14100,6 +20369,9 @@ To assist in the orderly removal of a person with a communicable disease.
 | THREAT, RESISTANCE OR INJURY (T.R.I.) INCIDENT REPORT | — | Auxiliary police force incidents |
 | OMH 482 Form | OMH 482 | Mobile Crisis Team Authorization for Transport |
 | Section 9.58 Identification Card | — | QMHP identification for involuntary removal |
+| NYS Public Safety Naloxone Administration Reporting (PSNAR) | — | Prepared when UMOS administers NLX; emailed to Operations Division |
+| Opioid Antagonist Kit | — | Intranasal atomization devices, safety gloves, rescue breathing face shield, OA delivery devices |
+| Complaint Report (Overdose) | PD313-152 | "Investigate Aided-Drug Overdose" or "Investigate DOA-Possible Drug Overdose" |
 
 ## Critical Numbers and Time Limits
 
@@ -14113,6 +20385,12 @@ To assist in the orderly removal of a person with a communicable disease.
 | After-hours animal bite notification | **Poison Control Center** | P.G. 216-09 |
 | 9-8-8 Hotline availability | **24 hours/day, 7 days/week** in 200+ languages | P.G. 216-01 |
 | Rabies wound definition | Open wound that **bled within last 24 hours** | P.G. 216-09 |
+| NLX re-dose window | **3-5 minutes** — if no response to Naloxone, administer 1 additional dose | P.G. 216-23 |
+| Waterproof body covers in P/S car | **4** covers required | P.G. 219-01 |
+| SCG — D.O. notify Operations | **Within 24 hours** | P.G. 216-12 |
+| SCG — Supervisor's Report of Injury | **Within 48 hours** (C.O. directs) | P.G. 216-12 |
+| 3 triggers for detective squad (OD) | DOA, Likely to die, or Naloxone administered | P.G. 216-23 |
+| 3 requirements to close UF 61 (DOA) | Identified, ME says natural, relatives present and notified | P.G. 216-04 |
 
 ## Critical Notification Contacts
 
@@ -14540,6 +20818,150 @@ P.G. 216-22 — Uniformed members of the service are reminded to contact the Leg
 
 ---
 
+## Question 21
+Using the CHILD-ERS mnemonic, which of the following is NOT one of the eight aided case categories?
+
+- A) Homeless individual
+- B) Prisoner requiring medical care
+- C) Lost person
+- D) Emotionally Disturbed Person
+
+<details>
+<summary>Answer</summary>
+
+**B) Prisoner requiring medical care**
+
+P.G. 216-01 — CHILD-ERS stands for: Child (runaway/abandoned/destitute/abused/neglected), Homeless, Injured, Lost, DOA, EDP, Requires care (due to arrest/hospitalization/death of guardian), Sick. Prisoners are specifically EXCLUDED from aided case definitions. Use the Medical Treatment of Prisoner form instead.
+</details>
+
+---
+
+## Question 22
+A uniformed member responds to a residence where an elderly person is conscious, identified, and complaining of feeling ill. There are no dependent adults or uncared-for children, and no other police service is needed. Using the "I C no P.A.I.N." mnemonic, what documentation is required?
+
+- A) Full Aided Report and Activity Log entry
+- B) Only a digital Activity Log entry
+- C) Complaint Report and Aided Report
+- D) No documentation required
+
+<details>
+<summary>Answer</summary>
+
+**B) Only a digital Activity Log entry**
+
+P.G. 216-01 — "I C no P.A.I.N." = Identified and Conscious, no Police service needed, no dependent Adults or uncared-for children, no Investigation needed, no Notifications required. All conditions are met, making this a "Routine Sick at Home" requiring only a digital Activity Log entry.
+</details>
+
+---
+
+## Question 23
+At a DOA scene, which of the following persons may disturb the body using the "TED the M.D. from D.C." mnemonic?
+
+- A) The patrol supervisor directing the investigation
+- B) A Highway District member on general patrol
+- C) A Technician/investigator from Highway's CIS (Collision Investigation Squad)
+- D) A nurse who happens to be on scene
+
+<details>
+<summary>Answer</summary>
+
+**C) A Technician/investigator from Highway's CIS (Collision Investigation Squad)**
+
+P.G. 216-04 — TED the M.D. from D.C.: Technician (Highway collision tech/investigator), ESU (subway/train tracks), Doctor/Paramedic/EMT, Medical examiner (or assistant), District attorney (or assistant), Detective Bureau/squad, Crime Scene Unit. A general Highway member or nurse is NOT authorized.
+</details>
+
+---
+
+## Question 24
+What three conditions must be met to close a UF 61 (Complaint Report) at the precinct level for a dead body case?
+
+- A) DOA identified, ME certifies death as natural, and detectives have completed investigation
+- B) DOA identified, ME certifies death as natural, and relatives are present and notified
+- C) DOA identified, Crime Scene Unit has processed scene, and desk officer has reviewed reports
+- D) DOA identified, Operations has been notified, and relatives have been contacted
+
+<details>
+<summary>Answer</summary>
+
+**B) DOA identified, ME certifies death as natural, and relatives are present and notified**
+
+P.G. 216-04 — To close the UF 61 at precinct level, all three must be met: (1) DOA is identified, (2) M.E. states cause is natural, and (3) relatives are present and notified.
+</details>
+
+---
+
+## Question 25
+A uniformed member arrives at a suspected overdose scene. The person is unresponsive and not breathing with no pulse. Naloxone was administered but the person has not responded within 3-5 minutes. What should the member do?
+
+- A) Administer CPR/AED only and wait for EMS
+- B) Administer 1 additional dose of Naloxone
+- C) Transport the person immediately via RMP
+- D) Request the patrol supervisor to determine next steps
+
+<details>
+<summary>Answer</summary>
+
+**B) Administer 1 additional dose of Naloxone**
+
+P.G. 216-23 — If person has NOT responded to Naloxone within 3-5 minutes, administer 1 additional dose. While waiting, administer CPR/AED if not breathing and no pulse.
+</details>
+
+---
+
+## Question 26
+At a suspected overdose scene, hypodermic needles are found. How should they be handled for evidence purposes?
+
+- A) Classify as drug paraphernalia evidence
+- B) Collect as evidence in the overdose investigation, but NOT as evidence of possession of drug paraphernalia
+- C) Leave them for EMS to dispose of in a sharps container
+- D) Place in the same security envelope with other drug evidence
+
+<details>
+<summary>Answer</summary>
+
+**B) Collect as evidence in the overdose investigation, but NOT as evidence of possession of drug paraphernalia**
+
+P.G. 216-23 — Hypodermic needles and syringes are advisable to collect at overdose scenes as evidence in an overdose investigation, but NOT as evidence of the crime of possession of drug paraphernalia. Hypo containers must be placed on a SEPARATE voucher and in a serialized Plastic Security Envelope (PSE) — no other evidence in the same envelope.
+</details>
+
+---
+
+## Question 27
+A School Crossing Guard is injured in the line of duty. What form replaces the LODI Report, and who prepares it?
+
+- A) Aided Report, prepared by the UMOS
+- B) Employee's Notice of Injury (WCD 23), prepared by the SCG in their own handwriting if possible
+- C) Supervisor's Report of Injury, prepared by the patrol supervisor
+- D) Unusual Occurrence Report, prepared by the desk officer
+
+<details>
+<summary>Answer</summary>
+
+**B) Employee's Notice of Injury (WCD 23), prepared by the SCG in their own handwriting if possible**
+
+P.G. 216-12 — There is no LODI Report for Crossing Guards. Instead, it is an Employee's Notice of Injury (WCD 23) prepared by the SCG in their own handwriting, if possible, in two copies. If unable, the patrol supervisor will prepare and submit it.
+</details>
+
+---
+
+## Question 28
+At a suspected overdose scene, when must the patrol supervisor request the detective squad to respond?
+
+- A) Only when the overdose is confirmed as fatal
+- B) When the person is DOA, likely to die, or Naloxone was administered
+- C) For all suspected overdoses, fatal and non-fatal
+- D) Only when fentanyl is suspected
+
+<details>
+<summary>Answer</summary>
+
+**B) When the person is DOA, likely to die, or Naloxone was administered**
+
+P.G. 216-23 — The patrol supervisor requests ECT (Evidence Collection Team) to respond to ALL overdoses. However, the detective squad is requested only for the three triggers: DOA, likely to die, or Naloxone was administered.
+</details>
+
+---
+
 # Section 217 — Vehicle Collisions
 
 ## Chapter Overview
@@ -14648,7 +21070,28 @@ When it is determined that the City may be involved in a civil suit:
 
 > **Exam Alert:** City hydrants require notification to **two** agencies: DEP **and** FDNY Actions and Claims.
 
+> **Exam Alert:** School bus collisions require notification to DOE Office of Pupil Transportation regardless of whether children are on the bus — the PG says "with OR without kids, private or public school." *(P.G. 217-01 "Dup. Copy Required For" table)*
+
+> **Memory Aid — Dup Copy Table (PAR back):** For the "Duplicate Copy Required For" section, know the full table from 217-01 — the following conditions on the back of the PAR trigger sending a copy to the named agency:
+> - Fire Trucks/EMS/Hydrants/Alarm Boxes → FDNY Action & Claims
+> - Tow Truck or Pedicab licensed by DCWP → Dept. Consumer and Worker Protection (DCWP)
+> - Crash Cushion or Impact Attenuator → Dept. of Transportation
+> - City Park (person killed/injured OR damage to **any** City Tree) → Dept. of Parks
+> - School Bus (with OR without kids, private or public) → DOE Office of Pupil Transportation
+> - Taxi or For Hire vehicle (TLC licensed — Uber/Lyft) → TLC
+> - NYC personnel or property involved → Comptroller
+> - DOA → Highway (CIS unit) AND Missing Persons (M.E.'s unit)
+> - Bicycle Collisions ("Killed," SILD, or Critically Injured determined by EMS) → Highway CIS
+
+> **Key Note — DOA/SILD/CI and 217-17 (Bicycle Collisions):** In P.G. 217-02, the DOA/SILD/CI and 217-17 bicycle collision cases require the UMOS to have the Sgt respond. The Sgt is NOT mentioned in 217-01. Watch for exam questions testing whether the Sgt responds under 217-01 or only 217-02/217-17. *(P.G. 217-01 Key Note)*
+
+> **Exam Alert — DOA/SILD or Critical Injury (CI):** CI is determined by EMS on scene. A Designated MOS from CIS (Highway) coordinates the investigation and presents facts to the D.A. *(P.G. 217-01)*
+
 > **Sergeant Focus:** It is City policy to **pursue claims in its favor**. Members must detail circumstances supporting City claims and obtain witness information. **Full cooperation** with the involved agency or Law Department is **mandatory**.
+
+> **Prior Test:** Scenario — a city vehicle collides with a private vehicle and the city may be liable. The UMOS prepares the MV104AN and checks the "Duplicate Copy Required For" box for **Comptroller** (NYC personnel or property involved). The "City Involved" box is checked on the PAR back. Additionally, persons involved are informed they must file claims with the **Comptroller** within **90 days**. *(P.G. 217-04)*
+
+> **See Also:** P.G. 217-01 — "Dup. Copy Required For" table on back of PAR: check "Comptroller" for NYC personnel or property involved in any collision.
 
 ### Key Forms
 
@@ -14723,6 +21166,331 @@ To assist the New York City Housing Authority in processing cases in which NYCHA
 
 This procedure establishes the general framework for responding to and investigating vehicle collisions, including scene management, report preparation, and notifications.
 
+> **Exam Alert:** There is no more "Traffic Safety Officer" (TSO). That role is now filled by the **Administrative Quality of Life Officer** (A-QOL-O). *(PG 217-01)*
+
+### Key Definitions — 217-01
+
+**Police Accident Report MV104AN (PAR)** — NYS form that a police officer prepares for a motor vehicle collision.
+
+**Report of Motor Vehicle Accident MV104** — Civilian form. The operator prepares this if there are injuries OR damage over $1,000. Operator has **10 days** to submit to DMV.
+
+> **Exam Alert:** The MV104 (civilian form) is triggered by injury OR over $1,000 in damage. The operator — not the officer — prepares this, and has **10 days** to submit to DMV. *(PG 217-01)*
+
+### Vehicle Collision Scope
+
+**Vehicle Collisions INCLUDE:**
+- Collisions on private property
+- Parked or unattended cars
+- Injury to ANY animal
+- Vehicles colliding with a Bicycle
+
+**Vehicle Collisions do NOT include:**
+- Devices moved by human power, OR used exclusively on stationary rails or tracks
+- Bicycles (including E-Bikes and E-Scooters) — these are **NOT** motor vehicles; collisions involving them are **NOT** recorded on a PAR (see 217-17)
+- **BUT:** Motorized Scooters (gas or electric) **ARE** considered Motor Vehicles — collisions involving them **go on a PAR**
+
+> **Exam Alert:** E-Bikes and E-Scooters are treated as **bicycles** in a collision (no PAR). Motorized Scooters are treated as **motor vehicles** (PAR required). The distinction is critical on the exam. *(PG 217-01)*
+
+### Vehicle Definitions
+
+**Motorized Scooter** — Gas OR electric motor; capable of propelling without human power (has a throttle); handlebars; designed to be stood or sat on. Cannot be registered with DMV. Does NOT include wheelchairs or other mobility aids.
+- Collision: Treat as a Motor Vehicle (217-01)
+
+**E-Bike** — A bicycle not more than 36 inches wide with an electric motor of less than 750 watts, with or without operable pedals. Three classes:
+- Class 1: Assists while pedaling only; stops at 20 mph
+- Class 2: Can exclusively propel bike without operator assistance up to 20 mph
+- Class 3: Can exclusively propel bike up to 25 mph — Class 3 is only applicable in New York City
+- Collision: Treated as a Bicycle
+
+**E-Scooter** — Weighs less than 100 lbs; may have handlebars; floorboard to stand on (does NOT say "sat on"); powered by electric motor and/or human power; max speed 20 mph on paved level surface when powered solely by electric motor.
+- Collision: Treated as a Bicycle (217-17)
+
+> **Exam Alert:** E-Scooters stand on (floorboard) — do NOT sit on. Motorized Scooters can be sat on (seat) OR stood on. This distinction appears on exams. *(PG 217-01)*
+
+### UMOS Actions at Collision Scene (217-01)
+
+**Do NOT obstruct traffic** — Park Dept vehicle behind vehicle(s) involved so traffic won't be impeded.
+
+**Investigation:**
+- 1st responding unit (radio, pickup, etc.), regardless of command or assignment, or if occurred on precinct border
+- Interview motorists, witnesses, etc.
+
+**Document:**
+- Prepare PAR, *if necessary*
+- Do NOT tell them to wait for precinct of occurrence or Highway to prepare the PAR
+- Do NOT make a PAR if it's property damage only
+
+### Property Damage Only (No PAR)
+
+When collision results in **property damage only**, the UMOS:
+- Gives each motorist **three forms**:
+  1. Report of Motor Vehicle Accident (MV104)
+  2. Collision Information Exchange Form
+  3. What You Should Know About Vehicle Collisions
+- If damage over $1,000: inform motorists — must prepare and forward MV104 to NYS DMV within **10 days** (failure may result in license and/or registration suspension)
+- Instruct each motorist to exchange pertinent information
+- Disposition: Notify radio dispatcher **10-99T3** — referred to DMV, resume patrol/assignment
+
+> **Memory Aid — Three Forms for Property Damage Only:** **"R-C-W"**
+> - **R** = Report of Motor Vehicle Accident (MV104)
+> - **C** = Collision Information Exchange Form
+> - **W** = What You Should Know About Vehicle Collisions
+
+> **Exam Alert:** The radio disposition code for property damage only is **10-99T3**. This is separate from the D.A.R.P. tow codes (10-99T4 through T9). *(PG 217-01)*
+
+### Additional Data — When PAR IS Required (Not "Property Damage Only")
+
+A PAR is required (not property damage only) when ANY of the following are present:
+
+> **Memory Aid — PAR Required Triggers:** **"I-T-A-T-O-D-C-Q-C"**
+> - **I** = Injury (injury or deceased)
+> - **T** = Trapped (person trapped or incapacitated)
+> - **A** = Animal (involves a deer or domestic animal)
+> - **T** = Tow (any vehicle needs a tow)
+> - **O** = Other property (damage to property other than a vehicle involved, or contents thereof)
+> - **D** = Disputes (motorists unable or unwilling to exchange information/paperwork)
+> - **C** = Criminal (any act of suspected criminality)
+> - **Q** = Qualify Vehicle (involved a "Qualifying Vehicle")
+> - **C** = City Involved (city involved vehicle collision)
+
+> **Exam Alert:** NYS Law says the operator has to make the MV104 if there's an **injury or fatality** too — not just for property damage over $1,000. *(PG 217-01)*
+
+### UMOS Actions When PAR is Required (Injuries)
+
+**Injuries:**
+- Request ambulance
+- If person unconscious AND removed to hospital: Place Identification Tag (95) on person
+
+**If Serious Physical Injury (SPI) AND Serious Traffic Violation (STV):**
+- Give a Breathalyzer (PBT) to **all** operators involved — unless removed for immediate medical attention
+- If member not qualified to administer PBT: Request another UMOS who is qualified
+- Refusal: Violation of VTL 1194(1)(b) & summons may be issued
+- Document on PAR: Results of PBT OR refusal to take test
+
+> **Exam Alert:** The Breathalyzer (PBT) is given when BOTH conditions are met: **SPI AND STV**. Only SPI alone does NOT trigger the PBT requirement. *(PG 217-01)*
+
+> **Exam Alert:** "SPI" = Serious Physical Injury; "STV" = Serious Traffic Violation; "PBT" = Breathalyzer (Preliminary Breath Test). *(PG 217-01)*
+
+### Serious Traffic Violations (VTL) — Reference List
+
+| VTL Section | Violation |
+|-------------|-----------|
+| 511 | Suspended/Revoked License |
+| 600 | Leaving the scene |
+| 1100–1212 | Traffic signs, signals and markings |
+| 1120–1131 | Driving on right side of roadway, overtaking and passing |
+| 1140–1146a | Right of way |
+| 1160–1166 | Turning and starting, signals on stopping and turning |
+| 1170–1176 | Special stops required |
+| 1180–1182-b | Speed restrictions |
+| 1212 | Reckless driving |
+
+> **Exam Alert:** Know which VTL sections qualify as Serious Traffic Violations — these trigger the PBT requirement when combined with SPI. *(PG 217-01)*
+
+### Insurance Cards — Not Required to Produce
+
+The following vehicles/operators are **NOT required** to produce insurance cards:
+- Taxis
+- Buses
+- Rented Vehicles
+- Public Service Comm/ICC
+- Government-owned vehicles
+- Certain Farm Vehicles
+- Diplomats (209-03)
+
+> **See Also:** PG 209-03 — Diplomat procedures and exemptions from standard requirements.
+
+### Medical Treatment — Good Samaritan
+
+Pending the arrival of EMS, allow injured person to be treated by:
+- **E.D.P. (EMT, Doctor, Paramedic)**
+  - Person volunteered AND UMOS believes person is a professional
+  - Do NOT ask for I.D. until after treatment
+  - Record their name and address in Digital Activity Log AND Police Accident Report (PAR)
+- Have person treated in member's presence (if possible)
+
+**Removal procedure for injured** (Ambulance, Medivac, etc.):
+- Determined by on-duty EMS personnel
+- **NOT** by Good Samaritan
+
+> **Memory Aid — E.D.P.:** EMT, **D**octor, **P**aramedic (in order)
+
+> **Exam Alert:** The Good Samaritan may **treat** the injured person pending EMS arrival, but does **NOT** determine removal. Removal is always determined by **on-duty EMS**. *(PG 217-01)*
+
+### Traffic Diversion Equipment
+
+When diverting traffic at a collision scene, UMOS uses **3 items**:
+1. Traffic cones
+2. Turret lights
+3. Danger Signs
+
+If on Highway/Bridge: **1st cone goes at least 200 ft. from collision**
+
+> **Memory Aid — Traffic Diversion Equipment:** **"C-T-D"** — Cones, Turret lights, Danger signs
+
+### Obtaining Documents
+
+From operators, obtain:
+- License
+- Registration
+- Insurance Card (record and return)
+
+### Fraud Indicators
+
+- Survey for fraud indicators and take summary action, if necessary
+
+### Contemplate Enforcement Under A.C. 19-190
+
+Consider enforcement under **Administrative Code Section 19-190** (Vehicle — Pedestrian/Bicyclist Right of Way) when:
+- Motor vehicle operator fails to exercise due care AND has a collision with:
+  - A pedestrian who was attempting to cross the street, OR
+  - A bicyclist who was attempting to **lawfully** cross the street
+
+> **Exam Alert:** A.C. 19-190 applies to pedestrians crossing the street AND bicyclists crossing **lawfully** — the word "lawfully" is a qualifier trap. *(PG 217-01)*
+
+### Document — Collision Information Exchange
+
+- Prepare Collision Information Exchange
+- Give to operators to fill out the bottom part of the Exchange Form
+- If operator incapacitated:
+  - Another participant or owner of vehicle fills out the bottom of Exchange Form
+  - If no other participant/vehicle owner is available, UMOS completes the bottom
+
+### Preparing the PAR (MV 104AN)
+
+**Only a UMOS can prepare a PAR.**
+
+- Use Dept mobile device if available (cellphone, tablet, etc.) to prepare PAR directly into FORMS
+- If unavailable, prepare hard copy and print "legibly"
+
+**Passengers:**
+- Account for all passengers — note their seating position
+- Name and injury if any; attempt to ID passengers (photo ID if possible)
+- Note on PAR if you can't get I.D.
+- Passenger information goes in "All Involved" section (A through F) of PAR
+- Draw line through unused boxes and initial
+
+**Bicycle operator:**
+- List as "Vehicle 2"
+- If rental bike, name/address of bike rental company in registration captions
+- If E-Bike (with/without pedals) or E-Scooter (standing) involved: check those categories in "Vehicles" section of PAR; if PAR handwritten, put E-Bike/E-Scooter in "Details"
+
+**VIN Number:**
+- Obtain VIN from each car from **2 places**: Dashboard **and** the Door
+- Make sure the VINs match
+- List VIN in Accident Description/Officers Notes Section AND FORMS MV stand-alone caption
+
+**Vehicle Type** — Inspect vehicles and indicate in "Vehicle Type" caption of PAR:
+- ATV — All terrain vehicle
+- BIKE — Bicycle
+- CAR/SUV — passenger car/sport utility vehicle
+- TRUCK/BUS — Large and small commercial vehicles
+- MCY — Motorcycle
+- E-BIKE (with or without pedals)
+- E-SCOOTER (standing)
+- OTHER — describe in details
+
+**Pedicab:** Not on the Vehicle Type list — enter DCWP License # in "Driver License ID Number" caption and Registration # in "Plate #" caption
+
+> **Exam Alert:** Only a **UMOS** can prepare a PAR. A civilian operator cannot. *(PG 217-01)*
+
+> **Exam Alert:** Obtain VIN from **two places** — Dashboard AND Door — and verify they match. *(PG 217-01)*
+
+### Inform Operator — Copy of PAR
+
+Operator can obtain copy of PAR:
+- Online at NYS DMV or Dept's public internet website, OR
+- Precinct of occurrence within **30 days** either in person or by mail
+- Valid ID required (photo ID: License, Passport, etc.)
+- By mail: self-addressed stamped envelope (and copies of ID); mail requests WITHOUT proper photo ID will be **returned**
+
+### Handwritten PAR
+
+- Sign and deliver to D.O., **Precinct of occurrence**, regardless of assignment
+
+### Digital Activity Log
+
+- Make an Activity Log entry
+
+### Duplicate Copy Required For (Back of PAR)
+
+Check box "Dup. Copy Required For" on **back** of PAR and "Other City Agency" for the following:
+
+| Situation | Agency Box |
+|-----------|-----------|
+| Fire Trucks/EMS, Hydrants, Alarm Boxes | FDNY — Action & Claims Unit |
+| Tow Truck or Pedicab licensed by DCWP | Dept. Consumer and Worker Protection (DCWP) |
+| Crash Cushion or Impact Attenuator | Dept. of Transportation |
+| City Park (person killed/injured on road in City Park, OR damage to **any** City Tree) | Dept. of Parks |
+| Any school bus (with OR without kids; private or public school) | Dept of Ed — Office of Pupil Transportation |
+| Taxi or For Hire Vehicle licensed by TLC (Uber/Lyft) | TLC |
+| NYC personnel or property involved | Comptroller |
+| DOA | Highway's (CIS unit) AND Missing Persons (M.E.'s unit) |
+| Bicycle Collisions — "Killed," SILD, or Critically Injured (determined by EMS) | Highway CIS |
+
+> **Exam Alert:** School bus — the duplicate copy goes to Dept of Ed regardless of whether kids are on board. "With OR without kids!" *(PG 217-01)*
+
+> **Exam Alert:** DOA collision requires notification to **two** units: Highway CIS **and** Missing Persons (M.E.'s unit). *(PG 217-01)*
+
+> **Exam Alert:** In 217-02 (DOA/SILD/CI) and 217-17 (Bicycle collisions), UMOS has Sgt respond for those injuries. **Sgt is NOT mentioned in 217-01.** *(PG 217-01)*
+
+### Airbag Deployed
+
+- If injury involved: note on PAR if airbag inflated and deployed
+
+### DWI Arrest
+
+- Arresting officer (A/O) gives copy of PAR to ADA
+
+### Truck and Bus Supplemental PAR
+
+If a **Condition of Severity** exists, prepare one (1) Truck and Bus Supplemental PAR (MV 104S) for **EACH Qualifying Vehicle** and attach to the corresponding PAR.
+
+| Qualifying Vehicle | Condition of Severity |
+|-------------------|----------------------|
+| Commercial truck with GVW/CWR of **more than** 10,000 pounds | Fatal — at least 1 person with fatal injury |
+| HazMat — ANY vehicle with a HazMat placard | Hospital/Medical Attention — at least 1 person transported for immediate medical attention |
+| Bus — with seating for **9 or more** including driver | Tow or Transported — at least 1 vehicle towed or transported from scene (other than flat tire) |
+
+> **Memory Aid — GWR/CWR:**
+> - **GWR** = Gross Weight Rating
+> - **CWR** = Combined Weight Rating
+
+> **Exam Alert:** Bus = seating for **9 or more** (including driver). Commercial truck threshold is **more than** 10,000 lbs — not "10,000 or more." *(PG 217-01)*
+
+> **Exam Alert:** "Tow or Transported" as a Condition of Severity excludes tows due to a flat tire. *(PG 217-01)*
+
+### Command Clerk
+
+- FORMS System: Make required entries in FORMS MV-104 system for PAR prepared during the tour
+
+### Desk Officer
+
+- Review, Verify, and Sign handwritten PARs AND forward handwritten PARs to Administrative Quality of Life Officer (A-QOL-O)
+- Digital PAR: Sign off in FORMS MV-104; ensure required entries are made in FORMS MV-104
+- Deficiencies: Ensure deficiencies are addressed by the reporting officer **during the tour**
+- PARs from Other Commands: Do NOT accept PARs for collisions occurring **in another command**
+- In absence of A-QOL-O, a UMOS authorized by the C.O. will review PARs
+
+### Administrative QOL Officer/Designee
+
+- Review all PARs and inform Training Sergeant of any deficiencies
+- **Crossover Collision:** Fax copy of all PARs involving "crossover" collision to Corp Counsel AND Highway District
+- Handwritten PARs: After review, ensure barcode coversheet is generated from FORMS MV-104 and handwritten PARs are scanned and electronically attached to digital entry clerk made
+- **Duplicate Copies Required For:** Send copies marked "Duplicate Copies Required For" to appropriate agency in an addressed white envelope and forward via Mail and Distribution Unit
+
+### Quality of Life Sergeant
+
+- Monitor and review all PARs
+
+### Crossover Collision (Found in PG 202-06)
+
+A crossover collision is when a vehicle **strikes or crosses over** a median, jersey barrier, etc., separating opposing traffic — it doesn't actually have to cross over anything.
+
+> **See Also:** PG 202-06 — Crossover collision definition and additional duties of patrol supervisor.
+
+> **Exam Alert:** A crossover collision involves a vehicle that STRIKES OR CROSSES OVER a median/jersey barrier. The vehicle does not need to actually change lanes — striking the barrier qualifies. *(PG 202-06)*
+
 ---
 
 ## P.G. 217-02: Vehicle Collisions Which Result in Death, Serious Injury and Likely to Die, or Critical Injury
@@ -14730,6 +21498,10 @@ This procedure establishes the general framework for responding to and investiga
 *(Text unavailable in source PDF — review original Patrol Guide)*
 
 This procedure covers the specific steps for handling collisions resulting in death, serious injury (likely to die), or critical injury, including Collision Investigation Squad notification and specialized reporting requirements.
+
+> **Exam Alert:** In **217-02** (DOA/SILD/CI), UMOS has **Sgt respond** for those injuries. This is different from 217-01, where the Sgt is **not mentioned**. *(PG 217-02)*
+
+> **Exam Alert:** **DOA/SILD or Critical Injury (CI):** CI is determined by EMS on scene. A Designated MOS from CIS (Highway) coordinates investigation AND presents facts to the D.A. *(PG 217-02)*
 
 ---
 
@@ -14824,6 +21596,8 @@ This procedure does **NOT** include collisions occurring in:
 
 > **Exam Alert:** Administrative Code Section 20-524(c) **exempts governmental agencies** from D.A.R.P. — government vehicle operators may call their own tow service.
 
+> **Exam Alert:** D.A.R.P. also does NOT apply to collisions on tunnels, bridges, and arterial highways with franchised tow companies. Those get code **10-99T8** (Highway-authorized tow service). *(P.G. 217-09)*
+
 ### Key Administrative Code Provisions
 
 | Section | Requirement |
@@ -14845,6 +21619,8 @@ This procedure does **NOT** include collisions occurring in:
 | 3a | Include the **color, body type, and plate number(s)** of vehicle(s) requiring a tow |
 
 > **Exam Alert:** Once the uniformed member makes a determination that a tow truck is needed, the **request may NOT be cancelled**.
+
+> **Prior Test:** A uniformed member determines that a vehicle needs to be towed after a collision. The Communications Section dispatches a D.A.R.P. tow company. The vehicle owner then says their cousin has a tow truck and can come faster. The member must **deny the request** — once a D.A.R.P. request is made, it cannot be cancelled (except for the listed exemptions). The vehicle owner's private preference is NOT an exemption. *(P.G. 217-09)*
 
 > **Exam Alert:** **DO NOT TRANSMIT** the make, model, or year of the disabled vehicle(s) involved in a collision.
 
@@ -14932,6 +21708,10 @@ This procedure does **NOT** include collisions occurring in:
 
 The dispatched tow truck must possess and present a **"Tow Authorization" form** that includes a **Department of Consumer and Worker Protection license number**. Both tow trucks and operators must be licensed by DCWP.
 
+> **Exam Alert:** Members may NOT seize an unlicensed tow truck **for the sole purpose** of being unlicensed by DCWP. This is a common trap — the member should take enforcement action (summons) and prepare a REPORT OF VIOLATION, but cannot seize the truck solely for the unlicensed status. *(P.G. 217-09)*
+
+> **See Also:** P.G. 217-01 — "Dup. Copy Required For": If a Tow Truck or Pedicab licensed by DCWP is involved in a collision, check the "Dept. Consumer and Worker Protection (DCWP)" box on back of PAR.
+
 ### Key Forms
 
 | Form | Number |
@@ -14967,6 +21747,8 @@ Upon notification or observation of a collision on limited access highways, coll
 | 4 | Enter numerals/letters into the **twelve box** caption titled "Reference Marker" on the Police Accident Report |
 
 > **Exam Alert:** For **bridge and tunnel** collisions, always use the **Listing book** — NEVER use markers physically posted at the scene.
+
+> **Prior Test:** A uniformed member responds to a collision on a bridge. The nearest posted reference marker reads "B-112." The member should NOT enter "B-112" on the PAR — for bridge collisions, the reference marker from the **Limited Access Highway Reference Marker Listing book** must be used, not the physical marker posted at the scene. *(P.G. 217-14)*
 
 #### Command Clerical Staff Member (Steps 5-6)
 
@@ -15016,6 +21798,15 @@ A chemical test warrant will be applied for if a prisoner, arrested for DWI invo
 
 > **Exam Alert:** If the operator is the **ONLY** person with serious physical injury and no other person suffers serious injury or death, a chemical test warrant **CANNOT** be applied for.
 
+> **Prior Test:** A DWI suspect is arrested after a collision that causes serious physical injury to a passenger. The suspect refuses a breathalyzer. A chemical test warrant **CAN** be applied for because another person (the passenger) suffered serious physical injury. If the suspect had been the only injured party, no warrant would be possible. *(P.G. 217-16)*
+
+> **Memory Aid — Chemical Test Warrant 5-Part Articulation (OKIUR):**
+> - **O**perated a vehicle
+> - **K**illed or caused serious physical injury to **another** individual
+> - **I**ntoxicated or impaired by alcohol or drugs
+> - **U**nder arrest
+> - **R**efused chemical test OR unconscious more than 2 hours without test
+
 ### Procedure
 
 #### Patrol Supervisor (Step 1)
@@ -15025,6 +21816,8 @@ A chemical test warrant will be applied for if a prisoner, arrested for DWI invo
 | 1 | Request Communications Section dispatcher to dispatch **Highway District** personnel to designated testing location or hospital |
 
 > **Sergeant Focus:** The patrol supervisor initiates the Highway District request — this is the first step in the chemical test warrant process.
+
+> **Exam Alert:** The Patrol Supervisor's role in the chemical test warrant process is limited to Step 1 — dispatching Highway District. The Desk Officer then contacts Operations Unit. The arresting officer handles the ADA interaction and paperwork. Know who does what in this chain. *(P.G. 217-16)*
 
 #### Desk Officer, Precinct of Arrest (Steps 2-4)
 
@@ -15090,6 +21883,10 @@ To apply for the warrant, the member must articulate to the ADA and the judge th
 | 17 | Supply arresting officer with chemical test evidence kit |
 
 > **Exam Alert:** If prisoner refuses, maintain the **initial charge** — the arresting officer must articulate circumstances supporting the original DWI charge. After arraignment, the court forwards a **NOTICE OF SUSPENSION and/or NOTICE OF HEARING** for a hearing within **fifteen (15) days** of arraignment.
+
+> **Exam Alert:** Legal Bureau is available Monday–Friday, **0700–2300 hours**. After hours, contact **Operations Unit** for Department Attorney notification — NOT Legal Bureau directly. *(P.G. 217-16)*
+
+> **See Also:** P.G. 208-40 — "Intoxicated or Impaired Driver Arrest" — referenced in 217-06 (DWI arrest of MOS operator) and 217-16 (chemical test warrant process).
 
 ### Upon Approval of Chemical Test Warrant
 
@@ -15216,9 +22013,311 @@ In **property damage only** cases, a summons returnable to the Traffic Violation
 
 ## P.G. 217-06: Department Vehicle Collisions
 
-*(Text unavailable in source PDF — review original Patrol Guide)*
+**Date Issued:** (See Patrol Guide) | **Pages:** Multiple
 
-This procedure covers reporting and investigation requirements when Department vehicles are involved in collisions.
+### Purpose
+
+To investigate and document collisions involving Department vehicles and to establish reporting responsibilities for members of the service, patrol supervisors, desk officers, and commanding officers.
+
+### Key Definitions
+
+**SPI** — Serious Physical Injury
+**STV** — Serious Traffic Violation
+**PBT** — Breathalyzer (Portable Breath Test)
+**CR-PDV** — Collision Report — Police Department Vehicle
+**GWR** — Gross Weight Rating
+**CWR** — Combined Weight Rating
+
+> **Memory Aid — SPI + STV = PBT:** When a Department vehicle collision involves **S**erious **P**hysical **I**njury AND a **S**erious **T**raffic **V**iolation, the Patrol Supervisor gives a **P**ortable **B**reath **T**est to all operators involved.
+
+### Procedure
+
+#### Member of the Service (MOS) — Initial Steps
+
+When involved in a Department vehicle collision, the MOS (operator) must:
+
+- Stop vehicle immediately
+- Put out cigarette
+- Use 4-way flashers and raise the hood
+- Use flares or any other warning devices
+- Do NOT move the vehicle UNLESS the location is hazardous AND likely to cause additional collisions
+
+> **Exam Alert:** The operator raises the hood as a universal distress signal. Moving the vehicle requires BOTH conditions: location hazardous AND likely to cause additional collisions. *(P.G. 217-06)*
+
+The MOS must also request:
+- Ambulance if necessary
+- Operators, witnesses, and occupants to **remain pending arrival of Patrol Supervisor** — obtain name, address, home and business phone numbers
+- **Patrol Supervisor (P/S) from the precinct of occurrence** to respond
+  - If P/S unavailable, Central calls P/S from adjoining precinct
+- If MOS Operator is NOT from the precinct of occurrence, an available supervisor from MOS's command will assume Patrol Supervisor duties
+
+Document: Prepare **Report of Motor Vehicle Accident MV104 (Civilian form)** — prepare MV104 in FORMS. If incapacitated, the Patrol Supervisor prepares MV104.
+
+> **Exam Alert:** The civilian form (MV104, not MV104AN) is used for Department vehicle collisions — because the operator completes it. Only a UMOS can prepare a PAR (MV104AN). *(P.G. 217-06)*
+
+> **PG Conflict:** P.G. 217-01 says UMOS gives PBT when SPI AND STV exist. P.G. 217-06 says Patrol Supervisor gives PBT when SPI AND STV exist — different role, same trigger conditions. In 217-06, the Patrol Supervisor is responsible. *(P.G. 217-06 vs. P.G. 217-01)*
+
+### Patrol Supervisor — Precinct of Occurrence
+
+**Respond to scene** and ascertain details of collision.
+
+**Investigating Supervisor** role:
+- Assume duties of Investigating Supervisor (IS), OR
+- Request response of appropriate Investigating Supervisor
+- If DOA or Serious Injury to any person: IS will be **Precinct C.O./Duty Captain** (NOT SILD)
+
+> **Exam Alert:** The Investigating Supervisor for DOA or Serious Injury in a Department vehicle collision is the **Pct C.O. or Duty Captain**, NOT SILD. *(P.G. 217-06)*
+
+**Who is the Investigating Supervisor?**
+
+| Scenario | Investigating Supervisor |
+|----------|------------------------|
+| Normal collision | Patrol Supervisor, Pct of Occurrence |
+| Supervisor from involved MOS's command available | Supervisor from MOS's command |
+| DOA or Serious Injury | Pct C.O./Duty Captain |
+
+> **Role Comparison — Patrol Supervisor vs. Investigating Supervisor:** The Patrol Supervisor **always** does the "P/S, Pct of Occurrence" steps regardless of DOA/SI or not. If there is NO DOA/SI, the Patrol Supervisor also does the Investigating Supervisor steps. If there IS a DOA/SI, a separate Investigating Supervisor takes over that role.
+
+**Notify:**
+- Desk Officer of details of collision
+- If MOS injured and requires hospital treatment: **notify Operations Unit promptly**
+- Make additional notification before final reports are prepared to update Operations on injured MOS's status
+
+> **Exam Alert:** For an injured MOS requiring hospitalization, the Patrol Supervisor notifies **Operations**, NOT the Desk Officer. *(P.G. 217-06)*
+
+**If Serious Physical Injury (SPI) AND Serious Traffic Violation (STV):**
+- Give a **Breathalyzer (PBT)** to the MOS operator UNLESS operator removed to hospital (97H)
+- If Patrol Supervisor not qualified: request response of qualified **Highway Unit Supervisor** to give PBT
+- Civilian operator: Patrol Supervisor ensures civilian operators get PBT tested, UNLESS civilian operator removed to hospital (97H)
+
+> **Exam Alert:** CMOS w/CDL is covered in 217-07, not 217-06. See P.G. 217-07 for Commercial Motor Vehicle Operator with CDL. *(P.G. 217-06)*
+
+> **See Also:** P.G. 217-01 — List of Serious Traffic Violations (STVs).
+
+**Arrest for DWI:**
+- If probable cause MOS operator is under the influence: **effect arrest immediately**
+- Notify: **IAB** and comply with P.G. 208-40, "Intoxicated or Impaired Driver Arrest"
+
+> **Exam Alert:** For DWI arrest of MOS operator, the Patrol Supervisor notifies **IAB**, NOT the Desk Officer. *(P.G. 217-06)*
+
+**Document — Police Accident Report MV104AN (PAR):**
+- Prepare PAR in **quadruplicate** in FORMS
+  - Provide 1st copy to Operator
+  - 3 copies to Desk Officer
+- Note the following on PAR:
+  - Make entries in numbered boxes with corresponding code list on cover sheet
+  - If box does NOT apply, enter "dash" (-)
+  - If unknown, enter "X" in corresponding box
+  - Injuries (does NOT say serious — any injuries)
+  - Note if Airbags inflated and deployed, if applicable
+- Operator's address: **COMMAND'S ADDRESS**
+
+> **Memory Aid — Pin 330-03 LODI it's 1 Lefrak:** The operator's address on the PAR is the command's address. For LODI (Line of Duty Injury), 330-03 governs, and the address used is 1 Lefrak City Plaza (Police Plaza). *(P.G. 217-06)*
+
+- Print "Police Involved" at top of PAR under caption "Police Accident Report"
+- **Photographs:** Have 2 sets of photos taken showing damage to ALL vehicles
+  - If any injury or DOA, take at scene if possible
+  - Secure photos in a **Jewelry Security Envelope** (NOT voucher photos)
+- If responding to emergency: indicate if responding to emergency and what warning devices were used (lights, siren, etc.)
+
+**Emergency Operation on PAR:**
+- If collision occurred during emergency operation: put **"P" in a circle next to UMOS's name at top of PAR**
+- Enter in Accident Description/Officer's Notes: "Collision occurred in police vehicle owned/operated by NYPD while responding to an emergency situation." (Returning from emergency does NOT count)
+
+> **Exam Alert:** Put "P" in a circle on the PAR only when responding TO an emergency — NOT when returning from one. *(P.G. 217-06)*
+
+**Emergency Operation defined in VTL includes:**
+- Operating/parking while transporting Prisoner, Aided, Blood/Blood product involving imminent health risk
+- Pursuit, responding to 911, other emergency
+
+**MV104L:**
+- Prepare and sign MV104L including UMOS's driver license number
+- Ensure UMOS's driver license number is included on the MV104L
+- If collision occurred in "emergency operation": check box next to UMOS's name
+- Attach MV104L to the PAR (MV104AN)
+- Failure to report on MV104L is a **misdemeanor** and grounds for **suspension/revocation of MOS's License**
+
+> **Exam Alert:** MV104L is for **DMV internal use only**, NOT available to the public. The Additional Data section says MV104L is only for UMOS. A CMOS Department vehicle operator does NOT prepare the MV104L — they prepare the MV104 (civilian form). *(P.G. 217-06)*
+
+**Favorable Witnesses and Summonses:**
+- NYPD and NYC Law Department/designee pursues claims against private entities that are at fault
+- Document details re: cause of collision with witnesses favorable to NYC, on Department forms
+- Summons: issued to private vehicle operator **IF Patrol Supervisor determines** it is appropriate
+  - If DOA/SI and summons issued: **C.O./Duty Captain** determines if justified or **voids** summons if not justified
+- Department Vehicle Operator: summons will **NOT** be issued to an operator of a department vehicle
+
+> **Exam Alert:** A summons CAN be issued to a private vehicle operator in a Dept vehicle collision, but NOT to the Department vehicle operator. Whether to issue is the Patrol Supervisor's call; if DOA/SI, the C.O./Duty Captain reviews and can void it. *(P.G. 217-06)*
+
+### Investigating Supervisor
+
+**Injuries Result of Enforcement Action** — Respond and comply with PG 221-03 if a person is injured as the result of:
+- Department Vehicle Collision: person in custody (transported to court, etc.) is injured from Dept vehicle collision
+- Dept vehicle pursuit, or Car Stop, attempted car stop, or Attempted apprehension
+
+**Investigation:**
+- Canvass: conduct canvass for witnesses and video surveillance
+- Interview all involved including witnesses
+- Video Surveillance:
+  - If video inaccessible due to technical difficulties: notify PDS
+  - If Squad cannot obtain video: notify TARU
+  - Safeguard video — Voucher and ensure video placed in Jewelry Security Envelope, vouchered as "Investigatory Evidence"
+  - Send photocopy of CR-PDV to C.O., Professional Standards Division
+  - Give D.O. copy of voucher and CR-PDV
+  - PETS: Click MOS involved and enter in Remarks — Do not destroy without authorization of C.O., Legal Bureau
+
+**Results of Investigation and Preliminary Determination:**
+- Cause: Make preliminary determination of cause and note that on **both** the PAR and the CR-PDV — include actions of both the operator and recorder; Review AVL history of involved RMP
+- Fault: If preliminary investigation shows Dept Operator at fault — note fault **only on CR-PDV** (NOT on the PAR); note actions or omitted actions by the recorder
+- Document: Collision Report-PD Vehicle — Personally prepare Part A of COLLISION REPORT — PD VEHICLE (CR-PDV), sign and deliver CR-PDV to D.O. of precinct of occurrence
+
+**If Fed/State/City vehicle:** Issuing agency and vehicle information entered into "Preliminary Statement of Investigation Supervisor caption."
+
+> **Exam Alert:** Fault is noted ONLY on the CR-PDV, NOT on the PAR. *(P.G. 217-06)*
+
+**Vandalism to Department Vehicle:**
+- Report on Typed Letterhead (49) to FSD
+- Send vehicle to Boro Service Station with 49 (Does NOT say who writes 49)
+
+> **See Also:** P.G. 202-19 — Duties of the Patrol Supervisor: Investigate and submit reports on injuries to MOS or damage to Department property.
+
+**Out of City Dept Vehicle Collision:**
+- Notify Operations with details (vehicle #, occupants, injuries, etc.)
+- Request response of local police to complete paperwork required by NYS
+- Department paperwork: completed by supervisor of member and forwarded as per procedure
+- Photographs: when possible, **MOS concerned** takes photos of damage to all vehicles involved using Dept cell phone/other Dept device or any means available
+
+### Desk Officer — Precinct of Occurrence
+
+**Notify:**
+- C.O. to respond to scene of collision when applicable (DOA/SI)
+- Patrol Borough of collision
+  - Request Duty Captain to respond, when applicable (DOA/SI and C.O. not available)
+
+**Document:** Enter notification and borough collision number in Telephone Record
+
+> **Prior Test:** Scenario — a Dept vehicle collision results in serious injury. The Desk Officer must notify: (1) C.O. to respond to scene, and (2) Patrol Borough. The C.O. is notified to respond to the scene; if unavailable, the Duty Captain responds. The Desk Officer does NOT notify IAB — that is the Patrol Supervisor's duty if DWI is involved. *(P.G. 217-06)*
+
+**D.O. calls the Boro:**
+- 1st call to Boro: Obtain a number (Boro Collision #)
+- 2nd call to Boro: Provide Supv doing CR-PDV
+
+**D.O. and all numbers:**
+- Boro # → Enter in Telephone Record
+- FSD # → Enter on CR-PDV AND top of the PAR
+
+**Three (3) Reports with Three (3) Numbers:**
+- Reports: PAR, MV104-L, CR-PDV
+- Serial Numbers: PAR, Boro, and FSD
+
+> **Prior Test:** On the sergeant's exam, watch for questions about the Boro number (in the Telephone Record) OR the FSD number (in the Telephone Record). Know which numbers go WHERE. The FSD # goes on the CR-PDV AND on top of the PAR. *(P.G. 217-06)*
+
+**Fax these 3 reports to Personnel Safety Desk within 24 hours:**
+- WITHOUT the "final agency determination" captions completed (Pct C.O. makes determination)
+- BOTH sides of PAR, MV104-L, CR-PDV (no cover sheet necessary)
+- PRIOR to faxing: ensure legible and accurate. Fax on tour of occurrence, if possible
+- During business hours (0700-1830): confirm receipt by calling the Personnel Safety Desk
+- If Desk Officer cannot fax: leave copies for relieving D.O. to fax on next tour
+- Inoperative fax machine: use fax at closest department facility (NOT necessarily adjoining command)
+
+> **Exam Alert:** The 3 reports are faxed to Personnel Safety Desk within 24 hours — WITHOUT the final agency determination. Watch: the fax is sent on the TOUR of occurrence if possible (0700-1830, confirm receipt). *(P.G. 217-06)*
+
+**Forward Reports:**
+- Copy of PAR, CR-PDV, Copy of Voucher (if applicable), and Photos → forward to Pct XO
+- Original PAR → A-QOL Officer (usual manner)
+
+> **Exam Alert:** "What's missing?" from the forwarded items to Pct XO: **MV104 and/or MV104L** are NOT forwarded to XO — only the PAR, CR-PDV, voucher copy, and photos. *(P.G. 217-06)*
+
+**Duplicate Copy Required For:** Check appropriate "Duplicate Copy Required For" box (put vehicle's command if not permanently assigned)
+
+**Department Vehicle:**
+- Send Dept vehicle to borough service station (even if no apparent damage) with:
+  - Copy of PAR and 1 set of photos attached
+  - Do NOT put vehicle in service until inspected at service station
+- Speed Enforcement: have speedometer tested before use in speed enforcement; notify speedometer testing station if vehicle out of service for extended time
+
+### A-QOL Officer — Precinct of Occurrence (217-15)
+
+- Obtain copies of reports and enter the following into intranet:
+  - Info from Parts A and B of the CR-PDV — **within 72 hours** from time of collision
+  - Info from Part C of CR-PDV **within 30 days** — enter information on collision, including agency final determination
+
+> **Exam Alert:** Two separate deadlines: Parts A and B of CR-PDV → 72 hours. Part C → 30 days. *(P.G. 217-06 / 217-15)*
+
+**Private car insurance unjustly surcharged, cancelled, or not renewed as result of Dept vehicle collision:**
+- Member: should notify their C.O. AND contact NYS Dept of Financial Services
+- C.O.: Prepare UF50 (Official Letterhead) to insurance company concerned — exact text C.O. should write is in the P.G.
+
+### Precinct Executive Officer
+
+- **Precinct Vehicle Pursuit and Collision Safety Review Board** — Convene **MONTHLY**
+- Review: Collision Report, photographs, and any related reports prepared
+- Operators Collision History: have Personnel Safety Desk called to get # of prior Dept vehicle 53's by operator
+
+**The Board (convened within 20 days):**
+- XO and Training Sergeant and PEER and Lt PC or SP. OPS and I.C.O. or ASS'T and QOL Sgt. or DESIG and Supervisor of operator from other command
+- **6 people on the board; 7 if the operator is from an outside command**
+- XO is Chairperson (C.O. if XO unavailable)
+
+> **Memory Aid — Board Composition:** XO + Training Sgt + PEER + Lt PC/SP OPS + ICO/ASST + QOL Sgt/DESIG = 6 members (+ outside command supervisor = 7 total). The XO chairs; C.O. chairs if XO unavailable. *(P.G. 217-06)*
+
+> **Exam Alert:** Every outside command EXCEPT Highway goes through the Precinct Review Board. The Precinct C.O. (NOT X.O.) notifies command of outside operator that they MUST have a supervisor attend. *(P.G. 217-06)*
+
+**Recommendations:**
+- Indicate recommendations of Review Board by preparing Part "B" of CR-PDV
+- No Discipline Recommended but Preventable: Board may refer to Professional Standards Division, in addition to other recommendations (C.O. forwards CR-PDV to Professional Standards Division)
+
+**Traffic Stat Meetings will review:**
+- Review Board's determination, factors that led to the determination
+- Delays: explanation of delays if board not convened in succeeding month
+
+### Precinct Commanding Officer
+
+**CR-PDV:**
+- Complete Part "C" of CR-PDV — indicating approval or disapproval of Review Board's findings
+
+**All Reports — Endorse and forward/file CR-PDV as follows:**
+- Personnel Safety Desk w/in **30 days of collision** (10 DAYS after the Review Board is done!)
+  - White copy of CR-PDV with photos, copy of PAR and any related reports
+- Patrol Borough: Buff copy of CR-PDV and copy of PAR and any related reports — for **information only**
+- Operator's Personal Folder: Pink copy of CR-PDV to operator's Personal Folder
+  - C.O. of MOS concerned must review before it goes in the personal folder
+  - Including operator from an outside command: member's C.O. must review CR-PDV
+
+> **Memory Aid — Buff Copy:** "Buff to Boro, No Photo" — the Buff copy goes to the Patrol Borough for information only, with NO photos. *(P.G. 217-06)*
+
+> **Exam Alert:** The Personnel Safety Desk deadline is 30 days from collision, which is 10 days AFTER the Review Board completes (since the Review Board meets within 20 days). Don't confuse the two deadlines. *(P.G. 217-06)*
+
+**Referred to Professional Standards Bureau:**
+- IF Review Board recommends referral: forward copy of CR-PDV to Professional Standards Division, ATTN: Early Intervention Program
+
+**File:** Copies of everything made at Pct, under heading "Department Vehicle Collisions"
+
+**Implement:** Disciplinary action if necessary
+
+**Develop:** Collision reduction program
+
+### C.O./Duty Captain at Scene — After Preliminary Investigation
+
+If death or serious injury, based upon C.O./Duty Captain's determination:
+
+- Administrative Action: may ground BOTH the operator AND/OR recorder — action is subject to review by members' C.O.
+- Discipline: all proposed disciplinary action indicated on CR-PDV as a recommendation
+- GO 15: If need to interview MOS under A.G. 318-11, "Interrogation of Members of the Service" becomes apparent AND serious violation alleged OR sufficient justification present, member will be permitted sufficient time to have a representative respond prior to start
+
+### Retraining vs. Discipline
+
+> **Exam Alert — Retraining is NOT Discipline:** VTL allows police to run lights after slowing down and to speed if life/property is not endangered. Know the distinction between when discipline vs. retraining is appropriate. *(P.G. 217-06)*
+
+| Action | When Appropriate |
+|--------|-----------------|
+| **Discipline** | Member unsafely disregarded speed limit or red light |
+| **Retraining** | Ability was a contributory factor due to a driving deficiency: weather conditions affecting road surface, loss of control, backing/braking/turning, fender judgment, mirror usage (van), avoiding potholes |
+
+**Commanding Officer — Collision Training:**
+- 90 days (absent exigencies) to have member attend collision retraining
+- Can confer with C.O., Driver's Education and Training Unit to determine if appropriate
+
+> **Prior Test:** A member drives a Dept vehicle and runs a red light without slowing, causing a collision. The appropriate action is **discipline** (unsafe disregard), not retraining. If a member skids on ice and loses control, the appropriate action is **retraining** (driving deficiency/ability factor), not discipline. *(P.G. 217-06)*
 
 ---
 
@@ -15360,25 +22459,51 @@ To report damage to Department property **other than Department vehicles**.
 | **Chemical Test Warrant** | A Court Order directing medical personnel to draw blood from a DWI suspect in a collision causing serious physical injury or death to another individual, to determine blood alcohol/drug content | P.G. 217-16 |
 | **D.A.R.P.** | Directed Accident Response Program — the system for dispatching designated tow trucks through Communications Section to collision scenes on strict rotation basis | P.G. 217-09 |
 | **Reference Marker** | Green, 9"×8" marker located every 1/10 mile on limited access highways, CDRs, and entrance/exit ramps | P.G. 217-14 |
+| **SPI** | Serious Physical Injury — triggers Breathalyzer requirement (when combined with STV) in both 217-01 and 217-06 | P.G. 217-01, 217-06 |
+| **STV** | Serious Traffic Violation — triggers Breathalyzer requirement (when combined with SPI) | P.G. 217-01, 217-06 |
+| **PBT** | Portable Breath Test (Breathalyzer) — administered when SPI AND STV conditions both exist | P.G. 217-01, 217-06 |
+| **CR-PDV** | Collision Report — Police Department Vehicle — the primary Department vehicle collision report prepared by the Investigating Supervisor | P.G. 217-06 |
+| **GWR** | Gross Weight Rating — the rated maximum weight of a vehicle alone; over 10,000 lbs triggers Qualifying Vehicle status for commercial trucks | P.G. 217-01 |
+| **CWR** | Combined Weight Rating — the combined rated weight; over 10,000 lbs (combined with GWR) triggers Qualifying Vehicle status | P.G. 217-01 |
+| **A-QOL-O** | Administrative Quality of Life Officer — replaced the Traffic Safety Officer (TSO); reviews all PARs and handles Department vehicle collision reporting into intranet | P.G. 217-01, 217-15 |
+| **TSO** | Traffic Safety Officer — former title, no longer exists; replaced by A-QOL-O | P.G. 217-01 |
+| **CR-PDV** | Collision Report — Police Department Vehicle — prepared in quadruplicate; Part A (Investigating Supervisor), Part B (Review Board recommendations), Part C (C.O. approval/disapproval) | P.G. 217-06 |
+| **MV104L** | DMV form for UMOS drivers only — internal DMV use, not available to public; failure to complete is a misdemeanor and grounds for license suspension/revocation | P.G. 217-06 |
+| **Crossover Collision** | When a vehicle strikes OR crosses a median, jersey barrier, etc., separating opposing traffic — does not require actual crossover; defined in P.G. 202-06 | P.G. 202-06, 217-06 |
+| **Qualifying Vehicle** | Commercial truck (GWR/CWR over 10,000 lbs), HazMat vehicle (any vehicle with HAZ MAT placard), or Bus (seating for 9 or more including driver) — requires MV104S when Condition of Severity exists | P.G. 217-01 |
+| **Condition of Severity** | Fatal (at least 1 fatal injury), Hospital/Medical Attention (at least 1 person transported for immediate care), or Tow/Transported (at least 1 vehicle towed for other than flat tire) — triggers MV104S requirement | P.G. 217-01 |
+| **MV104S** | Truck and Bus Supplemental PAR — prepared for each Qualifying Vehicle when a Condition of Severity exists; one MV104S per qualifying vehicle, attached to corresponding PAR | P.G. 217-01 |
 
 ## Critical Numbers and Timeframes
 
 | Number | Context | Source |
 |--------|---------|--------|
 | **24 hours** | Deadline to fax Early Notification of Fatal Accident (MV-104EN) to NYS DMV | P.G. 217-03 |
+| **24 hours** | Deadline to fax 3 Dept vehicle collision reports (PAR, MV104-L, CR-PDV) to Personnel Safety Desk | P.G. 217-06 |
 | **90 days** | Deadline for filing claims against the City with the Comptroller | P.G. 217-04 |
 | **10 hours** | Pilot must report aircraft accident to desk officer (failure = misdemeanor) | P.G. 217-08 |
+| **10 days** | MV104 must be submitted to DMV within 10 days by operator (civilian) when collision has injury or over $1,000 damage | P.G. 217-01 |
+| **30 days** | Operator can obtain copy of PAR from Pct of occurrence within 30 days (in person or by mail) | P.G. 217-01 |
+| **30 days** | A-QOL Officer enters Part C of CR-PDV into intranet within 30 days | P.G. 217-15 |
+| **30 days** | C.O. forwards CR-PDV package to Personnel Safety Desk within 30 days of collision (10 days after Review Board) | P.G. 217-06 |
 | **15,000 lbs** | GVW threshold — vehicles at or above this weight may use their own tow company | P.G. 217-09 |
 | **30 minutes** | Wait time for D.A.R.P. tow before cancelling and requesting next in rotation | P.G. 217-09 |
+| **20 days** | Review Board must be convened within this period | P.G. 217-06 |
+| **72 hours** | A-QOL Officer enters Parts A and B of CR-PDV into intranet within 72 hours of collision | P.G. 217-15 |
+| **90 days** | C.O. has 90 days (absent exigencies) to have member attend collision retraining | P.G. 217-06 |
 | **1/10 mile** | Spacing of reference markers on limited access highways | P.G. 217-14 |
 | **2 hours** | If unconscious DWI suspect under arrest for this long without chemical test, warrant must be obtained | P.G. 217-16 |
 | **1 hour** | Escalation trigger if ADA has not contacted arresting officer for chemical test warrant | P.G. 217-16 |
 | **30 minutes** | Follow-up interval for contacting ADA supervisor after initial 1-hour escalation | P.G. 217-16 |
 | **15 days** | Hearing must occur within this period after arraignment for chemical test refusal | P.G. 217-16 |
 | **0700–2300** | Legal Bureau availability, Monday–Friday | P.G. 217-16 |
+| **0700–1830** | Business hours window for faxing Dept vehicle reports and confirming receipt | P.G. 217-06 |
+| **6 members** | Review Board size when operator is from same command | P.G. 217-06 |
+| **7 members** | Review Board size when operator is from an outside command | P.G. 217-06 |
 | **VTL Section 602** | Authorizes summons for leaving scene (property damage only) without observing the offense | P.G. 217-05 |
 | **Admin Code 20-518(b)(2)** | Violation for unsolicited tow truck response to collision scene | P.G. 217-09 |
 | **Admin Code 20-515(b)** | Violation for soliciting towing at collision scene | P.G. 217-09 |
+| **Admin Code 20-524(c)** | Exempts governmental agencies from D.A.R.P. requirements | P.G. 217-09 |
 
 ## D.A.R.P. Disposition Codes
 
@@ -15413,6 +22538,50 @@ To report damage to Department property **other than Department vehicles**.
 | Horses | Mounted Unit |
 | Aircraft, launches | Office of the Chief of Special Operations |
 
+## Department Vehicle Collision (217-06) Key Numbers
+
+| Item | Detail |
+|------|--------|
+| Reports prepared | 3: PAR (MV104AN), MV104-L, CR-PDV |
+| Serial numbers | 3: PAR serial, Boro #, FSD # |
+| PAR copies | Quadruplicate: 1st to Operator, 3 to Desk Officer |
+| Photos | 2 sets showing damage to ALL vehicles; in Jewelry Security Envelope |
+| Fax deadline | Within 24 hours to Personnel Safety Desk (tour of occurrence if possible; confirm 0700-1830) |
+| Boro # location | Telephone Record |
+| FSD # location | On CR-PDV AND top of PAR |
+| CR-PDV Parts | A = Investigating Supervisor; B = Review Board recommendations; C = C.O. approval/disapproval |
+| Buff copy of CR-PDV | To Patrol Borough — information only, NO photos ("Buff to Boro, No Photo") |
+| White copy of CR-PDV | To Personnel Safety Desk with photos and copy of PAR |
+| Pink copy of CR-PDV | Operator's Personal Folder (C.O. must review first) |
+| Crossover PAR copy | Faxed to Corp Counsel AND Highway District by A-QOL-O |
+| Not forwarded to XO | MV104 and/or MV104L (only PAR, CR-PDV, voucher copy, photos go to XO) |
+
+## Serious Traffic Violations (VTL) Referenced in 217-01
+
+| VTL Section | Violation |
+|-------------|-----------|
+| 511 | Suspended/Revoked License |
+| 600 | Leaving the scene |
+| 1100-1212 | Traffic signs, signals, and markings |
+| 1120-1131 | Driving on right side of roadway, overtaking and passing |
+| 1140-1146a | Right of way |
+| 1160-1166 | Turning/starting and signals on stopping/turning |
+| 1170-1176 | Special stops required |
+| 1180-1182b | Speed restrictions |
+| 1212 | Reckless driving |
+
+## Who Does NOT Need to Produce Insurance Cards
+
+| Exempt Category |
+|----------------|
+| Taxis |
+| Buses |
+| Rented Vehicles |
+| Public Service Commission/ICC vehicles |
+| GOVT. Owned vehicles |
+| Certain Farm Vehicles |
+| Diplomats (covered by P.G. 209-03) |
+
 ## Key Forms
 
 | Form | Number | Source |
@@ -15432,6 +22601,11 @@ To report damage to Department property **other than Department vehicles**.
 | FIELD REPORT | 313-1511 | P.G. 217-11 |
 | CHEMICAL TEST WARRANT APPLICATION | PD374-041 | P.G. 217-16 |
 | Report of Refusal to Submit to Chemical Test | NYSDMV AA-134 | P.G. 217-16 |
+| COLLISION REPORT — PD VEHICLE | CR-PDV | P.G. 217-06 |
+| Report of Motor Vehicle Accident (civilian form) | MV104 | P.G. 217-06 |
+| MOS Driver License Report | MV104L | P.G. 217-06 |
+| Truck and Bus Supplemental PAR | MV104S | P.G. 217-01 |
+| UF50 (Official Letterhead) | UF50 | P.G. 217-06 (insurance surcharge) |
 
 ---
 
@@ -15696,6 +22870,227 @@ Under P.G. 217-16, if one hour has passed and the assistant district attorney ha
 
 ---
 
+### Question 16
+
+According to P.G. 217-06, when a Department vehicle collision results in Serious Physical Injury AND a Serious Traffic Violation, who is responsible for administering a Breathalyzer (PBT) to the MOS operator?
+
+- A) The responding UMOS
+- B) The desk officer
+- C) The patrol supervisor
+- D) The Highway District supervisor
+
+<details><summary>Answer</summary>
+
+**C)** Per P.G. 217-06, the **Patrol Supervisor** gives the PBT to the MOS operator when there is SPI AND STV — unless the operator is removed to the hospital (97H). If the Patrol Supervisor is not qualified, they request a qualified **Highway Unit Supervisor** to administer it.
+
+</details>
+
+---
+
+### Question 17
+
+Under P.G. 217-06, after a Department vehicle collision, who must the Patrol Supervisor notify if the MOS operator is arrested for DWI?
+
+- A) The desk officer
+- B) The Quality of Life Officer
+- C) The Internal Affairs Bureau (IAB)
+- D) Operations Unit
+
+<details><summary>Answer</summary>
+
+**C)** The Patrol Supervisor notifies **IAB** for a DWI arrest of a MOS operator, and must comply with P.G. 208-40 "Intoxicated or Impaired Driver Arrest." The Patrol Supervisor notifies Operations (NOT the Desk Officer) when the MOS is injured and requires hospital treatment.
+
+</details>
+
+---
+
+### Question 18
+
+Per P.G. 217-06, a Department vehicle collision occurs. A police officer fails to report on the MV104L. What are the consequences?
+
+- A) A written reprimand and mandatory retraining
+- B) Grounds for a CCRB complaint
+- C) A misdemeanor and grounds for suspension or revocation of the MOS's license
+- D) An administrative violation requiring the desk officer to prepare the form
+
+<details><summary>Answer</summary>
+
+**C)** Failure to report on the MV104L is a **misdemeanor** and grounds for **suspension or revocation** of the MOS's license. Note: MV104L is only for UMOS — a CMOS Department vehicle operator prepares the MV104 (civilian form) instead.
+
+</details>
+
+---
+
+### Question 19
+
+According to P.G. 217-06, who convenes the Precinct Vehicle Pursuit and Collision Safety Review Board, and how often must it be convened?
+
+- A) The Quality of Life Sergeant, quarterly
+- B) The Precinct Executive Officer (XO), monthly
+- C) The Commanding Officer, within 30 days of each collision
+- D) The Training Sergeant, within 20 days of each collision
+
+<details><summary>Answer</summary>
+
+**B)** The **Precinct Executive Officer (XO)** convenes the Precinct Vehicle Pursuit and Collision Safety Review Board **monthly**. The XO is the Chairperson (C.O. if XO unavailable). The board must convene within **20 days**.
+
+</details>
+
+---
+
+### Question 20
+
+Under P.G. 217-06, how many members are on the Precinct Vehicle Pursuit and Collision Safety Review Board if the MOS operator is from the same precinct?
+
+- A) 4 members
+- B) 5 members
+- C) 6 members
+- D) 7 members
+
+<details><summary>Answer</summary>
+
+**C)** There are **6 people on the board** when the operator is from the same precinct: XO + Training Sgt + PEER + Lt PC or SP. OPS + I.C.O. or ASS'T + QOL Sgt. or DESIG. If the operator is from an **outside command**, a supervisor from that command is added for a total of **7**.
+
+</details>
+
+---
+
+### Question 21
+
+Per P.G. 217-06, the Desk Officer faxes the three Department vehicle collision reports to the Personnel Safety Desk. What is the deadline, and what is notably absent from what is faxed?
+
+- A) Within 48 hours; the photographs are not included
+- B) Within 24 hours; the final agency determination captions are NOT completed (left blank)
+- C) Within 30 days; the MV104L is not included
+- D) By end of tour; the CR-PDV Part C is excluded
+
+<details><summary>Answer</summary>
+
+**B)** The three reports (PAR, MV104-L, CR-PDV) are faxed to Personnel Safety Desk **within 24 hours**, WITHOUT the "final agency determination" captions completed — the Precinct C.O. makes that determination later. No cover sheet is necessary.
+
+</details>
+
+---
+
+### Question 22
+
+According to P.G. 217-06, when a Department vehicle operator is involved in a collision and a collision occurs during an "emergency operation," what must appear on the Police Accident Report?
+
+- A) The letter "E" checked in the emergency box on the front of the PAR
+- B) The letter "P" in a circle next to the UMOS's name at the top of the PAR
+- C) The notation "Emergency" stamped across the top of the PAR
+- D) A separate MV104-Emergency form attached to the PAR
+
+<details><summary>Answer</summary>
+
+**B)** A **"P" in a circle** is placed next to the UMOS's name at the top of the PAR when a collision occurs during emergency operation. This applies only when **responding TO** an emergency — returning FROM an emergency does NOT qualify.
+
+</details>
+
+---
+
+### Question 23
+
+Per P.G. 217-06, what is the distinction between discipline and retraining after a Department vehicle collision?
+
+- A) Discipline is for any collision; retraining is only for first-time offenders
+- B) Discipline is for unsafe disregard of speed/lights; retraining is for driving deficiencies such as loss of control or poor mirror usage
+- C) Discipline applies only if there is a fatality; retraining applies for all other collisions
+- D) There is no distinction — both are mandatory after any Dept vehicle collision
+
+<details><summary>Answer</summary>
+
+**B)** **Discipline** is appropriate when a member unsafely disregarded the speed limit or red light. **Retraining** is appropriate when ability was a contributory factor due to a driving deficiency (weather, loss of control, backing/braking/turning, fender judgment, mirror usage, avoiding potholes). VTL allows police to run lights after slowing down and to speed if life/property is not endangered.
+
+</details>
+
+---
+
+### Question 24
+
+Under P.G. 217-06, the A-QOL Officer must enter CR-PDV information into the intranet within what timeframes?
+
+- A) Parts A and B within 24 hours; Part C within 14 days
+- B) Parts A and B within 72 hours; Part C within 30 days
+- C) All parts within 30 days
+- D) Parts A and B within 48 hours; Part C within 60 days
+
+<details><summary>Answer</summary>
+
+**B)** The A-QOL Officer enters information from Parts A and B of the CR-PDV **within 72 hours** from time of collision, and Part C information **within 30 days** (including agency final determination).
+
+</details>
+
+---
+
+### Question 25
+
+Per P.G. 217-06, if an MOS operator's private car insurance is unjustly surcharged as a result of a Department vehicle collision, what should the member's Commanding Officer do?
+
+- A) File a formal grievance with the PBA
+- B) Notify the Department's Legal Bureau on the member's behalf
+- C) Prepare a UF50 (Official Letterhead) to the insurance company concerned
+- D) Contact NYS Department of Financial Services directly
+
+<details><summary>Answer</summary>
+
+**C)** The C.O. prepares a **UF50 (Official Letterhead)** to the insurance company concerned — the exact text the C.O. should write is specified in the P.G. The member should notify their C.O. AND contact **NYS Department of Financial Services**.
+
+</details>
+
+---
+
+### Question 26
+
+According to P.G. 217-16, under what circumstances must a chemical test warrant be obtained for an unconscious DWI suspect?
+
+- A) Immediately upon the suspect becoming unconscious
+- B) When the suspect has been unconscious for more than 30 minutes
+- C) When more than two hours have elapsed since arrest and the suspect has not been tested
+- D) Only when the collision resulted in a fatality
+
+<details><summary>Answer</summary>
+
+**C)** A chemical test warrant **must** be obtained when more than **two (2) hours** have elapsed since arrest and the unconscious prisoner has not been subjected to a chemical test. The warrant cannot be applied for if the operator is the only person with serious physical injury.
+
+</details>
+
+---
+
+### Question 27
+
+Under P.G. 217-01, which of the following vehicles involved in a collision is classified as a "Qualifying Vehicle" requiring a Truck and Bus Supplemental PAR (MV104S)?
+
+- A) A motorcycle with a modified engine
+- B) A school bus with seating for 12 including the driver
+- C) A commercial truck with a Gross Weight Rating of 10,000 pounds
+- D) A rental car carrying hazardous household materials
+
+<details><summary>Answer</summary>
+
+**B)** A **BUS with seating for 9 or more including driver** is a Qualifying Vehicle. A commercial truck must have GWR/CWR of **MORE THAN** 10,000 pounds (not exactly 10,000). A HazMat vehicle is any vehicle with a HAZ MAT placard. The MV104S is prepared when a Condition of Severity also exists (fatal, hospital/medical, or tow/transported).
+
+</details>
+
+---
+
+### Question 28
+
+Per P.G. 217-06, what is the "crossover collision" definition found in P.G. 202-06, and what additional step is required for PARs involving crossover collisions?
+
+- A) A collision where two vehicles collide head-on; no additional steps required
+- B) A collision where a vehicle strikes or crosses a median/jersey barrier separating opposing traffic; A-QOL Officer faxes PAR to Corp Counsel AND Highway District
+- C) A collision where a driver crosses state lines; notify DMV of both states
+- D) A collision involving a turning vehicle; note in the PAR accident description
+
+<details><summary>Answer</summary>
+
+**B)** A crossover collision is when a vehicle **strikes OR crosses over** a median, jersey barrier, etc., separating opposing traffic — it does NOT actually have to cross over anything. The A-QOL Officer/Designee faxes a copy of all PARs involving crossover collisions to **Corp Counsel AND Highway District**. *(P.G. 202-06 definition; P.G. 217-06 procedure)*
+
+</details>
+
+---
+
 # Section 218 — Property: General
 
 ## Overview
@@ -15774,6 +23169,99 @@ To identify regulated waste coming into police custody.
 
 ---
 
+## P.G. 218-04: Delivery of Evidence to the Police Laboratory
+
+**Date Effective:** (see PG) | **Pages:** 12+
+
+### Purpose
+
+To deliver evidence with probative value to the Police Laboratory for analysis. Non-probative property is delivered direct to the Property Clerk Division.
+
+### Four Transparent Bag Categories
+
+The Desk Officer prepares four transparent bags for items going to the Lab:
+
+| Bag | Contents |
+|-----|---------|
+| 1 — GUNS | Firearms and firearm-related evidence |
+| 2 — DRUGS | Controlled substances / marijuana evidence |
+| 3 — DNA | DNA evidence including SECKs |
+| 4 — CRIMINALISTICS | Trace evidence (hair, fiber, paint, GSR, questioned docs, footwear, tool marks, fingerprints) |
+
+> **Exam Alert:** Found **firearms** (semi-automatic handguns, etc.) go to the Lab, but found **revolvers** do NOT — revolvers not associated with an arrest or criminal investigation do not require lab analysis. *(PG 218-04)*
+
+> **Exam Alert:** The 4-bag procedure applies to **Precincts, TDs, and PSAs**. The process steps are essentially the same for all four categories — differences relate to which paperwork is attached. *(PG 218-04)*
+
+### Paperwork Attached Per Evidence Category
+
+| | Guns | Drugs | DNA (SECK) | Criminalistics |
+|---|---|---|---|---|
+| Request for Lab Exam | YES | **NO** | YES | YES |
+| PCI | YES | YES | YES | YES |
+| OLBS (if applicable) | YES | **NO** | YES | YES |
+| 61 OR Omni printout | YES | **NO** | YES | YES |
+| zFINEST printout | YES | NO | NO | NO |
+
+> **Exam Alert:** Guns do NOT get the OLBS attached. Drugs do NOT get a Request for Lab Exam. The 61/Omni printout gets attached to all 4 bags EXCEPT Drugs. The zFINEST printout is ONLY attached to the Gun bag. DNA (SECK) and Criminalistics have the same paperwork. *(PG 218-04)*
+
+> **PG Conflict:** Under 218-04 (Lab delivery), when the **Borough accepts** property, a PTR Acceptance Document is issued. When the **Borough rejects** property, a **new PTR** is issued. Under 218-03 (Property Clerk delivery), when the Property Clerk accepts property, there is **NO mention of an Acceptance Document**. *(PG 218-04 vs. PG 218-03)*
+
+### Notification and Delivery Timeline
+
+- Desk Officer notifies **Patrol Boro PRIOR to 0030** that evidence is going to the Lab
+- Delivery must occur on **1st platoon PRIOR to 0100**
+- If desk officer fails to call the boro by 0030, the **Borough Member/Clerical Officer** will call command at **0100**
+- If exigency exists and delivery cannot comply: need permission from the **C.O./Duty Captain**
+
+> **Exam Alert:** If delivery is missed on the 1st platoon, **Drugs or Guns** in a **CPL 180.80/170.70 case** must be delivered on the **2nd platoon**. The notification says Drugs or Guns — it does NOT say DNA or Criminalistics. *(PG 218-04)*
+
+> **Exam Alert:** If the D.O. claims exigency, the Borough Clerical Officer will **immediately** call the C.O./Duty Captain. The C.O./Duty Captain then prepares a **Typed Letterhead** to the Chief of Patrol through channels describing the exigency and explaining non-compliance. *(PG 218-04)*
+
+### Unusual Property — Call Lab's Evidence Control Supervisor First
+
+Before delivering any of the following, call the Lab's Evidence Control **Supervisor** (available 24/7):
+- Hypos
+- Large seizures of marijuana
+- Large containers of liquids
+- Large seizures of firearms
+- DNA evidence from crime scenes
+- Other unusual or potentially harmful material
+
+> **Exam Alert:** If the D.O. has questions about what is considered "large," call the **Evidence Control Supervisor**. *(PG 218-04)*
+
+### Hypos (Hypodermic Syringes/Needles)
+
+Hypos are sent to the **Property Clerk, NOT the Lab**, UNLESS:
+- Suspected overdose, OR
+- Felony charge **other than** CPCS/CSCS (e.g., Homicide, Assault, major crime)
+
+> **Exam Alert:** Hypos accepted at the Lab only if properly packaged. See 218-10 for hypo packaging instructions. *(PG 218-04)*
+
+> **See Also:** PG 218-10 — Hypodermic needle packaging requirements.
+
+### Controlled Substances Delivered to Lab vs. Not
+
+| Delivered to Lab | NOT Delivered to Lab |
+|-----------------|---------------------|
+| Felony level arrest or Felony investigation | All other controlled substances/marijuana |
+| Overdose investigations | Marijuana that has been **field tested** |
+
+### Reasons the Lab May Reject Property
+
+- Unsigned voucher (by officer and/or supervisor)
+- Discrepancy between PTR member and delivering member
+- Missing or incomplete Reports (PTR, 61, or Request for Lab Exam)
+- Evidence not rendered safe (radiological, biological, bomb material not rendered safe by bomb squad)
+- Improperly packaged hypo (submitted for homicide, assault, overdose, other major crime but packaged improperly)
+- Improperly invoiced evidence (e.g., narcotics invoiced with Criminalistics, firearm evidence invoiced with holster/silencer, items not analyzed)
+- Evidence/property not requiring laboratory analysis
+
+> **See Also:** PG 218-03 — Delivery of property to Property Clerk (non-lab items).
+
+> **See Also:** PG 218-23 — Processing firearms and firearm-related evidence.
+
+---
+
 ## P.G. 218-23: Processing Firearms and Firearm-Related Evidence
 
 **Date Effective:** 12/31/24 | **Last Revision:** R.O. 78 | **Pages:** 11
@@ -15790,6 +23278,8 @@ To ensure all firearms and firearm-related evidence is properly marked, packaged
 | **Cartridge** | Live ammunition — bullet (projectile) + shell casing as one unit |
 | **Fired Bullet** | Part of cartridge fired through barrel (lead, metal-jacketed, coated lead) |
 | **Shell Casing** | Metal casing remaining in/ejecting from firearm after bullet leaves barrel |
+
+> **Memory Aid — GUNS/DRUGS/DNA/CRIM:** The four transparent bag categories for Lab delivery are **G**uns, **D**rugs, **D**NA, **C**riminalistics. *(PG 218-04)*
 
 ### Cartridge Categories (Critical for Packaging)
 
@@ -15858,6 +23348,8 @@ To ensure all firearms and firearm-related evidence is properly marked, packaged
 
 > **Exam Alert:** Firearm alarm cancellation is made ONLY by the **Stolen Property Inquiry Unit** — recovering command does NOT cancel.
 
+> **Exam Alert:** Marking order and invoice listing order are **different things**. Order does NOT matter when physically **marking** firearm evidence (a firearm can be "marked" item 7). However, the **order on the invoice** is set by procedure — the firearm must always be listed as Item 1 on the invoice, regardless of marking order. *(PG 218-23, Page 2 of 11, 3rd Paragraph)*
+
 ### Firearms Invoiced for Safekeeping
 
 Delivered DIRECT to Property Clerk Division (no lab analysis required):
@@ -15866,6 +23358,21 @@ Delivered DIRECT to Property Clerk Division (no lab analysis required):
 - Obtained from licensed dealer when license revoked/suspended/expired
 - Lawfully possessed and removed by court order/order of protection
 - Obtained from permit holder during renewal/expiration/cancellation
+
+> **Exam Alert:** Firearms invoiced for safekeeping get a **separate voucher** and are sent **straight to Property Clerk UNLESS something needs examination**. Do NOT put safekeeping guns on the same invoice as guns going to the Lab. *(PG 218-23)*
+
+### Tracing Firearms
+
+Not every gun sent to the Firearms Analysis Section (FAS) is automatically traced.
+
+- If the MOS does **NOT** want the gun traced: write in **block letters "DO NOT TRACE"** in the "Remarks" section of **both the PCI AND the Request for Lab Exam**
+- If the Commanding Officer subsequently decides it SHOULD be traced: request can be made by phone to the Bureau of ATF
+- **Routine Trace:** Call BATF Regional Crime Gun Center 2 weeks after receipt by FAS
+- **Emergency Trace:** Call a supervisor at the **Joint Firearms Task Force (JFTF)**; if unable to reach a supervisor at JFTF, call the **Detective Bureau Wheel**
+
+> **Exam Alert:** "DO NOT TRACE" must appear in block letters in the Remarks section of **both** the PCI and the Request for Lab Exam — not just one. *(PG 218-23)*
+
+> **See Also:** PG 218-04 — Delivery of evidence to the Police Lab (which firearms go / which do not).
 
 ### DNA Evidence on Firearms
 
@@ -16074,6 +23581,12 @@ To establish a standard procedure to invoice fireworks coming into custody.
 | 11–13 | Enter quantity of sealed bags/boxes — do NOT individually count fireworks |
 | 14 | Attach photocopy of INVOICE to each sealed bag/box (minimum 10 for large seizures) |
 
+> **Exam Alert:** "Impact exploders" (snaps, cracker balls, etc.) must be separated from other fireworks because they could cause a **chain reaction detonation**. *(PG 218-53)*
+
+> **Exam Alert:** Two separate PCIs are always prepared for a fireworks arrest — **one for the photographs** (arrest evidence) and **one for the fireworks**. Both vouchers include the 61#, OLBS#, and charge/offense. *(PG 218-53)*
+
+> **Exam Alert:** For a large seizure of **sealed boxes**, provide overall photographs of the boxed fireworks, open one box, remove and display contents and photograph, then repack and seal with Evidence Tape. *(PG 218-53)*
+
 ### Desk Officer — Delivery to Bomb Squad
 
 | Step | Action |
@@ -16082,6 +23595,12 @@ To establish a standard procedure to invoice fireworks coming into custody.
 | 19a | Contact Bomb Squad Office at all other times |
 | 22 | Create PROPERTY TRANSFER REPORT using FORMS Property |
 | 23 | Make Command Log entry (INVOICE numbers, delivering member, vehicle numbers) |
+
+> **Exam Alert:** Call Bomb Squad **from the scene** in three situations: **(1) Large Seizure, (2) Unusual Problem, (3) Question regarding Safety**. *(PG 218-53)*
+
+> **Exam Alert:** The Command Log entry for fireworks delivery includes **three numbers**: PCI #s, Name & shield # of MOS delivering, and RMP #. *(PG 218-53)*
+
+> **Exam Alert:** The MOS delivering fireworks to the Bomb Squad returns to command with **two items**: (1) the PTR Acceptance Document with assigned Bomb Squad case # on it, AND (2) a copy of the Bomb Squad Fireworks Supporting Deposition. The D.O. files the deposition with the PCI in the A/Os Arrest Folder. *(PG 218-53)*
 
 ### Transportation Safety Rules
 
@@ -16097,7 +23616,13 @@ To establish a standard procedure to invoice fireworks coming into custody.
 | After dark | **No unloading** at Bomb Squad range |
 | Significant amount | Notify FDNY through **311** for fire protection escort |
 
-> **Exam Alert:** ONLY Department-issued "Heavy Duty Bags (For Fireworks)" may be used — peddler, garbage, or recycling bags are **strictly prohibited**.
+> **Exam Alert:** ONLY Department-issued "Heavy Duty Bags (For Fireworks)" may be used — peddler, garbage, or recycling bags are **strictly prohibited**. *(PG 218-53)*
+
+> **Exam Alert:** "Large seizure" = **more than 25 bags or boxes** — these must be transported in a **closed-body truck** with a separate cab and **wood cargo floor**. Load must be secured to prevent shifting (no open rack or barrier trucks). Large seizures are NOT unloaded at the Range after dark. The final decision to unload or not rests with the **Bomb Squad**. *(PG 218-53)*
+
+> **Exam Alert:** Large amounts of fireworks are **NOT stored** in a dept. facility — transport to range ASAP or as directed. Small amounts can be safely stored prior to transport but must be **kept away from radiators/heaters**. *(PG 218-53)*
+
+> **See Also:** PG 214-33 — Transport of animals; fireworks are transported in rear seat of RMP (NOT trunk), similar rule to transporting a dog in a patrol vehicle.
 
 ---
 
@@ -16202,6 +23727,10 @@ A member determines if someone is a co-occupant (not visitor/guest) by:
 4. Examining rent receipts or similar documentation
 5. Considering any other relevant factors
 
+### Co-Occupant vs. Visitor/Guest Determination
+
+Examine documents reflecting address (license, mail, credit cards, rent receipts), question neighbors, check closets for clothes, consider other relevant factors.
+
 ### Patrol Supervisor Responsibilities
 
 | Step | Action |
@@ -16214,11 +23743,47 @@ A member determines if someone is a co-occupant (not visitor/guest) by:
 | 8 | Direct search of residence — take custody of: cash, jewelry, valuables, IDs, wills, insurance policies, bank books, safe deposit keys, prescription medication (if directed to OCME) |
 | 9 | Assign member to safeguard body until removed by OCME |
 
-> **Exam Alert:** Any uniformed member of the service may search a dead human body.
+> **Exam Alert:** Any uniformed member of the service may search a dead human body. However, the Patrol Supervisor must **confer with the ME or assistant ME PRIOR to directing** a member to search the body. *(PG 218-28)*
 
-> **Exam Alert:** DO NOT seal door of premises if a **co-occupant** resided with the deceased.
+> **Exam Alert:** DO NOT seal door of premises if a **co-occupant** resided with the deceased. *(PG 218-28)*
 
-> **Exam Alert:** If multiple dead human bodies as a result of a **mass casualty attack** (e.g., active shooter), do NOT search bodies for identification.
+> **Exam Alert:** If multiple dead human bodies as a result of a **mass casualty attack** (e.g., active shooter), do **NOT** search bodies for identification. *(PG 218-28)*
+
+### Prescription Medication — Critical Rules
+
+- If the ME is taking the body: take possession of prescription meds in the **immediate vicinity**
+- **Separate** voucher for prescription meds (whether evidence or not) from other property
+- If the deceased **lived alone**: invoice meds **NOT in a prescription container** (e.g., daily pill box)
+- If the deceased **did not live alone**: take meds not in a prescription container that the co-occupant cannot prove are theirs
+
+> **Exam Alert:** Prescription meds always get a **separate voucher** from other property. If the person lived alone, you invoice meds found in a daily pill box or other non-prescription container. If they did NOT live alone, you only invoice meds in non-prescription containers that the co-occupant cannot prove belong to them. *(PG 218-28)*
+
+### Navigable Waters
+
+Harbor searches the body removed from navigable waters and gives the property to a precinct MOS.
+
+### Police Lock
+
+If a police lock is used to secure the premises, include the key on the PCI worksheet.
+
+### Securing Premises After DOA
+
+The PG states the Desk Officer will have the "SEAL FOR DOOR OF DOA PREMISES" prepared — it does **NOT** say "if appropriate" (unlike what some may expect). After the body is removed (if DOA lived alone), have the seal pasted across door and doorjamb.
+
+- If someone needs to enter sealed premises for burial clothes: allow entry accompanied by a UMOS; **reseal with a NEW seal** afterward.
+
+### Public Administrator
+
+- If no next of kin OR next of kin cannot be notified: request **Operations** to notify Public Administrator
+- When Public Administrator's representative arrives and property is NOT yet sent to Property Clerk: ask for **identification** and **photocopy their ID**
+- **Prior to breaking the seal or opening envelope**: have the Public Administrator examine the lead seal/PSE and check the number against the PCI
+
+### Surrogate Court Referral
+
+| Deceased's Status | Referral |
+|------------------|---------|
+| NY State resident | Surrogate Court of deceased's **resident county** |
+| Non-NY State resident | Surrogate Court of **borough where property is located** |
 
 ### Key Steps — Desk Officer
 
@@ -16988,6 +24553,23 @@ To process non-evidence stolen or apparently abandoned vehicles, including motor
 
 **DOUBLE TOW** — Additional tow truck needed for unusual recovery (embankment, overturned, wedged). NOT authorized solely because vehicle has no wheels.
 
+> **Exam Alert:** Double Tow is approved by selecting "Yes" in the "Double Tow" caption in FORMS-P when preparing the PCI, and entering the TAX # of the authorizing officer. A vehicle with **no wheels** does NOT automatically qualify for a double tow — a tow should handle that with one truck. *(PG 218-21)*
+
+### VTL 1224 — Abandoned Vehicle Time Chart
+
+| Time Left Unattended | Condition |
+|---------------------|-----------|
+| More than 6 hours | No plates |
+| More than 24 hours | Illegally parked |
+| More than 48 hours | Legally parked initially, then becomes illegally parked (e.g., alternate side); 48 hours later it is considered abandoned |
+| More than 96 hours | On private property without permission of owner |
+
+> **Exam Alert:** Know these VTL 1224 time thresholds cold — they appear frequently in test scenarios involving whether a vehicle qualifies for Ro-Tow. *(PG 218-21)*
+
+### What is NOT Ro-Tow (Memory Aid)
+
+> **Memory Aid — CHASED FIT DOM:** The situations that disqualify a vehicle from Ro-Tow are remembered as: **C**rime (Dept. Tow), **H**ighway (Authorized or Dept. Tow), **A**rrest made (except photo release), **S**afeguard (Aided/Collision), **E**vidence (Dept. Tow), **D**etermine True Owner — **F**orfeiture, **I**nvestigation, **T**ruck (large) — **D**erelict (Sanitation), **O**wner on scene AND recovered prior to police, **M**oped (limited use motorcycle). *(PG 218-21)*
+
 ### Vehicle Is NOT Qualified for Rotation Tow If:
 
 1. Arrest made in conjunction with recovery (except photo-release cases)
@@ -16999,6 +24581,8 @@ To process non-evidence stolen or apparently abandoned vehicles, including motor
 7. Owner on scene and recovers own vehicle
 8. Must be safeguarded due to owner inability to remove (prisoner, aided, collision)
 
+> **Exam Alert:** A DSNY (Sanitation Department) sticker or notification does **NOT** automatically make a vehicle eligible for Ro-Tow. The **final determination is made by the UMOS** based on a visual inspection using criteria on the rear inside cover of the Ro-Tow Log. *(PG 218-21)*
+
 ### Desk Officer Responsibilities
 
 - Notify next participating tow operator in rotation **IMMEDIATELY**
@@ -17006,6 +24590,25 @@ To process non-evidence stolen or apparently abandoned vehicles, including motor
 - Tow operators **DO NOT** have option of deciding availability **AFTER** being told vehicle type/condition
 - Prepare REPORT OF VIOLATION if tow operator refuses AFTER being informed of vehicle
 - On limited access highways: **ONLY** franchise tow operator may tow
+
+> **Exam Alert:** If a tow operator refuses an assignment AFTER being informed of vehicle type and condition, prepare a **Report of Violation (LD 6)** AND forward to the **Dept. of Consumer/Worker Protection (DCWP)**. The next tow operator in sequence is used whenever a tow operator is not available for any reason. *(PG 218-21)*
+
+> **Exam Alert:** Do **NOT** cancel the alarm or notify the owner until the tow operator advises that the vehicle has been removed to the storage facility. *(PG 218-21)*
+
+### Commanding Officer/Designee Responsibilities
+
+- **Daily** inspection of Ro-Tow Log for previous 24 hours (sign in remarks column with corrective action)
+- **Daily** inspection of Ro-Tow 30-day file to ensure no vehicle is held more than 30 days
+- Complaints involving license violations/overcharges by tow operators: **LD6** forwarded to DCWP
+- Complaints of theft/other unlawful acts by tow company: **Complaint Report (61)** forwarded to DCWP (for information only)
+
+> **Exam Alert:** Overcharges by tow operators = **LD6 to DCWP**. Theft or other unlawful acts by tow company = **61 to DCWP** (duplicate, informational only). Know which form applies to which complaint type. *(PG 218-21)*
+
+### Tow Operator Rights
+
+Participating tow operators are permitted to view the **Rotation Towing Logs** of precincts within their assigned zone to verify their rotational sequence.
+
+> **See Also:** PG 218-20 — Delivery of vehicle to Property Clerk (48-hour deadline, Traffic Safety Sergeant responsibility).
 
 ### Tow Operator Timelines
 
@@ -17387,6 +24990,68 @@ To collect and forward fees for vehicles or boats in police custody (abandoned, 
 | REQUEST FOR INVOICE CHANGE OF CATEGORY | PD521-167 | Changing property category |
 | OFFICIAL LETTERHEAD | PD158-151 | Various notifications |
 
+## Key Acronyms (from The Key Lessons 21–22)
+
+| Acronym | Full Term | Context |
+|---------|-----------|---------|
+| **FAS** | Firearms Analysis Section | Section of the Police Lab that analyzes firearms evidence |
+| **JFTF** | Joint Firearms Task Force | Contact for emergency firearm trace requests |
+| **SECK** | Sexual Offense Evidence Collection Kit | DNA evidence category for lab delivery |
+| **PTR** | Property Transfer Report | Report used when transferring property between locations |
+| **BATF** | Bureau of Alcohol, Tobacco, Firearms and Explosives | Contacted for routine or emergency firearm traces |
+| **DCWP** | Dept. of Consumer/Worker Protection | Receives LD6 complaints about tow operator violations |
+| **DSNY** | Dept. of Sanitation New York | Tags vehicles for potential Ro-Tow (but UMOS makes final determination) |
+| **EPCS** | Evidence Property Control Specialist | Obtains "Ro Tow" copy of PCI and updates FORMS-P |
+
+## Ro-Tow Disqualifiers — "CHASED FIT DOM"
+
+The mnemonic **CHASED FIT DOM** identifies what is NOT a Rotation Tow situation:
+
+| Letter | Situation | Notes |
+|--------|-----------|-------|
+| **C** | Crime | Dept. Tow |
+| **H** | Highway | Authorized Tow or Dept. Tow |
+| **A** | Arrest made | Except photo release |
+| **S** | Safeguard | Aided/Collision |
+| **E** | Evidence | Dept. Tow |
+| **D** | Determine True Owner | — |
+| **F** | Forfeiture | — |
+| **I** | Investigation | — |
+| **T** | Truck (large) | — |
+| **D** | Derelict | Sanitation guidelines on inside back cover of Ro-Tow Log |
+| **O** | Owner on scene AND recovered prior to police | — |
+| **M** | Moped (limited use motorcycle) | — |
+
+## VTL 1224 — Abandoned Vehicle Thresholds
+
+| Time | Condition |
+|------|-----------|
+| More than 6 hours | No plates |
+| More than 24 hours | Illegally parked |
+| More than 48 hours | Legally parked initially → becomes abandoned |
+| More than 96 hours | On private property without owner permission |
+
+## Four Transparent Lab Bags (218-04)
+
+| Bag | Contents |
+|-----|---------|
+| 1 — GUNS | Firearms and firearm-related evidence |
+| 2 — DRUGS | Controlled substances / marijuana (PCI only — no Request for Lab Exam, no 61, no OLBS, no zFINEST) |
+| 3 — DNA | DNA evidence including SECKs |
+| 4 — CRIMINALISTICS | Trace evidence (hair, fiber, paint, GSR, etc.) |
+
+## Additional Critical Timeframes (from Lessons 21–22)
+
+| Timeframe | Rule | Source |
+|-----------|------|--------|
+| **0030** | Desk Officer must notify Patrol Boro that evidence is going to Lab | 218-04 |
+| **0100** | Lab delivery must occur on 1st platoon prior to this time | 218-04 |
+| **0100** | If boro not called by 0030, Borough Clerical Officer calls command | 218-04 |
+| **2 weeks** | Call BATF Regional Crime Gun Center for routine trace (after receipt by FAS) | 218-23 |
+| **Day 8–30** | Ro-Tow operator may deliver vehicle to Property Clerk Auto Pound on weekdays | 218-21 |
+| **Day 30** | Ro-Tow operator MUST deliver vehicle to Auto Pound | 218-21 |
+| **After 15 days at Auto Pound** | Unclaimed vehicles disposed of according to law | 218-21 |
+
 ## Key Contact Units
 
 | Unit | When to Contact |
@@ -17397,7 +25062,8 @@ To collect and forward fees for vehicles or boats in police custody (abandoned, 
 | **Computer Crimes Squad** (Mon–Fri 0600–2000) | Computer evidence seizure |
 | **Office of Chief of Detectives** | Computer evidence (after hours) |
 | **Asset Forfeiture Unit** (24/7) | Currency/instruments $1,000+ for forfeiture |
-| **Bomb Squad Range — Rodman's Neck** (Mon–Fri 0700–1500) | Fireworks delivery |
+| **Bomb Squad Range — Rodman's Neck** (Mon–Fri 0700–1500) | Fireworks delivery (Mon–Fri 7x3) |
+| **Bomb Squad Office** | Fireworks delivery at all other times or if Range personnel unavailable |
 | **License Division** | Handgun license surrender issues |
 | **Legal Bureau** | Suspect evidence consent refusal; civil enforcement questions |
 | **Internal Affairs Bureau Command Center** | Property discrepancies; currency deposit discrepancies |
@@ -17409,6 +25075,10 @@ To collect and forward fees for vehicles or boats in police custody (abandoned, 
 | **FIU OCME Liaison Unit** | Immediate DNA delivery decisions |
 | **NYS Tax Office** | Lottery property recovery |
 | **Audits and Accounts Unit** | Fee receipts forwarded daily |
+| **Police Lab Evidence Control Supervisor** (24/7) | Unusual property before Lab delivery (large seizures, hypos, etc.) |
+| **Joint Firearms Task Force (JFTF)** | Emergency firearm trace requests |
+| **BATF Regional Crime Gun Center** | Routine firearm trace (2 weeks after receipt by FAS) |
+| **Dept. of Consumer/Worker Protection (DCWP)** | Tow operator violations/overcharges (LD6); tow company theft (61 dup.) |
 
 ---
 
@@ -17760,6 +25430,193 @@ When the outage exceeds six hours and is isolated to the command, the invoicing 
 
 ---
 
+**21.** Under P.G. 218-04, a found revolver with no connection to an arrest or criminal investigation would be:
+
+A) Delivered to the Police Laboratory for analysis
+B) Delivered to the Firearms Analysis Section (FAS) for tracing
+C) Delivered direct to the Property Clerk Division (no lab analysis required)
+D) Held at the command until a detective supervisor directs otherwise
+
+<details><summary>Answer</summary>
+
+**C) Delivered direct to the Property Clerk Division (no lab analysis required)**
+
+Found **revolvers** not associated with an arrest or criminal investigation do NOT require laboratory analysis and go directly to the Property Clerk. By contrast, found **firearms** (semi-automatic handguns, etc.) DO go to the Lab. (P.G. 218-04)
+
+</details>
+
+---
+
+**22.** Under P.G. 218-04, the Desk Officer must notify the Patrol Boro prior to what time that evidence is going to the Laboratory?
+
+A) 0100 hours
+B) 0030 hours
+C) 2400 hours
+D) 2200 hours
+
+<details><summary>Answer</summary>
+
+**B) 0030 hours**
+
+The Desk Officer notifies the Patrol Boro PRIOR to 0030 that there is evidence going to the Lab for delivery. The actual delivery must then occur on the 1st platoon PRIOR to 0100. If the desk officer fails to call the boro by 0030, the Borough Member/Clerical Officer will call command at 0100. (P.G. 218-04)
+
+</details>
+
+---
+
+**23.** Under P.G. 218-04, which of the following forms is NOT attached to the Drugs transparent bag going to the Police Laboratory?
+
+A) Property Clerk Invoice (PCI)
+B) Request for Laboratory Examination
+C) zFINEST printout
+D) All of the above are NOT attached to the Drugs bag
+
+<details><summary>Answer</summary>
+
+**D) All of the above are NOT attached to the Drugs bag**
+
+The Drugs bag does NOT get a Request for Laboratory Examination, does NOT get a 61/Omni printout, and does NOT get a zFINEST printout. The ONLY paperwork attached to the Drugs bag is the PCI. (P.G. 218-04)
+
+</details>
+
+---
+
+**24.** A member fires their service weapon during an officer-involved shooting. The recovered shell casings from the scene should be marked:
+
+A) On the exterior of the casing
+B) On the inside of the casing only
+C) On the bottom of the casing
+D) Not marked — shell casings from officer-involved shootings are never marked
+
+<details><summary>Answer</summary>
+
+**B) On the inside of the casing only**
+
+Discharged shell casings are marked on the INSIDE only — never on the exterior or bottom. This applies to all shell casings regardless of the circumstances. (P.G. 218-23)
+
+</details>
+
+---
+
+**25.** When a member wishes to have a firearm sent to the Lab but does NOT want it traced, what must they write and where?
+
+A) "NO TRACE" in the remarks section of the INVOICE only
+B) "DO NOT TRACE" in block letters in the remarks section of BOTH the PCI AND the Request for Lab Exam
+C) "HOLD FOR TRACE" in the arrest paperwork
+D) Nothing — tracing is automatic and cannot be declined
+
+<details><summary>Answer</summary>
+
+**B) "DO NOT TRACE" in block letters in the remarks section of BOTH the PCI AND the Request for Lab Exam**
+
+The phrase "DO NOT TRACE" must be written in block letters in the remarks section of both documents. If just one document is marked, the firearm may still be traced. (P.G. 218-23)
+
+</details>
+
+---
+
+**26.** Officers recover an abandoned vehicle with no plates on a highway. It has been unattended for 7 hours. Under VTL 1224, how should this vehicle be classified?
+
+A) Not abandoned — must be unattended 24 hours
+B) Abandoned — unattended more than 6 hours with no plates
+C) Derelict — subject to Sanitation disposal
+D) Evidence — subject to Dept. Tow only
+
+<details><summary>Answer</summary>
+
+**B) Abandoned — unattended more than 6 hours with no plates**
+
+Under VTL 1224, a vehicle left unattended for more than 6 hours with no plates is deemed abandoned. This is the shortest of the four time thresholds. (P.G. 218-21)
+
+</details>
+
+---
+
+**27.** A tow operator, after being told the type and condition of a vehicle, refuses to accept a Rotation Tow assignment. The Desk Officer should:
+
+A) Call the next tow operator without any documentation
+B) Prepare a Report of Violation (LD6) and forward to DCWP; then call next operator in sequence
+C) Notify the commanding officer and await further instructions
+D) Prepare a Complaint Report (61) and forward to DCWP
+
+<details><summary>Answer</summary>
+
+**B) Prepare a Report of Violation (LD6) and forward to DCWP; then call next operator in sequence**
+
+When a tow operator refuses AFTER being informed of vehicle type and condition, the Desk Officer prepares a Report of Violation (LD6) and forwards it to the Dept. of Consumer/Worker Protection (DCWP). The next tow operator in sequence is then notified. (P.G. 218-21)
+
+</details>
+
+---
+
+**28.** A complaint is received that a Rotation Tow company stole items from a towed vehicle. The correct form and routing is:
+
+A) LD6 (Report of Violation) forwarded to DCWP
+B) Complaint Report (61) forwarded to DCWP (duplicate, informational only)
+C) LD6 forwarded to Internal Affairs Bureau
+D) Complaint Report (61) forwarded directly to the tow company's license bureau
+
+<details><summary>Answer</summary>
+
+**B) Complaint Report (61) forwarded to DCWP (duplicate, informational only)**
+
+Theft and other unlawful acts by tow companies are recorded on the Complaint Report (61) and the duplicate is forwarded to DCWP for informational purposes only. Overcharges use LD6. Know the distinction. (P.G. 218-21)
+
+</details>
+
+---
+
+**29.** A patrol supervisor responds to a scene where a person has died alone in their apartment. The supervisor wants to search the body. What must be done FIRST?
+
+A) Request Operations to notify the Public Administrator
+B) Confer with the Medical Examiner or assistant Medical Examiner
+C) Obtain a search warrant from the DA
+D) Seal the door with a SEAL FOR DOOR OF DOA PREMISES
+
+<details><summary>Answer</summary>
+
+**B) Confer with the Medical Examiner or assistant Medical Examiner**
+
+The patrol supervisor must confer with the ME PRIOR to directing any member to search the body. This is a mandatory first step. (P.G. 218-28)
+
+</details>
+
+---
+
+**30.** When securing fireworks for transport in an RMP, members should:
+
+A) Place bags in the trunk, sealed, with windows closed
+B) Place up to 4 bags in the rear seat with all windows opened minimum 2 inches
+C) Place bags in the front passenger seat with air conditioning running
+D) Call Bomb Squad for escort before any transport of fireworks
+
+<details><summary>Answer</summary>
+
+**B) Place up to 4 bags in the rear seat with all windows opened minimum 2 inches**
+
+Fireworks are transported in the REAR SEAT of the RMP (NOT the trunk). All windows must be opened a minimum of 2 inches. Maximum 4 bags per RMP. For a significant amount, call FDNY through 311 for escort. (P.G. 218-53)
+
+</details>
+
+---
+
+**31.** A Sanitation Department worker places a tag on an abandoned-looking vehicle and notifies NYPD. This automatically qualifies the vehicle for Rotation Tow.
+
+A) True — the DSNY notification triggers the Ro-Tow program
+B) False — the UMOS must make the final determination by visual inspection
+C) True — but only if the vehicle has been tagged for more than 24 hours
+D) False — only the Desk Officer can authorize Ro-Tow after DSNY notification
+
+<details><summary>Answer</summary>
+
+**B) False — the UMOS must make the final determination by visual inspection**
+
+A DSNY sticker or notification does NOT automatically make a vehicle eligible for Ro-Tow. The Desk Officer directs a UMOS to inspect the vehicle and decide if it qualifies based on criteria found on the rear inside cover of the Ro-Tow Log. (P.G. 218-21)
+
+</details>
+
+---
+
 # Section 219 — Department Property
 
 ## Source
@@ -17862,7 +25719,9 @@ To ensure patrol kits containing personal protective equipment (PPE) are maintai
 | Receptacle | **32-gallon** biohazard receptacle at command |
 | Pickup | **Medical Division messenger** picks up regulated infectious waste |
 
-> **Exam Alert:** Regulated infectious waste is picked up by the **Medical Division messenger**, not sanitation or other units.
+> **Exam Alert:** Regulated infectious waste is picked up by the **Medical Division messenger**, not sanitation or other units. *(P.G. 219-17)*
+
+> **See Also:** P.G. 219-01 — Patrol Kit is required equipment in **Marked RMPs only**.
 
 ---
 
@@ -17947,9 +25806,11 @@ New Jersey Turnpike, New York State Thruway, Garden State Parkway, New England T
 | 4 | Notify Stolen Property Inquiry Unit of serial number |
 | 5 | CO investigates; forwards report to CO, Fleet Services Division |
 
-> **Exam Alert:** E-Z Pass tags are **NOT authorized** for the NJ Turnpike, NY State Thruway, Garden State Parkway, New England Thruway, or Tappan Zee Bridge.
+> **Exam Alert:** E-Z Pass tags are **NOT authorized** for the NJ Turnpike, NY State Thruway, Garden State Parkway, New England Thruway, or Tappan Zee Bridge. *(P.G. 219-25)*
 
-> **Exam Alert:** Commands may **NOT** transfer E-Z Pass tags between vehicles — Fleet Services Division must approve.
+> **Exam Alert:** Commands may **NOT** transfer E-Z Pass tags between vehicles — Fleet Services Division must approve. *(P.G. 219-25)*
+
+> **See Also:** P.G. 219-10 — Category I vehicles (leave the city regularly) use **velcro strips** for E-Z Pass tags instead of permanent double-sided tape.
 
 ---
 
@@ -18017,11 +25878,15 @@ To provide for the issuance, control, and strict accountability of NYCT NYPD OMN
 - Notation on PROPERTY RECEIPT — DISCONTINUANCE OF SERVICE (PD520-013)
 - Pass hand-delivered to Shield, ID and Uniformed Services Unit
 
-> **Exam Alert:** OMNY passes are NOT valid on **MTA express buses**. All other subway/bus use is permitted.
+> **Exam Alert:** OMNY passes are NOT valid on **MTA express buses**. All other subway/bus use is permitted. *(P.G. 219-26)*
 
-> **Exam Alert:** Passes are assigned to the **individual member**, NOT the command. Commands may NOT assign or reassign passes.
+> **Exam Alert:** Passes are assigned to the **individual member**, NOT the command. Commands may NOT assign or reassign passes. *(P.G. 219-26)*
 
-> **Exam Alert:** Unauthorized person using an OMNY pass can be charged with **theft of service** and **impersonation of a Police Officer**.
+> **Exam Alert:** Unauthorized person using an OMNY pass can be charged with **theft of service** and **impersonation of a Police Officer**. *(P.G. 219-26)*
+
+> **Prior Test (2017 Lt. Exam):** A MetroCard is **lost or stolen** — the **Ops Coordinator investigates** (per 219-20). A MetroCard is **damaged** — the **ICO investigates** (per 219-26). These are different investigators for different situations. *(P.G. 219-20, 219-26)*
+
+> **See Also:** P.G. 219-20 — Loss or Theft of Department Property: use this procedure for lost/stolen OMNY passes, with additional notifications to Transit Bureau Wheel and Shield, ID and Uniformed Services Unit.
 
 ---
 
@@ -18277,23 +26142,56 @@ To address emergency power outages and ensure non-essential equipment is removed
 
 To establish security and integrity procedures for Department computer systems.
 
+### Member of the Service — Responsibilities
+
+- Sign on using confidential password; always sign off even if leaving for **brief time**
+- **Strictly** responsible for entries made while signed on
+- If password compromised/misused: notify D.O./designated supervisor **OR** ICO (comply with 207-21 Corruption)
+- Make only official inquiries relating to Department business
+- Do not divulge official business EXCEPT for valid law enforcement purpose (comply with 304-15 Confidentiality)
+
+### Desk Officer/Designated Supervisor — Responsibilities
+
+- Inspect all computer areas of stationhouse at least **once a tour**
+- Record results of inspection in Command Log
+- If inoperable/malfunction: notify **ITB Service Desk** and make Telephone Record entry
+- If misuse or damage: take immediate action AND notify **ICO AND C.O.**
+
+### Patrol Supervisor — Responsibilities
+
+- Check RMP computers **frequently**
+- If misuse/damage: take immediate action AND notify **ICO AND C.O.**
+- Record notifications in digital Activity Log
+
+> **Exam Alert:** For computer misuse or damage, both the **Desk Officer** and **Patrol Supervisor** must notify **ICO AND C.O.** — not just one or the other. *(P.G. 219-14)*
+
 ### Integrity Control Officer (ICO) Responsibilities
 
 | Duty | Detail |
 |------|--------|
-| Monthly audit | Review **Domain Awareness System (DAS)** usage for **5 random members** per month |
-| Password management | Ensure compliance with password policies |
-| Access control | Monitor authorized access |
+| Monthly audit | Conduct monthly audit of Domain Awareness System by **randomly picking 5 MOS** with access |
+| Password management | Issue passwords for OLBS, BADS, and LAPS through Omniform; establish and maintain list of ALL passwords issued |
+| Authorized users | Establish number of necessary authorized users; ensure users understand security guidelines; maintain sign-on tables |
+| Monitor/observe | Frequently observe computer areas/RMPs for compliance; investigate indications of abuse |
+| Document | Prepare Report on Typed Letterhead of audit results; Report (49) **filed at command** |
 
 ### Key Rules
 
-- Department reserves the right to **review all computer activity** at any time
+- Department reserves the right to **review, intercept, access, and disclose ALL** material on and use of Department computer, including **EMAIL**, with or **without notice** to member concerned
 - Members have **no expectation of privacy** on Department computer systems
 - Unauthorized access or use subject to disciplinary action
 
-> **Exam Alert:** The ICO must conduct a **monthly DAS audit of 5 random members**.
+> **Exam Alert:** The ICO must conduct a **monthly DAS audit of 5 random members**. The audit report (49) is **filed at command** — it goes nowhere else. *(P.G. 219-14)*
+
+> **Exam Alert:** The Department may review, intercept, and disclose computer activity **with or without notice** — this includes email. *(P.G. 219-14)*
 
 > **Sergeant Focus:** Department reserves the right to review **all** computer activity — members have no privacy expectation on Department systems.
+
+### Focused Audit
+
+- ICO or C.O. can request a **focused audit** of computer activity performed during a particular time period
+- Request via 49 to Deputy Commissioner of IT
+- Audits may include: MOS password, Tax #, time signed on/off, license checks, etc.
 
 ---
 
@@ -18430,7 +26328,15 @@ To provide for control, use, maintenance, and accountability of License Plate Re
 - LPR equipment must **not be moved** from mounting location
 - Vehicle does not go out of service for LPR repair
 
-> **Exam Alert:** **ALWAYS verify through NYSPIN** before any law enforcement action based on an LPR alarm — the device activates on **partial matches** and is NOT connected to NYSPIN.
+> **Exam Alert:** **ALWAYS verify through NYSPIN** before any law enforcement action based on an LPR alarm — the device activates on **partial matches** and is NOT connected to NYSPIN. *(P.G. 219-31)*
+
+> **Exam Alert:** The NYSPIN verification requirement has TWO exceptions: (1) additional reasons for a lawful stop exist (e.g., observed VTL infraction), OR (2) circumstances provide sufficient reasonable suspicion to justify a Terry Stop/Level 3 encounter. In those cases, NYSPIN check may be bypassed. *(P.G. 219-31)*
+
+> **Exam Alert:** An RMP does **NOT** go out of service just because the LPR is down. The vehicle continues patrol. *(P.G. 219-31)*
+
+> **See Also:** P.G. 221-15 — Pursuits: be guided by this procedure when taking enforcement action based on LPR hit.
+
+**Real Time Crime Center:** Can be contacted to conduct a search of past records of license plate numbers searched by an LPR device.
 
 ---
 
@@ -18465,25 +26371,62 @@ To provide for control, use, maintenance, and accountability of License Plate Re
 
 - Members may secure Department smartphone at command when off-duty
 - Members may carry phone off-duty and remove phone case (to not identify as MOS)
+- C.O. may approve removal of phone case with sticker if it would interfere with or be inappropriate for specific duty/assignment
+
+### NYPD Phone Sticker
+
+- All MOS must affix sticker to Department-issued phone **case** where it is clearly visible and identifiable
+- May remove case with sticker with **C.O. approval**
 
 ### Privacy Notice
 
 - Members have **no right to privacy** in any feature of Department mobile devices
-- All communications, photos, video may be accessed by Department **at any time** without prior knowledge
-- Content may be Rosario material and/or discoverable in criminal prosecutions, civil lawsuits, CCRB/IAB investigations
+- Department may access and retrieve at any time **with or without the user's prior knowledge**
+- All communications, photos, video may be accessed by Department at any time
+- Content may be Rosario material and/or discoverable in criminal prosecutions, civil lawsuits, CCRB/IAB investigations, Department's internal disciplinary process, and legal administrative proceedings
+
+### CCRB Requests for Smartphone Information
+
+| Step | Action |
+|------|--------|
+| 1 | UMOS notifies **ICO** |
+| 2 | ICO contacts **Legal Bureau** for guidance |
+| 3 | **IAB's CCRB Liaison** processes requests from CCRB per P.G. 211-14 |
+
+> **Exam Alert:** CCRB information requests about smartphones go UMOS → ICO → Legal Bureau → IAB responds to CCRB. *(P.G. 219-32)*
+
+### Rosario/Discovery Requests
+
+- Department is required by law to disclose certain information pursuant to FOIL, subpoenas, and court orders
+- **Legal Bureau's Subpoena Litigation Unit** responds to subpoenas per P.G. 211-17
 
 ### Operational Considerations
 
 - Members are **permitted but not required** to photograph/video record encounters with public
 - Shall NOT record situations where BWC use would be prohibited
 - Shall NOT document demonstrations or political activity (unless per P.G. 212-71, 212-72)
-- Crime Scene Unit remains solely responsible for documenting crime scenes
+- Crime Scene Unit (CSU and ECT) remains solely responsible for documenting crime scenes unless authorized by competent authority
+- Do NOT save personal contacts, phone numbers, true names of MOS performing sensitive duties (undercovers, CIs), or any other information that could pose a safety risk
+
+### Information Relating to Arrests, Prosecutions, and Civil Matters
+
+If MOS has knowledge of info, image, text, photo, video, note, calendar entry, or voicemail on any device relating to an arrest, prosecution, or civil matter, MOS MUST notify:
+
+| Matter Type | Notify |
+|-------------|--------|
+| Criminal (police incident or crime investigation) | Assigned detective/investigator AND ADA |
+| Civil | Legal Bureau for potential or actual civil litigation |
+| Family Court Prosecution | Appropriate Assistant Corporation Counsel |
+
+> **Exam Alert:** Do NOT document arrest/prosecution/civil matter information on a **personal** device. All such info must be shared — withholding is subject to discipline. *(P.G. 219-32)*
 
 > **Exam Alert:** Members must **not delete any content** from Department mobile devices. All content is potentially discoverable.
 
-> **Exam Alert:** Permission from ITB Information Security Desk required **5 business days** before taking a Department phone to a foreign country.
+> **Exam Alert:** Permission from ITB Information Security Desk required **5 business days** before taking a Department phone to a foreign country. The request must list **every foreign country** you intend to visit.
 
 > **Sergeant Focus:** CO/designated supervisor must return Department smartphone to ITB when member has change in duty status (retired, suspended, modified).
+
+**Situational Awareness Note:** Always maintain situational awareness and limit phone use in absence of another UMOS for tactical cover.
 
 ---
 
@@ -18501,12 +26444,62 @@ To properly report and investigate the loss or theft of Department property.
 
 | Step | Role | Action |
 |------|------|--------|
-| 1 | Member | Immediately report loss/theft to desk officer |
-| 2 | Desk Officer | Notify commanding officer and operations coordinator |
+| 1 | Member (UMOS) | Report facts to Desk Officer |
+| 2 | Desk Officer | Notify **Ops Coordinator AND Commanding Officer** (does NOT say Duty Captain or ICO) |
 | 3 | Operations Coordinator | Conduct investigation |
-| 4 | Operations Coordinator | Notify Internal Affairs Bureau (IAB) |
-| 5 | Operations Coordinator | Notify Stolen Property Inquiry Unit — transmit alarm |
-| 6 | Operations Coordinator | Prepare required reports |
+| 4 | Operations Coordinator | Make Command Log entry with facts and results |
+| 5 | Operations Coordinator | Prepare Report on Typed Letterhead (49) addressed to C.O. |
+| 6 | Operations Coordinator | Prepare Complaint Report; duplicate copies for IAB, Patrol/Transit/Housing Boro, Detective Borough, or bureau concerned |
+| 7 | Operations Coordinator | Notify IAB; put log # in details of 61 |
+| 8 | Operations Coordinator | Notify Stolen Property Inquiry Unit — transmit alarm |
+
+> **Exam Alert:** The Desk Officer notifies **Ops Coordinator AND Commanding Officer** — NOT the Duty Captain and NOT the ICO. *(P.G. 219-20)*
+
+> **Prior Test (2017 Lt. Exam):** Loss/theft of a MetroCard — the **Ops Coordinator investigates**. A damaged MetroCard — the **ICO investigates** (per P.G. 219-26). *(P.G. 219-20, 219-26)*
+
+### Property with Identifying Marks
+
+If the property has identifying marks:
+- Notify **SPIU** to transmit alarm
+- If **ID Plate** lost/stolen: give plate number including letter "P" if appropriate, AND expiration of plate
+
+### Loss of Tire, Tool, etc. from Department Auto
+
+- Send **3 copies of 49** to C.O., Fleet Services Division
+
+### NYCT Police Pass (MetroCard) — Additional Notifications
+
+| Notify |
+|--------|
+| Transit Bureau Wheel |
+| Employee Resources Section (ERS) |
+
+- Forward copy of 49 direct to C.O., Transit Bureau (but NOT the 61)
+- Forward copy of 49 AND Complaint Report to C.O., Employee Resources Section
+
+### LIRR or Metro North Pass — Lost/Stolen
+
+- Send 49 and 61 to C.O., Employee Resources Section (ERS)
+
+### Loss Occurring OUTSIDE the City
+
+**No Complaint Report (61) prepared** when loss of NYCT, LIRR, or Metro North pass occurs outside the city.
+
+| Step | Role | Action |
+|------|------|--------|
+| 1 | Member | Notify **Local PD AND Desk Officer** at command of assignment |
+| 2 | Desk Officer | Make Command Log entry; notify Operations Coordinator |
+| 3 | Ops Coordinator | Investigate; notify IAB; prepare 49 addressed to C.O. (include IAB log #); forward as indicated |
+| 4 | Ops Coordinator | Take disciplinary action as appropriate |
+
+> **Exam Alert:** If property loss occurs **outside the city**, there is **no 61** (Complaint Report) prepared. *(P.G. 219-20)*
+
+### Precinct Squad Commander
+
+- Examines **all 61s, including those NOT referred to the squad**, including: police frequency radios, vehicles, uniforms, shields or ID cards, bulletproof vests, police-type emergency lights or sirens
+- Notifies C.O. Major Case by phone AND forwards a duplicate of the 61/Complaint Follow-Up with 49
+
+> **Exam Alert:** The Precinct Squad Commander reviews **all 61s** related to Department property — even those not referred to the squad. *(P.G. 219-20)*
 
 ### NYCT OMNY Police Pass Procedures
 
@@ -18514,7 +26507,7 @@ When an OMNY Police Pass is lost or stolen, additional notifications are require
 - **Transit Bureau Wheel**
 - **Shield, ID and Uniformed Services Unit**
 
-> **Exam Alert:** Lost/stolen Department property always requires **IAB notification** and a **Stolen Property Inquiry Unit alarm**.
+> **Exam Alert:** Lost/stolen Department property always requires **IAB notification** and a **Stolen Property Inquiry Unit alarm**. *(P.G. 219-20)*
 
 > **Sergeant Focus:** The **Operations Coordinator** conducts the investigation into loss or theft of Department property.
 
@@ -18528,38 +26521,88 @@ When an OMNY Police Pass is lost or stolen, additional notifications are require
 
 To establish reporting and investigative procedures when a member's firearm, shield, or identification card is lost or stolen.
 
+### UMOS — Immediate Actions
+
+- Notify **Desk Officer, Pct of occurrence**, immediately
+- Special county rules:
+  - Loss in **Nassau or Suffolk** (Long Island): notify **Desk Officer 105 Pct**
+  - Loss in **Westchester, Putnam, Rockland, or Orange** counties: notify **Desk Officer 50 Pct**
+  - Loss **outside residence counties** (further away): notify **Operations Unit DIRECT**; local PD notified immediately and requested to send a FINEST notification to our Department
+- Prepare **Part "A"** of Loss Form (if out of city, D/O of 105 or 50 Pct or Operations Unit member does Part A)
+- Report loss to **C.O. at first opportunity**
+
+> **Prior Test (recent exam):** UMOS lost ID Card in resident county. Answer: Do NOT notify ICO, do NOT make 61, Desk Officer makes entry in **Telephone Record**. *(P.G. 219-21)*
+
+> **Exam Alert:** If loss occurs in **Nassau/Suffolk**, notify Desk Officer **105 Pct**. If in **Westchester/Putnam/Rockland/Orange**, notify Desk Officer **50 Pct**. Outside those, notify **Operations Unit directly**. *(P.G. 219-21)*
+
+### Desk Officer — Actions
+
+| Action | Detail |
+|--------|--------|
+| Notify C.O./Duty Captain | Immediately |
+| Notify Operations Unit | Immediately |
+| Notify IAB | Obtain log #; enter in details of 61 OR if no 61 (loss outside city), enter IAB log # in **TELEPHONE RECORD** |
+| Document | Make Command Log entry |
+| Document | Prepare Part "B" of Loss Form (and possibly Part "A" depending on circumstances) |
+| Alarm (if NYC) | Ensure alarm is transmitted if loss occurred within NYC |
+| Complaint Report | If occurred in NYC, ensure the Complaint Report is **finalized** |
+
+> **Exam Alert:** If loss occurred **outside the city**, do NOT prepare a 61 AND do NOT transmit alarm. Instead, make Telephone Record and/or Command Log entry. *(P.G. 219-21)*
+
+**If member is from another command:** Prepare and send Transcript of Command Log entry to member's C.O.
+
 ### Immediate Notification Chain
 
 | Step | Role | Action |
 |------|------|--------|
-| 1 | Member | **Immediately** report loss/theft to desk officer |
+| 1 | Member | **Immediately** report loss/theft to desk officer of pct of occurrence |
 | 2 | Desk Officer | Make Command Log entry |
-| 3 | Desk Officer | Notify commanding officer |
+| 3 | Desk Officer | Notify **C.O./Duty Captain** (immediately) AND **Operations Unit** (immediately) AND **IAB** |
 
-### LOST/STOLEN REPORT (PD520-150)
+### LOST/STOLEN REPORT (PD520-150) — Parts
 
-| Part | Content |
-|------|---------|
-| Part A | Initial report of loss/theft |
-| Part B | Details of item lost/stolen |
-| Part C | Investigation details |
-| Part D | Results of investigation, action taken or contemplated |
+| Part | Prepared by | Content |
+|------|------------|---------|
+| Part A | MOS reporting loss (or D/O 105/50 or Ops Unit if out of city) | Initial report of loss/theft |
+| Part B | D/O Pct of occurrence (or D/O 105/50 or Ops Unit member) | Details of item lost/stolen |
+| Part C | **C.O. / Duty Captain** | Investigation details; distributed per **BOTTOM** of form |
+| Part D | **C.O. of MOS** reporting loss | Results of investigation, actions taken or contemplated; distributed per **REAR** of form |
 
-### Commanding Officer Actions
+> **Exam Alert:** C.O./Duty Captain distributes per the **BOTTOM** of the form. C.O. of MOS concerned distributes per the **REAR** of the form. These are different distribution instructions. *(P.G. 219-21)*
+
+> **Exam Alert:** If it's the **Duty Captain** who completes Part C, a copy of the Command Discipline gets filed in the **Duty Captain's command**. *(P.G. 219-21)*
+
+### Loss Outside the City — Summary
+
+| Loss Location | Part A & B Prepared By |
+|--------------|----------------------|
+| In NYC | MOS reporting loss (Part A); D/O Pct of occurrence (Part B) |
+| In **resident counties** (Nassau, Suffolk, Westchester, etc.) | D/O 105 or 50 Pct does **Parts A and B** |
+| **Outside resident counties** | Operations Unit member does **Parts A and B** |
+
+### Commanding Officer/Duty Captain — Investigation
+
+- Conduct **immediate** investigation
+- If out of city: call and speak to PD receiving report AND UMOS reporting loss
+- Prepare Part "C" with recommendation re: negligence; distribute per **BOTTOM** of form
+
+### Commanding Officer Actions (C.O. of MOS concerned)
 
 | Step | Action |
 |------|--------|
-| 15 | Determine if disciplinary action should be taken |
-| 16 | Initiate command discipline or formal charges, if warranted |
-| 17 | Enter disposition on SUPERVISOR'S COMPLAINT REPORT/COMMAND DISCIPLINE ELECTION REPORT |
-| 17a | Forward duplicate copy of LOST/STOLEN REPORT to Department Advocate (Schedule B cases only) |
-| 18 | Prepare Part "D" of LOST/STOLEN REPORT |
-| 19 | Distribute LOST/STOLEN REPORT as indicated on rear of form |
+| 1 | Determine if disciplinary action should be taken |
+| 2 | **IF FIREARM**, MUST consult with **Department Advocate** first |
+| 3 | Initiate CD or Charges if warranted; note disposition; file CD; copy to Advocate if "B" CD |
+| 4 | Prepare Part "D" of Lost/Stolen Report; distribute per **REAR** of form |
+| 5 | If FIREARM: have entry made on Force Record (10 card) with **date/time of Command Log Entry** (NOT date and time of loss) |
+
+> **Exam Alert:** The 10 card Force Record entry uses the **date/time of Command Log Entry** — NOT the date and time of the actual loss. *(P.G. 219-21)*
 
 ### Negligence Determination
 
 - CO must determine if loss resulted from negligence
 - If disciplinary action warranted, **consultation with Department Advocate's Office** required to determine appropriate disciplinary action
+- **IF FIREARM**: Must consult with Advocate before initiating CD or charges
 
 ### Member — After Investigation
 
@@ -18568,23 +26611,36 @@ To establish reporting and investigative procedures when a member's firearm, shi
 
 ### Special Locations
 
-| Location | Report To |
-|----------|-----------|
-| Police Headquarters (5th Precinct confines) | **Headquarters Security Unit** |
-| Police Academy (13th Precinct confines) | **Police Academy Integrity Unit** |
+| Location | Report To | Who Investigates |
+|----------|-----------|-----------------|
+| Police Headquarters (5th Precinct confines) | **Headquarters Security Unit** (5th records the 61) | Captain or above from reporting member's command |
+| Police Academy (13th Precinct confines) | **Police Academy Integrity Unit** (13th records the 61) | Captain or above from reporting member's command |
 
-- In both cases, a **captain or above** from the reporting member's command conducts the investigation
+> **Exam Alert:** The PG says 13th Precinct for Police Academy — The Key notes the Department has still not corrected this even though the actual precinct is the 109th. Know the PG says **13th**. *(P.G. 219-21)*
+
+- In both cases, a **supervisor from HQ/PA makes notifications**; a **captain or above** from HQ/PA **investigates and prepares reports**
 - COMPLAINT REPORT serial numbers obtained from the 5th or 13th Precinct, as appropriate
 
 ### Shield Replacement — Timing Issue
 
 - If shield lost when Employee Resources Section is closed and member scheduled for uniform duty: member assigned to duty in uniform **without a shield** until ERS opens the next business day
 
+> **Exam Alert:** If loss occurred while ERS is closed and member is scheduled to work, they **MAY work in uniform without a shield**. *(P.G. 219-21)*
+
 ### Auxiliary Police Shields
 
-- Processed per P.G. 207-12, "Lost or Stolen Property/Identity Theft"
-- Additional copies to Auxiliary Police Section
-- Auxiliary shields recovered (not evidence) forwarded to CO, Auxiliary Police Section — **no INVOICE required**
+- This procedure (219-21) does **NOT** apply — use P.G. 207-12 (Lost or Stolen Property/Identity Theft)
+- Additional copies to Auxiliary Police Section (Command Clerk puts "Auxiliary Police Section" in "Additional Copies For" caption)
+- Auxiliary shields recovered (not evidence) forwarded to CO, Auxiliary Police Section with a 49 — **no PROPERTY CLERK INVOICE required**
+
+### HQ/PA Assignment Special Rules
+
+| Assignment | Action |
+|-----------|--------|
+| Loser assigned to HQ AND lost in 5th Precinct confines | Report to **HQ Security Unit** (5th records the 61) |
+| Loser assigned to PA AND lost in 13th Precinct confines | Report to **PA Integrity Unit** (13th records the 61) |
+| Supervisor from HQ/PA | Makes notifications |
+| Captain or above from HQ/PA | Investigates and prepares reports |
 
 ### Forms and Reports
 
@@ -18628,25 +26684,98 @@ To inspect Department vehicles at the start of each tour to ensure safe and prop
 | Lights/siren | Functioning |
 | Radio | Operational |
 
+**Fluids inspected by operator:** Gas, oil, engine coolant reservoir level, water in battery (if applicable).
+
+**Vehicle Equipment (all vehicles):** Brakes, lights, wipers, warning devices, tire and spare are inflated, lug wrench/jack in trunk, seatbelts (in proper working order), seatbelt extenders.
+
+**Seatbelt Extenders:** Operator checks that 2 seatbelt extenders have RMP # engraved AND are stored in glove box when not in use.
+
+**E-Z Pass Tag:** Ensure affixed to windshield — top center. Enter serial number on INSPECTION AND EQUIPMENT RECORD.
+
+**Technology Equipment (if equipped):** Vehicle printer, LPR, and Mobility Tablet (labeled and assigned to vehicle; CANNOT transfer to another vehicle; tech support from ITB Service Desk 24/7).
+
+**Registration and Inspection:** NYS Inspection (all cars — marked and unmarked) AND NYS Registration (UNMARKED cars ONLY).
+
+**Records — Inspect the following 4 Records:**
+- Inspection and Equipment Record
+- Radio Repair Record
+- Radio Code Signal Card
+- Deaf or Hard of Hearing Cards (Marked RMPs only)
+
+> **Exam Alert:** The weekly inspection (219-02) checks the INSPECTION AND EQUIPMENT RECORD but does **NOT** mention Radio Repair Record or Radio Code Signal Card — those are operator daily checks only. *(P.G. 219-01, 219-02)*
+
+> **See Also:** P.G. 202-02 — RMP Operator Step 3a: Inspect Ballistic Window Inserts and Window Insert Wedges and immediately report deficiencies to Patrol Supervisor.
+
+**Body of Water — "Command versus Sector" Distinction:**
+- **Command** bordering OR containing a body of water: Life Ring with Rope attached (RMPs in command)
+- **Sector** with body of water: Two (2) vest type life jackets (if RMP assigned to sector with body of water)
+
+> **Exam Alert:** The life safety equipment requirement depends on whether the **command** borders water (life ring with rope) versus the **sector** having water (2 vest-type life jackets). These are different items for different situations. *(P.G. 219-01)*
+
 ### Required Vehicle Equipment (Patrol)
 
 | Equipment |
 |-----------|
-| 3-foot polycarbonate shield |
-| Ballistic window inserts |
-| Patrol kit (PPE) |
-| Life ring (commands with waterfront) |
+| 3-foot polycarbonate shield (with door bag — door rope/wedge affixed) |
+| Ballistic window inserts and wedges (if so equipped) |
+| 2 heavy duty ballistic vests (if assigned to vehicle) |
+| Patrol kit (PPE) — Marked RMPs only |
+| Life ring with rope OR vest type life jackets (waterfront — see above) |
+| Barrier tapes (Crime Scene and Police Line) |
+| 4 traffic cones |
+| Safety flares (if assigned to vehicle) |
+| Box of disposable gloves, First Aid Kit (both marked and unmarked) |
+| 2 disposable emergency blankets (marked/unmarked RMPs/vans) |
+| Rechargeable flashlight in trunk |
+| Life Hammer |
+| Fire Extinguisher |
+
+**Marked RMPs ONLY also carry:**
+- Patrol Kit (PG 219-17)
+- Deaf or hard of hearing visor card
+- Deaf or hard of hearing instruction card
 
 ### Patrol Supervisor Vehicle — Additional Equipment
 
 | Equipment |
 |-----------|
-| Rapid Mobilization Plan |
+| Rapid Mobilization Plan Dispatch Schedule |
+| Command Disorder Control Plan |
+| Detail Roster/Assignment Sheet |
 | Crowbar |
 | Sledgehammer |
-| Crime scene evidence cones |
+| Restraining Straps |
+| (5) Crime Scene Evidence Cones |
+| (4) Waterproof Body Covers |
+| Crime scene signs |
+
+> **Exam Alert:** Crime Scene Evidence Cones (per P.G. 212-04) are **orange**, **5 inches tall**, with **black lettering NYPD**. *(P.G. 212-04)*
 
 > **Sergeant Focus:** Patrol supervisor vehicles carry additional emergency/tactical equipment. Ensure these items are present and serviceable each tour.
+
+### Vehicle Operator — Post-Inspection Documentation
+
+- Enter results in Digital ACTIVITY LOG ("COG"): condition, odometer, and gas gauge reading
+- Report to Patrol Supervisor: condition of vehicle, missing equipment, and/or damaged equipment
+- Seatbelt issues to report: missing, damaged, defective seatbelts AND improper use (buckled behind seat, etc.)
+
+### Patrol Supervisor — Inspection Verification
+
+- Verify proper inspection and required entries made in digital A/L
+- **Minor Deficiencies:** Direct correction; follow up for compliance; enter results in digital A/L
+- **Serious Deficiencies:** Report to Lt. platoon commander OR, in the **absence of Platoon Commander**, report directly to C.O.
+- **Vandalism:** Report all vandalism to vehicle/equipment to IAB
+
+> **Exam Alert:** In the absence of the Platoon Commander, the Patrol Supervisor reports serious vehicle deficiencies directly to the **C.O.** — not to the Desk Officer. *(P.G. 219-01)*
+
+> **See Also:** P.G. 217-06 (Add Data) — Vandalism to Department Vehicle with no actor ID: report on Typed Letterhead to Fleet Services Division; deliver report to borough service station with vehicle.
+
+**Equipment Borrowed by Another Command:** Desk Officer must verify identity of that member and make appropriate Command Log entries.
+
+### Commanding Officer — Equipment Accountability
+
+- **Engrave Department Equipment:** Use Department-issued engraving tool to mark crowbar, sledgehammer, and polycarbonate shield with command's designation and identifying serial number (e.g., 104 Pct – 001)
+- **Record/Document:** Maintain a record of the equipment and the vehicle it is assigned to; refer to record during weekly vehicle inspections; ensure E-Z Pass serial number is included in maintained record
 
 ---
 
@@ -18660,12 +26789,41 @@ To ensure weekly accountability and condition reporting for all Department vehic
 
 ### Key Points
 
-- Inspections conducted **each Sunday** after the second platoon has been posted
-- Lieutenant platoon commander/patrol supervisor performs the inspection
+- Inspections conducted **each Sunday** after the second platoon has been posted (OR at other times as C.O. directs)
+- Lieutenant Platoon Commander performs the inspection; if unavailable, **Patrol Supervisor** performs it
 - Prepare VEHICLE INSPECTION REPORT (PD571-153)
 - Record E-Z Pass tag serial numbers on the report
 
-> **Exam Alert:** Weekly inspections occur on **Sunday** after the **second platoon** is posted.
+**What the Weekly Inspection Checks (beyond daily):**
+- Visual Message Signs (NOT mentioned in operator's daily inspection)
+- Seatbelt extenders (with RMP # engraved; in glove box when not in use)
+- INSPECTION AND EQUIPMENT RECORD (does NOT include Radio Repair Record or Radio Code Signal)
+- NYS Inspection (ALL vehicles) and NYS Registration (UNMARKED only)
+- Ballistic Window Inserts and Window Insert Wedges
+- Mobility tablet, dock, and related equipment
+
+> **Exam Alert:** Weekly inspections occur on **Sunday** after the **second platoon** is posted. If the Platoon Commander is unavailable, the **Patrol Supervisor** conducts the inspection. *(P.G. 219-02)*
+
+> **Exam Alert:** Visual Message Signs are checked during the **weekly** inspection but are **NOT** part of the operator's daily (start of tour) inspection. *(P.G. 219-02)*
+
+### Weekly Inspection — Role Comparison
+
+| Role | Weekly 219-02 Duty |
+|------|--------------------|
+| **Lt. Platoon Commander / Patrol Supervisor** | Inspect each vehicle; prepare Vehicle Inspection Report; submit to Plt. Com or D/O |
+| **Lt. Platoon Commander / Desk Officer** | Schedule preventive maintenance (direct MOS to log on to Support Service Bureau's online app); report serious deficiencies to C.O.; deliver Vehicle Inspection Report to **C.O. for signature and file** |
+
+> **Exam Alert:** The Vehicle Inspection Report goes to the **C.O. for signature** — not simply filed by the platoon commander. *(P.G. 219-02)*
+
+### Daily vs. Weekly Inspection — Role Comparison
+
+| Action | Daily (219-01) | Weekly (219-02) |
+|--------|---------------|-----------------|
+| Who inspects vehicles | Operator (UMOS) | Lt. Platoon Commander (or Patrol Supervisor) |
+| Serious deficiency goes to | Patrol Supervisor → Platoon Commander (or C.O.) | C.O. directly |
+| Radio records checked | Yes (Repair Record, Code Signal Card) | No |
+| Visual Message Signs | No | Yes |
+| Report prepared | Digital A/L entry | Vehicle Inspection Report (PD571-153) |
 
 ---
 
@@ -18791,7 +26949,9 @@ To account for the utilization of unmarked Department vehicles.
 | **Special Purpose** | Vehicles assigned for specific operational needs |
 | **Category I** | Vehicles not required to be stored at Department facility; permitted to be removed from the City on a regular basis; specifically designated by the Police Commissioner |
 
-> **Exam Alert:** **Category I** vehicles are specifically designated by the **Police Commissioner** and may leave the city regularly. Members with Category I vehicles are **ineligible** for Restricted Parking Permits.
+> **Exam Alert:** **Category I** vehicles are specifically designated by the **Police Commissioner** and may leave the city regularly. Members with Category I vehicles are **ineligible** for Restricted Parking Permits. *(P.G. 219-10)*
+
+> **Exam Alert:** Category I vehicles use **velcro strips** (removable) to secure E-Z Pass tags, since they routinely leave the city. Standard vehicles use **permanently affixed** double-sided tape. *(P.G. 219-25)*
 
 ---
 
@@ -18813,6 +26973,17 @@ To account for the utilization of unmarked Department vehicles.
 | **Radiation Detection Pager** | Device assigned to commands or individual members for detecting radiological threats; requires specific training |
 | **Ullage** | Remaining capacity in a fuel tank; tanks filled to 90% ullage |
 | **Regulated Infectious Waste** | Biohazard materials picked up by Medical Division messenger |
+| **OLBS** | Online Booking System — one of the systems ICO issues passwords for through Omniform |
+| **BADS** | Booking and Arraignment Desk System — ICO issues passwords through Omniform |
+| **LAPS** | LAPS system — ICO issues passwords through Omniform |
+| **VIB** | Vehicle Identification Box — in-vehicle transponder for automated fuel dispensing |
+| **CRALO** | Command Radio Auto Liaison Officer — holder of yellow fuel card |
+| **ERS** | Employee Resources Section — where member reports for replacement shield/ID after loss |
+| **SPIU / Stolen Property Inquiry Unit** | Unit notified to transmit alarm for lost/stolen Department property with identifying marks |
+| **ITB** | Information Technology Bureau — provides Mobility Tablet tech support 24/7; handles LPR repairs; telecommunications unit handles lost/stolen mobile devices |
+| **COG** | "Change of Gear" — the Digital Activity Log entry documenting vehicle inspection results (condition, odometer, gas gauge) |
+| **DAS** | Domain Awareness System — ICO audits 5 random members monthly for compliance |
+| **Focused Audit** | An audit of computer activity during a specific time period, requested by ICO or C.O. via 49 to Deputy Commissioner of IT |
 
 ## Fuel Card Colors
 
@@ -18905,30 +27076,54 @@ To account for the utilization of unmarked Department vehicles.
 | DEPARTMENT MOBILE DIGITAL DEVICE REPAIR/REPLACEMENT/RETURN REQUEST | PD589-163 | Phone repair/replacement |
 | PROPERTY RECEIPT — DISCONTINUANCE OF SERVICE | PD520-013 | Separation from service property return |
 
+## Lost/Stolen Firearm — County Notification Rules
+
+| Location of Loss | Who to Notify First |
+|-----------------|-------------------|
+| Within NYC | Desk Officer, Pct of occurrence |
+| Nassau or Suffolk County | Desk Officer **105 Pct** |
+| Westchester, Putnam, Rockland, or Orange | Desk Officer **50 Pct** |
+| Outside residence counties | **Operations Unit DIRECT** |
+
+## Lost/Stolen Firearm/Shield/ID — Report Parts
+
+| Part | Prepared By | Distribution |
+|------|------------|-------------|
+| Part A | MOS reporting loss | — |
+| Part B | D/O Pct of occurrence | — |
+| Part C | C.O. / Duty Captain | Per **BOTTOM** of form |
+| Part D | C.O. of MOS concerned | Per **REAR** of form |
+
 ## Key Contact Units
 
 | Unit | When to Contact |
 |------|----------------|
-| **Fleet Services Division** | Vehicle maintenance, E-Z Pass reassignment, defective tags |
+| **Fleet Services Division** | Vehicle maintenance, E-Z Pass reassignment, defective tags; loss of tire/tool from dept auto (3 copies of 49) |
 | **Building Maintenance Section** (24/7) | Emergency power outages — immediately |
-| **ITB Service Desk** | LPR repairs, FORMS outages |
+| **ITB Service Desk** (24/7) | LPR repairs, Mobility Tablet support |
 | **ITB Telecommunications Unit** | Lost/stolen/damaged mobile devices; callbox issues (Mon–Fri 0800–1600) |
-| **ITB Information Security Desk** | Foreign travel with Department phone (5 business days prior) |
+| **ITB Information Security Desk** | Foreign travel with Department phone (5 business days prior; list every country) |
 | **ITB Wheel** | Callbox issues after hours |
-| **Operations Unit** | Lost/stolen portable radio |
+| **Operations Unit** | Lost/stolen portable radio; also notified immediately for lost/stolen firearm/shield/ID card |
 | **Electronics Section** | Lost/stolen portable radio |
-| **Internal Affairs Bureau** | Lost/stolen Department property |
-| **Stolen Property Inquiry Unit** | Lost/stolen Department property alarms |
-| **Transit Bureau Wheel** | Lost/stolen OMNY pass |
+| **Internal Affairs Bureau** | Lost/stolen Department property; lost/stolen firearm/shield/ID |
+| **Stolen Property Inquiry Unit (SPIU)** | Lost/stolen Department property alarms; property with identifying marks |
+| **Transit Bureau Wheel** | Lost/stolen OMNY pass; also for lost/stolen MetroCard (NYCT Police Pass) |
+| **Employee Resources Section (ERS)** | Lost/stolen MetroCard (NYCT Police Pass) — forward 49 and Complaint Report; replacement shield/ID card |
 | **Shield, ID and Uniformed Services Unit** | OMNY pass issues; damaged/defective/lost/stolen passes |
-| **Patrol Borough Counterterrorism Coordinator** | Radiation pager repair/replacement |
-| **Citywide Counterterrorism Office** | Lost/stolen radiation pager |
+| **Patrol Borough Counterterrorism Coordinator** | Radiation pager repair/replacement instructions |
+| **Citywide Counterterrorism Office** | Lost/stolen radiation pager — notify immediately |
 | **Chief of Department's Vehicle Identification Unit** | Restricted Parking Permit applications/returns |
-| **Department Advocate's Office** | Consultation for discipline re: lost/stolen firearm |
-| **Employee Resources Section** | Replacement shield/ID card |
+| **Department Advocate's Office** | Consultation required before disciplinary action for lost/stolen FIREARM |
+| **Employee Resources Section** | Replacement shield/ID card after loss; also for LIRR/Metro North pass issues |
 | **Medical Division** | Regulated infectious waste pickup |
 | **Quartermaster Section** | AAA batteries for radiation pagers |
 | **DCAS Inspector** | Must sign heating oil delivery ticket |
+| **HQ Security Unit** | Loss occurs in 5th Precinct confines — reports loss here (5th records the 61) |
+| **PA Integrity Unit** | Loss occurs in 13th Precinct confines — reports loss here (13th records the 61) |
+| **Legal Bureau** | ICO contacts for CCRB smartphone requests; also handles Rosario/Discovery requests |
+| **Real Time Crime Center** | Can search past records of license plates queried by LPR |
+| **Telecommunications Unit** | Callbox notification Mon–Fri 0800–1600 |
 
 ---
 
@@ -19195,6 +27390,210 @@ Members must request permission from the ITB Information Security Desk at least 
 
 ---
 
+**16.** During the daily vehicle inspection, a patrol officer discovers the vehicle is in a sector that includes a body of water. Which life safety equipment is required?
+
+A) Life ring with rope attached
+B) Two vest-type life jackets
+C) Fire extinguisher and life ring
+D) Life ring and two vest-type life jackets
+
+<details><summary>Answer</summary>
+
+**B) Two vest-type life jackets**
+
+When an RMP is assigned to a sector with a body of water, two vest-type life jackets are required. A life ring with rope is required when the **command** itself borders or contains a body of water — this applies to all RMPs in that command, not just those in a specific sector. (P.G. 219-01)
+
+</details>
+
+---
+
+**17.** During a start-of-tour vehicle inspection, an operator finds a serious deficiency. The Platoon Commander is not available. To whom should the Patrol Supervisor report the serious deficiency?
+
+A) Desk Officer
+B) Operations Coordinator
+C) Commanding Officer
+D) Borough Commander
+
+<details><summary>Answer</summary>
+
+**C) Commanding Officer**
+
+In the absence of the Platoon Commander, the Patrol Supervisor reports serious vehicle deficiencies directly to the Commanding Officer — not to the Desk Officer. (P.G. 219-01)
+
+</details>
+
+---
+
+**18.** The weekly vehicle inspection requires the Lt. Platoon Commander to check which item that is NOT included in the operator's daily start-of-tour inspection?
+
+A) Tires and spare
+B) E-Z Pass tag serial number
+C) Visual Message Signs
+D) Portable radio
+
+<details><summary>Answer</summary>
+
+**C) Visual Message Signs**
+
+Visual Message Signs are specifically checked during the weekly inspection (219-02) but are NOT mentioned as part of the operator's daily (start-of-tour) inspection (219-01). This distinction has appeared on prior exams. (P.G. 219-02)
+
+</details>
+
+---
+
+**19.** A member of the service discovers that their computer password has been compromised. According to P.G. 219-14, who must be notified?
+
+A) Commanding Officer only
+B) Integrity Control Officer only
+C) Desk Officer/designated supervisor OR ICO
+D) Internal Affairs Bureau and the Desk Officer
+
+<details><summary>Answer</summary>
+
+**C) Desk Officer/designated supervisor OR ICO**
+
+If a password is compromised or misused, the member must notify the D.O./designated supervisor OR the ICO (comply with P.G. 207-21 regarding corruption). The procedure does not require notifying IAB directly. (P.G. 219-14)
+
+</details>
+
+---
+
+**20.** A UMOS loses a Department-issued NYCT MetroCard (Police Pass) in the confines of their command. Who investigates?
+
+A) ICO
+B) Commanding Officer
+C) Operations Coordinator
+D) Desk Officer
+
+<details><summary>Answer</summary>
+
+**C) Operations Coordinator**
+
+Loss or theft of a MetroCard (Police Pass) is processed per P.G. 219-20, where the Operations Coordinator conducts the investigation. Note the contrast: a **damaged** MetroCard is investigated by the **ICO** per P.G. 219-26. This distinction was tested on the 2017 Lieutenant's exam. (P.G. 219-20, 219-26)
+
+</details>
+
+---
+
+**21.** A UMOS loses their shield in Nassau County. Which Desk Officer must be notified first?
+
+A) Desk Officer at the pct of occurrence
+B) Desk Officer 50 Pct
+C) Desk Officer 105 Pct
+D) Operations Unit directly
+
+<details><summary>Answer</summary>
+
+**C) Desk Officer 105 Pct**
+
+Nassau and Suffolk County losses are reported to Desk Officer 105 Pct. Westchester, Putnam, Rockland, or Orange County losses go to Desk Officer 50 Pct. Losses outside those residence counties require notifying the Operations Unit directly. (P.G. 219-21)
+
+</details>
+
+---
+
+**22.** A commanding officer's firearm is lost and disciplinary action may be warranted. Before initiating a Command Discipline, the CO of the MOS concerned must:
+
+A) Notify IAB first and obtain a log number
+B) Consult with the Department Advocate
+C) Consult with the Legal Bureau
+D) File a report with the Chief of Department
+
+<details><summary>Answer</summary>
+
+**B) Consult with the Department Advocate**
+
+When a firearm is lost and discipline is contemplated, the CO of the MOS concerned MUST consult with the Department Advocate before initiating a CD or charges. This requirement applies specifically to firearms — not shields or ID cards. (P.G. 219-21)
+
+</details>
+
+---
+
+**23.** A member's firearm is lost in the confines of Police Headquarters (5th Precinct). The 61 is recorded by the 5th Precinct. Who conducts the investigation?
+
+A) The 5th Precinct Commanding Officer
+B) The Headquarters Security Unit
+C) A captain or above from the reporting member's command
+D) Internal Affairs Bureau
+
+<details><summary>Answer</summary>
+
+**C) A captain or above from the reporting member's command**
+
+When a loss occurs at Police Headquarters, the loss is reported to the HQ Security Unit (which records the 61), but the investigation is conducted by a captain or above from the **reporting member's own command**. A supervisor from HQ makes the notifications, and a captain or above from HQ investigates and prepares the reports. (P.G. 219-21)
+
+</details>
+
+---
+
+**24.** When the Commanding Officer of a MOS distributes the Lost/Stolen Firearm/Shield/ID Card Report (Part D), the distribution instructions are found where on the form?
+
+A) Top of the form
+B) Front of the form
+C) Bottom of the form
+D) Rear of the form
+
+<details><summary>Answer</summary>
+
+**D) Rear of the form**
+
+The C.O. of the MOS distributes Part D per the **REAR** of the form. The C.O./Duty Captain distributes Part C per the **BOTTOM** of the form. These are different distribution instructions and this distinction has appeared on prior exams. (P.G. 219-21)
+
+</details>
+
+---
+
+**25.** A CCRB requests information from a Department smartphone belonging to a member subject to a CCRB inquiry. The member notifies their ICO. The ICO then contacts which unit for guidance?
+
+A) Internal Affairs Bureau
+B) Legal Bureau
+C) Operations Unit
+D) Department Advocate's Office
+
+<details><summary>Answer</summary>
+
+**B) Legal Bureau**
+
+When CCRB requests smartphone information: UMOS notifies ICO → ICO contacts **Legal Bureau** for guidance → IAB's CCRB Liaison then processes the request. The chain is UMOS → ICO → Legal Bureau → IAB handles the CCRB response. (P.G. 219-32)
+
+</details>
+
+---
+
+**26.** An LPR device activates and shows a "hit" on a vehicle's license plate. Under what circumstance may the officer take law enforcement action WITHOUT first verifying through NYSPIN?
+
+A) Never — NYSPIN verification is always required
+B) When the LPR hot list was updated within the last 24 hours
+C) When there are additional reasons for a lawful stop, such as an observed VTL infraction
+D) Only when directed by a patrol supervisor
+
+<details><summary>Answer</summary>
+
+**C) When there are additional reasons for a lawful stop, such as an observed VTL infraction**
+
+NYSPIN verification is "absolutely essential" UNLESS: (1) there are additional reasons for a lawful stop such as an observed VTL infraction, OR (2) circumstances provide sufficient reasonable suspicion to justify a Terry Stop/Level 3 encounter. In those cases, enforcement may proceed without the NYSPIN check. (P.G. 219-31)
+
+</details>
+
+---
+
+**27.** An entry is made on a member's Force Record (10 card) after their firearm is reported lost. What date and time is used for the entry?
+
+A) Date and time the firearm was actually lost
+B) Date and time the member notified the Desk Officer
+C) Date and time of the Command Log Entry
+D) Date and time Part C of the Loss Form was completed
+
+<details><summary>Answer</summary>
+
+**C) Date and time of the Command Log Entry**
+
+The Force Record (10 card) entry uses the date and time of the **Command Log Entry** — NOT the date and time of the actual loss. This is a specific and frequently tested distinction. (P.G. 219-21)
+
+</details>
+
+---
+
 # Section 220 — Citywide Incident Management
 
 ## Source
@@ -19303,6 +27702,8 @@ To outline the duties of the Command Element in CIMS.
 | #3 — Investigative Operations | May run concurrently with Life Safety (with Command Element approval) |
 | #4 — Recovery/Restoration | Final mitigation; return to non-emergency; usually after Investigative Operations conclude |
 
+> **Memory Aid — LSIR:** **L**ife Safety → **S**ite Management → **I**nvestigative → **R**ecovery/Restoration. The four incident management priorities in order. *(PG 220-05)*
+
 ### Incident Objectives Must Be
 
 | Quality | Description |
@@ -19344,6 +27745,17 @@ To outline the duties of the Command Element in CIMS.
 |-----------|-------------|
 | **Single Command** | One Primary Agency designates one Incident Commander with overall responsibility |
 | **Unified Command** | Multiple Primary Agencies each designate an Agency Incident Commander; all co-locate at one ICP; jointly set objectives and create one IAP |
+
+> **Exam Alert:** In **Single Command**, the IC picks **their own people** to staff ALL positions below them. In **Unified Command**, the Co-ICs jointly pick most positions but each agency picks its own Safety Officer and Operations Chief. *(PG 220-04, 220-05)*
+
+> **Exam Alert:** Two possible exceptions to NYPD controlling Single Command staff:
+> - **Public Information Officer** — Mayor's Press Office has authority to step in and name the PIO
+> - **Liaison Officer** — NYCEM has authority to step in and designate the Liaison Officer
+> In both cases, NYPD should still try to make NYPD personnel the PIO/Liaison (preferably DCPI for PIO), or at minimum the **assistant** to whoever is designated. *(PG 220-06, 220-08)*
+
+> **See Also:** PG 220-06 — Public Information Officer designation rules including Mayor's Press Office authority.
+
+> **See Also:** PG 220-08 — Liaison Officer designation rules including NYCEM authority.
 
 ### Span of Control
 
@@ -19391,6 +27803,12 @@ Direction may only be given through the established Chain of Command (absent eme
 
 > **Sergeant Focus:** A Sergeant arriving first at a multi-agency incident may serve as the initial Command Element/Incident Commander until relieved through Transfer of Command by a higher-ranking officer.
 
+> **Exam Alert:** When minimal finance/admin tasks are required (e.g., only managing overtime), the Finance/Admin Section Chief position may **not** need to be a full General Staff Section. It could instead be one specialist working for the Planning Section Chief. *(PG 220-12, step 1a)*
+
+> **See Also:** PG 220-05 — Full Command Element duties including 34-step procedure for managing an incident.
+
+> **See Also:** PG 220-17 — Transfer of Command procedure and four options for ranking members arriving at a scene.
+
 ---
 
 # Section 220 — Command Staff
@@ -19422,6 +27840,10 @@ To outline the duties of the Public Information Officer in CIMS.
 | Single Command | Incident Commander (but **Mayor's Press Office** has authority and may designate) |
 | Unified Command | Agency Incident Commanders jointly (but **Mayor's Press Office** has authority and may designate) |
 
+> **Exam Alert:** If NYPD is in command, the PIO should **preferably be from DCPI** (Deputy Commissioner of Public Information). *(PG 220-06)*
+
+> **Exam Alert:** When any position cannot be filled with NYPD personnel, always try to make an NYPD member the **assistant** to whoever is designated. This applies to both PIO and Liaison Officer positions. *(PG 220-06)*
+
 ### Joint Information Center (JIC)
 
 - Established when necessary for large, complex, multi-agency incidents
@@ -19430,6 +27852,8 @@ To outline the duties of the Public Information Officer in CIMS.
 - In extremely unusual circumstances, multiple JICs may be established
 
 > **Exam Alert:** The **Mayor's Press Office** has authority to designate the Public Information Officer and the JIC spokesperson.
+
+> **See Also:** PG 220-08 — Liaison Officer, where NYCEM has parallel authority to Mayor's Press Office for PIO.
 
 ---
 
@@ -19467,12 +27891,18 @@ The Safety Officer may **exercise emergency authority to directly prevent, stop,
 | Structure | Designation |
 |-----------|-------------|
 | Single Command (non-CBRN) | Incident Commander designates **one** Safety Officer |
-| Unified Command | Each Agency Incident Commander may designate an Agency Safety Officer (or jointly designate one) |
+| Unified Command | Each Agency Incident Commander may designate an Agency Safety Officer (or **jointly** designate one if all ICs agree) |
 | Single Command (CBRN/HazMat) | NYPD, FDNY, DEP, DOHMH each designate an Agency Safety Officer (or jointly designate one) |
 
 > **Exam Alert:** Safety Officer can **exercise emergency authority** to directly stop unsafe activities when life is in **imminent danger** — without waiting for chain of command approval.
 
 > **Exam Alert:** Safety Officer function is **required by law** at hazardous materials incidents.
+
+> **Exam Alert:** In Unified Command, each IC gets to pick their **own** Safety Officer from their own agency. However, if all ICs agree, they **may** choose only one shared Safety Officer. This is the one Command Staff position where each IC has individual pick authority (unlike PIO and Liaison, which are jointly picked). *(PG 220-05, 220-07)*
+
+> **See Also:** PG 220-09 — Operations Section Chief; each IC in Unified Command also picks their own Operations Section Chief (parallel rule to Safety Officer).
+
+> **See Also:** PG 220-02 — CBRN/HazMat incidents where NYPD, FDNY, DEP, and DOHMH each designate their own Safety Officer.
 
 ---
 
@@ -19500,9 +27930,21 @@ To outline the duties of the Liaison Officer in CIMS.
 | Single Command | Incident Commander (but **NYCEM** has authority and may designate) |
 | Unified Command | Agency Incident Commanders jointly (but **NYCEM** has authority and may designate) |
 
-> **Exam Alert:** **NYCEM** (NYC Emergency Management) has authority to designate the Liaison Officer.
+> **Exam Alert:** **NYCEM** (NYC Emergency Management) has authority to designate the Liaison Officer. Note: NYCEM was **formerly known as OEM** — exam questions may use either name. *(PG 220-08)*
 
 > **Exam Alert:** Command Staff positions are: **Public Information Officer** (Mayor's Press Office authority), **Safety Officer**, **Liaison Officer** (NYCEM authority).
+
+### Command Staff — Override Authority Summary
+
+| Position | Override Authority |
+|----------|-------------------|
+| Public Information Officer | **Mayor's Press Office** |
+| Safety Officer | (none — IC or Co-ICs designate) |
+| Liaison Officer | **NYCEM** |
+
+> **Memory Aid:** "Press = Mayor's Press Office (PIO); Liaison = NYCEM." Two different external bodies have override authority for two different Command Staff positions. Safety Officer has no outside override — the IC controls it. *(PG 220-06, 220-07, 220-08)*
+
+> **See Also:** PG 220-06 — Full PIO duties and Joint Information Center rules.
 
 ---
 
@@ -19746,6 +28188,8 @@ To outline the duties of the Operations Section chief in CIMS.
 | **Sector** | Sector Supervisor | Geographic area of operations |
 | **Group** | Group Supervisor | Functional area of operations |
 
+> **Memory Aid — Sectors vs. Groups:** Think **S**ectors = **S**patially (geographic area). Think **G**roups = **G**iven function (functional area). *(PG 220-09)*
+
 ### Operations Section Post
 
 - Separate from the ICP (generally NOT co-located)
@@ -19761,6 +28205,10 @@ Activated when:
 Each Primary Agency designates an **Agency Operations Section chief** based on Core Competencies.
 
 > **Exam Alert:** The Operations Section directs **all tactical operations**. The Operations Section Post is generally **NOT co-located** with the ICP.
+
+> **Prior Test:** The Sergeant exam tested: "At a CBRN incident with suspected terrorism, who is the primary agency for overall site management?" — correct answer is **NYPD** (NYPD has the Core Competency for Overall Site Management and Assessment/Investigation at CBRN incidents). *(PG 220-02, 220-03)*
+
+> **See Also:** PG 220-03 — Core Competencies chart describing which agency handles which operational functions within the Unified Operations Section.
 
 ---
 
@@ -19792,7 +28240,13 @@ To outline the duties of the Planning Section chief in CIMS.
 | **Demobilization Unit** | Plan/execute orderly demobilization |
 | **Documentation Unit** | Maintain incident files and records |
 
+> **Memory Aid — Planning Units (RSDD):** **R**esources, **S**ituation, **D**emobilization, **D**ocumentation. The four units under the Planning Section. *(PG 220-10)*
+
 > **Exam Alert:** The **Planning Section** prepares the Incident Action Plan and the Demobilization Plan. The **Resources Unit** tracks resource status and performs the Check-In function.
+
+> **Exam Alert:** Planning Section has **no Branches and no Groups/Sectors** — only Units. If the Resources Unit is not activated, Check-In falls to the Planning Section Chief. If Planning is not activated, Check-In falls to the Command Element. *(PG 220-10, 220-24)*
+
+> **See Also:** PG 220-24 — Check-In process, where Planning Section's Resources Unit is the primary performer.
 
 ---
 
@@ -19821,7 +28275,17 @@ To outline the duties of the Logistics Section chief in CIMS.
 | **Service Branch** | Communications Unit, Medical Unit, Food Unit |
 | **Support Branch** | Supply Unit, Facilities Unit, Ground Support Unit |
 
+> **Memory Aid — Service Branch (CMF):** **C**ommunications, **M**edical, **F**ood. *(PG 220-11)*
+
+> **Memory Aid — Support Branch (SFG):** **S**upply, **F**acilities, **G**round Support. *(PG 220-11)*
+
 > **Exam Alert:** Logistics provides **service and support** (NOT tactical operations). Medical Unit provides care for **incident personnel**, not victims.
+
+> **Prior Test:** A recent exam asked: "Under what section would you find the Facilities Unit?" — The correct answer is **Logistics Section** (Support Branch), NOT the Command Element. Trick: "facilities" sounds like it could relate to ICP/infrastructure, but it is a Logistics subordinate unit. *(PG 220-11)*
+
+> **Exam Alert:** Logistics can have **both Branches AND Units** — it is the only non-Operations section that can have Branches. The Service Branch and Support Branch both report to the Logistics Section Chief. *(PG 220-11)*
+
+> **See Also:** PG 220-19 — Incident Facilities (ICP, Staging Area, etc.) — separate from the Logistics Facilities Unit.
 
 ---
 
@@ -19852,6 +28316,10 @@ To outline the duties of the Finance/Administration Section chief in CIMS.
 | **Compensation/Claims Unit** | Process injury claims |
 | **Cost Unit** | Track overall incident costs |
 
+> **Memory Aid — Finance/Admin Units (TPCC):** **T**ime, **P**rocurement, **C**laims, **C**ost. The four units under Finance/Administration. *(PG 220-12)*
+
+> **Exam Alert:** Finance/Admin has **no Branches and no Groups/Sectors** — only Units. If finance/admin tasks are minimal (only managing OT), this section may not be a full General Staff section and could reduce to one specialist under Planning. *(PG 220-12, step 1a)*
+
 ---
 
 ## P.G. 220-13: CIMS Intelligence/Investigations Section Chief
@@ -19870,11 +28338,14 @@ When there is a **considerable investigative or intelligence component**, the Co
 
 | Group | Function |
 |-------|----------|
+| **Investigative Operations Group** | Direct investigative operations |
 | **Intelligence Group** | Intelligence collection and analysis |
-| **Surveillance and Evidence Collection Group** | Surveillance operations, evidence collection |
-| **Forensic Group** | Forensic analysis and processing |
-| **Missing/Unidentified Persons Group** | Track missing or unidentified persons |
+| **Forensics Group** | Forensic analysis and processing |
+| **Electronic Communications, Surveillance and Evidence Group** | Surveillance operations, evidence collection |
+| **Missing/Unidentified Person and Human Remains Group** | Track missing or unidentified persons |
 | **Investigative Support Group** | Support investigative operations |
+
+> **Memory Aid — Intel Section Groups:** The Intel/Investigations Section has **Groups but no Branches and no Units** — it is the only General Staff section that can have Groups but no Branches. *(PG 220-13)*
 
 ### Intelligence/Investigations Section Post
 
@@ -19882,6 +28353,10 @@ When there is a **considerable investigative or intelligence component**, the Co
 - Located at a **secure location** within reasonable distance
 
 > **Exam Alert:** The Intelligence/Investigations Section may be organized as a **General Staff Section** (considerable component), an **Operations Branch/Group** (unusual), or a **Command Staff position/Planning function** (extremely unusual).
+
+> **PG Conflict:** The PG specifically calls out the Intelligence/Investigations Section as "optional" among General Staff sections. However, The Key notes this is misleading — in practice, **ALL** General Staff positions are optional. The IC picks only what is needed for the incident. The "optional" label on Intel/Invest is not unique. *(PG 220-01, 220-13)*
+
+> **See Also:** PG 220-09 — Operations Section, where Intel/Investigations may alternatively be placed as an Operations Branch or Group during unusual situations.
 
 ---
 
@@ -20116,6 +28591,10 @@ To outline the CIMS Organizational Structure.
 - The structure is **modular** — expanded as needed regardless of incident nature, size, scope, duration, location, or complexity
 - Organization may range from Command Element + several Single Resources (small) to Command Element + 3 Command Staff + 5 General Staff Sections (large)
 
+> **Memory Aid — MODULAR:** The keyword for how CIMS is designed — the Incident Commander can run an operation with one or two people *or* open any combination of staff positions as needed. *(PG 220-01)*
+
+> **Exam Alert:** The PG specifically describes the Intelligence/Investigations Section as "optional," but The Key notes that in reality ALL positions above are optional — the IC picks only what is needed. *(PG 220-01)*
+
 ### CIMS Organizational Elements
 
 | Level | Elements |
@@ -20123,6 +28602,10 @@ To outline the CIMS Organizational Structure.
 | **Command Element** | Single Command or Unified Command |
 | **Command Staff** | Public Information Officer, Safety Officer, Liaison Officer |
 | **General Staff — Sections** | Operations, Planning, Logistics, Finance/Administration, Intelligence/Investigations (optional) |
+
+> **Exam Alert:** The PG uses the term "Command Element" (not "Incident Commander") because NYPD may **share command with leaders from other agencies** — thus there could be more than one Incident Commander. *(PG 220-01)*
+
+> **Memory Aid — General Staff Chiefs rank:** Although the PG uses the word "Chief" for General Staff Section Chiefs, the assigned MOS could be **any rank** — including a civilian MOS. The title describes the role, not the rank. *(PG 220-01)*
 
 ### Operations Section Subordinate Elements
 
@@ -20139,6 +28622,24 @@ To outline the CIMS Organizational Structure.
 | Logistics | Units, Branches |
 | Planning | Units |
 | Finance/Administration | Units |
+
+> **Prior Test:** A recent Sergeant exam asked: "Under what section would you find the Facilities Unit?" — The correct answer is **Logistics Section** (Support Branch). The Facilities Unit is one of three Support Branch units under Logistics. *(PG 220-01, 220-11)*
+
+### Role Comparison — Subordinate Elements by Section Chief
+
+| Section Chief | Can Have Branches | Can Have Groups/Sectors | Can Have Units |
+|---------------|:-----------------:|:-----------------------:|:--------------:|
+| **Operations** | YES | YES | no |
+| **Planning** | no | no | YES |
+| **Logistics** | YES | no | YES |
+| **Finance/Admin** | no | no | YES |
+| **Intel/Invest** | no | YES | no |
+
+> **Exam Alert:** Operations and Logistics can have Branches. Operations and Intel/Investigative can have Groups/Sectors. Planning, Logistics, and Finance/Admin can have Units — but of those three, **only Logistics** can also have a Branch. *(PG 220-01)*
+
+> **PG Conflict:** The Air Operations Branch of the Operations Section is **NOT listed** in PG 220-09 (Operations Section Chief duties) but **IS listed** in PG 220-11 (Logistics Section Chief). This means the Air Operations Branch organizationally appears in Logistics' scope — watch for this distinction on the exam. *(PG 220-09, 220-11)*
+
+> **Exam Alert:** None of the branches, sub-groups, sectors, or units are mandatory — only open what is needed. However, responsibilities of **unopened** units/groups revert to the responsible Section Chief and **cannot be moved** to another opened branch, group, or unit. *(PG 220-01)*
 
 ### Organizational Principles
 
@@ -20205,6 +28706,52 @@ To list incident types and designate which Command Element structure (Single or 
 
 > **Exam Alert:** For auto extrication and boat in distress, the primary agency is determined by **whoever arrives first** (NYPD or FDNY).
 
+### Three Types of CIMS — Role Comparison
+
+| Feature | Type I: Single (220-04) | Type II: Unified (220-03) | Type III: Single-CBRN (220-02) |
+|---------|------------------------|--------------------------|-------------------------------|
+| Who is IC? | One IC from Core Agency | Co-ICs from each agency | NYPD IC (initially) |
+| Who picks staff? | IC picks all positions | Co-ICs jointly pick most; each picks own Safety Officer & Ops Chief | Same as Unified for Ops Section |
+| PIO | IC picks (Mayor's Press Office may override) | Co-ICs jointly pick one | Same as Unified |
+| Liaison | IC picks (NYCEM may override) | Co-ICs jointly pick one | Same as Unified |
+| Safety Officer | IC picks one | Each agency picks own (or jointly one) | Each agency (NYPD, FDNY, DEP, DOHMH) picks own |
+| Ops Section | IC picks | Each agency picks own Ops Chief | Ops Section is Unified — each agency has Ops Chief |
+| Planning, Logistics, Finance, Intel | IC picks | Co-ICs jointly pick ONE each | Same as Unified |
+
+> **Prior Test:** This table was tested on ALL THREE exams — Sergeant, Lieutenant, and Captain. The Primary Agency Matrix for single command incidents is high-frequency exam content. *(PG 220-02)*
+
+> **Exam Alert:** In **CBRN/Single Command**, even though it starts as "Single" (NYPD only), the **Operations Section is Unified** — each agency (NYPD, FDNY, DEP, DOHMH) has its own Ops Chief and Safety Officer. This makes it function similarly to Unified despite the Single Command designation. *(PG 220-02)*
+
+> **Exam Alert:** The "N" in CBRN stands for Nuclear. However, if there is an **anticipated, suspected, or actual detonation of a nuclear weapon**, the command **always goes Unified** — it never stays Single-CBRN. This is the one exception where CBRN does not default to NYPD Single Command. *(PG 220-02)*
+
+> **Exam Alert:** In Unified Command, all Agency Incident Commanders are on **equal footing regardless of their rank** in their own organization. An FDNY Captain has the same authority as an NYPD Deputy Inspector in a Unified Command Element. *(PG 220-04)*
+
+### Unified Command — What ICs Jointly Pick vs. Each Agency Picks
+
+> **See Also:** PG 220-05 — Detailed rules on what Unified Command ICs pick jointly vs. individually.
+
+| Jointly Picked (one each) | Each IC Picks Own |
+|--------------------------|-------------------|
+| Public Information Officer | Safety Officer (each agency) |
+| Liaison Officer | Operations Section Chief (each agency) |
+| Planning Section Chief | — |
+| Logistics Section Chief | — |
+| Finance/Admin Section Chief | — |
+| Intelligence Section Chief | — |
+
+> **Exam Alert:** In Unified Command, NYPD IC should always try to get NYPD personnel into the jointly-picked spots — or at minimum, get an NYPD member as the deputy in those positions. *(PG 220-05)*
+
+### Unified Operations Section Responsibilities in Single-CBRN/HazMat
+
+| Agency | Responsibility |
+|--------|---------------|
+| **NYPD** | Overall site management; Assessment and investigation (Crime/Terrorism) |
+| **FDNY** | Life Safety Operations; Search & Rescue; EMS/97H; Mass Decontamination |
+| **DEP** | Chemical — Set Hot/Warm/Cold zones; Direct mitigation effort |
+| **DOHMH** | Biological/Radiological — Set zones (same as DEP); mitigation |
+
+> **See Also:** PG 220-02, page 2 — Unified Operations Section Responsibilities in Single-CBRN/HazMat incidents.
+
 ---
 
 ## P.G. 220-03: CIMS Agency Core Competencies and Unified Operations Section
@@ -20218,6 +28765,14 @@ To define Agency Core Competencies at incidents.
 ### Key Concept
 
 **Core Competencies** are functional areas of expertise assigned to **one single agency**. Even if multiple agencies can perform similar operations, CIMS assigns the Core Competency to only one agency.
+
+> **Exam Alert:** The 220-03 two-page chart shows which agencies have what capabilities — it **only describes capability, not management authority**. It does NOT assign who commands what. *(PG 220-03)*
+
+> **Exam Alert:** Tactical Operations are managed by the **Operations Section**. If the Operations Section is not activated, the **Command Element** manages Tactical Operations directly. *(PG 220-03)*
+
+> **Exam Alert:** The 220-02 chart (Primary Agency Matrix) shows which agency will be in command. The 220-03 chart shows who is capable of what. These are **two separate charts with different purposes** — exam questions may try to confuse them. *(PG 220-02, 220-03)*
+
+> **Exam Alert:** "Potential Primary Agencies" (State/Federal agencies) may have to share command as Primary Agencies at incidents on military bases, terrorism incidents, etc. Nothing in the procedure restricts naming them as Primary Agencies. *(PG 220-03)*
 
 ### NYPD Core Competencies
 
@@ -20294,33 +28849,77 @@ To define Agency Core Competencies at incidents.
 | Term | Definition |
 |------|-----------|
 | **CIMS** | Citywide Incident Management System — NYC's adaptation of NIMS/ICS |
-| **Command Element** | Individual(s) responsible for overall command function; may be Single or Unified |
+| **Command Element** | Individual(s) responsible for overall command function; may be Single or Unified. PG uses "Command Element" not "Incident Commander" because command may be shared with other agencies |
 | **Single Command** | One Primary Agency with one Incident Commander |
 | **Unified Command** | Multiple Primary Agencies, each with an Agency Incident Commander; all co-locate at one ICP |
+| **Single-CBRN** | Hybrid command type for Chemical, Biological, Radiological, Nuclear or HazMat incidents — NYPD is sole IC until no criminal/terror activity is determined, then reverts to Unified; Ops Section is Unified throughout |
 | **Primary Agency** | Agency designated by the Primary Agency Matrix to command the incident |
 | **Supporting Agency** | Agency assisting but not commanding |
 | **Coordinating Agency** | NYCEM — facilitates inter-agency coordination and support |
 | **Potential Primary Agency** | State/federal agencies with jurisdictional authority under specific conditions |
 | **Subject Matter Expert Agency** | Agency with technical expertise but no tactical personnel deployed |
-| **Core Competency** | Functional area of expertise assigned to one single agency |
+| **Core Competency** | Functional area of expertise assigned to one single agency — describes capability only, not management authority |
+| **OEM** | Former name for NYCEM (NYC Emergency Management); older exam questions may still use "OEM" |
+| **DCPI** | Deputy Commissioner of Public Information — preferred source for the PIO when NYPD is in command |
+| **MODULAR** | Key word describing CIMS structure — IC can run an operation alone or open any combination of staff positions as needed |
 
 ## Command Staff Positions
 
-| Position | Designation Authority (Override) |
-|----------|-------------------------------|
-| **Public Information Officer** | Mayor's Press Office may designate |
-| **Safety Officer** | Required by law at HazMat incidents |
-| **Liaison Officer** | NYCEM may designate |
+| Position | Designation Authority (Override) | Note |
+|----------|-------------------------------|------|
+| **Public Information Officer** | Mayor's Press Office may designate | Preferably from DCPI when NYPD is in command |
+| **Safety Officer** | No external override — IC designates | In Unified Command, each IC picks own; if all agree, may share one |
+| **Liaison Officer** | NYCEM may designate | NYCEM formerly known as OEM |
 
 ## General Staff Sections
 
-| Section | Chief Manages | Subordinate Elements |
-|---------|-------------|---------------------|
-| **Operations** | All tactical operations | Branches, Sectors (geographic), Groups (functional) |
-| **Planning** | Information collection, IAP preparation, resource tracking | Resources Unit, Situation Unit, Demobilization Unit, Documentation Unit |
-| **Logistics** | All service and support | Service Branch (Communications, Medical, Food), Support Branch (Supply, Facilities, Ground Support) |
-| **Finance/Administration** | Financial/administrative functions | Time Unit, Procurement Unit, Compensation/Claims Unit, Cost Unit |
-| **Intelligence/Investigations** | Investigative/intelligence operations | Intelligence Group, Surveillance/Evidence Group, Forensic Group, Missing/Unidentified Persons Group, Investigative Support Group |
+| Section | Chief Manages | Subordinate Elements | Memory Aid |
+|---------|-------------|---------------------|------------|
+| **Operations** | All tactical operations | Branches, Sectors (geographic), Groups (functional) | Sectors = Spatial; Groups = Given function |
+| **Planning** | Information collection, IAP preparation, resource tracking | Resources Unit, Situation Unit, Demobilization Unit, Documentation Unit | RSDD |
+| **Logistics** | All service and support | Service Branch (Communications, Medical, Food); Support Branch (Supply, Facilities, Ground Support) | Service = CMF; Support = SFG |
+| **Finance/Administration** | Financial/administrative functions | Time Unit, Procurement Unit, Claims Unit, Cost Unit | TPCC |
+| **Intelligence/Investigations** | Investigative/intelligence operations | Investigative Operations Group, Intelligence Group, Forensics Group, Electronic Communications/Surveillance/Evidence Group, Missing/Unidentified Person and Human Remains Group, Investigative Support Group | Groups only — no Branches, no Units |
+
+## Unified Command — Joint vs. Individual Picks
+
+| Jointly Picked (one for entire command) | Each IC Picks Own |
+|----------------------------------------|-------------------|
+| Public Information Officer | Safety Officer (each agency picks own) |
+| Liaison Officer | Operations Section Chief (each agency picks own) |
+| Planning Section Chief | — |
+| Logistics Section Chief | — |
+| Finance/Admin Section Chief | — |
+| Intelligence Section Chief | — |
+
+## Three Types of CIMS
+
+| Type | PG Section | Key Feature |
+|------|-----------|-------------|
+| **Single Command** | 220-04 | One IC from core agency; IC picks all staff |
+| **Unified Command** | 220-03 | Multiple Co-ICs; jointly pick most staff; each picks own Safety Officer and Ops Chief |
+| **Single-CBRN** | 220-02 | NYPD IC until no crime/terror determined; Ops Section is always Unified; nuclear weapon = Unified always |
+
+## Single Command Primary Agency Matrix (High-Frequency Exam Items)
+
+| Incident Type | Primary Agency |
+|--------------|---------------|
+| Civil Disturbance | NYPD |
+| EDP | NYPD |
+| Explosive Device / Bomb Threat | NYPD |
+| Fire | FDNY |
+| Hostage Incident | NYPD |
+| Sniper Incident | NYPD |
+| Special Event | NYPD |
+| Structural Collapse | FDNY |
+| Suspicious Package | NYPD |
+| Water/Ice Rescue | NYPD |
+| Auto Extrication | NYPD/FDNY (first to arrive) |
+| Boat in Distress | NYPD/FDNY (first to arrive) |
+| Confined Space Rescue | FDNY |
+| Downed Tree | Dept of Parks & Recreation / FDNY |
+| Elevator Incident | FDNY |
+| Correctional Facility Disturbance | DOC |
 
 ## Incident Facilities
 
@@ -20423,6 +29022,8 @@ To define Agency Core Competencies at incidents.
 ## NYPD Single Command Incidents
 
 Civil Disturbance, EDP, Explosive Device/Bomb Threat, Hostage, Sniper, Special Event, Suspicious Package, Water/Ice Rescue
+
+*Note: Downed Tree, Elevator Incident, Confined Space Rescue, and Structural Collapse are NOT NYPD — commonly tested trap.*
 
 ## NYPD Core Competencies
 
@@ -20854,6 +29455,176 @@ Under Management by Objectives, CIMS Incident Objectives must be Attainable, Mea
 **D) Hostage situation**
 
 NYPD Single Command incidents include: Civil Disturbance, EDP, Explosive Device/Bomb Threat, Hostage, Sniper, Special Event, Suspicious Package, and Water/Ice Rescue. Building collapse and structural fire are not NYPD Single Command; HazMat without crime is Unified Command. (P.G. 220-02)
+
+</details>
+
+---
+
+**26. Under a Unified Command, which of the following positions does each Agency Incident Commander pick independently (not jointly with other ICs)?**
+
+- A) Planning Section Chief
+- B) Logistics Section Chief
+- C) Safety Officer
+- D) Liaison Officer
+
+<details><summary>Answer</summary>
+
+**C) Safety Officer**
+
+In Unified Command, each IC independently picks their own Safety Officer and their own Operations Section Chief. PIO, Liaison Officer, Planning Section Chief, Logistics Section Chief, Finance/Admin Section Chief, and Intelligence Section Chief are all jointly picked by the Co-ICs. (P.G. 220-05, 220-07)
+
+</details>
+
+---
+
+**27. At a CBRN/HazMat incident involving suspected terrorism, which agency serves as the primary Incident Commander?**
+
+- A) FDNY
+- B) DEP
+- C) NYPD
+- D) NYCEM
+
+<details><summary>Answer</summary>
+
+**C) NYPD**
+
+When a CBRN/HazMat incident involves actual or suspected crime or terrorism, NYPD serves as the sole Incident Commander (Single Command). NYPD remains primary IC until it is determined there is no criminal or terrorist activity, at which point command reverts to Unified Command. (P.G. 220-02)
+
+</details>
+
+---
+
+**28. Which of the following incident types uses a Unified Command structure with FDNY, NYPD, PANYNJ, USCG, and NTSB as Potential Primary Agencies?**
+
+- A) Civil Disturbance
+- B) Aviation Incident
+- C) Rail Incident
+- D) Explosion
+
+<details><summary>Answer</summary>
+
+**B) Aviation Incident**
+
+Aviation Incidents use a Unified Command structure with FDNY and NYPD as Primary Agencies, and PANYNJ, USCG, and NTSB as Potential Primary Agencies/Subject Matter Experts. Rail Incidents use MTA, PANYNJ, NJT, Amtrak as PPAs. Explosions use DDC, DOB, HPD. (P.G. 220-02)
+
+</details>
+
+---
+
+**29. At a structural collapse incident, which agency is the Primary Agency?**
+
+- A) NYPD
+- B) FDNY
+- C) DOB
+- D) DDC
+
+<details><summary>Answer</summary>
+
+**B) FDNY**
+
+Structural Collapse is an FDNY Single Command incident. This question has been tested on the Sergeant exam. Other FDNY Single Command incidents include: Confined Space Rescue, Elevator Incident, Entrapment/Impalement, and Fire. (P.G. 220-02)
+
+</details>
+
+---
+
+**30. The General Staff Section Chief who uses the keyword "MODULAR" to describe how the Incident Commander can staff the incident is associated with which concept?**
+
+- A) The Incident Commander must use all five General Staff sections at every incident
+- B) The IC can run an operation with one or two people or any combination of staff positions
+- C) Only the Operations Section must always be activated
+- D) The Command Element always requires at least three Command Staff members
+
+<details><summary>Answer</summary>
+
+**B) The IC can run an operation with one or two people or any combination of staff positions**
+
+"MODULAR" is the keyword for how CIMS works — the structure is flexible and scalable. The IC can run an operation with one or two people or open any combination of staff positions as needed. No section is mandatory. (P.G. 220-01)
+
+</details>
+
+---
+
+**31. In a CBRN/HazMat incident that starts as NYPD Single Command, which agency is responsible for setting Hot, Warm, and Cold zones?**
+
+- A) NYPD
+- B) FDNY
+- C) DEP
+- D) DOHMH
+
+<details><summary>Answer</summary>
+
+**C) DEP**
+
+In Single-CBRN incidents, the Operations Section is Unified. DEP is responsible for Chemical — setting Hot, Warm, and Cold zones, and directing the mitigation effort. FDNY handles Life Safety, Search & Rescue, and Mass Decontamination. DOHMH handles Biological/Radiological zone-setting. NYPD handles overall site management and crime/terrorism assessment. (P.G. 220-02)
+
+</details>
+
+---
+
+**32. When the Finance/Administration Section Chief is not needed as a full General Staff section, which section may absorb its functions?**
+
+- A) Operations Section
+- B) Planning Section
+- C) Logistics Section
+- D) Intelligence/Investigations Section
+
+<details><summary>Answer</summary>
+
+**B) Planning Section**
+
+When minimal finance/admin tasks are required (e.g., only managing overtime), the Finance/Admin role may not be a full General Staff section. Instead, it could be one specialist person working for the Planning Section Chief (per PG 220-12, step 1a). (P.G. 220-12)
+
+</details>
+
+---
+
+**33. Under CIMS, which two General Staff sections can have Branches?**
+
+- A) Operations and Planning
+- B) Operations and Intelligence/Investigations
+- C) Operations and Logistics
+- D) Planning and Finance/Administration
+
+<details><summary>Answer</summary>
+
+**C) Operations and Logistics**
+
+Operations and Logistics can have Branches. Operations can also have Groups/Sectors. Planning, Finance/Admin can have Units only. Intelligence/Investigations can have Groups/Sectors only. Of the sections that can have Units, only Logistics can also have Branches. (P.G. 220-01)
+
+</details>
+
+---
+
+**34. The Downed Tree incident type designates which agency as the Primary Agency?**
+
+- A) NYPD
+- B) FDNY
+- C) DEP
+- D) Department of Parks & Recreation / FDNY
+
+<details><summary>Answer</summary>
+
+**D) Department of Parks & Recreation / FDNY**
+
+Downed Tree incidents are Primary Agency for Department of Parks & Recreation / FDNY. This is a Single Command incident that is often overlooked — it is not NYPD or FDNY alone. Correctional Facility Disturbance is DOC; Confined Space Rescue is FDNY. (P.G. 220-02)
+
+</details>
+
+---
+
+**35. Which agency has authority to designate the Liaison Officer in CIMS, and what is the history of that agency's name?**
+
+- A) Mayor's Press Office, formerly known as the Mayor's Communications Office
+- B) NYCEM, formerly known as OEM (Office of Emergency Management)
+- C) DCPI, formerly known as the Press Secretary
+- D) DSNY, formerly known as the Sanitation Commission
+
+<details><summary>Answer</summary>
+
+**B) NYCEM, formerly known as OEM (Office of Emergency Management)**
+
+NYCEM (NYC Emergency Management) has authority to designate the Liaison Officer. NYCEM was formerly known as OEM (Office of Emergency Management). Exam questions may use either name. The Mayor's Press Office designates the PIO, not the Liaison Officer. (P.G. 220-08)
 
 </details>
 
@@ -22565,24 +31336,40 @@ Body-worn camera footage concerning Level 3 and Level 4 force incidents will NOT
 - Know the mandatory termination triggers for firearm misuse while intoxicated
 - Recognize the "Unfit For Duty While Armed" charge and Dismissal Probation requirements
 - Know the three counseling resources: HELPLINE, POPPA, Counseling Services Unit
+- Understand salute protocols, courtesies, and rank-based etiquette rules
+- Know the Department Manual composition and driver's license requirements
+- Identify prohibited conduct categories, political restrictions, and relationship restrictions
+- Know personal appearance standards, locker sticker rules, and 8-Point Cap requirements
+- Understand facial hair policy exceptions and religious head covering accommodations
 
 ## Procedures
 
 | Procedure | Title | Status |
 |-----------|-------|--------|
+| A.G. 304-02 | Courtesies | completed |
+| A.G. 304-03 | Compliance With Orders | completed |
 | A.G. 304-04 | Fitness For Duty | completed |
-| A.G. 304-11 | (Not available) | blocked |
-| A.G. 304-15 | (Not available) | blocked |
-| A.G. 304-25 | (Not available) | blocked |
+| A.G. 304-06 | Prohibited Conduct | completed |
+| A.G. 304-07 | Personal Appearance | completed |
+| A.G. 304-08 | Facial Hair Policy | completed |
+| A.G. 304-09 | Religious Head Covering | completed |
+| A.G. 304-10 | Making False Statements | not_started |
+| A.G. 304-13 | Attendance at Parades, Funerals, Other | not_started |
+| A.G. 304-14 | Acceptance of Gifts & Other Compensation | not_started |
+| A.G. 325-35 | Department Computer Use Policy | completed |
 
 ## Chapter Files
 
 | File | Content |
 |------|---------|
-| `section-304-fitness-for-duty.md` | A.G. 304-04: Fitness for duty, alcohol misconduct, termination triggers, counseling programs |
+| `section-304-fitness-for-duty.md` | A.G. 304-04: Fitness for duty, alcohol misconduct, termination triggers, counseling programs, breathalyzer rules, PG conflict notes |
+| `section-304-courtesies.md` | A.G. 304-02: Salute rules, flag/anthem protocols, desk salute, rank-based office etiquette |
+| `section-304-compliance-with-orders.md` | A.G. 304-03: Department Manual, punctuality, obeying orders, driver's license requirements, IAB notification |
+| `section-304-prohibited-conduct.md` | A.G. 304-06: General prohibitions, relationships, political restrictions, Community Board rules, off-duty restrictions, operational rules |
+| `section-304-personal-appearance.md` | A.G. 304-07/08/09: Appearance standards, 8-Point Cap, locker stickers, hair/jewelry/tattoo rules, facial hair policy, religious head covering |
 | `section-304-computer-use-policy.md` | A.G. 325-35: Department computer use policy, monitoring notice, prohibited uses |
-| `key-terms.md` | Definitions, disciplinary consequences, counseling protections |
-| `review-questions.md` | 8 multiple-choice questions covering fitness for duty concepts |
+| `key-terms.md` | Definitions, disciplinary consequences, counseling protections, courtesies, compliance, prohibited conduct, appearance terms |
+| `review-questions.md` | 16 multiple-choice questions covering all AG 304 sections |
 
 ## Sergeant Focus Areas
 - **Mandatory termination:** Firearm misuse while unfit due to alcohol; serious physical injury via motor vehicle while intoxicated
@@ -22590,6 +31377,86 @@ Body-worn camera footage concerning Level 3 and Level 4 force incidents will NOT
 - **Dismissal Probation:** Required in negotiated penalties for alcohol-related motor vehicle incidents
 - **Counseling protections:** Participation does NOT jeopardize promotions; does NOT exempt from discipline for specific misconduct
 - **Chemical testing refusal:** Charged under A.G. 304-06 "Prohibited Conduct"
+- **Breathalyzer threshold:** .04 or greater = unfit for duty (A.G. 318-20)
+- **Qualifier trap:** "Be fit for duty at all times EXCEPT while out sick" — without "EXCEPT" it is wrong
+- **PG Conflict:** A.G. 304-06 vs. A.G. 304-13 on off-duty alcohol in uniform
+- **Courtesies:** Salute the Desk (not Desk Officer); salute P.C. and ANY Deputy Commissioner even in civilian clothes
+- **Community Board:** CAN serve on board, CANNOT serve on Public Safety Committee
+- **10-day rule:** Decline elected office within 10 days or vacate Department position
+- **Driver's license:** Notify C.O. directly (breaks chain of command); semi-annual DMV inquiry
+- **Locker stickers:** 2 outside (Police Don't Move, Proper Tactics Save Lives), 3 inside (Gun Safety, Seat Belt, Health and Wellness)
+- **Facial hair exemption:** Medical = 180 days only; religious and medical both require written approval
+- **RAPNET:** Reasonable Accommodation Photo Net — supervisors can query tax numbers
+
+---
+
+# Section 304 — Compliance With Orders
+
+## A.G. 304-03: Compliance With Orders
+
+### Department Manual
+
+The **Department Manual** consists of **4 books**:
+
+| Book | Name |
+|------|------|
+| 1 | **Patrol Guide** |
+| 2 | **Administrative Guide** |
+| 3 | **Organizational Guide** |
+| 4 | **Detective Guide** |
+
+All members must be familiar with the Department Manual.
+
+### Punctuality
+
+- When reporting for duty, **be punctual**
+
+### Obeying Orders
+
+- **Obey lawful orders** and instructions of supervisors
+- **Cooperate with supervisors**, regardless of rank, when dispatched by competent authority, such as:
+  - Commanding Officer, Medical Division, IAB, etc.
+  - When supervisors are visiting members who are out sick
+- **Comply with lawful directives** such as appearing in court, Trial Room, etc.
+
+### Temporarily Assigned to Higher Rank
+
+- If temporarily assigned to a higher rank, be governed by the **rules of that rank**
+  - **Exception:** Unless otherwise indicated
+
+### Meeting With the Police Commissioner
+
+- If relief **cannot be obtained** by other means:
+  - MOS can **apply for interview with the P.C. in writing** (include squad/chart)
+
+### Driver's License Requirements
+
+| Who | Requirement |
+|-----|-------------|
+| **CMOS** authorized to drive Department vehicles | Must have a valid driver's license |
+| **ALL UMOS** | Must have a valid driver's license |
+
+> **Exam Alert:** If a member's license is suspended, revoked, or expired, they must notify the **Commanding Officer** directly. This **breaks the chain of command** — the notification goes straight to the C.O., not through the normal supervisory chain.
+
+### Commanding Officer Responsibilities — Driver's License
+
+| Duty | Detail |
+|------|--------|
+| **Semi-annual DMV inquiry** | For each UMOS and CMOS — ensure DMV inquiry AND warrant check is done |
+| **CMOS verification** | For CMOS authorized to drive Department vehicles, ensure they **present** a valid NYS license |
+
+### IAB Notification Procedures
+
+When IAB notifies the C.O. of a suspended, revoked, or expired license:
+
+| Step | Action |
+|------|--------|
+| 1 | C.O. **prohibits MOS from driving Department vehicle** until MOS proves it is erroneous or is resolved |
+| 2 | C.O. submits **report to IAB's Records Section** containing: |
+| | - Investigation results, AND |
+| | - Current status of member's license |
+
+> **Sergeant Focus:** Commanding Officers must conduct semi-annual DMV inquiries and warrant checks for all UMOS and CMOS. When IAB flags a license issue, the member is immediately prohibited from driving Department vehicles until the matter is resolved.
 
 ---
 
@@ -22632,6 +31499,63 @@ To inform members of the service of the Department computer use policy when acce
 > **Exam Alert:** Department computers are for **official business only**. The Department may review, intercept, access, and disclose all material **at any time, with or without notice** — including during or after tours.
 
 > **Sergeant Focus:** Ensure members are informed of this policy. Personal use and dissemination of derogatory/discriminatory material are strictly prohibited and subject to disciplinary action.
+
+---
+
+# Section 304 — Courtesies
+
+## A.G. 304-02: Courtesies
+
+### Salute Rules
+
+Salutes are rendered **as per U.S. Army regulations**.
+
+#### Who to Salute
+
+| Who | Detail |
+|-----|--------|
+| **Police Commissioner** | Always salute |
+| **ANY Deputy Commissioner** | Even if in **civilian clothes** |
+| **Supervisors in uniform** | Supervisors return salute promptly |
+
+#### When Saluting Is NOT Required
+
+- At **large assemblies** — UNLESS:
+  - Directly **addressing or being addressed** by a supervisory officer, OR
+  - Saluting **interferes with police duty**
+
+> **Exam Alert:** You must salute the P.C. or ANY Deputy Commissioner, even if they are in civilian clothes. The test may try to limit the salute to only the P.C. or only when the Deputy Commissioner is in uniform.
+
+### U.S. Flag and National Anthem
+
+| Situation | Action |
+|-----------|--------|
+| U.S. Flag passes | Salute the flag |
+| National Anthem is played | Salute the flag |
+| Flag is **not visible** during National Anthem | Salute the band, etc. |
+
+> **Exam Alert:** Flag at half-mast rules and mourning band rules get mixed together on the test. This happens often on the Sergeant exam. Know which rule comes from which procedure.
+
+> **See Also:** AG 305-14 — Mourning Bands (covers mourning band display rules separately from flag protocols).
+
+### Entering a Command
+
+| Situation | Action |
+|-----------|--------|
+| When entering the command | Salute **The DESK** (not the Desk Officer) |
+
+> **Exam Alert:** You salute The DESK, not the Desk Officer. The distinction matters on the test — the salute is rendered to the desk itself as a symbol of command authority.
+
+### Office and Room Protocols
+
+| Situation | Action |
+|-----------|--------|
+| In office of **Captain and above** (includes PC and Deputy Commissioners) | **Remove hat** and **stand at attention** in the office |
+| **Deputy Inspector or above** enters the **ROOM** | **Order attention**, unless otherwise directed |
+
+> **Exam Alert:** Know the rank thresholds: Captain and above triggers hat removal/attention in their office. Deputy Inspector or above entering a room triggers ordering attention for everyone present.
+
+> **Sergeant Focus:** As a supervisor, return salutes promptly. Ensure subordinates understand salute protocols, especially the distinction between saluting the desk vs. the Desk Officer, and the different protocols for Captain vs. Deputy Inspector rank thresholds.
 
 ---
 
@@ -22702,7 +31626,366 @@ To establish fitness for duty requirements for all members of the service.
 
 > **Exam Alert:** Misuse of firearm while unfit for duty due to alcohol = **mandatory termination** (exceptional cases by Police Commissioner only). Causing serious physical injury while driving + alcohol = **termination** absent exigent circumstances.
 
-> **Sergeant Focus:** Supervisors should be familiar with HELPLINE, POPPA, and Counseling Services Unit referral pathways. Early detection and referral is the Department's objective. Participation in counseling does NOT jeopardize promotions.
+> **Exam Alert — "Qualifier" Trap:** The correct rule is "Be fit for duty at all times **EXCEPT while out sick**." On the test, an answer choice that reads "Be fit for duty at all times" (without the qualifier) is a **WRONG answer**. The word "EXCEPT" is the qualifier that makes it correct. Look for the complete statement.
+
+> **Exam Alert — Breathalyzer Threshold:** A breathalyzer result of **.04 or greater** = **unfit for duty** (A.G. 318-20, note after step 1). The Department can breathalyzer you while ON duty or OFF duty. If you refuse the breathalyzer test, you will be charged with "Conduct Prejudicial to the good order, efficiency, or discipline of the Department."
+
+> **Exam Alert — Off-Duty Breathalyzer:** When the Department administers a breathalyzer to a member who is **off duty**, the Department will **pay overtime (OT)** to that member.
+
+> **PG Conflict — Off-Duty Alcohol in Uniform:** A.G. 304-06, step 3, does **NOT** prohibit consuming alcohol off-duty while in uniform. However, A.G. 304-13, page 1, step f, **claims** that A.G. 304-06 DOES prohibit drinking alcohol in uniform whether on or off duty. **Know both positions exist** — the test may reference either procedure.
+
+### Alcohol Rules Summary
+
+| Situation | Rule |
+|-----------|------|
+| **On duty AND in uniform** | Consuming intoxicants = **NEVER** |
+| **Off-duty AND in uniform** | A.G. 304-06 step 3 does NOT prohibit (but see PG Conflict above) |
+| **On duty AND in civilian clothes** | Prohibited — UNLESS Bureau Chief/Counterpart authorizes based on nature of assignment (A.G. 304-06) |
+| **Do NOT enter premises** serving intoxicants | EXCEPT for meal or performance of duty (A.G. 304-06) |
+| **Bringing alcohol into Dept. facility** | Do NOT bring alcohol into Dept. facility (vehicle, boat, etc.) except in performance of duty; violation = Schedule "B" CD (A.G. 304-06 and A.G. 318-01) |
+
+### Unfit and Alcohol Consequences
+
+| Scenario | Consequence |
+|----------|-------------|
+| "Unfit While Armed" | Charge in the Trial Room — strict punitive sanctions |
+| **MISUSE** a firearm while unfit | Department will **terminate** (P.C. can make exception) |
+| **UNFIT while driving** and cause serious physical injury | Department will **terminate** (absent exigent circumstances) |
+| **DWI conviction** in Dept. Trial Room (no injury) | Placed on **Dismissal Probation**; during probation, Dept. can breathalyzer on or off duty; fail breathalyzer = **may be terminated** |
+| Breathalyzer **.04 or greater** | = Unfit for Duty (A.G. 318-20) |
+| **Refuse** breathalyzer/DWI test | = "Conduct Prejudicial" charge (A.G. 304-06) |
+
+> **Sergeant Focus:** Supervisors should be familiar with HELPLINE, POPPA, and Counseling Services Unit referral pathways. Early detection and referral is the Department's objective. Participation in counseling does NOT jeopardize promotions. Counseling is confidential and NOT part of the disciplinary system.
+
+---
+
+# Section 304 — Personal Appearance
+
+## A.G. 304-07: Personal Appearance
+
+### General Standards
+
+- Be **neat and clean**
+- Uniforms to be properly fitted, clean, well pressed, in good repair
+- Keep uniform **securely buttoned**
+  - Prevent non-uniform articles from showing above uniform collar
+
+### Short Sleeve Shirt Rules
+
+- **Collar button** may be left unbuttoned, but all other buttons shall be fastened
+- Undershirts, neck chains, other non-uniform articles **NOT visible** within open collar
+- No visible items below sleeve ends of the shirt
+- Shirt sleeves may **NOT be rolled up**
+
+### 8-Point Cap
+
+| Rule | Detail |
+|------|--------|
+| **Wear** | Squarely on head, center of visor directly over nose |
+| **Hair** | No hair is to show beneath the visor |
+| **MUST be worn on** | Foot Post, Traffic Posts, or Details |
+| **MAY remove** | While riding in Department vehicles |
+| **OPTIONAL** | For P.O.s and Detectives from **May 1 to Sept 30** IF assigned to **subway patrol duties** |
+| **Exigent circumstances** | MUST be worn at all other times EXCEPT in exigent circumstances; once exigency has stabilized, cap must be worn |
+
+### Shoes
+
+| Rule |
+|------|
+| Must be **shined** |
+| Will NOT display a clearly visible **company name or logo** |
+
+### Locker Requirements
+
+- Keep locker **neat, clean, and secured** with a combination lock **WITHOUT serial number**
+
+> **Exam Alert:** The lock must be a combination lock WITHOUT a serial number. This is a specific detail the test may ask about.
+
+#### Locker Stickers
+
+Commands that have NOT undergone locker room renovation must affix locker stickers as follows:
+
+- If the command has vinyl images of stickers posted at locker room entrances/exits, MOS shall **NOT** place stickers on their locker (all stickers inside and out)
+- Request new Dept locker stickers from **Operations Coordinator** as necessary
+
+**2 stickers on the OUTSIDE:**
+
+| # | Sticker |
+|---|---------|
+| 1 | **Police Don't Move** (rank, name, shield, squad) |
+| 2 | **Proper Tactics Save Lives** |
+
+**3 stickers on the INSIDE:**
+
+| # | Sticker |
+|---|---------|
+| 1 | **Gun Safety** |
+| 2 | **Seat Belt** |
+| 3 | **Health and Wellness** |
+
+> **Memory Aid — Locker Stickers OUTSIDE (2):** "Police Don't Move" + "Proper Tactics Save Lives." INSIDE (3): **G**un Safety, **S**eat Belt, **H**ealth and Wellness.
+
+> **See Also:** PG 202-29 — ICO inspects stickers on the outside of lockers every November and makes a Command Log Entry of results.
+
+### Hair Standards (Male AND Female UMOS)
+
+| Rule | Detail |
+|------|--------|
+| **Color** | Naturally occurring color only (not blue, green, etc.) |
+| **Designs** | No designs shaved into hair/scalp |
+| **Hair holding devices** | Must be unadorned, plain, transparent, or similar to hair color; must be unobtrusive and concealed as much as possible |
+| **Prohibited items** | Hair scarf, bead, bow, large decorative fabric elastic band, large plastic clip, other ornamental items |
+
+#### Hair in Uniform
+
+- Hair can **NOT** fall over the eyebrows or reach the collar (whether cap required or not; admin duties, etc., restrictions apply)
+- **Long hair** — when hat is required, long hair must be gathered up under hat
+  - Hat must go on head squarely **WITHOUT visible bulk**
+  - **No ponytails** — ponytails are **STRICTLY PROHIBITED**
+
+### Jewelry in Uniform
+
+| Rule |
+|------|
+| No **visible** earrings, necklaces, bracelets, or other adornments while in uniform |
+| Rings OK if generally smooth and not likely to catch objects (no raised stones) |
+| Cannot have adornments visible on head, neck, or wrists in uniform |
+| Serviceable watch **properly set**; watchbands must be conservative in color |
+| **NO body piercing** visible in uniform |
+| **Medic Alert bracelets** are permitted |
+
+### On-Duty Grooming Standards
+
+| Category | Rules |
+|----------|-------|
+| **Fingernails** | Neatly trimmed, no more than 1/4 inch from fingertip; no raised/ornamented accessories (no rhinestones, jewelry, etc.); nail polish must be clear or conservative color |
+| **Cosmetics** | Conservative in color and amount |
+| **Eyewear** | Conservative style and color; straps may be worn but must be **BLACK**; no neon frames |
+| **Tobacco/gum** | No tobacco use, chewing gum, or toothpicks in mouth **in public view while in uniform** |
+
+### Tattoo Policy
+
+Applies to UMOS **AND** Civilian MOS (hired on or after **January 1, 2007**):
+
+- Must **cover** visible tattoos with uniform, business attire, or neutral colored skin covering (sports wrap/bandage)
+- Limited exception may be granted by MOS's **C.O. in writing**, due to nature of assignment
+  - Approval filed in MOS personnel folder (MOS does **NOT** have to carry approval)
+
+## A.G. 304-08: Facial Hair Policy
+
+### Applicability
+
+- **UMOS**, and
+- **CMOS** authorized to wear uniform assigned to:
+  - Traffic Enforcement District (TED)
+  - School Safety Division (SSD)
+
+### Facial Hair Standards
+
+**Do not grow facial hair.** There are **3 exceptions**, ALL 3 must be **in writing**:
+
+| Exception | Detail |
+|-----------|--------|
+| **Nature of assignment** (per C.O.) | Does NOT include when in uniform (details, parades, admin, meetings, etc.) |
+| **Sincerely held religious belief** (per EEOD) | Up to 1/2 inch; unless additional request made and approved by EEOD |
+| **Medical condition** (per Police Surgeon) | Up to 1/2 inch; ONLY good for **180 days** (reevaluation required to extend) |
+
+> **Exam Alert:** MOS are reminded to comply with AG 304-10, "Making False or Misleading Statements" — do not falsely claim a religious or medical exemption.
+
+### Sideburns, Mustache, and Facial Hair
+
+| Area | Rule |
+|------|------|
+| **Sideburns** | Closely trimmed, not extending below bottom of earlobe |
+| **Mustache** | Neatly trimmed, not extending beyond nor drooping below corners of mouth |
+| **Facial hair** (with accommodation) | Must be neatly trimmed; strictly prohibited: goatees, designer or chin-strap beards, or displaying words, images, patterns, logos, or designs in facial hair |
+
+### Religious Exemption Process
+
+| Role | Action |
+|------|--------|
+| **Requesting MOS** | Prepare and submit **Reasonable Accommodation Request** to EEOD |
+| **EEOD** | Reviews and approves on case-by-case basis; notifies MOS and C.O. in writing; enters exception into **RAPNET** (Reasonable Accommodation Photo Net); ensures hair does not cover BWC or ID-type items (shield, nameplate, collar brass, etc.) |
+| **ICO** | Maintain copy of final determination/Reasonable Accommodation Request in MOS's personnel folder |
+| **Commanding Officer** | Ensure requesting member complies with provisions of exemption |
+
+### Medical Exemption Process
+
+| Role | Action |
+|------|--------|
+| **Requesting MOS** | Call Sick Desk for appointment with District Surgeon (no appointment = will NOT be seen; TED/SSD MOS assigned a District Surgeon by Sick Desk); provide medical documentation |
+| **Surgeon** | Evaluate MOS; if approved, complete **Shaving Restriction Form** in RAPNET and distribute |
+| **MOS** | Give Shaving Restriction Form to ICO |
+| **ICO** | Maintain form in MOS's personnel folder |
+| **C.O.** | Ensure requesting member complies with provisions of medical exemption |
+
+> **Exam Alert:** Medical exemption for facial hair is ONLY good for **180 days**. Reevaluation is required to extend. Schedule appointment to renew Shaving Restriction Form **1 month prior** to expiration.
+
+### Specialized Units Requiring APR Mask (Air Purifying Respirator)
+
+- SOD, Counterterrorism, Forensic Investigations, Highway Patrol Districts, tow truck operators assigned to Traffic Enforcement Division, etc. (list is not all-inclusive)
+- Facial hair is against OSHA regulations — members **cannot** train/deploy mask or work in those units
+- May apply to the unit but, if accepted, **MUST SHAVE**
+- If already assigned, members will be reassigned or transferred to a unit that allows their needs to be met
+
+### RAPNET
+
+- Accessible through the **LAN and MDTs**
+- Contains UMOS, TED/SSDs with a reasonable accommodation for facial hair
+- Supervisors can **query tax numbers** to determine if MOS has a reasonable accommodation
+- If yes, RAPNET produces an electronic image stating the exemption and/or accommodation
+- RAPNET will also indicate **negative results**
+
+## A.G. 304-09: Religious Head Covering
+
+### Applicability
+
+UMOS and School Safety/Traffic Enforcement Division personnel authorized to wear a duty uniform.
+
+### Process
+
+| Role | Action |
+|------|--------|
+| **Requesting MOS** | Prepare **Reasonable Accommodation Request** and submit to EEOD |
+| **EEOD** | Reviews and approves on case-by-case basis; will instruct and direct MOS; notifies requesting member and C.O. of decision in writing; must have a **cap device** if appropriate; hair must fit neatly inside head covering; report to Shield, ID/Uniform Services Unit for new ID Card noting the accommodation |
+| **ICO** | Maintain copy of Reasonable Accommodation Request in MOS's personnel folder |
+| **C.O.** | Ensure requesting member complies with provisions of religious accommodation |
+
+> **Exam Alert:** When wearing a tight-fitting helmet, member must **REMOVE** the head covering.
+
+### Key Comparison: Head Coverings vs. Facial Hair
+
+| Feature | 304-09 Religious Head Covering | 304-08 Facial Hair |
+|---------|-------------------------------|-------------------|
+| **Applies to** | UMOS and CMOS in SSD and TED | Same |
+| **Form** | Reasonable Accommodation Request | Same |
+| **ID update** | Report to Shield/ID Unit — notes exception on new ID card | EEOD inputs to RAPNET |
+| **ICO** | Maintain Reasonable Accommodation Request in MOS's folder | Same |
+
+> **Sergeant Focus:** Know the distinction between the head covering and facial hair accommodation processes. Both use the same form and apply to the same groups, but the ID update mechanisms differ — head coverings go through the Shield/ID Unit for a new ID card, while facial hair goes into RAPNET.
+
+---
+
+# Section 304 — Prohibited Conduct
+
+## A.G. 304-06: Prohibited Conduct
+
+### General Prohibitions
+
+- Do NOT engage in **"conduct prejudicial to the good order, efficiency, or discipline of the Department"**
+- Do NOT make discourteous or disrespectful remarks regarding age, race, religion, gender, disability, etc.
+
+### Outside Wire
+
+- Do NOT report for duty and/or EOT via "outside wire" **on a regular basis**
+- Do NOT report for duty and/or EOT **within precinct of residence** — unless approved by C.O.
+
+### Pronoun Usage
+
+- Address persons using pronouns appropriate to their **gender identity/expression** (He/She/They/Them)
+
+### Criminal and Hate Group Association
+
+Do NOT knowingly associate with any person or organization who:
+- Advocates hatred or prejudice based on race, religion, gender, etc.
+- Disseminates defamatory material
+- You know or have reason to know engages/is likely to engage in criminal activity
+- Prevents or interferes with performance of police duty
+
+> **Exam Alert:** Investigators are to consider the **totality of circumstances** (type of crime, current status of perpetrator, relationship, etc.) when evaluating criminal association.
+
+### Relationship Restrictions
+
+| Type | Rule |
+|------|------|
+| **Subordinates** | No romantic relationship with subordinate routinely **under direct supervision** (one of you will be transferred; strongly encouraged to request transfer to avoid workplace disruption) |
+| **CIs, Witnesses, Victims** | No relationship beyond the scope of official duties — on or off duty |
+| **Youth in Dept programs** | No relationship with youth/young people assigned to Dept program (explorer, cadet, intern, etc.) — on or off duty |
+| **Youth at assigned school** | No relationship with youth/young person attending school where MOS is assigned for duty, permanently or temporarily |
+
+### Step 7 — Conduct Restrictions
+
+Conduct beyond the scope of official duties includes but is not limited to:
+- Dating, romantic/sexual relationship, socializing, carpooling, unauthorized meet-ups, unauthorized home visits
+- Contact via social media, forum, message, chat, or other sites and/or applications
+
+**Communication while off duty is strictly limited to:**
+- Work-related exchanges (authorized field trips, assignments, questions, duties/responsibilities, etc.)
+- Members are required to utilize their **Department email account** for this purpose
+
+> **Exam Alert:** When communicating with persons enumerated in Step 7 in accordance with official duties, authorized communication may occur via home visit, telephone, and/or text. Social media may also be appropriate when other points of contact are not known.
+
+### Political Restrictions
+
+| Rule | Detail |
+|------|--------|
+| **Political clubs** | Do NOT join a political club **within the precinct to which assigned** |
+| **Political fundraising** | Do NOT solicit, collect, or receive money for political fund, club, association, etc. — **unless approved by IAB** |
+| **While on duty** | Do NOT endorse political candidates OR publicly express personal views regarding political party, candidates, public policy, pending legislation, or matters to be decided by public election — **EXCEPT with permission of Police Commissioner** |
+| **School Board** | Do NOT be a candidate for or serve on a School Board **if the school district is within NYC** |
+
+### Community Board
+
+- Members **CAN** serve on a Community Board
+- Members **CANNOT** serve on the Community Board's **Public Safety Committee** if it deals with PD and other law enforcement matters
+- Members cannot vote on Community Board matters regarding PD activities in the district that the board serves
+
+> **Exam Alert:** A member CAN be on a Community Board, BUT CANNOT serve on its Public Safety Committee. This is a frequently tested distinction.
+
+### 10-Day Rule for Elected Office
+
+If a member accepts or is nominated to **elected office**:
+- MOS has **10 days** to turn it down or automatically vacate their position with the Department
+- **EXCEPTIONS** (do NOT need to resign):
+  - Community Board
+  - Board of Education **outside the city**
+  - On unpaid leave of absence with the Mayor's permission
+
+### Non-Profit / Volunteer Work
+
+- MOS may volunteer for non-profit, volunteer fire department, or Community Board (outside the city)
+- Requires **written approval of DCLM**
+- Submit **Application for Off-Duty Volunteer Work** to DCLM — do NOT begin until approval is received
+
+### Department Business and Resources
+
+| Rule | Detail |
+|------|--------|
+| **Department business** | Do NOT divulge/discuss official Dept. business except as authorized |
+| **Recorded media** | Do NOT manipulate, transmit, or distribute official Dept. recorded media except for official business (videotapes, pictures, audio recordings, internet files, or any form of media) |
+| **Department resources** | Do NOT use Dept. letterhead, personnel, equipment, resources, or supplies for non-department, non-city purposes |
+
+> **See Also:** PG 212-77 — Unauthorized communication with news media without conferral with DCPI is prohibited.
+
+### No Recommendation, Steering, or Payment Rules
+
+| Category | Rule | Exception |
+|----------|------|-----------|
+| **Licenses/Permits** | Do NOT recommend anyone to a government agency regarding licenses or permits | Except in performance of duty |
+| **Steering business** | Do NOT steer business to customer or vice versa | Except when conducting personal affairs |
+| **Department contracts** | Do NOT have any person make a request or recommendation that affects the duties of any MOS | Except as provided by Department procedures |
+| **Lost/stolen property** | No allowing payment for recovery of lost/stolen property | Except towing fees for recovered stolen vehicle |
+
+### Off-Duty Restrictions
+
+| Rule | Detail |
+|------|--------|
+| **Private interests** | Do NOT render service for private interests that interferes with proper performance of duty |
+| **Military service** | Must provide notice to Dept of obligation or intention to perform federal military service |
+| **"Tinning" / "Buffing out"** | Do NOT possess/display police shield, I.D., Dept logo, or similar object — **unless authorized by P.C.** |
+
+### Operational Restrictions
+
+| Rule | Detail |
+|------|--------|
+| **Radio transmissions** | Do NOT make an unauthorized radio transmission |
+| **Games of chance** | No card games or other games of chance **in Dept. facility** |
+| **Carrying items in uniform** | No carrying package, umbrella, cane, etc. while in uniform — except for performance of duty |
+| **Public conveyance** | While in uniform (on or off duty), do NOT occupy a seat in a public conveyance |
+
+> **See Also:** AG 318-01 — Schedule "B" CD (Command Discipline). Bringing alcohol into a Department facility results in Schedule "B" CD under AG 304-06 and AG 318-01.
+
+> **Sergeant Focus:** Supervisors must be vigilant about prohibited conduct, particularly unauthorized relationships with subordinates, CIs, witnesses, victims, and youth. The political restrictions and Community Board rules are frequently tested areas.
 
 ---
 
@@ -22742,6 +32025,59 @@ To establish fitness for duty requirements for all members of the service.
 | Assignments | Current assignments NOT ordinarily changed |
 | Discipline | Participation does NOT exempt from discipline for specific misconduct |
 | Availability | Services available to members, families, and retirees |
+
+## Courtesies (A.G. 304-02)
+
+| Term | Definition |
+|------|-----------|
+| **Salute** | Rendered as per U.S. Army regulations; required for P.C. and ANY Deputy Commissioner (even in civilian clothes) |
+| **The Desk** | What members salute when entering a command (not the Desk Officer) |
+| **Attention** | Required when Deputy Inspector or above enters the room, unless otherwise directed |
+
+## Compliance With Orders (A.G. 304-03)
+
+| Term | Definition |
+|------|-----------|
+| **Department Manual** | Consists of 4 books: Patrol Guide, Administrative Guide, Organizational Guide, Detective Guide |
+| **Semi-Annual DMV Inquiry** | C.O. responsibility to verify driver's license status and conduct warrant check for all UMOS and CMOS |
+| **RAPNET** | Reasonable Accommodation Photo Net — accessible through LAN and MDTs; contains facial hair and head covering accommodations |
+
+## Prohibited Conduct (A.G. 304-06)
+
+| Term | Definition |
+|------|-----------|
+| **Conduct Prejudicial** | Conduct prejudicial to the good order, efficiency, or discipline of the Department — the overarching prohibited conduct standard |
+| **Schedule "B" CD** | Command Discipline imposed under A.G. 318-01 for certain violations of A.G. 304-06 (e.g., bringing alcohol into Dept. facility) |
+| **10-Day Rule** | Member nominated/elected to office has 10 days to decline or automatically vacates Department position |
+| **Public Safety Committee** | Committee of Community Board — members CANNOT serve on this committee if it deals with PD and law enforcement matters |
+| **Step 7 Relationships** | Prohibited relationships with CIs, witnesses, victims, youth in Dept. programs, and youth at assigned schools |
+| **Outside Wire** | Reporting for duty/EOT via outside wire on a regular basis is prohibited; within precinct of residence requires C.O. approval |
+
+## Personal Appearance (A.G. 304-07)
+
+| Term | Definition |
+|------|-----------|
+| **8-Point Cap** | Must be worn on foot post, traffic posts, details; optional May 1-Sept 30 for P.O.s/Detectives on subway patrol |
+| **Locker Stickers (Outside)** | "Police Don't Move" and "Proper Tactics Save Lives" — 2 stickers on OUTSIDE |
+| **Locker Stickers (Inside)** | Gun Safety, Seat Belt, Health and Wellness — 3 stickers on INSIDE |
+| **Combination Lock** | Locker must be secured with combination lock WITHOUT serial number |
+
+## Facial Hair and Religious Head Covering (A.G. 304-08, 304-09)
+
+| Term | Definition |
+|------|-----------|
+| **Reasonable Accommodation Request** | Form used for both facial hair (religious) and religious head covering requests; submitted to EEOD |
+| **Shaving Restriction Form** | Form completed by District Surgeon for medical facial hair exemption; valid for 180 days only |
+| **EEOD** | Equal Employment Opportunity Division — reviews and approves religious accommodation requests on case-by-case basis |
+| **APR Mask** | Air Purifying Respirator — required in specialized units (SOD, CT, etc.); facial hair incompatible due to OSHA regulations |
+
+## Alcohol-Related Terms
+
+| Term | Definition |
+|------|-----------|
+| **Breathalyzer .04** | Result of .04 or greater = unfit for duty (A.G. 318-20, note after step 1) |
+| **Off-Duty Breathalyzer OT** | Department pays overtime to member when administering breathalyzer off duty |
+| **VTL Section 1192** | Vehicle and Traffic Law section for DWI; refusal to submit to chemical testing = charged under A.G. 304-06 |
 
 ---
 
@@ -22885,6 +32221,142 @@ The Counseling Services Unit operates 24 hours a day, seven days a week, and wil
 
 ---
 
+**9. Which of the following correctly states the fitness-for-duty requirement?**
+
+- A) Be fit for duty at all times
+- B) Be fit for duty at all times, except when on sick report
+- C) Be fit for duty at all times, except when off duty
+- D) Be fit for duty while on patrol only
+
+<details><summary>Answer</summary>
+
+**B) Be fit for duty at all times, except when on sick report**
+
+The qualifier "except when on sick report" is critical. Answer choice A is a trap — it omits the qualifier and is therefore incorrect. Always look for the complete statement with the "EXCEPT" qualifier. (A.G. 304-04)
+
+</details>
+
+---
+
+**10. A member of the service who serves on a Community Board may:**
+
+- A) Serve on the Public Safety Committee
+- B) Vote on PD activities in the district the board serves
+- C) Serve on the board but NOT on the Public Safety Committee
+- D) Not serve on a Community Board at all
+
+<details><summary>Answer</summary>
+
+**C) Serve on the board but NOT on the Public Safety Committee**
+
+Members CAN serve on a Community Board, but CANNOT serve on the Community Board's Public Safety Committee if it deals with PD and other law enforcement matters. They also cannot vote on Community Board matters regarding PD activities in the district the board serves. (A.G. 304-06)
+
+</details>
+
+---
+
+**11. When entering a command, a uniformed member should salute:**
+
+- A) The Desk Officer
+- B) The Commanding Officer
+- C) The Desk
+- D) The highest-ranking officer present
+
+<details><summary>Answer</summary>
+
+**C) The Desk**
+
+When entering the command, members salute The DESK — not the Desk Officer. The salute is rendered to the desk itself as a symbol of command authority. (A.G. 304-02)
+
+</details>
+
+---
+
+**12. A breathalyzer result of what level or greater constitutes "unfit for duty"?**
+
+- A) .02
+- B) .04
+- C) .06
+- D) .08
+
+<details><summary>Answer</summary>
+
+**B) .04**
+
+A breathalyzer result of .04 or greater means the member is unfit for duty. This is lower than the legal DWI limit of .08 — the Department holds members to a stricter standard. (A.G. 318-20, note after step 1)
+
+</details>
+
+---
+
+**13. A member's driver's license is suspended. Who must the member notify?**
+
+- A) Immediate supervisor
+- B) Desk Officer
+- C) Commanding Officer
+- D) IAB directly
+
+<details><summary>Answer</summary>
+
+**C) Commanding Officer**
+
+The member must notify the Commanding Officer directly if their license is suspended, revoked, or not renewed. This breaks the normal chain of command — the notification goes straight to the C.O. (A.G. 304-03)
+
+</details>
+
+---
+
+**14. Locker stickers on the OUTSIDE of a member's locker include:**
+
+- A) Gun Safety and Seat Belt
+- B) Police Don't Move and Health and Wellness
+- C) Police Don't Move and Proper Tactics Save Lives
+- D) Proper Tactics Save Lives and Gun Safety
+
+<details><summary>Answer</summary>
+
+**C) Police Don't Move and Proper Tactics Save Lives**
+
+Two stickers go on the OUTSIDE: "Police Don't Move" (with rank, name, shield, squad) and "Proper Tactics Save Lives." Three go on the INSIDE: Gun Safety, Seat Belt, and Health and Wellness. (A.G. 304-07)
+
+</details>
+
+---
+
+**15. A member is nominated to an elected office. How many days does the member have to decline before automatically vacating their Department position?**
+
+- A) 5 days
+- B) 10 days
+- C) 15 days
+- D) 30 days
+
+<details><summary>Answer</summary>
+
+**B) 10 days**
+
+If a member accepts or is nominated to elected office, the MOS has 10 days to turn it down or automatically vacate their position with the Department. Exceptions include Community Board, Board of Education outside the city, or unpaid leave with the Mayor's permission. (A.G. 304-06)
+
+</details>
+
+---
+
+**16. The medical exemption for facial hair (Shaving Restriction Form) is valid for:**
+
+- A) 90 days
+- B) 120 days
+- C) 180 days
+- D) 1 year
+
+<details><summary>Answer</summary>
+
+**C) 180 days**
+
+The medical exemption for facial hair is ONLY good for 180 days. Reevaluation is required to extend it. Members should schedule an appointment to renew the Shaving Restriction Form 1 month prior to expiration. (A.G. 304-08)
+
+</details>
+
+---
+
 # Section 305 — Uniforms and Equipment
 
 ## Source
@@ -22920,6 +32392,110 @@ The Counseling Services Unit operates 24 hours a day, seven days a week, and wil
 - **Reimbursement:** 30-day filing deadline; direct forwarding for < $100, through channels for ≥ $100
 - **Unarmed exceptions:** Know the 5 off-duty circumstances allowing member to be unarmed
 - **Court entry:** Members unarmed at Family Court/Supreme Court Matrimonial unless arresting officer
+
+---
+
+# Section 305 — Emblems, Insignia, and Breast Bars
+
+## A.G. 305-13: Emblems, Insignia, and Breast Bars
+
+### Department Logo (Patch)
+
+- Dept logo on **both sleeves** of all regulation garments
+  - **EXCEPT** turtleneck
+
+### Collar Brass
+
+- **Yellow metal ONLY** (except those sewn on in white)
+- SGT, PO, and uniform Detectives wear appropriate insignia on **both sides of collar** of inner AND outer garment
+  - **EXCEPT** raincoat
+- Positioned **1"** from forward edge of collar on shirt; **1-1/4"** up on Summer Blouse
+- Command designation goes **parallel to neckline**
+
+> **Exam Alert:** Officers and Detectives collar brass is **yellow** — usually yellow is reserved for supervisors. The exam may test whether you know that PO/Detective brass is also yellow metal. (A.G. 305-13)
+
+### Service Stripes (Hash Marks)
+
+- Each hash mark represents **5 years** of service
+- **Left sleeve only**
+- Only for **Lt, Sgt, Det, and P.O.**
+- Affix to all outer garments **EXCEPT** short sleeve or leather and raingear
+- May be worn **6 months prior** to the years of service represented if wearer so desires
+
+### Breast Bars — Placement Hierarchy
+
+Breast bars are worn in a specific order from **top to bottom**:
+
+> **Memory Aid — BREAST BAR ORDER (Top to Bottom):** The **American Flag** bar is always the TOP-most bar. The **Firearms Proficiency** bar is always the BOTTOM-most bar. Everything else falls in between. (A.G. 305-13)
+
+#### Left Side (Above Shield) — Top to Bottom:
+
+| Position | Bar | Notes |
+|----------|-----|-------|
+| 1 (TOP) | **American Flag** | 1/4" above center of shield or any breast bars. NO cloth flags or pins including fraternal insignia or other flags |
+| 2 | **WTC Memorial** | Above all others EXCEPT US Flag bar. Did NOT have to be on the job on 9/11 to wear |
+| 3 | **Unit Citation** | Blank blue bar. Multiple awards = numeral (2, 3, etc.) on single bar. May keep wearing if transferred. Eligible CMOS may wear Unit Citation Lapel Pin |
+| 4 | **Anniversary Bars** | 150th (1995) and 175th (2020). Worn immediately below Unit Citation, below individual recognition awards |
+| 5 | **Military Service** | Active or honorable discharge from any US Military branch. Worn above shield, below Unit Citation or below individual recognition awards |
+| 6 | **Hurricane Katrina** | For participants. Worn above shield, below Unit Citation and below medals |
+| 7 | **Police Cadet** | For former cadets. Worn immediately below Military Service bars |
+| 8 | **Medal of Honor / Combat Cross / Medal for Valor** | For these 3: a second such award is signified by a **Gold Leaf** in center of bar |
+| 9 | **Four Stars** | Silver (Honorable Mention), Green (Exceptional Merit), Bronze (Commendation), Blue (Community Service Commendation) |
+| 10 | **EPDs & Meritorious** | One bar each, numeral for multiples up to 25. More than 25 = two bars |
+| 11 | **Roosevelt Award** | For MOS who overcome severe illness/injury and return to duty. Worn above shield, immediately above Firearms bar or below individual recognition awards |
+| 12 | **Peer Support** | For MOS trained in Peer Support Program. Immediately above Firearms Proficiency bar |
+| 13 (BOTTOM) | **Firearms Proficiency** | May wear if you shoot 100% at the range. Must remove if you do NOT shoot 100 next time. No promotional points awarded |
+
+> **Exam Alert:** The WTC Memorial breast bar does **NOT** require the member to have been on the job on 9/11/2001 to wear it — unlike anniversary bars which require employment during that anniversary year. This is a frequent test question. (A.G. 305-13)
+
+> **Prior Test:** On a 2006 Captain's test, a question appeared about placement of stars when receiving a 2nd award of the same type — the stars go in the green and blue areas. Know the star placement rules. (A.G. 305-13)
+
+#### The Four Stars — Detailed Placement
+
+| Star Color | Award |
+|------------|-------|
+| Silver | Honorable Mention |
+| Green | Exceptional Merit |
+| Bronze | Commendation |
+| Blue | Community Service Commendation |
+
+**Multiple Star Rules:**
+- 2nd award of the same type: stars go in the green and blue areas
+- 3rd award: one star in each area (highest white, next highest green, lowest blue)
+- 4th star: wear a second bar; if the 4th is a duplicate of a previous 3, place matching stars on the second bar (two stars of the same type on each bar)
+
+#### EPDs and Meritorious — Detailed Rules
+
+- One bar for either Meritorious or EPD
+- Numeral in the middle for more than 1, **up to 25**
+- **25:** One bar with numeral 25
+- **More than 25:** Wear 2 bars — one with 25, 2nd bar with count above 25 (but less than 30)
+- **30:** One bar with numeral 30
+- **More than 30:** Wear 2 bars — 2nd bar with count above 30 (but less than 40)
+- Continue at intervals of 10
+- **Never more than two (2)** meritorious or EPD bars
+
+#### Right Side Breast Bars
+
+Breast bars authorized to be worn above the **right-side breast pocket:**
+- **Medal of Honor** (if worn, other breast bars go above shield, including longevity bar)
+- **Police Purple Shield**
+- **Commanding Officer Recognition Pin** (Pct/PSA/TD) — C.O. wears above right breast of outermost garment in uniform. If another bar (Medal of Honor, etc.) is worn, Pin goes ABOVE
+- **Longevity Bar** — UMOS below Captain, in short sleeves, must wear over right breast pocket
+  - EXCEPT if Medal of Honor is over right breast pocket OR no breast pocket on uniform
+
+> **Exam Alert:** The Longevity Bar has NO mention of wearing 6 months prior like hash marks/service stripes. Do not confuse service stripe and longevity bar rules. (A.G. 305-13)
+
+### Other Items
+
+| Item | Details |
+|------|---------|
+| **EMT Pin** | If trained and certified by this Department |
+| **NCO Breast Bar** | P.G. 202-11 NOTE says NCOs authorized to wear NCO breast bar above the shield and immediately below any Unit Citation or individual recognition awards |
+
+> **See Also:** PG 202-11 — NCO breast bar placement rule originates from the Neighborhood Coordination Officer procedure, not from A.G. 305-13.
+
+> **Sergeant Focus:** Know the complete breast bar hierarchy from top (US Flag) to bottom (Firearms Proficiency). Verify members wear bars in correct order during inspections. Watch for unauthorized cloth flags or fraternal pins — only the American Flag breast bar is authorized at the top position. (A.G. 305-13)
 
 ---
 
@@ -23004,7 +32580,17 @@ All aftermarket/non-Department parts are prohibited, including: extended magazin
 | Must comply with all applicable foreign country firearms rules/regulations |
 | Failure to comply = disciplinary action and possible criminal penalties/weapon confiscation |
 
+> **Memory Aid — A FAVOR (When to be Unarmed Off Duty):** Do yourself **A FAVOR** — **A** = Alcohol likely to be consumed; **F** = Family or Supreme Court Matrimonial (don't enter armed except as A/O or official business); **A** = Advisable not to carry; **V** = Vacation; **O** = Off-Duty Employment; **R** = Risk of Loss or Theft (sports event, beach, etc.). (A.G. 305-07)
+
 > **Exam Alert:** Members must be armed at all times in NYC unless specific off-duty exceptions apply. Firearms must NEVER be left in an **unattended motor vehicle**. All modifications must be performed by **Firearms and Tactics Section armorers** only.
+
+> **Exam Alert:** Revolvers are NOT authorized for on-duty use — they are for **off-duty only**. The AG does not explicitly state this, but read between the lines: only "service pistols" are authorized on duty, and revolvers are classified as off-duty weapons. If a member transitioned from an off-duty revolver to an authorized off-duty 9mm, they are **NOT permitted to switch back** to the revolver. (A.G. 305-07)
+
+> **Exam Alert:** For foreign country travel, members must comply with A.G. 332-16 (Official Trip) and PG 212-83 (Leaving NYC on Official Business) in addition to the foreign country's firearms rules. (A.G. 305-07)
+
+> **See Also:** PG 221-10 — Exception for storing firearms in motor vehicle (Long Guns).
+
+> **See Also:** AG 332-16 — Official Trip procedures for foreign country travel with firearms.
 
 > **Sergeant Focus:** Verify holster compliance (retention device, trigger guard coverage, no clip-on/belly band). Ensure members have passed qualification before carrying modified firearms. Know the Family Court/Supreme Court unarmed requirement.
 
@@ -23073,6 +32659,443 @@ Report must be signed and submitted within **30 days** by member requesting reim
 
 ---
 
+# Section 305 — Mourning Bands
+
+## A.G. 305-14: Mourning Bands
+
+### Mourning Band Description
+
+- Bands are **black**, **1/2" wide**
+- Cover the **seal of the city** — NOT the shield number or rank
+
+> **Exam Alert:** Test questions often conflate mourning bands with flag at half-staff rules (A.G. 304-02). Know which rule comes from which procedure. Mourning bands = A.G. 305-14; flags at half-mast = A.G. 304-02. (A.G. 305-14 / A.G. 304-02)
+
+> **PG Conflict:** Mourning band rules are NOT rank-specific, but flag at half-mast rules ARE rank-specific (different rules for Lt/Sgt/PO vs Captain through Inspector vs D.I./Inspector vs PC/Deputy Commissioner). Know both sets of rules separately. (A.G. 305-14 / A.G. 304-02)
+
+### Line of Duty Death
+
+| Flag at Half Mast (A.G. 304-02) | Mourning Band (A.G. 305-14) |
+|---|---|
+| Dept building where member assigned: Time of death to 10 days after funeral | Members of his/her command: Time of death until 2400 hrs on the 10th day after death |
+| Department buildings: Time of death until day after the funeral | Other members: From the time of death until 2400 hours on the day of the funeral |
+
+> **Exam Alert:** For LOD death, the **flag** stays at half mast longer than the **mourning band** for the "immediate family" (dept building where assigned). Flag = 10 days after **funeral**; Band = 10th day after **death**. The reference points are different (funeral vs death). (A.G. 305-14 / A.G. 304-02)
+
+### Non-Line of Duty Death
+
+| Flag at Half Mast (A.G. 304-02) | Mourning Band (A.G. 305-14) |
+|---|---|
+| **Lt, Sgt, P.O.:** Dept building where assigned — Day of funeral | Members of his/her command: 0001 hours until 2400 hours on the day of the funeral |
+| Other buildings not mentioned (they fly full staff) | Other members (includes retirees): While attending funeral services |
+| **Captain through Inspector:** Dept building(s) where assigned — Time of death to sunset, day of funeral (same as LOD for other buildings) | _(same as above — mourning band rules are NOT rank-specific)_ |
+| **D.I. and Inspector:** Flag at 1PP goes half-staff on day of funeral | |
+| **Other members, PC or Deputy Commissioner:** As directed by PC or Chief of Dept | |
+
+### After the Funeral
+
+- After a funeral, the mourning period is over: flags go back up, bands come off
+- **EXCEPTION for LOD:** Immediate family (dept building where assigned) — flag and mourning band remain for **10 days** from death/funeral respectively
+
+### Police Memorial Day
+
+| Event | Requirement |
+|-------|-------------|
+| Attending services at 1PP **in uniform** | Mourning band **mandatory** |
+| All other members that day | **Optional** |
+| National P.O.'s Memorial Day (every **May 15th**) | **Optional** for all |
+
+### CMOS Mourning Pin
+
+- Since CMOS do not have shields, they wear a **mourning pin**
+- Worn on **left lapel**, as per A.G. 305-14
+
+> **Sergeant Focus:** Ensure members of the command wear mourning bands during the correct time periods. For LOD deaths, verify compliance through the 10th day after death for command members. Know that the flag period and mourning band period have different reference dates (funeral vs death). (A.G. 305-14)
+
+---
+
+# Section 305 — Optional Uniform Items
+
+## A.G. 305-04: Optional Uniform Items
+
+### Ordering
+
+All optional items must be ordered through:
+- The **Equipment Section**, OR
+- An **Authorized Dealer**
+
+### Authorization for Large Details
+
+- When assigned to certain large details, **Chief of Department** will determine which optional uniform items will be permitted
+- UMOS will be notified
+- C.O. or Unit Commanders of specialized units or seasonal details may authorize a specialized uniform **only** after requesting and receiving approval from the **Office of Chief of Department**
+
+### NYPD 5.11 Tactical Pants
+
+- "NYPD Patrol Tactical Pants" are **no longer authorized**
+- ALL ranks of UMOS on patrol, details, permanent or temporarily assigned to HQ security
+- NYPD 5.11 Twill Pants **are** authorized:
+  - Style #74484ABR-762 — NYPD Navy Blue, Men's Uniform Stryke Pant - Twill
+  - Style #64421ABR-762 — NYPD Navy Blue, Women's Uniform Stryke Pant - Twill
+
+### Uniform Shirt Style Outer Vest Cover
+
+- Authorized for all ranks in **blue or white** (color must match uniform shirt) and long or short sleeves
+- May **NOT** be worn without both panels and carrier fastened with existing Velcro straps
+- Will be worn as the **outermost garment**
+- Must be purchased from Department's vest manufacturer, **Point Blank Enterprises Inc.**
+  - Any other outer vest cover manufactured by another company is **unauthorized**
+
+### Eyeglass Safety Straps
+
+- UMOS assigned to enforcement duty who wear glasses are **strongly urged** to use
+- A.G. 304-07 says: "Eyeglass straps must be **BLACK**"
+
+> **Exam Alert:** A.G. 304-07 says eyewear itself will be "conservative color" — expect the exam to switch the color requirement between straps (BLACK per 304-07) and eyewear (conservative color). Know which rule applies to which item. (A.G. 305-04 / A.G. 304-07)
+
+### Black Boots
+
+- Plain black smooth leather with plain or lugged soles and raised heel, black laces
+- Grommets and laces will be black, no buckles or hooks visible below pants leg
+- Optional only for **Patrol Uniform (B or C)** — NOT listed as option in Dress (A) or Admin (D)
+
+> **Exam Alert:** Black boots are only authorized for Patrol Uniform B or C. The test may present boots as acceptable for Dress (A) or Admin (D) uniforms — they are not. (A.G. 305-02 / A.G. 305-04)
+
+### Hats
+
+| Hat Type | Details |
+|----------|---------|
+| **Summer 8-Point Cap** | Navy blue, tropical worsted, lightweight perforated frame. Optional May 1 - September 30 for all UMOS |
+| **Baseball Cap** | Navy blue with NYPD embroidered on front. For on-duty UMOS in **civilian clothes** |
+| **Winter Hat** | Black soft vinyl with mouton trim, all ranks. When temperature expected to fall below **32 degrees** |
+| **Winter Knit Hat** | Navy blue knitted wool, fit close to head without bulk. "NYPD" in white centered on forehead. No other visible wording or logos. **ONLY** worn with duty jacket when temp expected below 32 degrees |
+
+> **Memory Aid — THE 32 CLUB:** Four items are authorized when temp drops below **32 degrees**, but only **2 of them** must be worn with the **Duty Jacket**: Balaclava and Winter Knit Hat MUST be worn with Duty Jacket. Winter Hat and Earmuffs do NOT require the Duty Jacket. (A.G. 305-04)
+
+### Shirts
+
+**Short Sleeve Shirt:**
+- Can **NOT** wear tie with short sleeve shirt
+- Undershirt must **NOT** be exposed at collar or sleeves
+- A.G. 304-07 adds: "No neck chains or other non-uniform articles shall be visible above the collar OR below the sleeves" — sleeves may NOT be rolled up
+- Will have a label inside between 4th and 5th buttons: "Approved NYPD, certification #"
+- Optional **May 1 - September 30**
+  - **Platoon Commander SHALL authorize** if temp for a tour is expected above 65
+
+> **See Also:** AG 304-07 — Collar button may be unfastened but other buttons must be fastened.
+
+**Golf Shirt:**
+- Optional for Precinct **Bike Cops** or **Harbor** or as per C.O.D.
+- Navy blue pullover
+- Shield patch on left, Name & Shield # on right
+- "NYPD" printed across the back
+- Department patches on **BOTH** sleeves
+
+### Turtleneck
+
+- Navy blue pullover, NYPD emblem embroidered on left breast and collar, for **ALL ranks**
+- NOT worn as outermost garment, but may be worn under the duty jacket
+- **NOT** worn when:
+  - Representing Dept at any function
+  - Performing administrative duties
+  - Scheduled court appearances or meetings
+- **Lt and above** can ONLY wear turtleneck **with Duty Jacket**
+- SGT, P.O., and DET (includes civilian and auxiliary counterparts) MAY wear under the long sleeve shirt:
+  - Top button only left open, no tie; Blue for all ranks
+  - This combination MAY be the outermost garment when the Duty Jacket is not mandatory
+
+> **Exam Alert:** Lt and above can ONLY wear the turtleneck with the Duty Jacket. SGT and below may wear it under the long sleeve shirt as the outermost garment. Know the rank distinction. (A.G. 305-04)
+
+### Cold Weather Hood (Balaclava)
+
+- Black, thin fabric, fits close to head, fully exposing the face
+- Presents a trim appearance, without bulk, when uniform hat is worn over it
+- Authorized for all ranks performing **patrol duties outdoors**
+- Only worn with the duty jacket when temp expected to go below **32 degrees**
+
+### Earmuffs
+
+- Black headband type
+- Can wear if temp expected to drop below **32 degrees Fahrenheit**
+
+### Nylon Windbreaker
+
+- Navy blue, 100% nylon, sport collar style with front snap closures
+- **Specialized Units only** — only for authorized specialized units at police incidents
+- C.O. wanting permission: prepare a **Typed Letterhead** addressed to **Chief of Department** stating reason
+- **Restrictions:**
+  - Never worn **off duty**
+  - Never worn in conjunction with uniform as outermost garment
+  - Not to be adorned with unauthorized patches
+
+**Windbreaker Markings:**
+- **Front:** Below reflective tape, reflective letters "POLICE" — AG does **NOT** say anything about a shield on front
+- **Rear:** Above reflective tape, "NYPD" and "POLICE" both in reflective material
+- **Front and back:** Divided into two parts by **1" reflective tape**
+- **Sleeves:** Both sleeves set reflective tape; Department patch affixed on top of reflective tape
+- **Supervisors/executives:** Gold letters and insignia of rank on collar; **Sgt has NO chevrons on sleeves** — insignia on collar only
+- AG does NOT say supervisors' reflective tape will be gold or yellow
+
+> **Exam Alert:** Sgt windbreaker has insignia on **collar only** — NO chevrons on sleeves. The AG does not mention the shield on the front of the windbreaker, and does not say supervisors' reflective tape is gold or yellow. The exam may test these distinctions. (A.G. 305-04)
+
+### V-Neck Sweater
+
+- Must be tucked inside the trousers, approved for **all ranks**
+- Navy blue, acrylic or wool, waist length, vertical ribbed weave knit
+- Patches over elbows, left breast, and epaulets are navy blue poly/cotton twill
+- Gold buttons on pointed epaulets; Department patch affixed to each sleeve
+- Only V-neck sweaters meeting Equipment Section specifications are authorized (label: "Approved NYPD, Certification #")
+- May be worn as an outer garment with regulation tie and uniform shirt:
+  - Shirt collar has Command or Rank insignia, as appropriate
+  - **Sergeants will wear chevrons on sweater sleeves**
+  - Lt or above will display insignia of rank on epaulets (Metal or Cloth rank insignia)
+
+> **Exam Alert:** Sergeants wear chevrons on the **sweater sleeves** but NOT on the **windbreaker sleeves**. This is a common test trap — know which garment gets the chevrons. (A.G. 305-04)
+
+### Inclement Weather Gear
+
+- Reversible raincoat with "NYPD" stenciled over right breast and back
+- Shield fastened over left breast; cap device on cap cover
+- **Optional:** Reversible navy blue or green cap cover, hood and rain pants; solid black overshoes or solid black rubber boots
+- Regulation black rubber reflective or reversible black/orange raincoat with reversible black or orange cap cover remain authorized
+
+> **Memory Aid — BY THE NUMBERS (305):**
+> - **1/4"** — Distance between shield and breast bar; distance between all breast bars; acceptable fingernail length (on or off duty, in uniform or not)
+> - **1/2"** — Width of a mourning band; width of braid on a Cop's pants; facial hair length
+> - **1"** — Windbreaker dividing reflective tape; collar brass 1" up from forward edge of shirt collar
+> - **1-1/4"** — Width of braid on a Boss's (Sergeant+) pants; width of black mohair braid on summer blouse/winter coat for Lt+; collar brass 1-1/4" up from forward edge of shirt collar on Summer Blouse
+> - **3"** — MINIMUM distance above anklebone for socks in Transit Summer uniform
+> - **5"** — MAXIMUM distance above anklebone for socks (same)
+
+---
+
+# Section 305 — Protective Vests
+
+## A.G. 305-15: Protective Vests
+
+### When Required
+
+Must wear when performing duty in:
+- **Uniform**, AND
+- **Enforcement duty in civilian clothes**
+
+### Exceptions — Who Can Authorize Not Wearing
+
+| Situation | Approval Required From |
+|-----------|----------------------|
+| In Uniform, Outside Dept. Facility | **Bureau Chief or Deputy Commissioner** |
+| In Civilian Clothes, Doing Enforcement | **Immediate Supervisor** |
+
+### Vest Type Authorized
+
+- ANY vest certified by the **National Institute of Justice (NIJ)** as **exceeding** "Threat Level II" (Two)
+- "Threat Level II" (two) is **NOT acceptable** — vest must be **Level III (Three) or higher**
+- **ZYLON** — vest made of zylon is **NOT authorized**
+
+> **Exam Alert:** The vest must EXCEED Threat Level II — meaning Level II itself is NOT acceptable. The vest must be Level III or higher. The exam will try to say "Threat Level II" is sufficient. It is NOT. Also, Zylon vests are specifically prohibited. (A.G. 305-15)
+
+### Carrier and Add-Ons
+
+- **Carrier:** NO "one size fits all" — must be specifically designed to fit the panels
+- **Add-ons (shock plate):** Must also be specific to the vest
+
+### Vest Purchase Rules
+
+| Purchase Scenario | Before Buying | After Buying |
+|-------------------|--------------|-------------|
+| **Not an NYPD Contract vest** | Call **Police Academy Vest Unit** | Bring to **PA Vest Unit** |
+| **NYPD Contract, Bought Privately** | _(no pre-approval needed)_ | Present to **PA Vest Unit** |
+
+### Member (UMOS) Duties
+
+- **Properly maintain** the vest
+- Do **NOT modify** vest or carrier
+- **Inspect regularly** for serviceability
+  - If vest perceived to be unserviceable: **notify immediate supervisor**
+
+> **Exam Alert:** A wet vest should **NOT** be worn — water is a lubricant that allows penetration. If the vest gets soaking wet, it compromises the vest's protective capability. (A.G. 305-15)
+
+### Immediate Supervisor Duties (Serviceability Issue)
+
+| Step | Action |
+|------|--------|
+| 1 | **Inspect** the vest |
+| 2 | If concerns about serviceability: **Confer with PA Vest Unit** for guidance |
+| 3 | **Notify C.O.** |
+| 4 | Direct MOS to present vest with report on **Typed Letterhead (49)** to PA Vest Unit for inspection |
+
+### Vest Does Not Fit (Overweight Member)
+
+- Same treatment as damage due to **negligent care/storage**
+- Member must buy a new one with their **uniform allowance**
+
+### Vest Certification
+
+- When you receive the vest, you **sign a certificate** that it fits
+- **Two (2) days** to return vest if it does not fit
+
+### Vest Hit by Bullet or Sharp Instrument
+
+- Vest brought to **PA Vest Unit** for inspection with:
+  - An **official report** describing the circumstances
+- Vest may be worn by **any member** of the service (not limited to one person)
+
+### Member Shot While Wearing Vest
+
+- If member is **apparently uninjured**, member must **visit a doctor** to determine if internal injury or blunt trauma exists
+
+### Reserve Supply
+
+- Supervisor concerned about vest availability: direct requesting MOS to call their local **Patrol Borough**
+  - No matter what bureau (Housing, Transit, DB, etc.) — you go to the **Patrol Borough**
+  - If the borough does not have any, contact the **PA Vest Unit**
+- Return vest at **EOT** or as directed
+- If kept more than 1 tour, must **launder carrier** before returning
+
+> **Sergeant Focus:** As a supervisor, inspect vests when serviceability concerns are raised. Know the approval chain for not wearing: Bureau Chief/Deputy Commissioner for uniform, Immediate Supervisor for civilian enforcement. Direct members to the Patrol Borough for reserve supply regardless of their assigned bureau. Ensure members who are shot while wearing a vest — even if apparently uninjured — visit a doctor. (A.G. 305-15)
+
+---
+
+# Section 305 — Required Equipment
+
+## A.G. 305-08: Required Equipment
+
+### Training-Dependent Items
+
+The following items will only be carried when MOS is **properly trained** by the Department:
+- Firearms
+- Body Worn Camera (BWC)
+- Less than lethal devices (e.g., Batons, Conducted Electrical Weapons [CEW])
+
+### Equipment Categories
+
+The procedure is organized into four parts:
+1. **Equipment on Person**
+2. **Equipment on Belt**
+3. **Equipment Readily Available**
+4. **Civilian Clothes Enforcement**
+
+---
+
+### Equipment on Person
+
+**Belts (2 required):**
+
+| Belt | Material | Buckle |
+|------|----------|--------|
+| **Trouser Belt** | Black leather | Gunmetal or black buckle |
+| **Duty Belt** | Black leather OR Nylon | Leather: gunmetal or black buckle; Nylon: black buckle only (no gunmetal) |
+
+- Nylon duty belt must have label inside: "ES Spec #"
+- Duty belt covers the trouser belt; both worn firmly around waist, secured with adequate black belt keepers
+
+**Other Equipment on Person:**
+
+| Item |
+|------|
+| Assigned Department smartphone, charged |
+| Properly set, serviceable timepiece |
+| Protective vest, as indicated in A.G. 305-15 |
+| Appropriate amount of **Right To Know Business Cards (RTKBCs)** and RTKBCs-General |
+| Identification Card |
+| Department issued MetroCard |
+| BWC, when issued |
+
+---
+
+### Equipment on Belt
+
+The order of equipment placed on belt will be **inspected at annual pistol qualification cycle**.
+
+> **Exam Alert:** Belt equipment order is inspected at the **annual pistol qualification cycle**, not at roll call. The exam may try to say inspection occurs during roll call or monthly inspections. (A.G. 305-08)
+
+**Support Side (non-shooting side) — Items 1-5:**
+
+| # | Item |
+|---|------|
+| 1 | **Double magazine pouch** — flap and snap closure, black, affixed in vertical position |
+| 2 | **CEW and holster** — attached on support side, opposite firearm (if CEW is assigned) |
+| 3 | **Assigned portable radio** — carried in assigned radio case |
+| 4 | **OC pepper spray** device and holder — on support side, opposite firearm |
+| 5 | **Flashlight** and holder |
+
+**Strong Side (gun side) — Items 6-10:**
+
+| # | Item |
+|---|------|
+| 6 | **Department issued tourniquet** — if trained and issued (optional) |
+| 7 | **Expandable baton** — if qualified, carried in a black nylon, polycarbonate, or plastic holder |
+| 8 | **Authorized firearm** and regulation holster with safety lock as authorized by FTS for service 9mm pistol |
+| 9 | **Handcuff key holder** and handcuff key |
+| 10 | **Regulation handcuffs** — silver or black metal, in black fully enclosed handcuff case meeting Equipment Section specs |
+
+> **Exam Alert:** If NOT qualified for expandable baton, a **straight baton** will be carried instead. The baton still goes on the strong side at position 7. (A.G. 305-08)
+
+**Magazine Details:**
+- Three magazines total for authorized service 9mm pistol:
+  - One **IN** the firearm: 15 cartridges + 1 additional cartridge in chamber
+  - Two magazines with 15 cartridges each in the double magazine pouch
+- Keep maximum number of rounds in other magazines carried (off duty, special weapons, etc.)
+
+**Handcuffs:**
+- A **second set of handcuffs** is optional
+- Carried in a black, fully enclosed handcuff case meeting Equipment Section specifications
+
+> **Memory Aid — BELT LAYOUT (Support Side 1-5, Strong Side 6-10):** Starting from the belt buckle, items count away toward the back on each side. Support side: **M**agazine, **C**EW, **R**adio, **O**C spray, **F**lashlight. Strong side: **T**ourniquet, **B**aton, **F**irearm, handcuff **K**ey, hand**C**uffs. (A.G. 305-08)
+
+---
+
+### Equipment Readily Available
+
+| Item |
+|------|
+| Regulation traffic whistle and belt whistle holder |
+| Reflective safety vest |
+| Dual-purpose personal protection/scooter helmet with face shield (as in A.G. 304-05, "Performance on Duty") |
+| Sufficient amount of summonses, if below rank of captain and assigned to enforcement duties |
+| Department issued opioid antagonist (e.g., Naloxone), if trained and issued |
+| Baton, with baton holder |
+| Department issued trauma kit, if trained (tourniquet may be worn on belt) |
+
+---
+
+### Civilian Clothes Enforcement (Except Undercovers)
+
+| Item |
+|------|
+| Authorized firearm(s), in authorized holster(s) |
+| A minimum of one extra fully loaded magazine |
+| Regulation handcuffs with key |
+| Assigned Department smartphone, charged |
+| Appropriate amount of RTKBCs and RTKBCs-General |
+| **Color of the Day** head/arm band on their person |
+| Oleoresin Capsicum (OC) pepper spray device |
+| Assigned Department BWC |
+| Nylon windbreaker jacket, worn when present at a police incident |
+| CEW, if available and trained |
+| Protective vest, as in A.G. 305-15 |
+
+> **Exam Alert:** Civilian clothes enforcement members must carry the **Color of the Day** head/arm band on their person. This is NOT required for uniform patrol. (A.G. 305-08)
+
+---
+
+### Additional Data
+
+**Unauthorized Uniform Adornments:**
+- Unauthorized patches, emblems, insignias, or other adornments are **prohibited** on uniforms
+- Includes but not limited to:
+  - Command related merchandise
+  - Political slogans and/or logos of comic book, movie, or similar characters
+
+**Civilian Clothes Enforcement:**
+- No clothing containing inappropriate designs, stamps, or messages
+
+**Supervision:**
+- Patrol supervisors/unit supervisors will ensure compliance with these prohibitions during **roll call inspection** and at other times during a tour
+
+> **Sergeant Focus:** As a supervisor, ensure compliance with unauthorized adornment prohibitions during roll call and throughout the tour. Verify belt equipment order at annual pistol qualification. Confirm civilian clothes members carry the Color of the Day band. (A.G. 305-08)
+
+---
+
 # Section 305 — Key Terms and Definitions
 
 ## Firearms Terminology
@@ -23117,6 +33140,69 @@ All aftermarket/non-Department parts; polishing that alters firearm; machining; 
 |------|-----------|
 | Report for lost/damaged uniform | Within **30 days** |
 | Settlement execution | Within **180 days** of approval |
+| Vest return if it does not fit | Within **2 days** |
+
+## Equipment Terminology
+
+| Term | Definition |
+|------|-----------|
+| **BWC** | Body Worn Camera — carried when issued, requires Department training |
+| **CEW** | Conducted Electrical Weapon (Taser) — carried on support side if assigned and trained |
+| **OC Spray** | Oleoresin Capsicum pepper spray device — carried on support side, opposite firearm |
+| **RTKBCs** | Right To Know Business Cards — carried on person in appropriate amounts |
+| **Color of the Day** | Head/arm band carried by civilian clothes enforcement members (not undercovers) |
+| **Support Side** | Non-shooting side of the duty belt (items 1-5) |
+| **Strong Side** | Shooting/gun side of the duty belt (items 6-10) |
+| **Double Magazine Pouch** | Flap and snap closure, black, affixed vertically; holds 2 extra magazines (15 rounds each) |
+| **ES Spec #** | Equipment Section Specification Number — label inside authorized nylon duty belts |
+
+## Uniform Terminology
+
+| Term | Definition |
+|------|-----------|
+| **The 32 Club** | Four items authorized when temp drops below 32 degrees: Balaclava, Winter Knit Hat (both require Duty Jacket), Winter Hat, and Earmuffs |
+| **Point Blank Enterprises Inc.** | Sole authorized manufacturer of uniform shirt style outer vest covers |
+| **Outer Vest Cover** | Uniform shirt style cover for body armor; must match uniform shirt color (blue or white); worn as outermost garment |
+| **Nylon Windbreaker** | Specialized unit jacket; 1" reflective tape divides front and back; "POLICE" on front, "NYPD" and "POLICE" on rear |
+
+## Breast Bar and Insignia Terminology
+
+| Term | Definition |
+|------|-----------|
+| **Service Stripes (Hash Marks)** | Each mark = 5 years; left sleeve only; Lt, Sgt, Det, P.O. only; may wear 6 months early |
+| **Collar Brass** | Yellow metal insignia on both sides of collar (except raincoat); 1" from forward edge on shirt, 1-1/4" on Summer Blouse |
+| **Longevity Bar** | Worn over right breast pocket by UMOS below Captain in short sleeves (no 6-month early rule like hash marks) |
+| **WTC Memorial Breast Bar** | Worn above all bars except US Flag; does NOT require being on the job during 9/11 |
+| **Firearms Proficiency Bar** | Bottom-most bar; requires 100% at range; removed if not repeated; no promotional points |
+| **EPD** | Excellent Police Duty — breast bar with numeral for multiples; max 2 bars |
+| **Gold Leaf** | Signifies a 2nd Medal of Honor, Combat Cross, or Medal for Valor on the same bar |
+| **NCO Breast Bar** | Worn above shield, immediately below Unit Citation or individual recognition awards (per P.G. 202-11) |
+
+## Mourning Band Terminology
+
+| Term | Definition |
+|------|-----------|
+| **Mourning Band** | Black, 1/2" wide; covers seal of the city (NOT shield # or rank) |
+| **CMOS Mourning Pin** | Worn on left lapel by civilian members (who have no shield) per A.G. 305-14 |
+| **Police Memorial Day** | Mourning band mandatory if attending services at 1PP in uniform; optional for all others |
+| **National P.O.'s Memorial Day** | Every May 15th — mourning band optional for all |
+
+## Protective Vest Terminology
+
+| Term | Definition |
+|------|-----------|
+| **NIJ** | National Institute of Justice — certifies protective vest threat levels |
+| **Threat Level III+** | Minimum required vest level (must EXCEED Level II) |
+| **Zylon** | Vest material that is specifically NOT authorized |
+| **PA Vest Unit** | Police Academy Vest Unit — inspects vests, provides guidance on serviceability |
+| **Typed Letterhead (49)** | Report format used when presenting unserviceable vest to PA Vest Unit |
+
+## Mnemonics
+
+| Mnemonic | Meaning |
+|----------|---------|
+| **A FAVOR** | When to be unarmed off duty: **A**lcohol, **F**amily/Supreme Court Matrimonial, **A**dvisable not to carry, **V**acation, **O**ff-Duty Employment, **R**isk of Loss/Theft |
+| **By The Numbers (305)** | 1/4" (shield-to-bar distance, fingernail length), 1/2" (mourning band, cop's braid, facial hair), 1" (windbreaker tape, collar brass on shirt), 1-1/4" (boss's braid, collar brass on Summer Blouse), 3" (min sock height Transit), 5" (max sock height Transit) |
 
 ---
 
@@ -23294,45 +33380,331 @@ Members are prohibited from carrying firearms into a foreign country unless on o
 
 ---
 
+**11. A Sergeant's nylon windbreaker displays rank insignia in which location?**
+
+- A) Chevrons on both sleeves
+- B) Insignia on collar only
+- C) Chevrons on the left sleeve only
+- D) Gold letters across the back
+
+<details><summary>Answer</summary>
+
+**B) Insignia on collar only**
+
+On the nylon windbreaker, Sergeants have insignia on the collar only — NO chevrons on the sleeves. This is different from the V-neck sweater, where Sergeants DO wear chevrons on the sleeves. (A.G. 305-04)
+
+</details>
+
+---
+
+**12. The WTC Memorial breast bar may be worn by:**
+
+- A) Only UMOS who were on the job on 9/11/2001
+- B) Only UMOS assigned to WTC recovery operations
+- C) All UMOS, regardless of whether they were on the job on 9/11
+- D) Only UMOS who received a commendation for 9/11 service
+
+<details><summary>Answer</summary>
+
+**C) All UMOS, regardless of whether they were on the job on 9/11**
+
+The WTC Memorial breast bar may be worn by all UMOS above all other bars except the US Flag bar. Unlike anniversary bars, members did NOT have to be on the job during 9/11 to wear it. (A.G. 305-13)
+
+</details>
+
+---
+
+**13. A protective vest must meet what minimum threat level certification?**
+
+- A) Threat Level I
+- B) Threat Level II
+- C) Exceeding Threat Level II (Level III or higher)
+- D) Threat Level IV
+
+<details><summary>Answer</summary>
+
+**C) Exceeding Threat Level II (Level III or higher)**
+
+The vest must be certified by the NIJ as EXCEEDING Threat Level II — meaning Level II itself is NOT acceptable. The vest must be Level III or higher. Vests made of Zylon are also NOT authorized. (A.G. 305-15)
+
+</details>
+
+---
+
+**14. When a member dies in the line of duty, members of his/her command wear the mourning band until:**
+
+- A) The day of the funeral
+- B) 2400 hrs on the 10th day after death
+- C) 10 days after the funeral
+- D) 2400 hrs on the day of the funeral
+
+<details><summary>Answer</summary>
+
+**B) 2400 hrs on the 10th day after death**
+
+For LOD death, members of the deceased's command wear the mourning band from time of death until 2400 hrs on the 10th day after death. Other members wear it from time of death until 2400 hours on the day of the funeral. Note that the flag at half-mast period uses "10 days after funeral" as its reference — a different timeline. (A.G. 305-14 / A.G. 304-02)
+
+</details>
+
+---
+
+**15. On the duty belt, OC pepper spray is carried on which side?**
+
+- A) Strong side, next to firearm
+- B) Support side, opposite the firearm
+- C) Center line of the belt
+- D) Either side at the member's discretion
+
+<details><summary>Answer</summary>
+
+**B) Support side, opposite the firearm**
+
+OC pepper spray device and holder are carried on the support side (non-shooting side), opposite the firearm. It is item #4 on the support side of the belt. (A.G. 305-08)
+
+</details>
+
+---
+
+**16. Who must a supervisor contact for a reserve protective vest supply?**
+
+- A) The Equipment Section
+- B) The member's assigned bureau
+- C) The local Patrol Borough
+- D) The Police Commissioner's office
+
+<details><summary>Answer</summary>
+
+**C) The local Patrol Borough**
+
+Regardless of the member's bureau (Housing, Transit, Detective Bureau, etc.), the supervisor directs the requesting MOS to call the local Patrol Borough for reserve vest supply. If the Patrol Borough does not have any, contact the PA Vest Unit. (A.G. 305-15)
+
+</details>
+
+---
+
+**17. The mnemonic "A FAVOR" helps remember when a member may be unarmed off duty. What does the "F" stand for?**
+
+- A) Fitness activities
+- B) Family Court or Supreme Court Matrimonial
+- C) Foreign country travel
+- D) Formal Department functions
+
+<details><summary>Answer</summary>
+
+**B) Family Court or Supreme Court Matrimonial**
+
+A FAVOR: A = Alcohol likely consumed; F = Family or Supreme Court Matrimonial (don't enter armed except as arresting officer or on official business); A = Advisable not to carry; V = Vacation; O = Off-Duty Employment; R = Risk of Loss or Theft (sports, beach, etc.). (A.G. 305-07)
+
+</details>
+
+---
+
 # Section 318 — Disciplinary Matters
 
 ## Source
 - **Administrative Guide Section:** 318
-- **Source PDFs:** A.G. 318-10, A.G. 318-11
+- **Source PDFs:** A.G. 318-01, 318-02, 318-05, 318-09, 318-10, 318-11, 318-12, 318-14
 - **Priority:** High
 
 ## Learning Objectives
+- Know the three types of CDs (A, B, C), their penalty maximums, and who issues each
+- Distinguish Schedule "A" vs "B" violations using the FOUL FRAP mnemonic
+- Master the CD issuance process: investigation, interview, three election options, Review Panel powers
+- Know grounds for mandatory suspension (A DOG CAR) and which actors must vs. may suspend
 - Know the procedure for removing firearms from an intoxicated UMOS
 - Understand the definition of intoxication and "common sense" determination standard
 - Master interrogation rights and protections for members under investigation
 - Know the Garrity warning elements and their implications
-- Understand prohibited interrogation tactics and scheduling rules
+- Understand MOS arrested procedures (in-city vs. outside city differences)
+- Know CD record clearing and sealing timeframes
+- Understand the Citywide CD System entry responsibilities and deadlines
 
 ## Procedures
 
 | Procedure | Title | Status |
 |-----------|-------|--------|
-| A.G. 318-10 | Removal of Firearms from Intoxicated UMOS | completed |
+| A.G. 318-01 | Types of CDs and Their Penalties | completed |
+| A.G. 318-02 | Issuance of Schedule "A" and "B" CDs | completed |
+| A.G. 318-05 | Cause for Suspension or Modified | completed |
+| A.G. 318-09 | MOS Arrested (Includes Civilians) | completed |
+| A.G. 318-10 | Removal of Firearms / Unfit for Duty | completed |
 | A.G. 318-11 | Interrogation of Members of the Service | completed |
-| A.G. 318-06 | (Not available) | blocked |
-| A.G. 318-07 | (Not available) | blocked |
+| A.G. 318-12 | Sealing of "B" CDs | completed |
+| A.G. 318-14 | Citywide CD System | completed |
+| A.G. 318-06 | (Suspension of UMOS — 49 distribution covered) | blocked |
+| A.G. 318-07 | (Suspension of CMOS — 49 distribution covered) | blocked |
+| A.G. 318-08 | (Cause for Modified — Captain's procedure) | blocked |
 
 ## Chapter Files
 
 | File | Content |
 |------|---------|
+| `section-318-types-of-cds.md` | A.G. 318-01: Three CD types (A/B/C), penalty maximums, Schedule A vs B violations, FOUL FRAP mnemonic, loss of property rules, 3rd CD in 6-month rule |
+| `section-318-issuance-cds.md` | A.G. 318-02: CD process from initiation through adjudication, three election options, Review Panel, transfer rules, IAB-originated CDs, day-type distinctions |
+| `section-318-cause-for-suspension.md` | A.G. 318-05: Must vs. authorized to suspend, A DOG CAR mnemonic, G.D.A.S.S. clubs, Sgt vs. TM/SSDD authority, re-suspension |
+| `section-318-mos-arrested.md` | A.G. 318-09: MOS arrested in-city vs. outside city, notification chains, Ranking Officer investigation, 30-day reporting, court appearance updates |
+| `section-318-unfit-for-duty.md` | A.G. 318-10: Unfit for duty procedures, 49 distribution comparison table across 318-06/07/08/10 |
 | `section-318-removal-firearms-intoxicated.md` | A.G. 318-10: PD469-150 preparation, investigation standard, firearms removal, report distribution (8 copies), mandatory counseling referral |
+| `section-318-citywide-cd-system.md` | A.G. 318-14: Database entry deadlines, access management, record removal/destruction timeframes, sealing of "B" CDs |
 | `section-318-interrogation-mos.md` | A.G. 318-11: PD339-121, counsel rights, BWC viewing, prohibited tactics, Garrity warning, tape/transcript deadlines, member obligations |
-| `key-terms.md` | Intoxication definition, key forms, interrogation rights, Garrity elements, prohibited tactics, timeframes |
-| `review-questions.md` | 12 multiple-choice questions covering firearms removal and interrogation procedures |
+| `key-terms.md` | Intoxication definition, key forms, CD types, FOUL FRAP, A DOG CAR, election options, clearing timeframes, all key timeframes |
+| `review-questions.md` | 20 multiple-choice questions covering all AG 318 procedures |
 
 ## Sergeant Focus Areas
+- **CD Types:** A = 5 days (CO/XO), B = 10 days (CO/XO), C = 20 days (Dept Advocate only)
+- **FOUL FRAP:** Mnemonic for Schedule "B" violations
+- **A DOG CAR:** Mnemonic for mandatory suspension grounds; impaired (under .08) is NOT on the list
+- **Must vs. Authorized:** Sgt+ must suspend any MOS; TM/SSDD authorized to suspend CMOS only
+- **IAB-originated CDs:** Findings = investigating entity approval; Discipline = DC Dept Advocate approval
+- **CD Review Panel:** Can increase penalty up to double the CO's proposal
+- **3 working days:** Member election of CD option
+- **60 days:** CD adjudication deadline
 - **PD469-150:** Both the referring supervisor AND CO/XO/duty captain prepare their own reports immediately
 - **Determination standard:** Totality of circumstances, common sense, consider time elapsed
 - **Mandatory actions:** Remove firearms, modified assignment/suspension, contact Counseling Services Unit (mandated)
 - **IAB notification:** Obtain log number from IAB Command Center
 - **Interrogation:** PD339-121 before questioning; no "off the record" questions; captain+ determines reasonable time for counsel
 - **Garrity protection:** Statements cannot be used criminally but CAN be used departmentally
+- **MOS arrested:** In-city = desk officer + Boro CO direct; outside city = no desk officer, no duty captain, Chief designates investigator
+- **Record clearing:** Unsub = 1 yr (always); "A" = 1 yr (clean record); "B" = 3 yrs from disposition (must request sealing in writing)
+
+---
+
+# Section 318 — Cause for Suspension or Modified Assignment
+
+## A.G. 318-05: Cause for Suspension or Modified
+
+### Two Actors — Different Authority Levels
+
+| Actor | Authority | Who They Suspend |
+|-------|-----------|-----------------|
+| **Uniformed Sergeant** (or above) | **Must** suspend | **Any** MOS, uniformed or civilian |
+| **TM/SSDD** (Traffic Manager or above; School Safety Deputy Director or above) | **Authorized to** suspend | **CMOS** (civilians under their command only) |
+
+> **Exam Alert:** Know the difference: Sergeants **must** suspend; TM/SSDD are **authorized to** suspend. Sergeants suspend **any** MOS (uniformed or civilian). TM/SSDD suspend only **civilians under their commands**. (AG 318-05)
+
+> **Exam Alert:** If a School Safety Agent is suspended, the **School Principal must be notified**. (AG 318-05)
+
+### Grounds for Mandatory Suspension — "A DOG in their CAR"
+
+Regardless of the actor (Uniformed Sergeant+ or Civilian TM/SSDD), they may/must suspend an MOS **by authority of, and without prior conferral/approval from, the 1st Deputy Commissioner** for having "A DOG in their CAR":
+
+> **Memory Aid — A DOG CAR:**
+>
+> | Letter | Meaning |
+> |--------|---------|
+> | **A** | **Arrest** for a PL crime (Misdemeanor or Felony) or VTL 1192 subs 2-4a (DWI) or similar from out of state |
+> | **D** | **Dole Test** — Refuse to take |
+> | **O** | **Order** — Refuse a lawful order |
+> | **G** | **G.O. 15** — Refuse to answer questions |
+> | **C** | **Club** — Have interest in, association with, or patronize a "Good Ass Club" (except while performing duty) |
+> | **A** | **AWOL** — 5 consecutive tours |
+> | **R** | **Roll Call** (or during the tour) — Refuse assignment |
+
+> **Exam Alert:** By its absence from the list, being **Impaired** (under .08 BAC) is **not** a mandatory suspension. Only DWI (VTL 1192 subs 2-4a) triggers mandatory suspension. (AG 318-05)
+
+> **Exam Alert:** An out-of-state interaction — is it an "arrest" or not? The test is: **were you fingerprinted?** If fingerprinted, it counts as an arrest for suspension purposes. (AG 318-05)
+
+### "Good Ass Club" — G.D.A.S.S.
+
+A premise, licensed or unlicensed, engaged in illegal:
+
+| Letter | Activity |
+|--------|----------|
+| **G** | Gambling |
+| **D** | Drugs |
+| **A** | After hours |
+| **S** | Social club |
+| **S** | Smoke (shop) |
+
+### Re-Suspension for Subsequent Violations
+
+- MOS previously suspended for any of the above **must be re-suspended** for a subsequent violation of any of the same grounds
+
+### Unfit for Duty — Not a Sergeant Decision
+
+- If the MOS is **unfit for duty** (but does not meet the above suspension criteria), the sergeant's role is to **call the Captain**
+- Sgt/Lt can only **Suspend** — they can **NOT Modify**
+- Details regarding Cause for Modified Assignment are in AG 318-08 (for Captain's test)
+
+> **Exam Alert:** Sergeants and Lieutenants can **suspend** but cannot place a member on **modified assignment**. Only Captains and above can modify. If the question asks about modified assignment, the answer involves the Captain. (AG 318-05)
+
+### Questions About Law vs. Procedure
+
+| Question Type | Who to Ask |
+|---------------|-----------|
+| Questions on **LAW** | **Legal Bureau** |
+| Questions on **PROCEDURE** | **Department Advocate** |
+
+> **See Also:** AG 318-08 — Cause for Modified Assignment (Captain and above); AG 318-10 — Unfit for Duty procedures.
+
+---
+
+# Section 318 — Citywide Command Discipline System
+
+## A.G. 318-14: Citywide CD System
+
+### Database Entry Responsibilities
+
+| Actor | Responsibility | Timeframe |
+|-------|---------------|-----------|
+| **Supervisors** | Enter all relevant info for each case into appropriate Dept databases | As necessary |
+| **ICO/Asst or Other Authorized Member** | Enter all relevant info into Citywide system | Within **5 working days** of ISSUANCE |
+| **ICO/Asst or Other Authorized Member** | Complete all entries regarding adjudication | Within **5 working days** of ADJUDICATION |
+| **Commanding Officer / Executive Officer** | Review and finalize (sign-off) | Within **5 working days** of completion of above adjudication entries |
+
+> **Exam Alert:** All three timeframes are "5 working days" but they measure from different events: issuance, adjudication, and completion of adjudication entries respectively. (AG 318-14)
+
+### Access and Removal of Authorized Users
+
+**Commanding Officer:**
+- Forward a **49** to **DC Dept Advocate** requesting access/removal for authorized UMOS
+- Include: rank, name, tax, command code, and assignment
+- Include reason if the member is other than CO/XO/ICO/Assistant ICO
+
+Also email a **signed copy** to CCDS@NYPD.ORG
+
+### Authorized UMOS Timeframes
+
+| Action | Timeframe |
+|--------|-----------|
+| Create CD | Within **5 working days** of issuance |
+| Complete entries regarding adjudication | Within **5 working days** of adjudication |
+
+### Removal and Destruction of CD Records
+
+| CD Type | When Removed/Destroyed | Condition |
+|---------|----------------------|-----------|
+| **Unsubstantiated** (A or B) | **1 year** from issuance | Not contingent on absence of subsequent discipline |
+| **Schedule "A"** | **1 year** from issuance | If no subsequent discipline of **any kind** |
+| **Schedule "B"** | **3 years** from **disposition** | If no subsequent "B" or Charges in those 3 years |
+
+> **Memory Aid — Clearing the Record:**
+>
+> | Type | Time | Measured From | Condition |
+> |------|------|--------------|-----------|
+> | Un-Sub (A or B) | 1 year | Issuance | None — always removed |
+> | "A" | 1 year | Issuance | No subsequent discipline of ANY kind |
+> | "B" | 3 years | **Disposition** | No subsequent B or Charges |
+
+> **Exam Alert:** Unsubstantiated CDs are always removed at 1 year regardless of subsequent discipline. "A" CDs require a clean record for 1 year. "B" CDs require 3 years from **disposition** (not issuance) with no subsequent "B" or Charges. The exam tests "issuance" vs. "disposition." (AG 318-14)
+
+### Sealing of "B" CDs (AG 318-12)
+
+- Sealed means: **suppressed from CPI inquiry for promotion and transfer**
+- Sealing is **not automatic** — the member must **request in writing**
+- MOS must request by a **49** to their CO on the **3rd anniversary** of the **date of disposition**
+- If no subsequent "B" CDs or Charges during those 3 years:
+  - CO expunges from member's command folder
+  - CO/XO endorse 49 and forward to **Human Resources Division**
+
+**If additional discipline exists:**
+- CO advises member by endorsing 49 and filing copy in member's command folder
+- Advise member they may resubmit 3 years after **disposition** of the latest violation
+
+> **Exam Alert:** Sealing a "B" CD is NOT automatic. The member must affirmatively request it in writing (via 49) on the 3rd anniversary of the disposition date. If denied due to subsequent discipline, they can try again 3 years after the latest disposition. (AG 318-02/318-12)
+
+> **See Also:** AG 318-01 — Types of CDs and Their Penalties; AG 318-02 — Issuance of Schedule "A" and "B" CDs.
 
 ---
 
@@ -23453,6 +33825,258 @@ Members (uniformed and civilian) whose actions result in **death or serious phys
 
 > **Sergeant Focus:** Know the 8 items the interrogating officer must inform the member about. No "off the record" questions, threats, or reward promises. Interrogation must be recorded. Post-charge interrogation must be completed **10 days** before trial. Assign member to **2nd Platoon**.
 
+> **See Also:** AG 318-02 — Issuance of CDs (the CD interview is informal and non-adversarial with no minutes recorded, unlike a formal interrogation under AG 318-11 which must be recorded).
+
+---
+
+# Section 318 — Issuance of Schedule "A" and "B" Command Disciplines
+
+## A.G. 318-02: Issuance of Schedule "A" and "B" CDs
+
+### Supervisory Member (Initiating the CD)
+
+| Step | Action |
+|------|--------|
+| 1 | Conduct investigation upon observing or becoming aware of a violation of rules or procedures by a member of **lower rank** (must be at least 1 rank above violator to recommend a CD) |
+| 2 | If necessary, prepare a **Supervisor's Complaint/Command Discipline Election Report (CD)** |
+| 3 | Notify the violator if CD is issued |
+| 4 | Notify the **Desk Officer** at the **member's** command |
+| 5 | Obtain next serial number from CD Log (serial numbers restart at 1 each year) |
+| 6 | Submit CD to the **subject's** Commanding Officer |
+| 6a | If MOS is from a different command, give a copy to **your own** CO |
+
+> **Exam Alert:** The CD is submitted to the **subject's** CO, not the supervisor's CO. If the MOS is from a different command, the supervisor gives a copy to their own CO as well. (AG 318-02)
+
+### Desk Officer
+
+- Make required entry in the **CD Log**
+
+### Commanding Officer / Executive Officer — Investigation
+
+| Step | Action |
+|------|--------|
+| 1 | Investigate to determine if allegation is substantiated |
+| 2 | If substantiated, determine if complaint can be disposed of by the CD process in AG 318-01 |
+| 3 | Confer with supervisor who prepared report, if necessary |
+| 4 | Schedule interview with subject (if possible, on date when supervisor who prepared report is available) |
+
+### Unsubstantiated CDs
+
+| CD Type | If Unsubstantiated |
+|---------|-------------------|
+| **"A" CD** | Enter findings on CD, file in back of CD Log |
+| **"B" CD** | Enter findings on CD, file **original** in back of CD Log, forward **copy** to next higher command (borough) as FYI |
+
+> **Exam Alert:** Unsubstantiated "A" CDs are simply filed locally. Unsubstantiated "B" CDs require a copy forwarded to the next higher command. Know the difference. (AG 318-02)
+
+### The CD Interview
+
+| Rule | Detail |
+|------|--------|
+| Union representative | Advise member that one line organization rep may be present |
+| Informal and non-adversarial | Do NOT record minutes |
+| Member notification | Inform member of alleged violation and conduct interview |
+| Rebuttal | Give member opportunity to make rebuttal; conduct further investigation if necessary |
+| Decision | Inform both subject AND supervisor who prepared report of results and proposed penalty |
+
+### Member's Three Election Options
+
+The member is entitled to choose one of the following:
+
+| Option | Result |
+|--------|--------|
+| **Accept both** finding and penalty | CD adjudicated at command level |
+| **Accept finding but NOT the penalty** | Goes to CD Review Panel |
+| **Accept neither** and opt for formal Charges and Specifications | Goes to Department Advocate |
+
+> **Exam Alert:** These three options are frequently tested. The member always has the right to reject the CD entirely and opt for formal charges. (AG 318-02)
+
+### CD Review Panel
+
+- Inform member that the decision of the CD Review Panel is **final**
+- The Panel may:
+  - **Approve** the penalty
+  - **Reduce** the penalty to any corrective measure the CO was authorized to impose
+  - **Increase** the penalty to not more than **double** what the CO proposed
+- At close of interview, provide member with a copy of the CD
+
+> **Exam Alert:** The CD Review Panel can **increase** the penalty up to double the CO's proposal. This is a common test trap — candidates assume the Panel can only reduce. (AG 318-02)
+
+### Transfer Rules for CDs
+
+| Scenario | Who Completes the Case |
+|----------|----------------------|
+| Subject transferred | CO/XO of **original** command completes the case and forwards records after adjudication |
+| CO/XO transferred | **New** CO/XO completes the case |
+
+> **Exam Alert:** The CD stays in the subject's **original command** regardless of transfer. If the subject transfers, the original CO finishes up. If the CO transfers, the new CO takes over. (AG 318-02)
+
+### Adjudication Time Period
+
+- CO/XO must ensure CD is adjudicated **within 60 days** of issuance
+- Absent exigency (extended sick, leave of absence, etc.)
+
+### CO/XO vs. CO Only — Key Distinction
+
+- Most of the procedure says "CO/XO" — either can act
+- But the AG says "**CO only**" in these three instances:
+  1. Supervisor submits CD to subject officer's **CO**
+  2. Decision — subject notifies **CO** in writing of the option selected
+  3. MOS transferred — after adjudication, CD record sent to **new CO**
+
+> **Exam Alert:** Watch for the exam to test "CO/XO" vs. "CO only." The CD is always submitted to the CO (not XO). The member's election decision goes to the CO (not XO). (AG 318-02)
+
+### UMOS Decision Timeline
+
+- Within **3 working days** of receiving the CO/XO's decision, notify CO in writing on the CD of the option elected
+
+> **Exam Alert — Day Types:** AG 318 uses only two types of days: "working days" and "calendar days." If the word "working" is absent, it means calendar days. The 3-day election period is specifically "3 **working** days." (AG 318-02)
+
+### If Member Accepts Findings and Penalty
+
+**CO/XO:**
+- Enter disposition on CD and forward CD to **ICO**
+
+**ICO:**
+- Time deduction: ensure timekeeper makes and verifies adjustment to MOS' time with Payroll Management System, as necessary
+- For "B" CDs:
+  - File in MOS' personnel folder
+  - Forward copy **immediately** to Department Advocate's Office
+
+### If Member Accepts Findings but Declines Penalty
+
+**CO/XO:**
+- Enter disposition on CD and forward to next higher command with:
+  - Report on Typed Letterhead explaining facts of incident with member's disciplinary history
+- After Review Panel adjudicates a "B" CD, forward to Department Advocate:
+  - Copy of the CD and a copy of the Panel's decision
+
+### If Member Elects Formal Charges
+
+**CO/XO:**
+- Enter disposition on CD and file
+- Confer with Department Advocate's Office regarding the preparation of Charges and Specifications
+
+### CD Resulting from IAB / Other Investigative Unit
+
+**Commanding Officer / Executive Officer:**
+- **No investigation is required**
+- **Findings:** Do not change the findings without conferral with and approval of the **investigating entity**
+- **Discipline:** Do not change the recommended disciplinary action (if noted) without conferral with and approval of the **Deputy Commissioner, Department Advocate**
+- Offer MOS the 3 election options
+
+> **Exam Alert:** This is a heavily tested distinction. When a CD comes from IAB: to change **findings**, you need approval of the **investigating entity**. To change **discipline**, you need approval of the **DC Department Advocate**. The exam will try to switch these two — watch carefully. (AG 318-02)
+
+> **Prior Test:** "Choose the correct statement: A) Don't change findings without conferral and approval of DC Dept Advocate. B) Don't change recommended discipline without conferral and approval of investigating entity." — Both are WRONG because the entities are swapped. Findings = investigating entity; Discipline = DC Dept Advocate. (AG 318-02)
+
+> **See Also:** AG 318-01 — Types of CDs and Their Penalties for the penalty ranges and schedules.
+
+---
+
+# Section 318 — MOS Arrested
+
+## A.G. 318-09: MOS Arrested (Includes Civilians)
+
+### MOS Arrested Inside NYC
+
+**MOS (the arrested member):**
+
+| Step | Action |
+|------|--------|
+| 1 | Immediately notify **arresting authority** of position as a member of NYPD |
+| 2 | If member receives a personal service summons for criminal violation, notify **CO** and provide copy of summons |
+| 3 | If arrested by other than NYPD, promptly notify **desk officer** of precinct of arrest with details |
+
+**Desk Officer:**
+
+| Step | Action |
+|------|--------|
+| 1 | Notify **IAB** (provide IAB Command Center with all info regarding arrest) |
+| 2 | Notify **Operations** |
+| 3 | Notify **CO/XO/Duty Captain** |
+| 4 | Document: enter above notification in **Telephone Record** and include ID of Captain (CO/XO/Duty Capt) notified |
+
+**CO/XO/Duty Captain:**
+
+| Step | Action |
+|------|--------|
+| 1 | Ensure arrested MOS's **CO** is notified (the member's own CO, not necessarily yours) |
+| 2 | Notify **Patrol Borough CO**, borough of arrest — **not** through the Borough wheel; Boro CO direct |
+
+> **Exam Alert:** The notification to the Patrol Borough CO is made **directly** to the Borough CO — not through the borough wheel. (AG 318-09)
+
+**Borough CO:**
+- Assigns a **Captain or above** to conduct the investigation (the "Ranking Officer")
+
+### Ranking Officer Investigating (Captain or Above)
+
+| Step | Action |
+|------|--------|
+| 1 | Commence **immediate** investigation; interview MOS and witnesses, if any |
+| 2 | Prepare Report on **Typed Letterhead (49)** |
+| 3 | Submit to **Chief of Department** within **24 hours** |
+
+**Court Appearances:**
+
+| Step | Action |
+|------|--------|
+| 1 | No later than **24 hours** after each court appearance, obtain status of case and adjournment dates |
+| 2 | Update 49 with above information |
+| 3 | Forward updated report to: First Deputy, Chief of Department, Chief of Personnel, Chief of IAB, Dept Advocate's Office (as appropriate), Patrol Borough CO concerned |
+
+**If charges are dismissed:**
+- Direct arrested member to **immediately notify their CO**
+
+### MOS Arrested Outside the City
+
+Key differences from in-city arrest:
+- There is **no Desk Officer** and **no Telephone Record**
+- There is **no "Duty Captain"** — the Chief designates a Captain or above
+
+**MOS:**
+
+| Step | Action |
+|------|--------|
+| 1 | Immediately notify **arresting authority** of position with NYPD (same as in-city) |
+| 2 | Notify **Commanding Officer** (no XO or Duty Captain) |
+| 3 | Notify **Operations** |
+| 4 | Provide Operations and CO with **ID of local police agency** |
+
+> **Exam Alert:** Outside the city, the MOS notifies their CO directly (no XO, no Duty Captain option) and also notifies Operations. There is no desk officer involvement and no telephone record. (AG 318-09)
+
+**CO of Member Arrested (Outside City):**
+- Contact arrested member within **24 hours** of court appearance and ascertain status of case
+
+**Ranking Officer (Outside City Investigation):**
+- Authorized to use Dept car within city and **6 residence counties** without prior permission
+- Advise supervising officer at Operations of facts
+- Report on Typed Letterhead (49) — same as in-city plus additional info:
+  - Arrest number
+  - Docket number
+  - Jurisdiction
+
+### MOS Reporting Obligations (In or Out of City)
+
+The arrested MOS must inform their CO about **4 things** at least once every **30 days**:
+
+| Item |
+|------|
+| 1. Adjournment Date |
+| 2. Final Disposition |
+| 3. If Appealed |
+| 4. Disposition of Appeal |
+
+- If charges are dismissed, notify CO **ASAP**
+
+### Disposition of Criminal Charges
+
+**Commanding Officer of Arrested MOS (in both cases):**
+- Provide **Chief of IAB** with final disposition of all criminal charges
+- If Department charges are filed, CO will notify by telephone:
+  - **Dept Advocate AND Boro CO** responsible for investigation of disposition of criminal charges
+
+> **See Also:** AG 318-05 — Cause for Suspension (arrest is a mandatory suspension ground); AG 318-10 — Unfit for Duty.
+
 ---
 
 # Section 318 — Removal of Firearms from Intoxicated UMOS
@@ -23534,6 +34158,160 @@ A supervisory officer is **mandated** in all cases to contact the Counseling Ser
 
 > **Sergeant Focus:** The first supervisor on scene must (1) direct member to remain, (2) prepare PD469-150 immediately, (3) notify CO/XO/duty captain. Supervisory officer is **mandated** to contact Counseling Services Unit. IAB Command Center must be notified for log number.
 
+> **Exam Alert:** The 1st Deputy Commissioner receives the 49 via **two methods**: the original DIRECT plus a copy through channels. All other recipients receive theirs DIRECT. The AG says "Chief of IAB" for the Unfit for Duty procedure (318-10), not "IAB Command Center" as in suspension procedures. (AG 318-10)
+
+> **Exam Alert:** During normal business hours, have the Supervisory Officer contact **Counseling Unit DIRECT**. At other times, a counselor can be contacted through the **Sick Desk Supervisor**. Do not confuse these two access methods. (AG 318-10)
+
+> **See Also:** AG 318-05 — Cause for Suspension (for the grounds that trigger mandatory suspension); AG 318-14 — Citywide CD System (for database entry requirements).
+
+---
+
+# Section 318 — Types of Command Disciplines and Their Penalties
+
+## A.G. 318-01: Types of CDs and Their Penalties
+
+### Three Types of Command Disciplines
+
+| Type | Issued By | Max Penalty |
+|------|-----------|-------------|
+| **"A"** | Commanding Officer / Executive Officer | **5 days** |
+| **"B"** | Commanding Officer / Executive Officer | **10 days** |
+| **"C"** | Department Advocate (only) | **20 days** |
+
+- **"A" and "B"** Command Disciplines are used by the CO/XO to address minor misconduct or rule violations at the command level
+- **"C"** Command Disciplines are issued by the Department Advocate **in lieu of Charges and Specifications** when:
+  - Certain enumerated offenses apply
+  - No significant aggravating factors or additional misconduct
+  - Maximum penalty is 20 days
+
+### Penalties Available to CO/XO
+
+| Penalty | Details |
+|---------|---------|
+| Forfeiture of vacation days or accrued time | A: up to 5 days; B: up to 10 days |
+| Warn and admonish | Verbally OR in writing (copy filed with papers) |
+| Change assignment within command | Fixed period or indefinitely |
+| Revoke outside employment permission | Fixed time, not to exceed 30 days (if violation related to the outside employment) |
+| Restrict out-of-command assignments | Fixed period, not to exceed 5 such assignments (portal-to-portal pay and overtime) |
+
+> **Exam Alert:** The exam loves to test penalty maximums. Remember A = 5 days, B = 10 days, C = 20 days. A "C" CD is ONLY issued by the Department Advocate, never by a CO/XO. (AG 318-01)
+
+### Schedule "A" Command Discipline — Minor Violations
+
+- **Non-judicial discipline** that can be issued by a commanding/executive officer for **any** minor violation, even if not specifically listed as a Schedule A, in order to correct deficiencies
+- Examples are listed in the NYPD Disciplinary System Penalty Guidelines (Dept Intranet)
+  - Absence from post/assignment, improper uniform, etc.
+  - Over 30 items on the list; 4 of them regard loss of specific items
+
+### Loss of Department Property — Which Schedule?
+
+| Schedule "A" CD | Schedule "B" CD | Charges and Specs |
+|-----------------|-----------------|-------------------|
+| ID Card | Shield | Firearm (could be B or Charges) |
+| Summons book | Activity Log (PD112-145) | — consult Dept. Advocate |
+| Summons | Prisoner (failure to safeguard) | |
+| Dept-issued smartphone | Loss of other Dept property (except "A" items) | |
+
+> **Memory Aid — "A" CD Property Losses:** Remember the 4 items that are "A" CDs: **ID, Phone, Summons, Summons Book** (I.P.S.S. — "ID Phone Summons Summons-book"). Everything else lost is a "B" or higher. (AG 318-01)
+
+> **Exam Alert:** Loss of a **firearm** is a special case — it could be a "B" CD or Charges and Specifications. The Department Advocate's Office must be consulted to determine appropriate disciplinary action. (AG 318-01)
+
+> **Exam Alert:** Omitted Activity Log **entries** is an "A" CD (see the Matrix on the LAN), but loss of the **Activity Log itself** is a "B" CD. Do not confuse the two. (AG 318-01)
+
+### Schedule "B" Command Discipline
+
+Non-judicial punishment issued by a CO/XO for more serious violations.
+
+> **Memory Aid — FOUL FRAP:** The mnemonic for Schedule "B" CDs:
+>
+> | Letter | Meaning |
+> |--------|---------|
+> | **F** | FADO (Force, Abuse of authority, Discourtesy, Offensive Language) |
+> | **O** | Other appropriate by CO/XO (after notifying Adjutant and consulting with Advocate) |
+> | **U** | Unauthorized use of a Department Vehicle |
+> | **L** | Loss of Shield, Activity Log, or Department property |
+> | **F** | Failure to give name and shield to person requesting |
+> | **R** | Radio: fail to respond, acknowledge, give disposition promptly, or unauthorized transmission |
+> | **A** | Alcohol in dept. facility or vehicle unless within scope of assignment |
+> | **P** | Prisoner — failure to safeguard |
+
+> **Exam Alert:** FADO violations can be a "B" CD when, in the opinion of the CCRB or NYPD, a "B" CD is appropriate. The "Other" category requires the CO/XO to first notify the patrol borough adjutant AND consult with the Department Advocate. (AG 318-01)
+
+### Third CD in a Six-Month Period
+
+- Prior to adjudicating, the CO/XO **must confer** with the patrol borough/bureau adjutant
+  - To determine if Charges and Specifications should be instituted instead
+  - If charges are appropriate, do **not** adjudicate the CD
+  - Consultation with the Advocate will be necessary for final approval of Charges and Specs
+
+> **Exam Alert:** On the 3rd CD within 6 months for the same member, the CO/XO cannot just adjudicate — they must first confer with the borough/bureau adjutant to decide if formal charges should replace the CD. (AG 318-01)
+
+### Lost Firearm — Additional Data
+
+When disciplinary action is to be taken for loss of or failure to safeguard a firearm, a consultation with the Department Advocate's Office will be made to determine appropriate disciplinary action.
+
+> **See Also:** AG 318-13 — Removal and Restoration of Firearms for related firearm procedures.
+
+---
+
+# Section 318 — Unfit for Duty
+
+## A.G. 318-10: Unfit for Duty (UMOS Only — Not Civilians)
+
+**Applies to:** Uniformed Members of the Service, ON or OFF duty, for alcohol or drugs.
+
+> **Exam Alert:** AG 318-10 applies to **UMOS only** — not civilian members. For civilians, different procedures apply. (AG 318-10)
+
+### Supervisory Member Duties
+
+| Step | Action |
+|------|--------|
+| 1 | **Direct** subject to remain at Dept. facility or other location and await CO/Duty Captain |
+| 2 | **Document** — Immediately prepare **SUPERVISOR'S FITNESS FOR DUTY REPORT (PD469-150)** |
+| 3 | **Notify** — CO/XO/Duty Captain to respond |
+
+### CO/XO/Duty Captain Duties
+
+| Step | Action |
+|------|--------|
+| 1 | **Document** — Immediately prepare their own **Supervisor's Fitness for Duty Report**; prepare **5 copies** of all completed Supervisor fitness for duty reports |
+| 2 | **Investigation** — Conduct investigation to determine if UMOS was unfit at time of alleged misconduct |
+| 2a | If UMOS intoxicated, **remove firearms** and follow Removal procedures (AG 318-13) |
+| 3 | **Duty Status** — Place UMOS on Modified Assignment or Suspension, as appropriate |
+| 4 | **Counseling** — Advise UMOS of availability of Counseling Service Programs |
+| 4a | During normal business hours: have Supervisory Officer contact **Counseling Unit DIRECT** |
+| 4b | At other times: counselor can be contacted through the **Sick Desk Supervisor** |
+
+### Report on Typed Letterhead (49)
+
+- **8 copies** addressed to 1st Deputy Commissioner
+- Include details that led to determination of Unfit for Duty
+- Attach **ALL** Supervisor's Fitness for Duty Reports
+
+### Distribution of the 49 — Comparison Across AG 318 Procedures
+
+| Recipient | Suspend UMOS (318-06) | Suspend CMOS (318-07) | Modified (318-08) | Unfit (318-10) |
+|-----------|----------------------|----------------------|-------------------|----------------|
+| 1st Dep | Yes | Yes | Yes | Yes |
+| 1st Dep Channels | Yes | XXXX | Yes | Yes |
+| Chief of Dept | Yes | Yes | Yes | Yes |
+| Chief of Personnel | Yes | XXXX | Yes | Yes |
+| IAB Command Center | Yes | Yes | Yes | **Chief of IAB** |
+| CO Personnel Orders | — | — | Yes | — |
+| DC Trials | Yes | Yes | Yes | Yes |
+| Dept Advocate | **----** (blank) | **Dept Advocate's Office** | **DC Dept Advocate** | **Dept Advocate's Office** |
+| MOS's CO | Yes | Yes | Yes | Yes |
+
+> **Exam Alert:** Key differences in the 49 distribution across AG 318 procedures:
+> - **Modified (318-08)** is the only procedure where the CO's **Personnel Orders** get a copy of the 49
+> - **Suspend CMOS (318-07):** 1st Dep does NOT get a copy through channels, and Chief of Personnel does NOT get a 49
+> - **IAB vs. Chief of IAB:** Three procedures say "IAB Command Center"; Unfit (318-10) says "Chief of IAB"
+> - **Advocate variations:** The title/office varies across procedures — Dept Advocate (blank in 318-06), Dept Advocate's Office, or DC Dept Advocate (AG 318-06/07/08/10)
+
+> **Exam Alert:** The 1st Deputy Commissioner receives the 49 via **two methods** in most procedures: the original DIRECT plus a copy through channels. Exception: Suspend CMOS (318-07) — 1st Dep gets only one copy (no through-channels copy). (AG 318-10)
+
+> **See Also:** AG 318-13 — Removal and Restoration of Firearms; AG 318-05 — Cause for Suspension.
+
 ---
 
 # Section 318 — Key Terms and Definitions
@@ -23603,6 +34381,81 @@ A supervisory officer is **mandated** in all cases to contact the Counseling Ser
 | "Off the record" questions |
 | Offensive language or threats (transfer, dismissal, disciplinary punishment) |
 | Promises of reward for answering questions |
+
+## Command Discipline Types
+
+| Type | Issued By | Max Penalty |
+|------|-----------|-------------|
+| **Schedule "A"** | CO/XO | 5 days |
+| **Schedule "B"** | CO/XO | 10 days |
+| **Schedule "C"** | Department Advocate only | 20 days |
+
+## Schedule "B" CD Mnemonic — FOUL FRAP
+
+| Letter | Meaning |
+|--------|---------|
+| **F** | FADO (Force, Abuse of authority, Discourtesy, Offensive Language) |
+| **O** | Other appropriate by CO/XO (after notifying Adjutant and consulting Advocate) |
+| **U** | Unauthorized use of a Department Vehicle |
+| **L** | Loss of Shield, Activity Log, or Department property |
+| **F** | Failure to give name and shield to person requesting |
+| **R** | Radio: fail to respond, acknowledge, give disposition, or unauthorized transmission |
+| **A** | Alcohol in dept. facility or vehicle unless within scope of assignment |
+| **P** | Prisoner — failure to safeguard |
+
+## Suspension Mnemonic — A DOG CAR
+
+| Letter | Meaning |
+|--------|---------|
+| **A** | Arrest for PL crime (Misd or Fel) or DWI (VTL 1192 subs 2-4a) |
+| **D** | Dole Test — Refuse to take |
+| **O** | Order — Refuse a lawful order |
+| **G** | G.O. 15 — Refuse to answer |
+| **C** | Club — Patronize a "Good Ass Club" (G.D.A.S.S.: Gambling, Drugs, After hours, Social club, Smoke) |
+| **A** | AWOL — 5 consecutive tours |
+| **R** | Roll Call / during the tour — Refuse assignment |
+
+## Suspension Authority
+
+| Actor | Authority Level | Who They Suspend |
+|-------|----------------|-----------------|
+| Uniformed Sergeant (or above) | **Must** suspend | Any MOS (uniformed or civilian) |
+| TM/SSDD | **Authorized to** suspend | CMOS (civilians under their command) |
+
+## Member's Three CD Election Options
+
+| Option | Result |
+|--------|--------|
+| Accept both finding and penalty | Adjudicated at command level |
+| Accept finding but not penalty | CD Review Panel decides |
+| Accept neither — opt for Charges | Goes to Department Advocate |
+
+## CD Record Clearing Timeframes
+
+| CD Type | Time | Measured From | Condition |
+|---------|------|--------------|-----------|
+| Unsubstantiated (A or B) | 1 year | Issuance | None — always removed |
+| Schedule "A" | 1 year | Issuance | No subsequent discipline of any kind |
+| Schedule "B" (sealing) | 3 years | Disposition | No subsequent "B" or Charges; member must request in writing |
+
+## Key Timeframes — CD Process
+
+| Item | Timeframe |
+|------|-----------|
+| Member election of CD option | **3 working days** from CO/XO's decision |
+| CD adjudication deadline | **60 days** from issuance |
+| Citywide system entry (issuance) | **5 working days** from issuance |
+| Citywide system entry (adjudication) | **5 working days** from adjudication |
+| CO sign-off on Citywide entries | **5 working days** from completion of adjudication entries |
+| 49 to Chief of Dept (arrested MOS) | **24 hours** |
+| MOS updates CO on case status | Every **30 days** |
+
+## Law vs. Procedure Questions
+
+| Question Type | Who to Ask |
+|---------------|-----------|
+| Questions on **Law** | Legal Bureau |
+| Questions on **Procedure** | Department Advocate |
 
 ---
 
@@ -23809,6 +34662,142 @@ Prohibited tactics include: "off the record" questions, offensive language or th
 **C) The Deputy Commissioner - Legal Matters**
 
 Questions and answers resulting from interrogation are confidential and not to be revealed or released outside the Department without prior written approval of the Deputy Commissioner - Legal Matters. If a subpoena duces tecum is received, contact the Legal Bureau immediately. (A.G. 318-11)
+
+</details>
+
+---
+
+**13. The maximum penalty for a Schedule "A" Command Discipline is:**
+
+- A) 3 days
+- B) 5 days
+- C) 10 days
+- D) 20 days
+
+<details><summary>Answer</summary>
+
+**B) 5 days**
+
+The three types of CDs have different maximums: "A" = 5 days, "B" = 10 days, "C" = 20 days. "C" CDs are issued only by the Department Advocate. (A.G. 318-01)
+
+</details>
+
+---
+
+**14. When a CD results from an IAB investigation and the CO wants to change the recommended disciplinary action, the CO must obtain conferral and approval from:**
+
+- A) The investigating entity
+- B) The Deputy Commissioner, Department Advocate
+- C) The Chief of IAB
+- D) The Patrol Borough Adjutant
+
+<details><summary>Answer</summary>
+
+**B) The Deputy Commissioner, Department Advocate**
+
+When a CD comes from IAB: to change **findings**, you need approval of the **investigating entity**. To change **discipline**, you need approval of the **DC Department Advocate**. The exam often switches these two. (A.G. 318-02)
+
+</details>
+
+---
+
+**15. The CD Review Panel may increase the penalty proposed by the CO to not more than:**
+
+- A) The same penalty proposed
+- B) One and a half times the proposed penalty
+- C) Double the proposed penalty
+- D) Triple the proposed penalty
+
+<details><summary>Answer</summary>
+
+**C) Double the proposed penalty**
+
+The CD Review Panel may approve, reduce, or increase the penalty — but the increase cannot exceed double what the CO proposed. (A.G. 318-02)
+
+</details>
+
+---
+
+**16. A Uniformed Sergeant must suspend an MOS for all of the following EXCEPT:**
+
+- A) Arrest for a misdemeanor
+- B) Refusal to take a Dole Test
+- C) Being impaired (BAC under .08)
+- D) AWOL for 5 consecutive tours
+
+<details><summary>Answer</summary>
+
+**C) Being impaired (BAC under .08)**
+
+The mandatory suspension grounds (A DOG CAR) include DWI (VTL 1192 subs 2-4a) but NOT impairment below .08. By its absence from the list, impaired is not a must-suspend. (A.G. 318-05)
+
+</details>
+
+---
+
+**17. A member must elect one of the three CD options within what timeframe of receiving the CO/XO's decision?**
+
+- A) 3 calendar days
+- B) 3 working days
+- C) 5 working days
+- D) 5 calendar days
+
+<details><summary>Answer</summary>
+
+**B) 3 working days**
+
+The member must notify the CO in writing on the CD of the option elected within 3 **working** days of receiving the CO/XO's decision. When the AG does not specify "working," it means calendar days. (A.G. 318-02)
+
+</details>
+
+---
+
+**18. Records and dispositions of substantiated Schedule "B" CDs may be sealed after:**
+
+- A) 1 year from issuance with no subsequent discipline
+- B) 3 years from issuance with no subsequent "B" or Charges
+- C) 3 years from disposition, upon written request, with no subsequent "B" or Charges
+- D) They are automatically sealed after 3 years
+
+<details><summary>Answer</summary>
+
+**C) 3 years from disposition, upon written request, with no subsequent "B" or Charges**
+
+Sealing of "B" CDs is NOT automatic — the member must request in writing via a 49 to their CO on the 3rd anniversary of the date of disposition. If no subsequent "B" CDs or Charges during those 3 years, the CO expunges from the command folder. (A.G. 318-12/318-14)
+
+</details>
+
+---
+
+**19. When an MOS is arrested outside the city, who designates the Captain or above to conduct the investigation?**
+
+- A) The Patrol Borough CO
+- B) The Duty Captain
+- C) The Chief (of Department)
+- D) The MOS's Commanding Officer
+
+<details><summary>Answer</summary>
+
+**C) The Chief (of Department)**
+
+When arrested outside the city, there is no "Duty Captain" — the Chief designates a Captain or above to conduct the investigation. Inside the city, the Borough CO assigns the Ranking Officer. (A.G. 318-09)
+
+</details>
+
+---
+
+**20. Loss of a Department-issued smartphone results in which type of Command Discipline?**
+
+- A) Schedule "A" CD
+- B) Schedule "B" CD
+- C) Schedule "C" CD
+- D) Charges and Specifications
+
+<details><summary>Answer</summary>
+
+**A) Schedule "A" CD**
+
+Loss of an ID Card, Summons, Summons Book, or Department-issued smartphone are all Schedule "A" CDs. Loss of shield, Activity Log, prisoner (failure to safeguard), or other Department property (except the "A" items) are Schedule "B" CDs. (A.G. 318-01)
 
 </details>
 
@@ -24489,7 +35478,7 @@ Operations Unit notifies: Communications Section (FINEST Message), Internal Affa
 
 ## Source
 - **Administrative Guide Section:** 330
-- **Source PDFs:** A.G. 330-03, A.G. 330-07, A.G. 330-09
+- **Source PDFs:** A.G. 330-03, A.G. 330-07, A.G. 330-09; P.G. 330-01, P.G. 330-02, P.G. 330-04, P.G. 330-16
 - **Priority:** Medium
 
 ## Learning Objectives
@@ -24499,6 +35488,10 @@ Operations Unit notifies: Communications Section (FINEST Message), Internal Affa
 - Know the Trauma Counseling Program scope, timeline, and confidentiality rules
 - Understand infectious disease exposure procedures, universal precautions, and decontamination
 - Know needle handling procedures and bleach solution protocols
+- Understand Regular Sick reporting (Sick Desk call, sick serial number, confinement rules)
+- Know Administrative Sick eligibility, 2-day limit, and LIMB LSS MD exclusions
+- Know court notification procedures when a member reports sick (Command Diary, Roll Call Clerk)
+- Understand Counseling Unit confidentiality exceptions, non-disciplinary referral protections, and EAU conferral requirements
 
 ## Procedures
 
@@ -24507,25 +35500,164 @@ Operations Unit notifies: Communications Section (FINEST Message), Internal Affa
 | A.G. 330-03 | Line of Duty Injury or Death | completed |
 | A.G. 330-07 | Trauma Counseling Program | completed |
 | A.G. 330-09 | Exposure to Infectious Diseases or Hazardous Materials | completed |
+| P.G. 330-01 | Regular Sick | completed |
+| P.G. 330-02 | Administrative Sick | completed |
+| P.G. 330-04 | Notifying Court When Reporting Sick | completed |
+| P.G. 330-16 | Counseling Unit | completed |
 
 ## Chapter Files
 
 | File | Content |
 |------|---------|
-| `section-330-line-of-duty-injury.md` | A.G. 330-03: LOD injury investigation, Sick Desk triggers, hospital privacy, hospital response for serious injury/death, FECA |
+| `section-330-line-of-duty-injury.md` | A.G. 330-03: LOD injury investigation, IS rank requirements, 3 reports (PAR/AIDED/LODI), Sick Desk triggers, hospital privacy, MOS DOA/SILD permitted visitors (5-2-2-2), FECA |
 | `section-330-trauma-counseling.md` | A.G. 330-07: Referral triggers, Trauma Team response, 48-hour follow-up, confidentiality, CO duties |
 | `section-330-infectious-disease-exposure.md` | A.G. 330-09: Universal precautions, exposure procedures, bleach solution ratio, needle handling, Ryan White Act |
-| `key-terms.md` | LOD definitions, trauma counseling terms, infectious disease/hazmat definitions, key forms, timeframes, bleach rules |
-| `review-questions.md` | 15 multiple-choice questions covering all three procedures |
+| `section-330-regular-sick.md` | P.G. 330-01: Sick Desk call, 3 items received/1 given to D.O., 5 District Surgeon exceptions, confinement rules, travel restrictions, routine visit exemptions, malingering |
+| `section-330-administrative-sick.md` | P.G. 330-02: UMOS only, 2-day max, LIMB LSS MD exclusions, Admin vs Regular first-call distinction |
+| `section-330-notifying-court-when-sick.md` | P.G. 330-04: Command Diary entries, Roll Call Clerk duties, Operations Coordinator/PRAA duties, condition changes |
+| `section-330-counseling-unit.md` | P.G. 330-16: Confidentiality exceptions, non-disciplinary referral, misconduct not exempt, EAU conferral for alcohol/DV cases |
+| `key-terms.md` | LOD, trauma, infectious disease, regular sick, admin sick, court notification, counseling unit definitions; key forms; timeframes; bleach/needle rules |
+| `review-questions.md` | 25 multiple-choice questions covering all seven procedures |
 
 ## Sergeant Focus Areas
 - **LOD Injury Report:** Sign off electronically before end of tour; include BWC/video findings
+- **IS and 3 Reports:** IS always prepares PAR, never prepares AIDED, sometimes prepares LODI
 - **Out-of-City LOD:** Investigating supervisor must be captain or above
 - **Sick Desk triggers:** Not witnessed, in/near police facility, first 2 hours of tour, off-duty request
 - **Hospital privacy:** Only Medical Division address in hospital records — never member's personal info
+- **MOS DOA/SILD visitors:** 5-2-2-2 (5 supervisors, 2 investigators, 2 fraternal/religious, 2 conditional)
 - **Trauma Counseling:** 48-hour follow-up, strictly confidential, captain+ can request response
 - **Infectious disease:** Assign officer who already had contact; patrol supervisor coordinates for multiple exposures
 - **Decontamination:** Bleach ratio 1:10, freshly mixed, sink disposal only; one-handed needle scoop technique
+- **Regular Sick:** UMOS gets 3 items from Sick Desk but gives D.O. only the sick serial number
+- **Admin Sick:** UMOS only (no CMOS); max 2 days; call command first (not Sick Desk); LIMB LSS MD exclusions
+- **Court notification:** Command Diary under appearance date AND 2 days prior (excl. weekends/holidays)
+- **Counseling Unit:** Supervisors are vital link in detection/referral; non-disciplinary referral = no report, no promo impact; EAU conferral required before adjudication of alcohol/DV misconduct
+
+---
+
+# Section 330 — Administrative Sick
+
+## P.G. 330-02: Administrative Sick
+
+### Applicability
+
+- **UMOS only** — Civilian members of the service (CMOS) **cannot** go Administrative Sick
+
+### Definition — Three-Day Progression
+
+| Day | Status | Requirements |
+|-----|--------|-------------|
+| **1st Sick Day** | Admin Sick | One (1) tour; call D.O./Supervisor at least **2 hours** prior to start of tour; **no** visit to District Surgeon |
+| **2nd Sick Day** | Admin Sick | If still sick next day, call D.O./Supervisor **2 hours** prior to tour; no District Surgeon; counts as **one (1) sick event** with Day 1 |
+| **3rd Sick Day** | **Regular Sick** | Report Regular Sick; guided by Sick Desk regarding Medical Division visit to District Surgeon; consolidates into **1 sick event** |
+
+> **Exam Alert:** Admin Sick lasts a maximum of 2 days. On the 3rd day, it automatically converts to Regular Sick. All three days consolidate into one sick event.
+
+### When Admin Sick Is NOT Authorized
+
+> **Memory Aid — LIMB LSS MD (A Limbless Doctor):**
+>
+> **LIMB:**
+> - **L**ine of Duty
+> - **I**njury
+> - **M**utual (exchange)
+> - Chronic **B**
+>
+> **LSS:**
+> - **L**ate (less than 2 hours pre-tour)
+> - **S**tress/psychological
+> - **S**upervisor deems inappropriate
+>
+> **MD:**
+> - **M**ajor Illness
+> - **D**ental
+
+> **Exam Alert:** The mnemonic "LIMB LSS MD" covers all situations where Admin Sick is not authorized. If any of these apply, the member must report Regular Sick instead.
+
+### UMOS Duties
+
+| Step | Action |
+|------|--------|
+| 1 | Notify D.O./Supervisor at assigned command **by phone or in person** at least **2 hours** pre-tour |
+| 2 | Inform D.O./Supervisor of any pending arraignment, court, trial room, or any government appearance |
+| 3 | If command has no available supervisor or is otherwise closed: (a) call **Sick Desk Supervisor** to request Admin Sick, AND (b) notify command when it reopens |
+
+> **Exam Alert:** For Admin Sick, the UMOS calls their **command** (D.O./Supervisor) — NOT the Sick Desk. For Regular Sick, the UMOS calls the **Sick Desk** first, then the command. This is a key distinction.
+
+### Key Recap: Admin vs. Regular Sick First Call
+
+| Admin Sick | Regular Sick |
+|-----------|-------------|
+| Call **Command** (D.O./Supervisor) — not the Sick Desk | Call **Sick Desk** first, then the command |
+
+### Desk Officer / Supervisor / Sick Desk Supervisor Duties
+
+| Step | Action |
+|------|--------|
+| 1 | Query **Medical Division Sick Reporting System** to determine if UMOS is eligible for Admin |
+| 2 | If eligible: place UMOS on Admin via Med Div Sick Reporting System and provide **sick serial number** |
+| 3 | If not eligible: direct member to report **Regular Sick** |
+| 4 | Comply with P.G. 330-04, "Notify Court when MOS sick" if appropriate |
+
+### After Admin Sick Is Granted
+
+- Desk Officer and members follow all Regular Sick reporting, recording, notifications, and restrictions
+- This includes out-of-residence, out-of-city, out-of-resident-counties, out-of-state/country, malingering, etc.
+
+> **See Also:** P.G. 330-01 — Regular Sick (the full sick reporting procedure applies after Admin is placed).
+
+> **See Also:** P.G. 330-04 — Notifying Court When Reporting Sick.
+
+---
+
+# Section 330 — Counseling Unit
+
+## P.G. 330-16: Counseling Unit
+
+### Confidentiality
+
+- Counseling Unit records are **confidential**
+- **BUT** may be disclosed with:
+  - Written consent
+  - Valid subpoena
+  - U.S. District Court Order
+  - Suspected child abuse, **OR**
+  - If member is a danger to self or others
+
+> **Exam Alert:** Counseling Unit confidentiality has 4 exceptions beyond written consent: subpoena, U.S. District Court Order, suspected child abuse, and danger to self/others. Know all four.
+
+### Primary Function
+
+- Assist in **recovery and return to full duty** those MOS experiencing difficulties with:
+  - Alcohol and **prescription** drugs
+  - Gambling or finances
+
+### Non-Disciplinary Referrals
+
+- Denial is an inherent part of alcoholism, so **supervisors are a vital link** in detection and referral
+- Non-Disciplinary Referral:
+  - **No report** is made
+  - Promotion opportunities are **NOT jeopardized**
+  - Current assignment **NOT ordinarily changed** (but may be if in best interest of all)
+
+> **Exam Alert:** A non-disciplinary referral to the Counseling Unit produces NO report, does NOT affect promotions, and does NOT ordinarily change the member's assignment. Supervisors play a critical detection/referral role because denial is inherent in alcoholism.
+
+### Misconduct
+
+- Counseling Unit is **not a sanctuary** for misconduct
+- Suspected illegal drug use will be reported to **IAB**
+- Participation will **NOT exempt** MOS from discipline for acts of misconduct
+
+### Adjudication of Discipline Involving Alcohol or Domestic Violence
+
+- **Department Advocate** will ensure:
+  - Prior to final adjudication of **all** misconduct cases involving alcohol or domestic violence, a **conferral with EAU** must be made, **AND**
+  - **Assessment/referral** by Counseling Unit must be done
+
+> **Exam Alert:** For ANY misconduct case involving alcohol or domestic violence, two things must happen before final adjudication: (1) conferral with EAU and (2) assessment/referral by Counseling Unit. The Dept. Advocate ensures compliance.
+
+> **See Also:** A.G. 330-07 — Trauma Counseling Program (separate program for incident-related trauma; does not prevent voluntary use of Counseling Unit).
 
 ---
 
@@ -24652,6 +35784,17 @@ To report and record line of duty injuries and deaths occurring within the City 
 | 4 | Remain at scene unless: (a) hospitalization/medical attention required, (b) further police action necessary |
 | 5 | Notify local police authorities and **Operations Unit immediately** if reporting LOD injury from **outside of City** |
 
+### Investigating Supervisor (IS) — Who Qualifies
+
+| Scenario | Minimum Rank |
+|----------|-------------|
+| Normal LOD (within city) | **Sergeant or above** from member's command |
+| If unavailable | Supervisor from precinct of occurrence |
+| **Out of city** | **Captain or above** |
+| Force against us (P.G. 221-06) | Supervisor uninvolved, AND **1 rank higher** than all involved members |
+
+> **Exam Alert:** The investigating supervisor hierarchy is a frequent test topic. Within the city = Sgt+. Out of city = Capt+. Force incidents = uninvolved AND 1 rank higher.
+
 ### Investigating Supervisor Duties
 
 | Step | Action |
@@ -24663,6 +35806,13 @@ To report and record line of duty injuries and deaths occurring within the City 
 | 10 | Direct injured member to prepare AIDED REPORT (PD304-152) if no vehicle involved |
 | 11 | Comply with P.G. 221-06 if any force used by UMOS or civilian and UMOS sustains injury |
 | 12 | Prepare Line of Duty Injury Report if injured member is incapacitated |
+
+### Investigating Supervisor and the 3 Reports
+
+> **Memory Aid — IS and the 3 Reports:**
+> - IS **always** prepares the **PAR** (Police Accident Report)
+> - IS **never** prepares the **AIDED** (directs injured MOS to do it; if incapacitated, assigns another member)
+> - IS **sometimes** prepares the **LODI** (only if injured member is incapacitated)
 
 ### Out of City LOD Injuries
 
@@ -24681,6 +35831,15 @@ Investigating supervisor must be in the rank of **captain or above**.
 
 ### Desk Officer Notifications
 
+> **Memory Aid — D.O. Notification Tiers:**
+>
+> | Condition | Notify |
+> |-----------|--------|
+> | MOS not from precinct of occurrence | **MOS's own command** |
+> | MOS is DOA or likely | Boro C.O. (not XO), Pct CO/XO/Duty Capt, Operations, **Medical Examiner or Assistant** |
+> | MOS requires hospital treatment | **Operations** |
+> | Not witnessed AND in/around stationhouse, 1st 2 hours, off-duty | **Sick Desk Boss or Sick Desk** |
+
 | Notify When |
 |-------------|
 | Injured member's command (if not assigned to precinct of occurrence) |
@@ -24697,6 +35856,8 @@ Investigating supervisor must be in the rank of **captain or above**.
 | Injury occurred in immediate vicinity of police facility (parking lot, perimeter sidewalk) |
 | Injury occurred during **first two hours of a tour** |
 | Any request for LOD designation by an **off-duty** UMOS |
+
+> **Exam Alert:** Think about it this way: if none of the Sick Desk trigger conditions exist, the officer is from the precinct, the incident was witnessed, the MOS was on-duty, and it did not happen in/near the stationhouse — the Desk Officer has **no** Sick Desk notification duty.
 
 ### CO Duties
 
@@ -24720,6 +35881,8 @@ Patrol supervisor ensures:
 - Firearms, Department property (shield, ID, nameplate), and personal effects are **removed and safeguarded**
 - Member struck by bullet on protective vest and apparently uninjured → must be examined by doctor for blunt body trauma or internal injury
 
+> **Exam Alert:** If MOS is DOA, also follow **P.G. 216-04, Dead Body**. For Department vehicle collisions (P.G. 217-06), the patrol supervisor enters the **command address** as operator's address on the PAR.
+
 ### Hospital Response — Serious Injury/Death in Line of Duty
 
 Operations Unit notifies the following to respond to hospital:
@@ -24737,17 +35900,25 @@ Operations Unit notifies the following to respond to hospital:
 | Duty inspector (control access to ER) | EAU representative |
 | Patrol borough operations commander (if DI unavailable) | POPPA representative |
 
-### Permitted to Speak to Injured/View Deceased
+### Permitted to Speak to Injured/View Deceased (MOS DOA/SILD)
 
-| Permitted |
-|----------|
-| Police Commissioner, First Deputy Commissioner, Chief of Department |
-| Bureau chief concerned, Patrol borough CO (or rep) |
-| Department Chaplain |
-| Detective assigned to case, Crime Scene Unit detective/technician |
-| Union representative |
-| Policewomen's Endowment Association representative (if female-identifying PO) |
-| ESU member (if transported by Department ambulance) |
+Applies in residence counties too.
+
+**Supervisors (5):**
+- PC, 1st Deputy, Chief of Department, Bureau Chief, Patrol Borough C.O. or **representative**
+
+**Investigators (2):**
+- Detective assigned to the case, CSU detective/technician
+
+**Fraternal and Religious (2):**
+- Union representative, Department Chaplain
+
+**Under Certain Circumstances — Qualified (2):**
+- ESU member (if transported by Department ambulance)
+- Policewomen's Endowment Association representative (if member identifies as female)
+
+> **Memory Aid — Who Can Speak/View: 5-2-2-2:**
+> 5 Supervisors, 2 Investigators, 2 Fraternal/Religious, 2 Conditional
 
 ### FECA (Federal Employees Compensation Act)
 
@@ -24767,6 +35938,173 @@ Operations Unit notifies the following to respond to hospital:
 > **Exam Alert:** Investigating supervisor for out-of-city LOD injuries must be **captain or above**. Sick Desk must be notified when injury is during first **2 hours** of tour, in/near police facility, not witnessed, or off-duty request. Hospital records receive **Medical Division address only** — not member's personal info.
 
 > **Sergeant Focus:** Sign off LOD Injury Report electronically **before end of tour**. Include BWC/video review findings. If member dies or likely to die, ensure firearms and Department property are safeguarded. Comply with P.G. 221-06 if any force was used. FECA indicator required on LOD report.
+
+---
+
+# Section 330 — Notifying Court When Reporting Sick
+
+## P.G. 330-04: Notifying Court, Etc., When Reporting Sick
+
+### UMOS Duties
+
+- Court, Trial Room, or other governmental appearances:
+  - Inform Desk Officer/Supervisor of **ANY** pending appearance
+
+### Desk Officer / Supervisor Duties
+
+| Step | Action |
+|------|--------|
+| 1 | Make entry in **Command Diary** under: (a) date of appearance, AND (b) **two (2) days prior** (not counting Sat/Sun/Holidays) |
+| 2 | If pending **arraignment**, notify **Borough Court Section** concerned |
+
+> **Exam Alert:** The Command Diary entry goes under BOTH the appearance date AND 2 days prior (excluding weekends and holidays). This ensures the command has advance notice.
+
+### Roll Call Clerk Duties
+
+| Step | Action |
+|------|--------|
+| 1 | Immediately notify court of member's inability to attend due to being on sick report |
+| 2 | **Two (2) days before** date of appearance: if member unable to appear, notify Court and request **adjournment** |
+| 3 | Date of scheduled appearance: notify court on the **morning of the appearance** (except Criminal Court) |
+| 4 | Enter **ALL** notifications in **Telephone Record** |
+
+### Operations Coordinator / PRAA Duties
+
+| Step | Action |
+|------|--------|
+| 1 | **Two (2) days prior** to appearance: call District Surgeon to determine if member can appear |
+| 2 | If Surgeon approves appearance: notify member to appear **AND** notify Sick Desk |
+
+### Condition Changes After Directed to Appear
+
+- If condition changes after member was directed to appear and member cannot make appearance:
+  - Member must notify **Roll Call Clerk** or **D.O.** who makes required notifications
+
+> **Exam Alert:** If a member was cleared by the Surgeon to appear in court but their condition worsens, the member contacts the Roll Call Clerk or D.O. — not the Surgeon or Sick Desk.
+
+> **See Also:** P.G. 330-01 — Regular Sick (court/trial room compliance when MOS goes sick).
+
+> **See Also:** P.G. 330-02 — Administrative Sick (UMOS must inform D.O. of pending appearances).
+
+---
+
+# Section 330 — Regular Sick
+
+## P.G. 330-01: Regular Sick
+
+### Definition
+
+- **Regular Sick** — Member is not eligible for, or declines, Administrative Sick
+- Requires a visit to the **Department Surgeon**
+
+### District Surgeon Reporting
+
+Report to your assigned District Surgeon at **next office hours**, EXCEPT in 5 situations:
+
+> **Memory Aid — 5 Times You Do NOT Visit Your Assigned District Surgeon:**
+>
+> | Problem | Report Instead To |
+> |---------|-------------------|
+> | Chronic "B" | Special/Confidential Medical District at next regular office hours |
+> | Go sick on **Friday/Saturday** | Weekend Surgeon at **1000 hours** the following day |
+> | Unable to travel | Remain at place of confinement and call **Sick Desk Supervisor** |
+> | Dental problems | Be guided by Sick Desk Supervisor/member |
+> | Medical Division Supervisor directs otherwise | As directed |
+
+### Paid Detail Restriction
+
+- **NO** Paid Detail while out sick — even while outside assigned tour or on RDO
+- Notify **Paid Detail Unit** as soon as member knows they cannot make a scheduled assignment
+
+> **Exam Alert:** A member out sick cannot work paid detail at ANY time — not just during their scheduled tour. This includes RDOs. The Paid Detail Unit must be notified immediately.
+
+### UMOS Reporting Procedure
+
+| Step | Action |
+|------|--------|
+| 1 | Notify **Medical Division Sick Desk** |
+| 2 | Obtain from Sick Desk: (a) sick serial number, (b) Sick Desk name, (c) time notified |
+| 3 | Give Sick Desk: details and any change of address/location or phone number |
+| 4 | Notify D.O./Supervisor at your command |
+| 5 | Give D.O./Supervisor the **sick serial number only** |
+
+> **Prior Test:** Which of the following is correct? A UMOS going out on regular sick should provide the desk officer at the permanent command with: A) Name of Sick Desk member notified B) Time Sick Desk was notified C) Sick serial number D) Change of address/location — Correct answer is **C**. UMOS gets 3 pieces of information from the Sick Desk but only passes the sick serial number to the D.O.
+
+> **Exam Alert:** The UMOS receives 3 items from the Sick Desk (serial number, name, time) but only gives 1 item to the D.O./Supervisor — the **sick serial number**. This distinction is a frequent exam trap.
+
+### Confinement Rules
+
+- Remain at residence/other authorized location while out sick **EXCEPT** when:
+  - Outside assigned tour of duty
+  - RDO, **OR**
+  - Permission to leave is granted by **Department Surgeon** or **Sick Desk Supervisor**
+
+### Chronic (A or B), Modified, Suspended, Dismissal Probation, OR Surgeon Deems Confinement Necessary
+
+- Must remain at residence/other authorized location **entire sick time** — even when NOT scheduled to be on-duty, **including RDOs**
+- Unless permission granted by Surgeon or Sick Desk Supervisor
+
+### Tours Vary
+
+- If member's tours vary, the tour scheduled for the **day they went sick** is the tour for the **duration** of the sick leave
+
+### Travel Restrictions
+
+- Do NOT leave **New York City** or **resident counties** without approval of **Chief of Personnel**
+- Request approval through **District Surgeon**
+
+> **Prior Test:** To leave the city and resident counties while out sick, request permission through: A) Chief of Personnel B) Sick Desk Supervisor C) Desk Officer, permanent command D) District Surgeon — Correct answer is **D (District Surgeon)**. The Chief of Personnel grants the approval, but the request goes through the District Surgeon.
+
+### UMOS Out Sick from Outside Residence Counties
+
+- Contacted **weekly** by their District Surgeon
+
+### Report to District Surgeon
+
+- Next office hours as directed by Medical Division
+- If unable to visit Department Surgeon, notify **Sick Desk Supervisor** and be guided by them
+
+### Visited While Sick
+
+- Comply with lawful order/instruction of supervisor, **regardless of rank**, dispatched by competent authority to visit member on sick report
+
+### Desk Officer/Supervisor Duties
+
+| Step | Action |
+|------|--------|
+| 1 | Record sick in: **Sick Log**, **Telephone Record**, and **CPR System Roll Call** |
+| 2 | Query **Sick Reporting System** to ensure UMOS is listed as being sick |
+| 3 | If member scheduled for either of the **next two platoons**, notify relieving D.O./Supervisor |
+| 4 | If sick out of state/country, notify **Sick Desk Supervisor** |
+| 5 | If suspect malingering, notify Medical Division's **Absence Control and Investigations Unit** |
+| 6 | Court/Trial Room: comply with P.G. 330-04, notify court when MOS goes sick |
+
+> **Prior Test:** Which D.O. notification is correct? A) If MOS working the next three platoons, notify relieving D.O./Supervisor B) If MOS suspected of malingering, notify Sick Desk Supervisor C) If special or unusual circumstances, notify Medical Division's Absence Control and Investigations Unit D) If MOS scheduled for either of the next two platoons, notify relieving D.O./Supervisor — Correct answer is **D**. It is the next **two** platoons, not three. Malingering goes to Absence Control, not Sick Desk.
+
+### Routine Visits (Members NOT Subject to Visits/Calls)
+
+Members are not subject to routine visits or calls if sick for:
+- Heart condition
+- Broken limb
+- Post-surgical
+- Pregnant
+- Illness diagnosed by Department Surgeon as likely to exceed **6 months** (with Supervising Chief Surgeon conferral)
+
+> **Exam Alert:** The C.O. of Medical Division or designee (non-doctors) may **revoke** routine visit exemptions upon notice to MOS and District Surgeon.
+
+### Operations Coordinator Duties
+
+- Access **Sick Reporting System** periodically throughout tour
+- Ensure Department records are updated as necessary
+
+### Request Limited Capacity from Department Surgeon
+
+- Do NOT have to go out sick, but must visit Surgeon
+- **Exception:** Pregnant and requesting position limited status — no visit necessary
+
+> **See Also:** P.G. 330-02 — Administrative Sick (alternative to Regular Sick for eligible UMOS).
+
+> **See Also:** P.G. 330-04 — Notifying Court When Reporting Sick.
 
 ---
 
@@ -24941,6 +36279,56 @@ The Trauma Counseling Team will respond to **all** incidents involving:
 | Move needle AWAY from yourself |
 | NEVER remove, dislodge, or bend a needle |
 | Cap container if possible; tape if syringe extends |
+
+## Regular Sick (P.G. 330-01)
+
+| Term | Definition |
+|------|-----------|
+| **Regular Sick** | Member not eligible for or declines Admin Sick; requires visit to Department Surgeon |
+| **District Surgeon** | Report at next office hours; 5 exceptions (Chronic B, Fri/Sat, unable to travel, dental, Medical Division directs) |
+| **Sick Serial Number** | Obtained from Sick Desk; the ONLY item UMOS passes to D.O. |
+| **Absence Control and Investigations Unit** | Medical Division unit notified by D.O. when malingering is suspected |
+| **Sick Reporting System** | Queried by D.O. and Operations Coordinator to verify sick status |
+| **Limited Capacity** | Must visit Surgeon to request; exception: pregnant members requesting position limited — no visit required |
+
+## Administrative Sick (P.G. 330-02)
+
+| Term | Definition |
+|------|-----------|
+| **Admin Sick** | UMOS-only (no CMOS); max 2 days; call D.O. at least 2 hours pre-tour; no Surgeon visit |
+| **LIMB LSS MD** | Mnemonic for when Admin Sick is NOT authorized: Line of duty, Injury, Mutual, Chronic B, Late, Stress, Supervisor deems inappropriate, Major illness, Dental |
+| **One Sick Event** | Days 1-3 (Admin + Regular) consolidate into a single sick event |
+
+## Notifying Court When Sick (P.G. 330-04)
+
+| Term | Definition |
+|------|-----------|
+| **Command Diary** | Entry made under appearance date AND 2 days prior (excluding Sat/Sun/Holidays) |
+| **Roll Call Clerk** | Notifies court of inability to attend; requests adjournment 2 days before; notifies on morning of appearance (except Criminal Court) |
+| **Operations Coordinator / PRAA** | Calls District Surgeon 2 days prior to determine if member can appear |
+
+## Counseling Unit (P.G. 330-16)
+
+| Term | Definition |
+|------|-----------|
+| **Counseling Unit** | Assists MOS with alcohol, prescription drug, gambling, or financial difficulties; return to full duty |
+| **Non-Disciplinary Referral** | No report made; promotions NOT jeopardized; assignment NOT ordinarily changed |
+| **Confidentiality Exceptions** | Written consent, valid subpoena, U.S. District Court Order, suspected child abuse, danger to self/others |
+| **EAU Conferral** | Required before final adjudication of ALL misconduct involving alcohol or domestic violence |
+
+## Key Timeframes (Updated)
+
+| Item | Timeframe |
+|------|-----------|
+| LOD Injury Report sign-off by investigating supervisor | **Before end of tour** |
+| Trauma Counseling follow-up meeting | **48 hours** after event |
+| Additional trauma counseling sessions | **1 to 6 weeks** after incident |
+| FECA documentation forwarding | Within **90 days** of occurrence |
+| Delayed LOD designation report | Within **60 days** (then every 60 days) |
+| Admin Sick notification to D.O. | At least **2 hours** before start of tour |
+| Admin Sick maximum duration | **2 days** (3rd day becomes Regular Sick) |
+| Court notification — Command Diary | Appearance date AND **2 days prior** (excl. weekends/holidays) |
+| UMOS out sick outside resident counties | Contacted **weekly** by District Surgeon |
 
 ---
 
@@ -25198,6 +36586,176 @@ If the injury comes under FECA, the member's CO will forward items (LOD Injury R
 **C) In a sink only**
 
 Disposal of bleach or bleach dilutions should be performed only in a sink (not a urinal or toilet, since they sometimes contain chemical deodorizers that may cause toxic gas when mixed with bleach). (A.G. 330-09)
+
+</details>
+
+---
+
+**16. A UMOS going out on regular sick obtains three items from the Sick Desk. Which of the following should the UMOS provide to the desk officer at the permanent command?**
+
+- A) Name of Sick Desk member notified
+- B) Time Sick Desk was notified
+- C) Sick serial number
+- D) Change of address/location or phone number
+
+<details><summary>Answer</summary>
+
+**C) Sick serial number**
+
+The UMOS receives 3 items from the Sick Desk (sick serial number, Sick Desk name, and time notified), but only provides the **sick serial number** to the D.O./Supervisor. (P.G. 330-01)
+
+</details>
+
+---
+
+**17. Administrative Sick is available to:**
+
+- A) All members of the service
+- B) Uniformed members of the service only — CMOS cannot go Admin Sick
+- C) Civilian members of the service only
+- D) Members with more than 5 years of service
+
+<details><summary>Answer</summary>
+
+**B) Uniformed members of the service only — CMOS cannot go Admin Sick**
+
+Administrative Sick is for UMOS only. Civilian members of the service cannot go Administrative Sick. (P.G. 330-02)
+
+</details>
+
+---
+
+**18. On the 3rd consecutive day of Administrative Sick, the member must:**
+
+- A) Continue on Admin Sick with no changes
+- B) Report Regular Sick and be guided by Sick Desk regarding District Surgeon visit
+- C) Return to full duty
+- D) Report directly to the District Surgeon without calling anyone
+
+<details><summary>Answer</summary>
+
+**B) Report Regular Sick and be guided by Sick Desk regarding District Surgeon visit**
+
+Admin Sick lasts a maximum of 2 days. On the 3rd day, it converts to Regular Sick. The member is guided by the Sick Desk regarding the Medical Division visit to the District Surgeon. All three days consolidate into 1 sick event. (P.G. 330-02)
+
+</details>
+
+---
+
+**19. For Administrative Sick, the UMOS first calls:**
+
+- A) The Sick Desk, then the command
+- B) The D.O./Supervisor at their command — not the Sick Desk
+- C) The District Surgeon
+- D) Operations Unit
+
+<details><summary>Answer</summary>
+
+**B) The D.O./Supervisor at their command — not the Sick Desk**
+
+For Admin Sick, the UMOS calls the command (D.O./Supervisor) at least 2 hours pre-tour. For Regular Sick, the UMOS calls the Sick Desk first, then the command. This is a key distinction. (P.G. 330-02)
+
+</details>
+
+---
+
+**20. Which of the following is NOT a reason Admin Sick would be denied (per the LIMB LSS MD mnemonic)?**
+
+- A) Line of Duty injury
+- B) Headache
+- C) Stress/psychological
+- D) Dental problems
+
+<details><summary>Answer</summary>
+
+**B) Headache**
+
+The LIMB LSS MD mnemonic lists: Line of duty, Injury, Mutual, Chronic B, Late (less than 2 hrs pre-tour), Stress/psychological, Supervisor deems inappropriate, Major illness, Dental. A simple headache is not on the exclusion list. (P.G. 330-02)
+
+</details>
+
+---
+
+**21. When a member is out sick and has a pending court appearance, the desk officer makes a Command Diary entry under:**
+
+- A) The date of appearance only
+- B) The date of appearance and 1 day prior
+- C) The date of appearance and 2 days prior (not counting Sat/Sun/Holidays)
+- D) The date of appearance and 3 days prior
+
+<details><summary>Answer</summary>
+
+**C) The date of appearance and 2 days prior (not counting Sat/Sun/Holidays)**
+
+The D.O. makes a Command Diary entry under both the date of appearance AND 2 days prior, not counting Saturdays, Sundays, and holidays. (P.G. 330-04)
+
+</details>
+
+---
+
+**22. The Counseling Unit provides assistance to MOS experiencing difficulties with all of the following EXCEPT:**
+
+- A) Alcohol
+- B) Prescription drugs
+- C) Gambling
+- D) Marital counseling
+
+<details><summary>Answer</summary>
+
+**D) Marital counseling**
+
+The Counseling Unit's primary function is assisting MOS with difficulties involving alcohol, prescription drugs, gambling, or finances. Marital counseling is not listed as a primary function. (P.G. 330-16)
+
+</details>
+
+---
+
+**23. A non-disciplinary referral to the Counseling Unit results in:**
+
+- A) A report being filed with IAB
+- B) Jeopardized promotion opportunities
+- C) No report, no jeopardized promotions, and assignment not ordinarily changed
+- D) Automatic transfer to a different command
+
+<details><summary>Answer</summary>
+
+**C) No report, no jeopardized promotions, and assignment not ordinarily changed**
+
+A non-disciplinary referral produces no report, does not jeopardize promotions, and the member's current assignment is not ordinarily changed (though it may be if in best interest of all). (P.G. 330-16)
+
+</details>
+
+---
+
+**24. The investigating supervisor for a LOD injury within the city must be:**
+
+- A) A detective or above
+- B) A sergeant or above from the injured member's command
+- C) A captain or above
+- D) Any available supervisor regardless of command
+
+<details><summary>Answer</summary>
+
+**B) A sergeant or above from the injured member's command**
+
+Within the city, the investigating supervisor is a sergeant or above from the injured member's command. If unavailable, a supervisor from the precinct of occurrence. Out of city requires captain or above. (A.G. 330-03)
+
+</details>
+
+---
+
+**25. Regarding the investigating supervisor and the three LOD reports (PAR, AIDED, LODI), which statement is correct?**
+
+- A) IS always prepares all three reports
+- B) IS always prepares the PAR, never prepares the AIDED, and sometimes prepares the LODI
+- C) IS never prepares any of the three reports
+- D) IS always prepares the AIDED and the LODI
+
+<details><summary>Answer</summary>
+
+**B) IS always prepares the PAR, never prepares the AIDED, and sometimes prepares the LODI**
+
+The Investigating Supervisor always prepares the Police Accident Report. The IS never prepares the AIDED (directs injured MOS to prepare it, or assigns another member if incapacitated). The IS sometimes prepares the LODI (only when the injured member is incapacitated). (A.G. 330-03)
 
 </details>
 
