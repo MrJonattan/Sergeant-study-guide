@@ -4,7 +4,7 @@ const path = require('path');
 
 const PROJECT = path.resolve(__dirname, '..');
 const CHAPTERS_DIR = path.join(PROJECT, 'chapters');
-const OUTPUT_DIR = path.join(PROJECT, 'web');
+const OUTPUT_DIR = path.join(PROJECT, 'build');
 
 const CHAPTER_ORDER = [
   '200-general', '202-duties-responsibilities', '207-complaints',

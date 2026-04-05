@@ -5,7 +5,7 @@
 set -e
 
 PROJECT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
-OUTPUT_DIR="$PROJECT_DIR/output"
+OUTPUT_DIR="$PROJECT_DIR/build"
 CHAPTERS_DIR="$PROJECT_DIR/chapters"
 
 # Chapter order (by PG section number)

@@ -54,10 +54,18 @@ nypd-sergeant-study-guide/
 │   ├── 330-medical-health-wellness/
 │   ├── 331-evaluations/
 │   └── 332-employee-rights/
-├── progress/
-│   └── tracker.json
-├── output/                  # Generated PDF files
-└── scripts/                 # Build and tracking scripts
+├── src/                     # Web app source
+│   ├── index.html
+│   ├── manifest.json
+│   └── sw.js
+├── scripts/                 # Build and tracking scripts
+│   ├── build-web.js
+│   ├── build-pdf.sh
+│   └── test-app.js
+├── build/                   # Generated output (gitignored)
+├── docs/                    # GitHub Pages deployment
+├── package.json             # Build commands
+└── README.md
 ```
 
 ## Content Organization

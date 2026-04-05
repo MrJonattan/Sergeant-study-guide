@@ -1,0 +1,13 @@
+{
+  "name": "nypd-sergeant-study-guide",
+  "version": "1.0.0",
+  "description": "NYPD Sergeant Promotional Exam study guide with web app and PDF output",
+  "private": true,
+  "scripts": {
+    "build": "npm run build:web && npm run build:pdf",
+    "build:web": "node scripts/build-web.js",
+    "build:pdf": "bash scripts/build-pdf.sh",
+    "test": "node scripts/test-app.js build/data.js src/index.html",
+    "deploy": "cp src/index.html src/manifest.json src/sw.js build/data.js docs/ && git add docs/ && echo 'docs/ updated — commit and push when ready'"
+  }
+}

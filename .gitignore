@@ -3,7 +3,6 @@ node_modules/
 *.pyc
 __pycache__/
 
-# Generated files (rebuild with scripts/)
-output/
-web/data.js
+# Generated files (rebuild with npm run build)
+build/
 progress/
