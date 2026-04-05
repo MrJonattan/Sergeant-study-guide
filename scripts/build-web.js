@@ -150,8 +150,8 @@ for (const id of CHAPTER_ORDER) {
   });
 }
 
-const cheatSheet = readFile(path.join(PROJECT, 'output', 'quick-reference-cheat-sheet.md')) || '';
-const examRaw = readFile(path.join(PROJECT, 'output', 'master-practice-exam.md')) || '';
+const cheatSheet = readFile(path.join(PROJECT, 'build', 'quick-reference-cheat-sheet.md')) || '';
+const examRaw = readFile(path.join(PROJECT, 'build', 'master-practice-exam.md')) || '';
 const examQuestions = parsePracticeExam(examRaw);
 
 const data = {
