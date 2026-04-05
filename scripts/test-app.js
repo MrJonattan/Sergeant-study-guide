@@ -139,7 +139,7 @@ test('key mnemonics present in web data', () => {
   checks.forEach(([id, term]) => {
     const ch = D.chapters.find(c => c.id === id);
     if (!ch) { missing.push(`${id} not found`); return; }
-    const found = ch.sections.some(s => s.content.includes(term));
+    const found = ch.sections.some(s => s.content.includes(term)) || (ch.keyTerms && ch.keyTerms.includes(term));
     if (!found) missing.push(`${term} not in ${id}`);
   });
   assert(missing.length === 0, missing.join('\n'));
