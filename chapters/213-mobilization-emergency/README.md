@@ -1,4 +1,4 @@
-# Chapter 9 — Section 213: Mobilization/Emergency Incidents
+# Section 213 — Mobilization/Emergency Incidents
 
 ## Overview
 

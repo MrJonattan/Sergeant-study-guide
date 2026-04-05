@@ -1,4 +1,4 @@
-# Chapter 10 — Section 214: Quality of Life Matters
+# Section 214 — Quality of Life Matters
 
 ## Overview
 

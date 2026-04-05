@@ -171,7 +171,7 @@ The desk officer directly supervises the following positions:
 
 > **See Also:** A.G. 324-17 — AWOL procedures (triggered after 2 hours unaccounted).
 
-> **See Also:** A.G. 322-20 — Attendance App Guidelines (D.O. queries Med Div Sick Reporting System).
+> **See Also:** A.G. 322-20 — Attendance App Guidelines *(external — not covered in this guide)* (D.O. queries Med Div Sick Reporting System).
 
 > **See Also:** P.G. 212-01 — Roll Call procedures (D.O. prepares CPR System Roll Call entries).
 
@@ -200,7 +200,7 @@ The desk officer directly supervises the following positions:
 
 - **SHALL** comply with A.G. 322-20 Attendance App Guidelines at start of tour and End of Tour
 
-> **See Also:** A.G. 322-20 — Attendance App Guidelines.
+> **See Also:** A.G. 322-20 — Attendance App Guidelines *(external — not covered in this guide)*.
 
 ### Roll Call
 

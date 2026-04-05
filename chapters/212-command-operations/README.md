@@ -1,4 +1,4 @@
-# Chapter 212 — Command Operations
+# Section 212 — Command Operations
 
 ## Source
 - **Patrol Guide Section:** 212
