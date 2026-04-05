@@ -1626,16 +1626,7 @@ const App = (function() {
     if(next>=0&&next<D.chapters.length) nav('chapter/'+D.chapters[next].id);
   }
 
-  // ── Swipe (mobile) ──
-  let touchStartX = 0;
-  document.addEventListener('touchstart', e => { touchStartX = e.changedTouches[0].screenX; }, { passive: true });
-  document.addEventListener('touchend', e => {
-    const dx = e.changedTouches[0].screenX - touchStartX;
-    if (Math.abs(dx) < 80) return;
-    if (currentView === 'chapter') {
-      if (dx > 0) navChapter(-1); else navChapter(1);
-    }
-  }, { passive: true });
+  // ── Swipe (mobile) — disabled, conflicts with pinch-to-zoom ──
 
   // ── Service Worker & PWA ──
   if ('serviceWorker' in navigator) {
