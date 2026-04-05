@@ -61,7 +61,28 @@ When it is determined that the City may be involved in a civil suit:
 
 > **Exam Alert:** City hydrants require notification to **two** agencies: DEP **and** FDNY Actions and Claims.
 
+> **Exam Alert:** School bus collisions require notification to DOE Office of Pupil Transportation regardless of whether children are on the bus — the PG says "with OR without kids, private or public school." *(P.G. 217-01 "Dup. Copy Required For" table)*
+
+> **Memory Aid — Dup Copy Table (PAR back):** For the "Duplicate Copy Required For" section, know the full table from 217-01 — the following conditions on the back of the PAR trigger sending a copy to the named agency:
+> - Fire Trucks/EMS/Hydrants/Alarm Boxes → FDNY Action & Claims
+> - Tow Truck or Pedicab licensed by DCWP → Dept. Consumer and Worker Protection (DCWP)
+> - Crash Cushion or Impact Attenuator → Dept. of Transportation
+> - City Park (person killed/injured OR damage to **any** City Tree) → Dept. of Parks
+> - School Bus (with OR without kids, private or public) → DOE Office of Pupil Transportation
+> - Taxi or For Hire vehicle (TLC licensed — Uber/Lyft) → TLC
+> - NYC personnel or property involved → Comptroller
+> - DOA → Highway (CIS unit) AND Missing Persons (M.E.'s unit)
+> - Bicycle Collisions ("Killed," SILD, or Critically Injured determined by EMS) → Highway CIS
+
+> **Key Note — DOA/SILD/CI and 217-17 (Bicycle Collisions):** In P.G. 217-02, the DOA/SILD/CI and 217-17 bicycle collision cases require the UMOS to have the Sgt respond. The Sgt is NOT mentioned in 217-01. Watch for exam questions testing whether the Sgt responds under 217-01 or only 217-02/217-17. *(P.G. 217-01 Key Note)*
+
+> **Exam Alert — DOA/SILD or Critical Injury (CI):** CI is determined by EMS on scene. A Designated MOS from CIS (Highway) coordinates the investigation and presents facts to the D.A. *(P.G. 217-01)*
+
 > **Sergeant Focus:** It is City policy to **pursue claims in its favor**. Members must detail circumstances supporting City claims and obtain witness information. **Full cooperation** with the involved agency or Law Department is **mandatory**.
+
+> **Prior Test:** Scenario — a city vehicle collides with a private vehicle and the city may be liable. The UMOS prepares the MV104AN and checks the "Duplicate Copy Required For" box for **Comptroller** (NYC personnel or property involved). The "City Involved" box is checked on the PAR back. Additionally, persons involved are informed they must file claims with the **Comptroller** within **90 days**. *(P.G. 217-04)*
+
+> **See Also:** P.G. 217-01 — "Dup. Copy Required For" table on back of PAR: check "Comptroller" for NYC personnel or property involved in any collision.
 
 ### Key Forms
 

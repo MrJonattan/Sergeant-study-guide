@@ -25,6 +25,8 @@ Upon notification or observation of a collision on limited access highways, coll
 
 > **Exam Alert:** For **bridge and tunnel** collisions, always use the **Listing book** — NEVER use markers physically posted at the scene.
 
+> **Prior Test:** A uniformed member responds to a collision on a bridge. The nearest posted reference marker reads "B-112." The member should NOT enter "B-112" on the PAR — for bridge collisions, the reference marker from the **Limited Access Highway Reference Marker Listing book** must be used, not the physical marker posted at the scene. *(P.G. 217-14)*
+
 #### Command Clerical Staff Member (Steps 5-6)
 
 | Step | Action |
@@ -73,6 +75,15 @@ A chemical test warrant will be applied for if a prisoner, arrested for DWI invo
 
 > **Exam Alert:** If the operator is the **ONLY** person with serious physical injury and no other person suffers serious injury or death, a chemical test warrant **CANNOT** be applied for.
 
+> **Prior Test:** A DWI suspect is arrested after a collision that causes serious physical injury to a passenger. The suspect refuses a breathalyzer. A chemical test warrant **CAN** be applied for because another person (the passenger) suffered serious physical injury. If the suspect had been the only injured party, no warrant would be possible. *(P.G. 217-16)*
+
+> **Memory Aid — Chemical Test Warrant 5-Part Articulation (OKIUR):**
+> - **O**perated a vehicle
+> - **K**illed or caused serious physical injury to **another** individual
+> - **I**ntoxicated or impaired by alcohol or drugs
+> - **U**nder arrest
+> - **R**efused chemical test OR unconscious more than 2 hours without test
+
 ### Procedure
 
 #### Patrol Supervisor (Step 1)
@@ -82,6 +93,8 @@ A chemical test warrant will be applied for if a prisoner, arrested for DWI invo
 | 1 | Request Communications Section dispatcher to dispatch **Highway District** personnel to designated testing location or hospital |
 
 > **Sergeant Focus:** The patrol supervisor initiates the Highway District request — this is the first step in the chemical test warrant process.
+
+> **Exam Alert:** The Patrol Supervisor's role in the chemical test warrant process is limited to Step 1 — dispatching Highway District. The Desk Officer then contacts Operations Unit. The arresting officer handles the ADA interaction and paperwork. Know who does what in this chain. *(P.G. 217-16)*
 
 #### Desk Officer, Precinct of Arrest (Steps 2-4)
 
@@ -147,6 +160,10 @@ To apply for the warrant, the member must articulate to the ADA and the judge th
 | 17 | Supply arresting officer with chemical test evidence kit |
 
 > **Exam Alert:** If prisoner refuses, maintain the **initial charge** — the arresting officer must articulate circumstances supporting the original DWI charge. After arraignment, the court forwards a **NOTICE OF SUSPENSION and/or NOTICE OF HEARING** for a hearing within **fifteen (15) days** of arraignment.
+
+> **Exam Alert:** Legal Bureau is available Monday–Friday, **0700–2300 hours**. After hours, contact **Operations Unit** for Department Attorney notification — NOT Legal Bureau directly. *(P.G. 217-16)*
+
+> **See Also:** P.G. 208-40 — "Intoxicated or Impaired Driver Arrest" — referenced in 217-06 (DWI arrest of MOS operator) and 217-16 (chemical test warrant process).
 
 ### Upon Approval of Chemical Test Warrant
 

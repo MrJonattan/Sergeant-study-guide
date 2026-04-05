@@ -17,6 +17,8 @@ This procedure does **NOT** include collisions occurring in:
 
 > **Exam Alert:** Administrative Code Section 20-524(c) **exempts governmental agencies** from D.A.R.P. — government vehicle operators may call their own tow service.
 
+> **Exam Alert:** D.A.R.P. also does NOT apply to collisions on tunnels, bridges, and arterial highways with franchised tow companies. Those get code **10-99T8** (Highway-authorized tow service). *(P.G. 217-09)*
+
 ### Key Administrative Code Provisions
 
 | Section | Requirement |
@@ -38,6 +40,8 @@ This procedure does **NOT** include collisions occurring in:
 | 3a | Include the **color, body type, and plate number(s)** of vehicle(s) requiring a tow |
 
 > **Exam Alert:** Once the uniformed member makes a determination that a tow truck is needed, the **request may NOT be cancelled**.
+
+> **Prior Test:** A uniformed member determines that a vehicle needs to be towed after a collision. The Communications Section dispatches a D.A.R.P. tow company. The vehicle owner then says their cousin has a tow truck and can come faster. The member must **deny the request** — once a D.A.R.P. request is made, it cannot be cancelled (except for the listed exemptions). The vehicle owner's private preference is NOT an exemption. *(P.G. 217-09)*
 
 > **Exam Alert:** **DO NOT TRANSMIT** the make, model, or year of the disabled vehicle(s) involved in a collision.
 
@@ -124,6 +128,10 @@ This procedure does **NOT** include collisions occurring in:
 ### Tow Authorization Requirements
 
 The dispatched tow truck must possess and present a **"Tow Authorization" form** that includes a **Department of Consumer and Worker Protection license number**. Both tow trucks and operators must be licensed by DCWP.
+
+> **Exam Alert:** Members may NOT seize an unlicensed tow truck **for the sole purpose** of being unlicensed by DCWP. This is a common trap — the member should take enforcement action (summons) and prepare a REPORT OF VIOLATION, but cannot seize the truck solely for the unlicensed status. *(P.G. 217-09)*
+
+> **See Also:** P.G. 217-01 — "Dup. Copy Required For": If a Tow Truck or Pedicab licensed by DCWP is involved in a collision, check the "Dept. Consumer and Worker Protection (DCWP)" box on back of PAR.
 
 ### Key Forms
 
