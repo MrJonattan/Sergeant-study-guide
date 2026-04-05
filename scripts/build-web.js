@@ -89,10 +89,17 @@ function parseReviewQuestions(md) {
 function parsePracticeExam(md) {
   if (!md) return [];
   const answerMap = {};
-  const keyRe = /\|\s*(\d+)\s*\|\s*([A-D])\s*\|\s*(.*?)\s*\|/g;
+  const keyRe = /\|\s*(\d+)\s*\|\s*([A-D])\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|/g;
+  const keyRe3 = /\|\s*(\d+)\s*\|\s*([A-D])\s*\|\s*(.*?)\s*\|/g;
   let km;
   while ((km = keyRe.exec(md)) !== null) {
-    answerMap[parseInt(km[1])] = { answer: km[2], source: km[3].trim() };
+    answerMap[parseInt(km[1])] = { answer: km[2], source: km[3].trim(), explanation: km[4].trim() };
+  }
+  // Fallback: 3-column table (no explanation)
+  if (Object.keys(answerMap).length === 0) {
+    while ((km = keyRe3.exec(md)) !== null) {
+      answerMap[parseInt(km[1])] = { answer: km[2], source: km[3].trim(), explanation: '' };
+    }
   }
   const questions = [];
   const qBlocks = md.split(/\n---\n/);
@@ -111,7 +118,8 @@ function parsePracticeExam(md) {
       text: qm[2].trim(),
       options,
       answer: info.answer || '',
-      source: info.source || ''
+      source: info.source || '',
+      explanation: info.explanation || ''
     });
   }
   return questions;
