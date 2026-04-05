@@ -27,12 +27,17 @@ CHAPTERS=(
   "219-department-property"
   "220-citywide-incident-mgmt"
   "221-tactical-operations"
+  "303-duties-responsibilities"
   "304-general-regulations"
   "305-uniforms-equipment"
   "318-disciplinary-matters"
   "319-civilian-personnel"
+  "320-personnel-matters"
+  "324-leave-payroll-timekeeping"
   "329-career-development"
   "330-medical-health-wellness"
+  "331-evaluations"
+  "332-employee-rights"
 )
 
 COMBINED="$OUTPUT_DIR/study-guide-combined.md"

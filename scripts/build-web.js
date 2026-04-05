@@ -12,9 +12,10 @@ const CHAPTER_ORDER = [
   '212-command-operations', '213-mobilization-emergency', '214-quality-of-life',
   '215-juvenile-matters', '216-aided-cases', '217-vehicle-collisions',
   '218-property-general', '219-department-property', '220-citywide-incident-mgmt',
-  '221-tactical-operations', '304-general-regulations', '305-uniforms-equipment',
-  '318-disciplinary-matters', '319-civilian-personnel', '329-career-development',
-  '330-medical-health-wellness'
+  '221-tactical-operations', '303-duties-responsibilities', '304-general-regulations',
+  '305-uniforms-equipment', '318-disciplinary-matters', '319-civilian-personnel',
+  '320-personnel-matters', '324-leave-payroll-timekeeping', '329-career-development',
+  '330-medical-health-wellness', '331-evaluations', '332-employee-rights'
 ];
 
 function readFile(fp) {

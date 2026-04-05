@@ -31324,6 +31324,34 @@ Body-worn camera footage concerning Level 3 and Level 4 force incidents will NOT
 
 ---
 
+# Section 303 — Duties & Responsibilities
+
+## Source
+- **Patrol Guide Section:** 303
+- **Source PDF:** public-pguide4.pdf
+- **Priority:** High
+
+## Learning Objectives
+- Understand the administrative duties and responsibilities specific to supervisory ranks
+- Know the Sergeant's role in personnel management, training, and command administration
+- Identify the reporting and documentation responsibilities of a Patrol Supervisor
+- Recognize the distinction between operational and administrative supervisory duties
+
+## Procedures
+
+| Procedure | Title | Status |
+|-----------|-------|--------|
+
+> Procedures not individually identified from OCR — content may be integrated into other sections.
+
+## Sergeant Focus Areas
+- Mastering all administrative duties assigned to the rank of Sergeant
+- Conducting subordinate evaluations, counseling, and mentoring
+- Managing platoon-level administrative tasks including scheduling and roll call
+- Ensuring compliance with department administrative directives and reporting deadlines
+
+---
+
 # Section 304 — General Regulations
 
 ## Source
@@ -34981,6 +35009,315 @@ Five forms: Employee Statement Form (FISA WCS-110), Supervisor's Report of Injur
 
 ---
 
+# Section 320 — Personnel Matters — General
+
+## Source
+- **Patrol Guide Section:** 320
+- **Source PDF:** public-pguide4.pdf
+- **Priority:** Medium
+
+## Learning Objectives
+- Understand the general personnel procedures for transfers, assignments, and details
+- Know the documentation requirements for personnel actions and status changes
+- Identify the procedures for reporting changes in personal information (address, contact, marital status)
+- Recognize the Sergeant's role in processing routine personnel matters at the command level
+
+## Procedures
+
+| Procedure | Title | Status |
+|-----------|-------|--------|
+
+> Procedures not individually identified from OCR — content may be integrated into other sections.
+
+## Sergeant Focus Areas
+- Processing personnel paperwork accurately and within required timeframes
+- Maintaining current personnel records for subordinates in the platoon
+- Advising subordinates on proper procedures for personnel-related requests
+- Coordinating with the command's administrative staff on personnel actions
+
+---
+
+# Section 324 — Leave, Payroll & Timekeeping
+
+## Source
+- **Patrol Guide Section:** 324
+- **Source PDF:** public-pguide4.pdf
+- **Priority:** Medium
+
+## Learning Objectives
+- Understand the various leave categories (annual, sick, military, personal, etc.) and eligibility requirements
+- Know the procedures for requesting, approving, and documenting leave
+- Identify the timekeeping and payroll procedures including overtime documentation
+- Recognize the Sergeant's responsibilities for monitoring attendance and leave abuse
+- Know the AWOL escalation timeline: 2 hours (D.O. inquiries) vs. 4 hours (major notifications including IAB)
+- Understand the report routing for AWOL investigations (Typed Letterhead to Chief of Department)
+
+## Procedures
+
+| Procedure | Title | Status |
+|-----------|-------|--------|
+| P.G. 324-17 | AWOL | completed |
+
+## Chapter Files
+
+| File | Content |
+|------|---------|
+| `section-324-awol.md` | P.G. 324-17: AWOL escalation timeline, D.O. duties at 2 and 4 hours, C.O. investigation, report routing, return-to-duty restriction |
+| `key-terms.md` | AWOL definitions, key roles, timeframes, reports, applicability |
+| `review-questions.md` | 7 multiple-choice questions covering AWOL procedures |
+
+## Sergeant Focus Areas
+- Approving and tracking subordinate leave requests and attendance patterns
+- Identifying and addressing potential leave abuse or chronic absenteeism
+- Ensuring accurate timekeeping and overtime documentation for the platoon
+- Understanding the sick leave reporting and monitoring procedures
+- **AWOL escalation:** At 2 hours, D.O. sends a supervisor to member's residence (in city); at 4 hours, C.O./Duty Captain, Boro, Operations, and IAB are all notified
+- **Entire-tour AWOL:** Member cannot return to duty without prior permission of Chief of Department
+- **When member located:** Notify Boro, Operations, IAB, and Sick Desk Supervisor
+
+---
+
+# Section 324 — AWOL (Absent Without Leave)
+
+## P.G. 324-17: AWOL
+
+### Applicability
+
+- This procedure does **NOT** apply to civilian members of the service (CMOS)
+
+### AWOL for 2 Hours (Beginning of Tour)
+
+**Desk Officer:**
+
+| Step | Action |
+|------|--------|
+| 1 | Make telephone inquiries to: Roll Call, Court sign-in rooms, **Sick Desk Supervisor**, and **member's residence** |
+| 2 | Check Department records including Telephone Record, CPR System Roll Call |
+| 3 | Question precinct personnel as deemed necessary |
+| 4 | Respond to member's residence: |
+|   | - **In the city:** Request D.O. of member's resident precinct to have a **supervisor** respond to residence |
+|   | - **Outside the city:** Request ICCU to notify local PD to respond |
+
+> **Exam Alert:** At the 2-hour mark, the Desk Officer sends a **boss** (supervisor) to the residence if the member lives in the city. There is no mention of the member's own supervisor being notified at this stage — only the D.O. acts.
+
+### AWOL for 4 Hours (After Start of Tour)
+
+**Desk Officer:**
+
+| Step | Action |
+|------|--------|
+| 1 | Notify: C.O./Duty Captain, Boro/Counterpart, Operations, and **IAB Command Center** |
+| 2 | Make **Command Log** entry including facts and notifications made |
+
+> **Exam Alert:** At 4 hours, the notifications escalate significantly — IAB Command Center gets involved. No supervisor notification is mentioned at 2 hours, but at 4 hours the C.O./Duty Captain, Boro, Operations, AND IAB are all notified.
+
+**Commanding Officer / Duty Captain:**
+
+| Step | Action |
+|------|--------|
+| 1 | Conduct **immediate investigation** |
+| 2 | Telephone results to **Operations** |
+| 3 | Make **Command Log** entry of results |
+| 4 | Prepare Report on **Typed Letterhead (49)** to Chief of Department with results and action taken or contemplated |
+
+### Report Routing (Typed Letterhead)
+
+| Investigator | Routing |
+|-------------|---------|
+| **C.O. investigated** | 1 copy direct to COD, 1 through channels (boro) |
+| **Duty Captain investigated** | 1 copy direct to COD; sends 2 copies to MOS's C.O., who files 1 and endorses the other through channels to COD |
+
+### When Member Is Located
+
+**Commanding Officer / Duty Captain:**
+
+| Step | Action |
+|------|--------|
+| 1 | Interview member and ascertain reason for and location during absence |
+| 2 | Notify: Boro Command/Counterpart, Operations, **IAB**, and **Sick Desk Supervisor** |
+| 3 | Make Command Log entry |
+| 4 | Prepare supplemental Report on Typed Letterhead (49) to Chief of Department with facts and discipline NOT previously reported |
+| 5 | Forward reports as above |
+
+### MOS AWOL for Entire Tour
+
+- Will **NOT** be assigned to duty without **prior permission of the Chief of Department**
+
+> **Exam Alert:** A member AWOL for an entire tour cannot simply show up next day and work. The Chief of Department must give prior permission before the member is assigned to duty again.
+
+> **See Also:** P.G. 330-01 — Regular Sick reporting procedures (Sick Desk Supervisor is notified when AWOL member is located).
+
+---
+
+# Section 324 — Key Terms and Definitions
+
+## AWOL
+
+| Term | Definition |
+|------|-----------|
+| **AWOL** | Absent Without Official Leave — member fails to report for duty without authorization |
+| **2-Hour AWOL** | First threshold at beginning of tour; Desk Officer makes telephone inquiries and responds to member's residence |
+| **4-Hour AWOL** | Escalation threshold; notifications expand to C.O./Duty Captain, Boro, Operations, and IAB Command Center |
+| **Entire Tour AWOL** | Member absent for full tour; cannot return to duty without **prior permission of Chief of Department** |
+| **ICCU** | Inter-City Correspondence Unit — contacted to notify local PD when member's residence is outside the city |
+
+## Key Roles
+
+| Role | AWOL Responsibility |
+|------|-------------------|
+| **Desk Officer** | Makes all initial inquiries at 2 hours; escalates notifications at 4 hours |
+| **C.O. / Duty Captain** | Conducts immediate investigation at 4 hours; interviews member when located |
+| **IAB Command Center** | Notified at 4-hour mark and when member is located |
+| **Sick Desk Supervisor** | Notified when AWOL member is located |
+| **Chief of Department** | Receives Typed Letterhead (49) report; must authorize return to duty after entire-tour AWOL |
+
+## Key Timeframes
+
+| Item | Timeframe |
+|------|-----------|
+| AWOL threshold — D.O. inquiries begin | **2 hours** after beginning of tour |
+| AWOL threshold — major notifications | **4 hours** after start of tour |
+| Report to Chief of Department | Typed Letterhead (49) with results and action taken |
+
+## Key Reports
+
+| Report | Purpose |
+|--------|---------|
+| **Typed Letterhead (49)** | To Chief of Department — results and action taken or contemplated |
+| **Supplemental Report (49)** | When member is located — facts and discipline not previously reported |
+| **Command Log** | Entry of facts, notifications, and investigation results |
+
+## Applicability Note
+
+| Applies To | Does NOT Apply To |
+|-----------|------------------|
+| Uniformed Members of the Service (UMOS) | Civilian Members of the Service (CMOS) |
+
+---
+
+# Section 324 — Review Questions
+
+## Multiple Choice
+
+**1. When a UMOS is AWOL for 2 hours at the beginning of the tour and lives within the city, the desk officer should request the D.O. of the member's resident precinct to have whom respond to the residence?**
+
+- A) A police officer
+- B) A detective
+- C) A supervisor
+- D) The ICCU
+
+<details><summary>Answer</summary>
+
+**C) A supervisor**
+
+When a member is AWOL for 2 hours and lives in the city, the D.O. requests the member's resident precinct D.O. to send a **boss** (supervisor) to the residence. If outside the city, ICCU notifies local PD. (P.G. 324-17)
+
+</details>
+
+---
+
+**2. At the 4-hour AWOL mark, the desk officer must notify all of the following EXCEPT:**
+
+- A) C.O./Duty Captain
+- B) Boro/Counterpart
+- C) Sick Desk Supervisor
+- D) IAB Command Center
+
+<details><summary>Answer</summary>
+
+**C) Sick Desk Supervisor**
+
+At 4 hours, the D.O. notifies the C.O./Duty Captain, Boro/Counterpart, Operations, and IAB Command Center. The Sick Desk Supervisor is notified later — when the member is **located**. (P.G. 324-17)
+
+</details>
+
+---
+
+**3. A UMOS has been AWOL for an entire tour. The next day, the member reports to the command for duty. The member:**
+
+- A) May be assigned to duty at the desk officer's discretion
+- B) May be assigned to duty with the platoon commander's approval
+- C) Will not be assigned to duty without prior permission of the Chief of Department
+- D) Will be automatically suspended pending investigation
+
+<details><summary>Answer</summary>
+
+**C) Will not be assigned to duty without prior permission of the Chief of Department**
+
+A member AWOL for an entire tour will NOT be assigned to duty without **prior** permission of the Chief of Department. (P.G. 324-17)
+
+</details>
+
+---
+
+**4. When an AWOL member is located, who among the following must be notified?**
+
+- A) Only Operations and IAB
+- B) Boro Command/Counterpart, Operations, IAB, and Sick Desk Supervisor
+- C) Only the C.O. and IAB
+- D) Only the Boro Commander and Operations
+
+<details><summary>Answer</summary>
+
+**B) Boro Command/Counterpart, Operations, IAB, and Sick Desk Supervisor**
+
+When the AWOL member is located, the C.O./Duty Captain notifies the Boro Command/Counterpart, Operations, IAB, AND the Sick Desk Supervisor. (P.G. 324-17)
+
+</details>
+
+---
+
+**5. The AWOL procedure (P.G. 324-17) applies to:**
+
+- A) All members of the service
+- B) Uniformed members only — it does NOT apply to CMOS
+- C) Civilian members only
+- D) Detectives and above only
+
+<details><summary>Answer</summary>
+
+**B) Uniformed members only — it does NOT apply to CMOS**
+
+The AWOL procedure does NOT apply to civilian members of the service (CMOS). (P.G. 324-17)
+
+</details>
+
+---
+
+**6. When the C.O. investigates an AWOL and prepares the Typed Letterhead (49), the routing is:**
+
+- A) 1 copy direct to Chief of Department, 1 through channels (boro)
+- B) 2 copies direct to Chief of Department
+- C) 1 copy to IAB, 1 to Chief of Department
+- D) 1 copy to the member's file, 1 to Operations
+
+<details><summary>Answer</summary>
+
+**A) 1 copy direct to Chief of Department, 1 through channels (boro)**
+
+If the C.O. investigated, 1 copy goes direct to the Chief of Department and 1 goes through channels (boro). If the Duty Captain investigated, 1 direct to COD and 2 copies to the MOS's C.O. (P.G. 324-17)
+
+</details>
+
+---
+
+**7. When a member is AWOL for 2 hours and lives outside the city, the desk officer should:**
+
+- A) Request the member's resident precinct D.O. to send a supervisor
+- B) Request ICCU to notify local PD to respond to the residence
+- C) Notify IAB Command Center immediately
+- D) Notify Operations Unit immediately
+
+<details><summary>Answer</summary>
+
+**B) Request ICCU to notify local PD to respond to the residence**
+
+If the member lives outside the city, the D.O. requests ICCU to notify local PD to respond. If in the city, the resident precinct D.O. sends a supervisor. (P.G. 324-17)
+
+</details>
+
+---
+
 # Section 329 — Career Development
 
 ## Source
@@ -36756,6 +37093,1126 @@ Within the city, the investigating supervisor is a sergeant or above from the in
 **B) IS always prepares the PAR, never prepares the AIDED, and sometimes prepares the LODI**
 
 The Investigating Supervisor always prepares the Police Accident Report. The IS never prepares the AIDED (directs injured MOS to prepare it, or assigns another member if incapacitated). The IS sometimes prepares the LODI (only when the injured member is incapacitated). (A.G. 330-03)
+
+</details>
+
+---
+
+# Section 331 — Evaluations
+
+## Source
+- **Patrol Guide Section:** 331
+- **Source PDF:** public-pguide4.pdf
+- **Priority:** Medium
+
+## Learning Objectives
+- Understand the performance evaluation system and its purpose within the department
+- Know the evaluation cycle, rating categories, and documentation requirements
+- Identify the procedures for completing, reviewing, and submitting evaluations
+- Recognize the impact of evaluations on assignments, transfers, and career progression
+
+## Procedures
+
+| Procedure | Title | Status |
+|-----------|-------|--------|
+
+> Procedures not individually identified from OCR — content may be integrated into other sections.
+
+## Sergeant Focus Areas
+- Completing accurate and timely performance evaluations for all subordinates
+- Providing constructive feedback and setting performance improvement goals
+- Documenting noteworthy performance (both commendable and deficient) throughout the rating period
+- Conducting evaluation conferences and addressing subordinate concerns about ratings
+
+---
+
+# Section 332 — Employee Rights & Responsibilities
+
+## Source
+- **Administrative Guide Section:** 332
+- **Source PDFs:** A.G. 332-01, A.G. 332-02, A.G. 332-04, A.G. 332-14
+- **Priority:** High
+
+## Learning Objectives
+- Know the scope of protected categories under employment discrimination and who is covered
+- Understand the reporting differences between supervisors (mandated/telephone) and non-supervisors (encouraged/any method)
+- Master the distinction between Case # (triggers Report 49) and Inquiry # (no Report 49)
+- Know the confidentiality requirements — no Department record entries for discrimination complaints
+- Understand the hostile work environment definition and offensive material handling (photograph, safeguard, voucher as Investigatory Evidence, CLE without description)
+- Know the key differences between A.G. 332-01 and A.G. 332-02 reporting procedures
+- Know the filing deadlines: NYC 1 year (3 years for sexual harassment), NYS 1 year, Federal 300 days
+- Understand ODE application requirements, prohibitions (with and without exceptions), and approval chain
+- Know the 20-hour rule and its exceptions (Vacation/Terminal = can exceed; Family Medical Leave = cannot)
+- Understand security-related ODE requirements (Boro C.O. approval) and attorney restrictions
+- Know firearms dealer and watchguard license requirements
+
+## Procedures
+
+| Procedure | Title | Status |
+|-----------|-------|--------|
+| A.G. 332-01 | Employment Discrimination/Retaliation | completed |
+| A.G. 332-02 | Display of Offensive Material | completed |
+| A.G. 332-04 | UMOS Off Duty Employment | completed |
+| A.G. 332-14 | Retaliation for Reporting Misconduct or Corruption | completed |
+
+## Chapter Files
+
+| File | Content |
+|------|---------|
+| `section-332-employment-discrimination.md` | A.G. 332-01: Protected categories, OEEO role, reporting procedures (supervisor vs. non-supervisor), complaint process, investigation outcomes (will require vs. may require), confidentiality, filing deadlines (1yr/3yr/300 days), retaliation discipline regardless of outcome |
+| `section-332-offensive-material.md` | A.G. 332-02: Hostile work environment, offensive material handling (photograph/safeguard/voucher), CLE without description, 332-01 vs. 332-02 comparison table, vehicle inspection, sexually explicit material policy |
+| `section-332-retaliation-misconduct.md` | A.G. 332-14: Retaliation for reporting misconduct/corruption — notify IAB; if EEO-related, comply with 332-01; Employee Assistance resources |
+| `section-332-off-duty-employment.md` | A.G. 332-04: ODE application, C.O. duties, security-related approval (Boro C.O.), 20-hour rule and exceptions, prohibitions (no exceptions vs. with exceptions), general regulations, government employment, attorney restrictions, firearms dealer, watchguard license |
+| `key-terms.md` | OEEO, EEO Liaison, ODE, ERS, Case # vs. Inquiry #, filing deadlines, 20-hour rule, prohibitions quick reference, key forms |
+| `review-questions.md` | 12 multiple-choice questions covering all four procedures |
+
+## Sergeant Focus Areas
+- **Mandated reporting:** Supervisors must report discrimination to OEEO by telephone ASAP or next business day — do NOT investigate, make NO Department record entries
+- **332-01 vs. 332-02:** Discrimination = no records, no investigation, Report (49) only if Case #. Offensive material = CLE (no description), immediate action, automatic Report (49)
+- **Retaliation:** Discipline imposed REGARDLESS of outcome of original complaint
+- **Filing deadlines:** NYC 1 year (3 years sexual harassment), NYS 1 year (no state filing if civil action first), Federal 300 days — all from date of occurrence
+- **DCEI revoked:** A.G. references DCEI but title was revoked by R.O. 12 s.25 — should read C.O. OEEO
+- **ODE 20-hour rule:** Vacation/Terminal = can exceed; Family Medical Leave = CANNOT exceed
+- **Security ODE:** Boro C.O. approves (not command C.O.); off-duty arrests are "in furtherance of employer's interest" not with P.O. arrest powers; no OT for ODE arrests
+- **Firearms licenses:** Federal copy to C.O. AND ERS; Local copy to C.O. only
+- **Absolute prohibitions:** Process server (anywhere), burglar alarms/security systems (never), foreign government (always)
+
+---
+
+# Section 332 — Employment Discrimination and Retaliation
+
+## A.G. 332-01: Employment Discrimination/Retaliation
+
+### Who Is Covered
+
+- **Employment Discrimination** covers:
+  - ALL employees AND
+  - Applicants
+- **Sexual Harassment** covers:
+  - Employees AND
+  - Applicants AND
+  - Sub/contractors, vendors, etc. in the workplace
+
+### OEEO — Office of Equal Employment Opportunity
+
+- Central office that receives, investigates, and resolves discrimination complaints
+- DCEI (Deputy Commissioner Equity and Inclusion) was revoked by R.O. 12 s.25 — references in the A.G. should read **C.O. OEEO**
+
+> **Exam Alert:** The A.G. still references "DCEI" in several places. This title was revoked — it should say **C.O. OEEO**. Know both terms so you are not confused by outdated language on the exam.
+
+### Scope of Protected Categories
+
+Employment discrimination is prohibited based on:
+
+- Race, Creed, Religion, Color, National origin, Gender or Gender identity
+- Age, Marital/partnership status, Sex orientation
+- Predisposing Genetic Characteristic, Disability
+- Pregnancy (fertility, sexually transmitted, family planning, birth control, contraception, sterilization procedure, pregnancy testing, and abortion)
+- Alien/citizen status, Military Status
+- Unemployment Status, Credit History, Salary History
+- Victim of Domestic Violence/Sex Offense/Stalking
+- Prior arrest/conviction (certain circumstances), Consumer credit history (for certain titles)
+- Familial status (parent/guardian of a person under 18 living with them)
+- Caregiver status (of minor or disabled relative or elder care)
+
+### Disability Definition
+
+- Not just physical — includes mental, psychological, medical
+- Includes impairment of body organs or systems (skin condition, etc.)
+- **Alcoholism/Drugs:** Only a "disability" if the person has **recovered** or is **recovering** AND is "free of such abuse"
+
+> **Exam Alert:** Alcoholism/drug use is only considered a disability when the person has recovered or is recovering and is free of such abuse. Active substance abuse does not qualify as a disability under this procedure.
+
+### Accommodation or Cooperative Dialogue
+
+- Employee OR applicant requiring accommodation completes a **Reasonable Accommodation Request**
+- Forms readily available for view and print on Department Intranet
+
+### Prohibited Conduct
+
+- **Discrimination** in terms of employment:
+  - Hiring, Assignment, Salary & benefits, Working conditions, Evaluation/promotions, Training/transfers, Discipline & termination
+- **Sexual Harassment** — includes MOS and non-employee contractor, vendor, freelancer, consultant, etc.
+- **Disparate Impact** — Policy with disproportionate impact on a group, **unless justified by business necessity**
+- **Failure to Accommodate** or engage in Cooperative Dialogue
+  - Fail to make **reasonable** accommodation OR timely engage in cooperative dialogue
+  - **Unreasonable Accommodation** — may not be required if it would impose undue hardship on the Department, BUT a cooperative dialogue must still occur
+- **Discriminatory harassment** — intimidation, ridicule, discourteous, disparaging remarks
+- **Retaliation** for filing complaint, requesting accommodation, cooperating, filing civil suit
+  - Retaliation begets discipline **REGARDLESS** of outcome of original complaint
+
+> **Exam Alert:** Retaliation results in discipline even if the original discrimination complaint is found to be unsubstantiated. The retaliation itself is a separate violation.
+
+> **See Also:** A.G. 332-21 — Accommodations (details on reasonable accommodation requests).
+
+### Workplace Definition
+
+- Includes extensions such as:
+  - Off-site Department-sanctioned social functions
+  - ANY location that can be reasonably regarded as an extension of the workplace
+
+### False Allegations
+
+- A complaint made in **"Good Faith"** is NOT a false accusation
+- Knowingly making a false accusation/information may be grounds for discipline
+
+### EEO Liaison
+
+- Every command has at least 1 trained EEO Liaison
+- Non-supervisor, volunteer, C.O. recommends, and **C.O. OEEO** approves
+- Obtain further info from EEO Liaison Program Coordinator
+
+---
+
+## Reporting Procedure
+
+### Non-Supervisors
+
+- **Strongly encouraged** to report when:
+  - Becoming aware of employment discrimination/sexual harassment or retaliation
+  - Asked/encouraged to retaliate against MOS for making EEO complaint or participating in investigation
+
+### Supervisors, Managers, or EEO Liaisons
+
+- **Mandated** to report **ASAP or by next business day** when:
+  - Observing discriminatory conduct, OR
+  - Becoming aware of allegation or complaint of employment discrimination/sexual harassment or retaliation
+- **Do NOT investigate** — just report to OEEO
+- **NO ENTRIES** in Department records (confidentiality)
+
+> **Exam Alert:** Supervisors are mandated reporters but must NOT investigate EEO complaints. Report to OEEO only — make no Department record entries. This is a key distinction from other types of complaints where supervisors do investigate.
+
+### Member Concerned — Filing a Complaint (2 Ways)
+
+1. **File with OEEO** by phone, email, fax, in writing, or in person
+   - After hours/weekends: OEEO receives voicemail/email and calls back next business day
+   - May call or write **anonymously** to file complaint or discuss EEO matters
+2. **File with C.O., Supervisor** (uniformed or civilian), Manager, or EEO Liaison
+
+> **Prior Test:** How may a complainant file an EEO complaint? — A complainant can call, email, fax, write, or do it in person. However, a **supervisor** must report by **TELEPHONE** only. This is a frequent exam distinction.
+
+---
+
+## Supervisor/C.O./Manager/EEO Liaison Reporting
+
+### Business Hours
+
+- Phone OEEO during business hours, Monday-Friday 0800 x 1800, OR call next business day
+
+### Off-Hours
+
+- Leave message and be guided by information received from OEEO
+
+### Either Way
+
+- Receive either a **"Case #"** or **"Inquiry #"** and name of investigator
+
+### Failure to Report
+
+- Any supervisor or Liaison who fails to report as required, fails to report within required time frame, OR fails to take action as directed by OEEO is **subject to discipline**
+
+### Allegation Against Self
+
+- Supervisor receiving allegation against oneself: **immediately notify OEEO**
+- EEO Liaison does NOT write the Report (49)
+- **NO ONE** writes the Report (49) if it only got an "Inquiry #"
+
+> **Exam Alert:** A Report (49) is only prepared when a **Case #** is received — not for an "Inquiry #." If the complaint results in only an inquiry number, no Report (49) is written.
+
+---
+
+## Supervisor/C.O./Manager Response (EEO Liaison NOT Included)
+
+- If allegation received a **Case #**:
+  - Prepare a **confidential Report (49)** to OEEO Direct within **5 business days**
+
+### Meeting with OEEO Investigator
+
+- OEEO investigator will attempt to contact and interview complainant
+- **Location:** At OEEO or agreed discreet location
+- **Time:** Before, during, or after work
+- **Notification:** Investigator makes confidential notification to ICO/assistant ICO, XO, CO, or other supervisor not involved
+- Supervisor **cannot unreasonably deny** permission to attend meeting
+- Appearance at OEEO must **NOT** be documented on any official Department record
+- Complainant may bring a representative (union, etc.)
+
+### OEEO Investigator Options
+
+- Mediation by neutral mediation service
+- Actions complainant can take themselves
+- File with outside agency
+- Referral of non-EEO problem
+
+### Respondent Rights
+
+- Right to respond **in writing** within **14 calendar days**
+- If resolution reached through mediation: **NO entry** made on respondent's CPI
+
+---
+
+## C.O./Manager Response
+
+- Address matter as directed by AND under guidance of **C.O. OEEO**
+- When directed, prepare **confidential Report (49)** on Typed Letterhead to C.O. OEEO direct
+  - Refer to OEEO case # and report corrective action taken and steps to preclude reoccurrence
+- Take all reasonable steps to prevent respondent from repeating or retaliating
+
+### Investigation Outcomes
+
+| Outcome | C.O. OEEO Action |
+|---------|-------------------|
+| **Substantiated** | **Will require** C.O. or another appropriate person to appear to discuss |
+| **Substantiated but cannot ID respondent** | **May require** C.O. or another appropriate person to appear |
+| **Unsubstantiated** | **May require** C.O./other to appear to discuss |
+
+> **Exam Alert:** Note the difference: substantiated = OEEO **will require** appearance; unsubstantiated or unidentified respondent = OEEO **may require** appearance.
+
+### Confidential File
+
+- Copies of all related documents must be kept in a **confidential file** maintained by C.O./supervisory designee consistent with confidentiality requirements
+
+---
+
+## Confidentiality
+
+- OEEO, Liaisons, and Supervisors/Managers will treat each complaint **confidentially**
+- Complainants should make every effort to maintain confidentiality
+- Witnesses and respondents shall not discuss **open OR closed** case except with Union/Legal/Line representative
+
+### IAB and OEEO
+
+- In appropriate cases, OEEO will investigate in conjunction with IAB/Other as necessary
+- Charges and Specs filed against a MOS with a discrimination defense:
+  - Remain under jurisdiction of **Deputy Commissioner Trials** until charges and specs resolved
+  - After resolution, jurisdiction assumed by C.O. OEEO upon **written request** of affected party
+- All other discipline where discrimination alleged by respondent: immediately report to OEEO
+
+---
+
+## Timeliness of Filing
+
+Filing deadlines run from **date of occurrence**, not date of original report.
+
+| Level | Agency | Deadline |
+|-------|--------|----------|
+| **NYC** | NYPD or NYC Commission on Human Rights | **1 year** |
+| **NYC** | Sexual harassment complaint | **3 years** |
+| **NY State** | NY State Division of Human Rights | **1 year** |
+| **Federal** | US EEO Commission | **300 days** |
+
+- If a civil action is filed first, MOS can **NOT** file with State
+- These filing deadlines do NOT limit the Department's authority to discipline
+
+> **Exam Alert:** The filing deadline for sexual harassment complaints at the NYC level is **3 years** — longer than the standard 1-year deadline for other discrimination complaints. Federal is 300 days regardless of other filings.
+
+> **Prior Test:** Filing deadlines run from the date of occurrence or the date of the original report? — Correct answer is **date of occurrence**. This is measured from when the discriminatory act happened, not when it was first reported.
+
+---
+
+# Section 332 — UMOS Off Duty Employment
+
+## A.G. 332-04: UMOS Off Duty Employment (ODE)
+
+### UMOS Application
+
+Prepare **Off-Duty Employment Application** including:
+
+| Field | Instruction |
+|-------|-------------|
+| Duties to be performed | Describe functions in space captioned "Describe Specific Duties and Responsibilities" |
+| Hours per week | Enter number or hours per week — do **NOT** enter "varies" |
+| Employed by Corporation | Enter name of President of Corporation; enter function of corporation in box "Describe the Type of Business" |
+| Officer of Corporation | If applicant is an officer of a corporation, enter name and address in space captioned "Outside Employer" — do NOT use term "self-employed" |
+
+- Deliver all copies to **Commanding Officer**
+
+> **Exam Alert:** On the ODE application, never enter "varies" for hours and never use "self-employed" for an officer of a corporation. Both are common exam traps.
+
+### ODE Without Prior Approval
+
+UMOS may engage in ODE **without** prior approval:
+
+- During **suspension without pay**
+- While on **continuous vacation/terminal** after filing for retirement
+
+### Ownership Interest
+
+- Interest in a firm held by MOS, spouse, domestic partner, or unemancipated child, when that person exercises managerial control or responsibility over the firm
+
+---
+
+## Commanding Officer Duties
+
+### Interview Applicant
+
+- Determine if employment is within Department guidelines
+- Ensure MOS understands guidelines
+
+### Confer with Applicant's Immediate Supervisor
+
+### Member on Modified
+
+- If on Modified, call 1st Deputy to determine if reason exists for disapproval
+- Enter results on application
+
+### Security Related Field
+
+- If application is for a **security related field**, forward to **Boro C.O.** for recommendation and signature
+- C.O. does NOT approve security jobs — Boro C.O. does, then sends it back to the command
+
+> **Exam Alert:** Security-related ODE applications require Boro C.O. approval, not the command-level C.O. This is a unique exception to the normal approval chain.
+
+### Approval/Disapproval
+
+- Enter recommendation
+- Sign and forward all applications (approved, disapproved, renewals, etc.) to **ERS** (Employee Resources Section)
+
+### Monitor On-Duty Performance
+
+- **Revocation:** Advise member that approval may be revoked if **disciplined** or **Chronic Sick**
+- If off-duty employment **interferes** with member's responsibility to the Department, recommend **REVOCATION**
+
+### Transferred Member or Temporary Assignment
+
+- Re-examine transferred/temporarily assigned MOS for:
+  - Corruption hazard, OR
+  - Conflict of interest
+
+### All Requests to ERS
+
+- Forward all approved, disapproved, renewals, and terminations to ERS
+
+### Status of Application
+
+- Inquire "Employee Inquiry Report" via **Centralized Personnel Resource (CPR) System**
+- Advise MOS that a disapproved application may be **appealed**
+
+---
+
+## Appeal Process
+
+- MOS appeal by **Report (49)** to C.O., requesting review by **Employee Resources Section (ERS)**
+
+---
+
+## Approved Application Returned from ERS — C.O. Duties
+
+### Notify/Instruct/Advise Approved MOS
+
+- Guidelines/Prohibitions
+- Carry rules outside NYS
+
+### Watchguard License
+
+- Instruct MOS applying for Watchguard License of guidelines
+- Direct member to report to ERS to prepare Affidavit and comply with instructions
+
+### OT for Off-Duty Employment Arrests
+
+- Direct ICO to ensure MOS does NOT obtain OT for off-duty employment arrests
+- ICO will audit OT reports and advise CO of findings
+
+### Class I Federal Firearm License
+
+- Indicate on application that a Class I Federal Firearms License was obtained, if applicable
+
+### Federal and State Firearms Licenses
+
+- Forward copy of Federal and State Firearms Licenses and applications to **C.O. FTS** (Firearms and Tactics Section)
+- Record license numbers on **Force Record (10 Card)**
+
+---
+
+## UMOS After Approval
+
+| Action | Requirement |
+|--------|-------------|
+| **Change in status** | Submit NEW application (i.e., duties, location, employer change) |
+| **Renewal** | After 12 months, renew application — submit **10 days** prior to expiration |
+| **Appeal** | If disapproved, prepare Report (49) requesting review, submit to C.O., ERS |
+
+---
+
+## Guidelines — Hours and Times
+
+- Work **outside** your regular work hours
+- No more than **20 hours** a week
+- Do **NOT** work off-duty when out sick
+- Cannot be within **3 hours** of tour
+- Cannot interfere/conflict with regular duties
+
+### 20-Hour Rule Exceptions
+
+| Leave Type | Can Exceed 20 Hours? |
+|------------|---------------------|
+| **Vacation** | Yes |
+| **Terminal Leave** | Yes |
+| **Family Medical Leave** | **NO** — cannot exceed 20 hours |
+
+> **Exam Alert:** Members on Vacation or Terminal Leave CAN exceed 20 hours per week. Members on Family Medical Leave CANNOT exceed 20 hours. This is a high-frequency exam distinction.
+
+### New Assignment or Job
+
+- Must be approved prior to start/changing job AND for each extra job/change for same employer
+- Excessive sick or employment that impairs work with NYPD = **Revocation**
+
+---
+
+## Government Employment
+
+### Part-Time Employment in Another City/Government Agency
+
+- **City Employment:** Prepare either Certification of Compatibility for Dual Employment (**DP1021A**) for City Mayoral Agencies, OR
+- **All Other Government Agencies:** Certification of Compatibility for Dual Employment (**DP1021B**)
+- Forms available at Human Resources Division at ERS who will process upon completion
+- **Foreign Government:** Cannot work for any foreign governments — absolute prohibition
+
+> **See Also:** A.G. 304-12 — Boss to Subordinate; NG (no gift) includes charity, BUT Subordinate to Boss is OK if $25 or less.
+
+---
+
+## General Regulations for ODE
+
+### Department Resources
+
+- Do NOT use Department letterhead, personnel, equipment, supply, or other Department resources
+
+### Subordinate-Superior Relationship
+
+- Cannot create a prohibited "subordinate-superior" financial relationship
+
+### Business with the City
+
+- No position in a firm doing business with the City
+- May not accept a valuable gift from any person or firm having business dealings with the City
+- Business with the city could be against the law — consult with Legal Bureau
+
+### Conflict with Duties
+
+- The Charter prohibits engaging in any business, transaction, or private employment that conflicts with proper discharge of official duties
+
+### Using Position for Financial Gain
+
+- Prohibited: Using or attempting to use position to obtain any financial gain/benefit, including employment for themselves or any person "associated" with them
+
+### Alcoholic Beverages
+
+- No position/business in manufacture, sale, or recommendation of alcoholic beverages
+- **Exception:** Premises licensed to sell beer at retail for off-premises consumption (supermarket, grocery stores)
+
+### Race Horse or Race Horse Industry
+
+- Cannot have anything to do with race horses/industry
+
+### Books or Articles
+
+- May write books/articles on own time as long as no violation of 212-76 (Information re: Official Department Business)
+- If member is being **paid**, must submit an ODE Application
+
+### Movie/TV
+
+- May consult for movie/TV BUT cannot sell exclusive rights from involvement in particular incident
+- Tech advisor/consultant to movie/TV requires **written approval** from C.O. of Chief of Patrol's MTV unit
+
+### Conflict of Interests
+
+- If Conflict of Interest issues per City Charter, member may proceed in limited circumstances with **written approval** from:
+  - **Police Commissioner** AND review by **Conflict-of-Interest Board**
+  - Questions? Ask DCLM
+
+---
+
+## Prohibitions — No Exceptions
+
+These types of ODE are **absolutely prohibited**:
+
+| Prohibition | Detail |
+|-------------|--------|
+| Licensed Premises | Guarding licensed premises |
+| Process Server | Cannot be a process server **ANYWHERE** |
+| Arcade/Video/Pinball | Cannot operate OR have a financial interest |
+| Horse Racing | Pari-mutuel racing as rider/owner/driver/trainer |
+| Burglar Alarms/Security Systems | Cannot install/repair/consult — **NEVER** |
+| Investigations | Investigative duties or securing a NYS investigators license |
+| Diplomats | Guarding diplomatic personnel/premises |
+| Hold Position in Labor Union | Officer, organizer, or hold a position in an employee organization |
+| Probationary Police Officer | P.P.O. with less than 1 year, not finished Police Academy |
+| Shield or ID | P.D. uniform/shield cannot be worn/used in any ODE (**except** paid detail) |
+| Employer Has Criminal Record | Knowingly performed for person with criminal arrest record |
+| Foreign Government | Employment by a foreign government |
+
+> **Memory Aid — NEVER Outside the City:** Only 2 things a member CAN do outside the city but CANNOT do in NYC: **Street Vendor** and **Locksmith**.
+
+> **Exam Alert:** Members can NEVER work with Burglar Alarms or Security Systems — this is an absolute prohibition with no exceptions. Process server is also an absolute prohibition regardless of location.
+
+---
+
+## Prohibitions — With Exceptions
+
+| Prohibition | Exception |
+|-------------|-----------|
+| **SLA (State Liquor Authority)** premises | Permitted if alcohol is not handled by the member |
+| **Precinct of Assignment** (UMOS only) | Permitted if command's jurisdiction encompasses more than one precinct |
+| **Secondhand Dealer** (gold, silver, precious metals) | Used cars are OK |
+| **20 Hours per Week** (includes Family Medical Leave) | Can exceed on Vacation or Terminal Leave |
+| **Organization Licensed by NYPD** | Unless authorized |
+| **City Agency Inspects/Approves/Licenses** | Unless authorized |
+
+---
+
+## Security ODE (Payroll Driver/Cashier, Check Cashing, Bodyguard, etc.)
+
+### Indemnification/Legal Representation
+
+- In most cases, NOT entitled to legal representation/indemnification
+- Member should ask if employer has liability insurance
+
+### Off-Duty Arrest
+
+- Make arrest "in furtherance of employer's interest" — acting on their behalf, NOT with P.O. arrest powers
+
+### Investigations
+
+- May NOT investigate crimes for employers
+- Should be **complainant**, not A/O (arresting officer)
+
+### Court Time
+
+- Not to be performed on P.D. time and **NO O.T.**
+
+### Application
+
+- Submitted for **each specific** client, location, company of employment
+- Submit for each company and assignment location (attach separate sheet if necessary)
+- Can **personally** deliver application to ERS to expedite processing
+
+### Strike/Labor Dispute
+
+- May **NOT** work as security guards at a location where strike/labor dispute is ongoing
+
+### Discharge Firearm or Assaulted/Injured While Employed in Security in NYC
+
+- **Immediately** notify Precinct of occurrence (Operations if outside city)
+- Follow **P.G. 221-04**
+
+> **See Also:** P.G. 221-04 — Firearms discharge procedures (for off-duty security incidents).
+
+---
+
+## Attorney Restrictions (MOS Who Are Attorneys)
+
+| Restriction | Detail |
+|-------------|--------|
+| **City Agency** | Cannot represent private interests for compensation before any City agency |
+| **Involving the City** | Cannot appear on behalf of private interests in matters involving the City; cannot appear against City interests where City or gov't agency is a party |
+| **Negligence Cases** | Cannot represent party in negligence or criminal cases in NYS Courts within the 5 boroughs; cannot accept referral fee for such cases |
+| **Same Command** | Cannot be attorney or counsel for (higher or lower ranking) member in/assigned to same command |
+| **Business or Financial Relationship** | Conflicts of Interest Board determined that performing legal services (compensated or not) constitutes a "business or financial relationship" |
+
+---
+
+## Firearms Dealer
+
+Two types of licenses: **Federal** or **Local**
+
+| Type | Issuing Authority | Purpose |
+|------|-------------------|---------|
+| **Local** | Local licensing officer | Buy, sell, loan any pistol/revolver |
+| **Federal** (Class I) | ATF | Selling firearms at wholesale or retail |
+
+### UMOS Outside NYC
+
+- Deliver to C.O. completed copies of:
+  - Application for a Class I Federal Firearms License
+  - Application for License as Gunsmith or Dealer in Firearms (Individual or Partnership)
+
+### After Issuance
+
+- **Federal license:** Provide copy to C.O. **AND** ERS
+- **Local license:** Provide copy to C.O. only
+
+> **Exam Alert:** Federal firearms license copy goes to BOTH C.O. and ERS. Local firearms license copy goes to C.O. ONLY. This distinction is testable.
+
+---
+
+## Watchguard License
+
+### Security Company
+
+- Issued by NYS on request from Personnel Bureau licensing UMOS to provide security guards
+- Prepare affidavit at ERS after ODE application has been prepared and approved
+
+### Clients
+
+- Submit list of clients and possible clients to **Intelligence Division** for records check
+- Maintain an updated and unified list of all clients for Department inspection
+
+### Client Prohibitions
+
+- No client who is subject of **criminal investigations**
+- No premises licensed by **ABC Board** (Alcohol Beverage Control)
+- No **Diplomats** or Diplomatic locations
+- No client located in **Precinct of assignment**
+- No services to clients engaged in **active labor strikes**
+
+### Employees
+
+- Provide **Employee Resources Section** with names and addresses of all employees (UMOS and others)
+
+### Employee Prohibitions
+
+- Do NOT advertise employees are NYPD
+- Do NOT employ a member of his/her command
+- Do NOT employ a higher-ranking member
+- Do NOT employ other MOS until they show approved ODE application
+
+---
+
+# Section 332 — Display of Offensive Material
+
+## A.G. 332-02: Display of Offensive Material
+
+Display of offensive material is a form of **employment discrimination** that creates a hostile work environment.
+
+### What Constitutes Offensive Material
+
+- Display of sexually explicit, offensive, ethnic, racial, etc. material
+- Not just graffiti on Department property — includes:
+  - Lockers, vehicles, activity logs, summonses, etc.
+  - Tattoos, posters, adult movie/program or other offensive material
+  - Via VCR/DVD/cable, audio recording or broadcast
+  - Email/voicemail, or through any electronic or other device
+
+### Commanding Officers/Unit Heads/Managers/Supervisors
+
+- Keep work sites **free** of this material or activities
+
+### Filing a Complaint (2 Ways — Same as A.G. 332-01)
+
+1. File complaint with OEEO by phone, email, fax, in writing, or in person
+   - After hours/weekends: OEEO receives voicemail/email and calls back next business day
+2. File with C.O., Supervisor (uniformed or civilian), Manager, or EEO Liaison
+
+---
+
+## Supervisor Response — Mandated to Report ASAP
+
+### Business Hours
+
+- Phone OEEO during business hours, Monday-Friday 0800 x 1800, OR call next business day
+- Be guided by EEO directions
+
+### Off-Hours
+
+- Leave message and be guided by information received from OEEO
+- **Photograph it** and take immediate steps to secure/remove/cover
+
+### Offensive Material Handling
+
+- **Safeguard** it, if possible
+- **Voucher** as "Investigatory Evidence"
+- Corrective action may include removing offensive material (magazine/poster) or a **Service Request on Work Order** app
+
+### Command Log Entry
+
+- Make CLE — do **NOT** describe or ID the specific material
+
+> **Exam Alert:** When making a Command Log Entry for offensive material, do NOT describe or identify the specific material. This is the opposite of most other CLEs where you want detail.
+
+### Notify
+
+- C.O./Manager
+
+### Report
+
+- Prepare **confidential Report (49)** direct to C.O. OEEO
+  - Within **5 business days** with:
+    - Case #
+    - Photo of offensive material
+    - Copy of voucher
+
+---
+
+## Comparison: A.G. 332-01 vs. A.G. 332-02
+
+| Feature | 332-01 Discrimination | 332-02 Offensive Material |
+|---------|----------------------|--------------------------|
+| Complainant may report anonymously | Yes | No (material must be documented) |
+| Department record entries | NO entries in any official record | CLE (Command Log Entry) — but do NOT describe material |
+| Supervisor investigation | Do NOT investigate | Take immediate steps — safeguard, voucher, photograph |
+| Report (49) | Only IF case # gotten | Done **automatically** (always within 5 business days) |
+
+> **Exam Alert:** This comparison table is high-yield. The key difference is that 332-01 (discrimination) requires NO investigation and NO department records, while 332-02 (offensive material) requires immediate action (safeguard, voucher, CLE) and an automatic Report (49) within 5 business days.
+
+> **Prior Test:** A supervisor discovers offensive graffiti in the locker room. What is the first action? — Photograph it and take immediate steps to secure/remove/cover. Then voucher as "Investigatory Evidence," make a CLE (without describing the material), and notify the C.O.
+
+---
+
+## Inspection of Department Vehicle by Operator (Additional Data, A.G. 332-02)
+
+- Inspection of Department vehicle by operator prior to use to ensure there is no graffiti/offensive material displayed
+- **202-28 Operations Coordinator** and **202-18 Desk Officer**: During daily inspection ensure that no form of offensive material is displayed
+
+> **See Also:** P.G. 202-28 — Operations Coordinator duties (daily vehicle inspections).
+
+> **See Also:** P.G. 202-18 — Desk Officer duties (daily inspections for offensive material).
+
+---
+
+## Sexually Explicit Material (Pornography)
+
+- Sexually explicit material shall NOT be listened to/shown/viewed unless necessary as part of a documented ongoing official investigation
+- Not via VCR's or tapes in Department facilities
+- Premium channels with sexually explicit material are NOT permitted at Department facilities
+
+### C.O./Manager/Supervisor or Designee
+
+- Contact cable company and have them **block** any stations on the basic package that routinely show sexually explicit programming, if possible
+
+### Commanding Officer/Manager
+
+- Inform members of command about display and that:
+  - It **violates Department policy** and will not be tolerated, subject to disciplinary action
+- **Investigation:** Confer with OEEO to determine appropriate follow-up or investigatory action
+- **Notify:** OEEO promptly by **telephone** of results of investigation
+- **Report:** Forward confidential Report (49) within 5 business days direct to C.O. OEEO with:
+  - Case number
+  - Results of investigation
+  - Steps taken to address matter
+  - Steps taken to preclude reoccurrence
+
+> **Exam Alert:** For offensive material, the C.O. must inform command members that the display violates policy — do NOT describe or identify the specific material in this notification.
+
+---
+
+# Section 332 — Retaliation for Reporting Misconduct or Corruption
+
+## A.G. 332-14: Retaliation for Reporting Misconduct or Corruption
+
+### Definition
+
+- Retaliation for **voluntarily providing information** regarding misconduct or corruption
+
+### Reporting
+
+- Notify **IAB** (Internal Affairs Bureau)
+- If retaliation is for **EEO issues**, comply with A.G. 332-01, Employment Discrimination
+
+> **Exam Alert:** Retaliation for reporting misconduct/corruption goes to IAB. Retaliation for EEO matters goes to OEEO under A.G. 332-01. Know which entity handles which type of retaliation.
+
+### Additional Data — Professional or Personal Problems
+
+- **Employee Assistance Unit**, Chaplains Unit, POPPA, etc. can provide assistance
+- Can refer to Personnel's Intranet page and click on "Employee Assistance" in "Documents" section
+
+> **See Also:** A.G. 332-01 — Employment Discrimination/Retaliation (for EEO-related retaliation).
+
+---
+
+# Section 332 — Key Terms and Definitions
+
+## Employment Discrimination (A.G. 332-01)
+
+| Term | Definition |
+|------|-----------|
+| **OEEO** | Office of Equal Employment Opportunity — central office handling discrimination complaints |
+| **DCEI** | Deputy Commissioner Equity and Inclusion — title revoked by R.O. 12 s.25; references should read C.O. OEEO |
+| **EEO Liaison** | Non-supervisor volunteer in every command; C.O. recommends, C.O. OEEO approves |
+| **Disparate Impact** | Policy with disproportionate impact on a group, unless justified by business necessity |
+| **Reasonable Accommodation** | Modification to allow employee/applicant with disability to perform duties; not required if undue hardship on Department |
+| **Cooperative Dialogue** | Required even when accommodation would impose undue hardship |
+| **Case #** | Assigned by OEEO when formal complaint is filed; triggers Report (49) requirement |
+| **Inquiry #** | Assigned by OEEO for preliminary inquiries; does NOT trigger Report (49) |
+| **CPI** | Central Personnel Index — no entry made on respondent's CPI if resolved through mediation |
+
+## Display of Offensive Material (A.G. 332-02)
+
+| Term | Definition |
+|------|-----------|
+| **Hostile Work Environment** | Created by display of sexually explicit, offensive, ethnic, racial material |
+| **Investigatory Evidence** | Voucher classification for safeguarded offensive material |
+| **CLE** | Command Log Entry — required for offensive material but must NOT describe or identify the specific material |
+
+## Retaliation (A.G. 332-14)
+
+| Term | Definition |
+|------|-----------|
+| **Retaliation (EEO)** | Adverse action for filing complaint, requesting accommodation, cooperating, or filing civil suit — discipline imposed regardless of outcome of original complaint |
+| **Retaliation (Misconduct/Corruption)** | Adverse action for voluntarily providing info about misconduct/corruption — report to IAB |
+
+## Off-Duty Employment (A.G. 332-04)
+
+| Term | Definition |
+|------|-----------|
+| **ODE** | Off-Duty Employment — requires application and C.O. approval |
+| **ERS** | Employee Resources Section — receives all ODE applications (approved, disapproved, renewals, terminations) |
+| **CPR System** | Centralized Personnel Resource System — used to check status of ODE applications |
+| **Ownership Interest** | Interest in a firm held by MOS, spouse, domestic partner, or unemancipated child exercising managerial control |
+| **DP1021A** | Certification of Compatibility for Dual Employment — City Mayoral Agencies |
+| **DP1021B** | Certification of Compatibility for Dual Employment — All Other Government Agencies |
+| **Boro C.O.** | Approves security-related ODE applications (not the command-level C.O.) |
+| **Watchguard License** | NYS license allowing UMOS to provide security guards via a security company |
+| **Class I Federal Firearms License** | Issued by ATF for wholesale or retail firearms sales |
+
+## Key Reporting Distinctions
+
+| Item | A.G. 332-01 (Discrimination) | A.G. 332-02 (Offensive Material) |
+|------|------------------------------|----------------------------------|
+| Complainant anonymity | Yes — may call or write anonymously | No — material must be documented |
+| Department record entries | NO entries in any official record | CLE required (but no description of material) |
+| Supervisor investigation | Do NOT investigate | Take immediate steps — photograph, safeguard, voucher |
+| Report (49) trigger | Only IF case # received | Automatic — always within 5 business days |
+| Complainant filing method | Call, email, fax, write, in person | Call, email, fax, write, in person |
+| Supervisor reporting method | **Telephone only** | **Telephone only** |
+
+## Filing Deadlines
+
+| Level | Deadline | Notes |
+|-------|----------|-------|
+| NYC (general) | **1 year** from date of occurrence | NYPD or NYC Commission on Human Rights |
+| NYC (sexual harassment) | **3 years** from date of occurrence | Extended deadline |
+| NY State | **1 year** from date of occurrence | Cannot file with State if civil action filed first |
+| Federal | **300 days** from date of occurrence | US EEO Commission, regardless of other filings |
+
+## ODE Hour Limits
+
+| Situation | 20-Hour Limit |
+|-----------|---------------|
+| Regular duty | Applies — max 20 hours/week |
+| Family Medical Leave | Applies — CANNOT exceed 20 hours |
+| Vacation | Does NOT apply — can exceed 20 hours |
+| Terminal Leave | Does NOT apply — can exceed 20 hours |
+| Within 3 hours of tour | Prohibited |
+
+## ODE Prohibitions Quick Reference
+
+| Category | No Exceptions | With Exceptions |
+|----------|---------------|-----------------|
+| Licensed Premises | Guarding licensed premises | SLA premises (if member does not handle alcohol) |
+| Process Server | Anywhere | — |
+| Burglar Alarms/Security Systems | Never | — |
+| Precinct of Assignment | — | UMOS only; OK if jurisdiction spans multiple Pcts |
+| Secondhand Dealer | Precious metals | Used cars are OK |
+| 20 Hours/Week | Family Medical Leave | Vacation/Terminal Leave exempt |
+| Foreign Government | Always prohibited | — |
+
+## Key Forms
+
+| Form | Purpose |
+|------|---------|
+| **Reasonable Accommodation Request** | Employee or applicant requesting workplace accommodation |
+| **Complaint of Employment Discrimination** | Filed with OEEO — available on Department Intranet |
+| **Off-Duty Employment Application** | Required for all ODE; submitted through C.O. to ERS |
+| **DP1021A** | Dual employment certification for City Mayoral Agencies |
+| **DP1021B** | Dual employment certification for all other government agencies |
+| **Report (49)** | Confidential typed letterhead report; direct to C.O. OEEO within 5 business days |
+| **Force Record (10 Card)** | Record firearms license numbers |
+
+---
+
+# Section 332 — Review Questions
+
+## Multiple Choice
+
+**1. A supervisor becomes aware of an allegation of employment discrimination. The supervisor should:**
+
+- A) Investigate the complaint and prepare a report
+- B) Report to OEEO by telephone and make no Department record entries
+- C) Prepare a Command Log Entry with full details of the allegation
+- D) Refer the matter to IAB for investigation
+
+<details><summary>Answer</summary>
+
+**B) Report to OEEO by telephone and make no Department record entries**
+
+Supervisors are mandated to report to OEEO ASAP or by next business day. They must NOT investigate and must NOT make any entries in Department records. Confidentiality is paramount. (A.G. 332-01)
+
+</details>
+
+---
+
+**2. Filing deadlines for employment discrimination complaints are measured from:**
+
+- A) The date the complaint is filed
+- B) The date the original report was made
+- C) The date of occurrence
+- D) The date the respondent is notified
+
+<details><summary>Answer</summary>
+
+**C) The date of occurrence**
+
+All filing deadlines run from the date the discriminatory act occurred, not the date it was first reported or the date the complaint is filed. (A.G. 332-01)
+
+</details>
+
+---
+
+**3. A sexual harassment complaint filed at the NYC level has a filing deadline of:**
+
+- A) 300 days
+- B) 1 year
+- C) 3 years
+- D) 5 years
+
+<details><summary>Answer</summary>
+
+**C) 3 years**
+
+Sexual harassment complaints at the NYC level (NYPD or NYC Commission on Human Rights) have a 3-year filing deadline — longer than the standard 1-year deadline for other discrimination complaints. Federal is 300 days regardless. (A.G. 332-01)
+
+</details>
+
+---
+
+**4. A supervisor discovers offensive graffiti in the locker room. After photographing and securing the material, the supervisor should voucher it as:**
+
+- A) Evidence
+- B) Investigatory Evidence
+- C) Found Property
+- D) Safeguarded Material
+
+<details><summary>Answer</summary>
+
+**B) Investigatory Evidence**
+
+Offensive material should be safeguarded and vouchered as "Investigatory Evidence." A CLE should be made but must NOT describe or identify the specific material. (A.G. 332-02)
+
+</details>
+
+---
+
+**5. Which of the following is a key difference between A.G. 332-01 (Discrimination) and A.G. 332-02 (Offensive Material)?**
+
+- A) Both require a Command Log Entry
+- B) 332-01 requires immediate investigation; 332-02 does not
+- C) 332-01 requires no Department record entries; 332-02 requires a CLE
+- D) 332-02 allows anonymous reporting; 332-01 does not
+
+<details><summary>Answer</summary>
+
+**C) 332-01 requires no Department record entries; 332-02 requires a CLE**
+
+For 332-01 (Discrimination), supervisors make NO entries in any official Department record. For 332-02 (Offensive Material), a CLE is required — but it must NOT describe or identify the specific material. Additionally, for 332-01 a Report (49) is only done if a case # is received, while for 332-02 the Report (49) is automatic. (A.G. 332-01, A.G. 332-02)
+
+</details>
+
+---
+
+**6. A UMOS with an approved off-duty employment application wants to exceed 20 hours per week while on Family Medical Leave. This is:**
+
+- A) Permitted with C.O. approval
+- B) Permitted without any special approval
+- C) Not permitted — the 20-hour limit applies on Family Medical Leave
+- D) Permitted only if the member obtains ERS approval
+
+<details><summary>Answer</summary>
+
+**C) Not permitted — the 20-hour limit applies on Family Medical Leave**
+
+Members CANNOT exceed 20 hours per week while on Family Medical Leave. The exception to the 20-hour limit applies only to Vacation or Terminal Leave. (A.G. 332-04)
+
+</details>
+
+---
+
+**7. A UMOS applies for off-duty employment in a security-related field. The application should be forwarded for approval to:**
+
+- A) The commanding officer of the command
+- B) The Borough Commanding Officer
+- C) Employee Resources Section directly
+- D) The Chief of Personnel
+
+<details><summary>Answer</summary>
+
+**B) The Borough Commanding Officer**
+
+Security-related ODE applications are forwarded to the Boro C.O. for recommendation and signature. The command-level C.O. does not approve security jobs — the Boro C.O. does, then sends it back to the command. (A.G. 332-04)
+
+</details>
+
+---
+
+**8. After receiving an OEEO complaint, the respondent has the right to respond in writing within:**
+
+- A) 7 calendar days
+- B) 10 business days
+- C) 14 calendar days
+- D) 30 calendar days
+
+<details><summary>Answer</summary>
+
+**C) 14 calendar days**
+
+After receiving a copy of the complaint, the respondent has the right to respond in writing within 14 calendar days. If resolution is reached through mediation, NO entry is made on the respondent's CPI. (A.G. 332-01)
+
+</details>
+
+---
+
+**9. A member who is retaliated against for voluntarily reporting corruption should notify:**
+
+- A) OEEO
+- B) IAB
+- C) The desk officer
+- D) The Counseling Unit
+
+<details><summary>Answer</summary>
+
+**B) IAB**
+
+Retaliation for voluntarily providing information about misconduct or corruption is reported to IAB. If the retaliation is specifically for EEO issues, then comply with A.G. 332-01 and report to OEEO. (A.G. 332-14)
+
+</details>
+
+---
+
+**10. Which of the following is a Report (49) NOT required for in connection with an OEEO complaint?**
+
+- A) When a case number is assigned
+- B) When offensive material is discovered
+- C) When the C.O. is directed by OEEO to report corrective action
+- D) When only an inquiry number is assigned
+
+<details><summary>Answer</summary>
+
+**D) When only an inquiry number is assigned**
+
+A Report (49) is only prepared when a Case # is received. If the complaint results in only an Inquiry #, no Report (49) is written. For offensive material (A.G. 332-02), the Report (49) is automatic regardless. (A.G. 332-01)
+
+</details>
+
+---
+
+**11. After a UMOS's off-duty employment application is approved, the application must be renewed:**
+
+- A) Every 6 months, submitted 5 days prior to expiration
+- B) Every 12 months, submitted 10 days prior to expiration
+- C) Every 24 months, submitted 30 days prior to expiration
+- D) Only when there is a change in employment status
+
+<details><summary>Answer</summary>
+
+**B) Every 12 months, submitted 10 days prior to expiration**
+
+After approval, the ODE application must be renewed after 12 months. The renewal application must be submitted 10 days prior to expiration. Any change in status (duties, location, employer) requires a new application. (A.G. 332-04)
+
+</details>
+
+---
+
+**12. A Federal firearms license copy must be provided to:**
+
+- A) C.O. only
+- B) C.O. and ERS
+- C) ERS only
+- D) C.O. and FTS
+
+<details><summary>Answer</summary>
+
+**B) C.O. and ERS**
+
+A Federal firearms license copy goes to BOTH the C.O. and ERS. A Local firearms license copy goes to the C.O. only. License numbers are also recorded on the Force Record (10 Card). (A.G. 332-04)
 
 </details>
 
