@@ -113,6 +113,68 @@
 | REQUEST FOR INVOICE CHANGE OF CATEGORY | PD521-167 | Changing property category |
 | OFFICIAL LETTERHEAD | PD158-151 | Various notifications |
 
+## Key Acronyms (from The Key Lessons 21–22)
+
+| Acronym | Full Term | Context |
+|---------|-----------|---------|
+| **FAS** | Firearms Analysis Section | Section of the Police Lab that analyzes firearms evidence |
+| **JFTF** | Joint Firearms Task Force | Contact for emergency firearm trace requests |
+| **SECK** | Sexual Offense Evidence Collection Kit | DNA evidence category for lab delivery |
+| **PTR** | Property Transfer Report | Report used when transferring property between locations |
+| **BATF** | Bureau of Alcohol, Tobacco, Firearms and Explosives | Contacted for routine or emergency firearm traces |
+| **DCWP** | Dept. of Consumer/Worker Protection | Receives LD6 complaints about tow operator violations |
+| **DSNY** | Dept. of Sanitation New York | Tags vehicles for potential Ro-Tow (but UMOS makes final determination) |
+| **EPCS** | Evidence Property Control Specialist | Obtains "Ro Tow" copy of PCI and updates FORMS-P |
+
+## Ro-Tow Disqualifiers — "CHASED FIT DOM"
+
+The mnemonic **CHASED FIT DOM** identifies what is NOT a Rotation Tow situation:
+
+| Letter | Situation | Notes |
+|--------|-----------|-------|
+| **C** | Crime | Dept. Tow |
+| **H** | Highway | Authorized Tow or Dept. Tow |
+| **A** | Arrest made | Except photo release |
+| **S** | Safeguard | Aided/Collision |
+| **E** | Evidence | Dept. Tow |
+| **D** | Determine True Owner | — |
+| **F** | Forfeiture | — |
+| **I** | Investigation | — |
+| **T** | Truck (large) | — |
+| **D** | Derelict | Sanitation guidelines on inside back cover of Ro-Tow Log |
+| **O** | Owner on scene AND recovered prior to police | — |
+| **M** | Moped (limited use motorcycle) | — |
+
+## VTL 1224 — Abandoned Vehicle Thresholds
+
+| Time | Condition |
+|------|-----------|
+| More than 6 hours | No plates |
+| More than 24 hours | Illegally parked |
+| More than 48 hours | Legally parked initially → becomes abandoned |
+| More than 96 hours | On private property without owner permission |
+
+## Four Transparent Lab Bags (218-04)
+
+| Bag | Contents |
+|-----|---------|
+| 1 — GUNS | Firearms and firearm-related evidence |
+| 2 — DRUGS | Controlled substances / marijuana (PCI only — no Request for Lab Exam, no 61, no OLBS, no zFINEST) |
+| 3 — DNA | DNA evidence including SECKs |
+| 4 — CRIMINALISTICS | Trace evidence (hair, fiber, paint, GSR, etc.) |
+
+## Additional Critical Timeframes (from Lessons 21–22)
+
+| Timeframe | Rule | Source |
+|-----------|------|--------|
+| **0030** | Desk Officer must notify Patrol Boro that evidence is going to Lab | 218-04 |
+| **0100** | Lab delivery must occur on 1st platoon prior to this time | 218-04 |
+| **0100** | If boro not called by 0030, Borough Clerical Officer calls command | 218-04 |
+| **2 weeks** | Call BATF Regional Crime Gun Center for routine trace (after receipt by FAS) | 218-23 |
+| **Day 8–30** | Ro-Tow operator may deliver vehicle to Property Clerk Auto Pound on weekdays | 218-21 |
+| **Day 30** | Ro-Tow operator MUST deliver vehicle to Auto Pound | 218-21 |
+| **After 15 days at Auto Pound** | Unclaimed vehicles disposed of according to law | 218-21 |
+
 ## Key Contact Units
 
 | Unit | When to Contact |
@@ -123,7 +185,8 @@
 | **Computer Crimes Squad** (Mon–Fri 0600–2000) | Computer evidence seizure |
 | **Office of Chief of Detectives** | Computer evidence (after hours) |
 | **Asset Forfeiture Unit** (24/7) | Currency/instruments $1,000+ for forfeiture |
-| **Bomb Squad Range — Rodman's Neck** (Mon–Fri 0700–1500) | Fireworks delivery |
+| **Bomb Squad Range — Rodman's Neck** (Mon–Fri 0700–1500) | Fireworks delivery (Mon–Fri 7x3) |
+| **Bomb Squad Office** | Fireworks delivery at all other times or if Range personnel unavailable |
 | **License Division** | Handgun license surrender issues |
 | **Legal Bureau** | Suspect evidence consent refusal; civil enforcement questions |
 | **Internal Affairs Bureau Command Center** | Property discrepancies; currency deposit discrepancies |
@@ -135,3 +198,7 @@
 | **FIU OCME Liaison Unit** | Immediate DNA delivery decisions |
 | **NYS Tax Office** | Lottery property recovery |
 | **Audits and Accounts Unit** | Fee receipts forwarded daily |
+| **Police Lab Evidence Control Supervisor** (24/7) | Unusual property before Lab delivery (large seizures, hypos, etc.) |
+| **Joint Firearms Task Force (JFTF)** | Emergency firearm trace requests |
+| **BATF Regional Crime Gun Center** | Routine firearm trace (2 weeks after receipt by FAS) |
+| **Dept. of Consumer/Worker Protection (DCWP)** | Tow operator violations/overcharges (LD6); tow company theft (61 dup.) |

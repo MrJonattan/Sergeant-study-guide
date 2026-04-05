@@ -26,6 +26,99 @@ To identify regulated waste coming into police custody.
 
 ---
 
+## P.G. 218-04: Delivery of Evidence to the Police Laboratory
+
+**Date Effective:** (see PG) | **Pages:** 12+
+
+### Purpose
+
+To deliver evidence with probative value to the Police Laboratory for analysis. Non-probative property is delivered direct to the Property Clerk Division.
+
+### Four Transparent Bag Categories
+
+The Desk Officer prepares four transparent bags for items going to the Lab:
+
+| Bag | Contents |
+|-----|---------|
+| 1 — GUNS | Firearms and firearm-related evidence |
+| 2 — DRUGS | Controlled substances / marijuana evidence |
+| 3 — DNA | DNA evidence including SECKs |
+| 4 — CRIMINALISTICS | Trace evidence (hair, fiber, paint, GSR, questioned docs, footwear, tool marks, fingerprints) |
+
+> **Exam Alert:** Found **firearms** (semi-automatic handguns, etc.) go to the Lab, but found **revolvers** do NOT — revolvers not associated with an arrest or criminal investigation do not require lab analysis. *(PG 218-04)*
+
+> **Exam Alert:** The 4-bag procedure applies to **Precincts, TDs, and PSAs**. The process steps are essentially the same for all four categories — differences relate to which paperwork is attached. *(PG 218-04)*
+
+### Paperwork Attached Per Evidence Category
+
+| | Guns | Drugs | DNA (SECK) | Criminalistics |
+|---|---|---|---|---|
+| Request for Lab Exam | YES | **NO** | YES | YES |
+| PCI | YES | YES | YES | YES |
+| OLBS (if applicable) | YES | **NO** | YES | YES |
+| 61 OR Omni printout | YES | **NO** | YES | YES |
+| zFINEST printout | YES | NO | NO | NO |
+
+> **Exam Alert:** Guns do NOT get the OLBS attached. Drugs do NOT get a Request for Lab Exam. The 61/Omni printout gets attached to all 4 bags EXCEPT Drugs. The zFINEST printout is ONLY attached to the Gun bag. DNA (SECK) and Criminalistics have the same paperwork. *(PG 218-04)*
+
+> **PG Conflict:** Under 218-04 (Lab delivery), when the **Borough accepts** property, a PTR Acceptance Document is issued. When the **Borough rejects** property, a **new PTR** is issued. Under 218-03 (Property Clerk delivery), when the Property Clerk accepts property, there is **NO mention of an Acceptance Document**. *(PG 218-04 vs. PG 218-03)*
+
+### Notification and Delivery Timeline
+
+- Desk Officer notifies **Patrol Boro PRIOR to 0030** that evidence is going to the Lab
+- Delivery must occur on **1st platoon PRIOR to 0100**
+- If desk officer fails to call the boro by 0030, the **Borough Member/Clerical Officer** will call command at **0100**
+- If exigency exists and delivery cannot comply: need permission from the **C.O./Duty Captain**
+
+> **Exam Alert:** If delivery is missed on the 1st platoon, **Drugs or Guns** in a **CPL 180.80/170.70 case** must be delivered on the **2nd platoon**. The notification says Drugs or Guns — it does NOT say DNA or Criminalistics. *(PG 218-04)*
+
+> **Exam Alert:** If the D.O. claims exigency, the Borough Clerical Officer will **immediately** call the C.O./Duty Captain. The C.O./Duty Captain then prepares a **Typed Letterhead** to the Chief of Patrol through channels describing the exigency and explaining non-compliance. *(PG 218-04)*
+
+### Unusual Property — Call Lab's Evidence Control Supervisor First
+
+Before delivering any of the following, call the Lab's Evidence Control **Supervisor** (available 24/7):
+- Hypos
+- Large seizures of marijuana
+- Large containers of liquids
+- Large seizures of firearms
+- DNA evidence from crime scenes
+- Other unusual or potentially harmful material
+
+> **Exam Alert:** If the D.O. has questions about what is considered "large," call the **Evidence Control Supervisor**. *(PG 218-04)*
+
+### Hypos (Hypodermic Syringes/Needles)
+
+Hypos are sent to the **Property Clerk, NOT the Lab**, UNLESS:
+- Suspected overdose, OR
+- Felony charge **other than** CPCS/CSCS (e.g., Homicide, Assault, major crime)
+
+> **Exam Alert:** Hypos accepted at the Lab only if properly packaged. See 218-10 for hypo packaging instructions. *(PG 218-04)*
+
+> **See Also:** PG 218-10 — Hypodermic needle packaging requirements.
+
+### Controlled Substances Delivered to Lab vs. Not
+
+| Delivered to Lab | NOT Delivered to Lab |
+|-----------------|---------------------|
+| Felony level arrest or Felony investigation | All other controlled substances/marijuana |
+| Overdose investigations | Marijuana that has been **field tested** |
+
+### Reasons the Lab May Reject Property
+
+- Unsigned voucher (by officer and/or supervisor)
+- Discrepancy between PTR member and delivering member
+- Missing or incomplete Reports (PTR, 61, or Request for Lab Exam)
+- Evidence not rendered safe (radiological, biological, bomb material not rendered safe by bomb squad)
+- Improperly packaged hypo (submitted for homicide, assault, overdose, other major crime but packaged improperly)
+- Improperly invoiced evidence (e.g., narcotics invoiced with Criminalistics, firearm evidence invoiced with holster/silencer, items not analyzed)
+- Evidence/property not requiring laboratory analysis
+
+> **See Also:** PG 218-03 — Delivery of property to Property Clerk (non-lab items).
+
+> **See Also:** PG 218-23 — Processing firearms and firearm-related evidence.
+
+---
+
 ## P.G. 218-23: Processing Firearms and Firearm-Related Evidence
 
 **Date Effective:** 12/31/24 | **Last Revision:** R.O. 78 | **Pages:** 11
@@ -42,6 +135,8 @@ To ensure all firearms and firearm-related evidence is properly marked, packaged
 | **Cartridge** | Live ammunition — bullet (projectile) + shell casing as one unit |
 | **Fired Bullet** | Part of cartridge fired through barrel (lead, metal-jacketed, coated lead) |
 | **Shell Casing** | Metal casing remaining in/ejecting from firearm after bullet leaves barrel |
+
+> **Memory Aid — GUNS/DRUGS/DNA/CRIM:** The four transparent bag categories for Lab delivery are **G**uns, **D**rugs, **D**NA, **C**riminalistics. *(PG 218-04)*
 
 ### Cartridge Categories (Critical for Packaging)
 
@@ -110,6 +205,8 @@ To ensure all firearms and firearm-related evidence is properly marked, packaged
 
 > **Exam Alert:** Firearm alarm cancellation is made ONLY by the **Stolen Property Inquiry Unit** — recovering command does NOT cancel.
 
+> **Exam Alert:** Marking order and invoice listing order are **different things**. Order does NOT matter when physically **marking** firearm evidence (a firearm can be "marked" item 7). However, the **order on the invoice** is set by procedure — the firearm must always be listed as Item 1 on the invoice, regardless of marking order. *(PG 218-23, Page 2 of 11, 3rd Paragraph)*
+
 ### Firearms Invoiced for Safekeeping
 
 Delivered DIRECT to Property Clerk Division (no lab analysis required):
@@ -118,6 +215,21 @@ Delivered DIRECT to Property Clerk Division (no lab analysis required):
 - Obtained from licensed dealer when license revoked/suspended/expired
 - Lawfully possessed and removed by court order/order of protection
 - Obtained from permit holder during renewal/expiration/cancellation
+
+> **Exam Alert:** Firearms invoiced for safekeeping get a **separate voucher** and are sent **straight to Property Clerk UNLESS something needs examination**. Do NOT put safekeeping guns on the same invoice as guns going to the Lab. *(PG 218-23)*
+
+### Tracing Firearms
+
+Not every gun sent to the Firearms Analysis Section (FAS) is automatically traced.
+
+- If the MOS does **NOT** want the gun traced: write in **block letters "DO NOT TRACE"** in the "Remarks" section of **both the PCI AND the Request for Lab Exam**
+- If the Commanding Officer subsequently decides it SHOULD be traced: request can be made by phone to the Bureau of ATF
+- **Routine Trace:** Call BATF Regional Crime Gun Center 2 weeks after receipt by FAS
+- **Emergency Trace:** Call a supervisor at the **Joint Firearms Task Force (JFTF)**; if unable to reach a supervisor at JFTF, call the **Detective Bureau Wheel**
+
+> **Exam Alert:** "DO NOT TRACE" must appear in block letters in the Remarks section of **both** the PCI and the Request for Lab Exam — not just one. *(PG 218-23)*
+
+> **See Also:** PG 218-04 — Delivery of evidence to the Police Lab (which firearms go / which do not).
 
 ### DNA Evidence on Firearms
 
@@ -326,6 +438,12 @@ To establish a standard procedure to invoice fireworks coming into custody.
 | 11–13 | Enter quantity of sealed bags/boxes — do NOT individually count fireworks |
 | 14 | Attach photocopy of INVOICE to each sealed bag/box (minimum 10 for large seizures) |
 
+> **Exam Alert:** "Impact exploders" (snaps, cracker balls, etc.) must be separated from other fireworks because they could cause a **chain reaction detonation**. *(PG 218-53)*
+
+> **Exam Alert:** Two separate PCIs are always prepared for a fireworks arrest — **one for the photographs** (arrest evidence) and **one for the fireworks**. Both vouchers include the 61#, OLBS#, and charge/offense. *(PG 218-53)*
+
+> **Exam Alert:** For a large seizure of **sealed boxes**, provide overall photographs of the boxed fireworks, open one box, remove and display contents and photograph, then repack and seal with Evidence Tape. *(PG 218-53)*
+
 ### Desk Officer — Delivery to Bomb Squad
 
 | Step | Action |
@@ -334,6 +452,12 @@ To establish a standard procedure to invoice fireworks coming into custody.
 | 19a | Contact Bomb Squad Office at all other times |
 | 22 | Create PROPERTY TRANSFER REPORT using FORMS Property |
 | 23 | Make Command Log entry (INVOICE numbers, delivering member, vehicle numbers) |
+
+> **Exam Alert:** Call Bomb Squad **from the scene** in three situations: **(1) Large Seizure, (2) Unusual Problem, (3) Question regarding Safety**. *(PG 218-53)*
+
+> **Exam Alert:** The Command Log entry for fireworks delivery includes **three numbers**: PCI #s, Name & shield # of MOS delivering, and RMP #. *(PG 218-53)*
+
+> **Exam Alert:** The MOS delivering fireworks to the Bomb Squad returns to command with **two items**: (1) the PTR Acceptance Document with assigned Bomb Squad case # on it, AND (2) a copy of the Bomb Squad Fireworks Supporting Deposition. The D.O. files the deposition with the PCI in the A/Os Arrest Folder. *(PG 218-53)*
 
 ### Transportation Safety Rules
 
@@ -349,7 +473,13 @@ To establish a standard procedure to invoice fireworks coming into custody.
 | After dark | **No unloading** at Bomb Squad range |
 | Significant amount | Notify FDNY through **311** for fire protection escort |
 
-> **Exam Alert:** ONLY Department-issued "Heavy Duty Bags (For Fireworks)" may be used — peddler, garbage, or recycling bags are **strictly prohibited**.
+> **Exam Alert:** ONLY Department-issued "Heavy Duty Bags (For Fireworks)" may be used — peddler, garbage, or recycling bags are **strictly prohibited**. *(PG 218-53)*
+
+> **Exam Alert:** "Large seizure" = **more than 25 bags or boxes** — these must be transported in a **closed-body truck** with a separate cab and **wood cargo floor**. Load must be secured to prevent shifting (no open rack or barrier trucks). Large seizures are NOT unloaded at the Range after dark. The final decision to unload or not rests with the **Bomb Squad**. *(PG 218-53)*
+
+> **Exam Alert:** Large amounts of fireworks are **NOT stored** in a dept. facility — transport to range ASAP or as directed. Small amounts can be safely stored prior to transport but must be **kept away from radiators/heaters**. *(PG 218-53)*
+
+> **See Also:** PG 214-33 — Transport of animals; fireworks are transported in rear seat of RMP (NOT trunk), similar rule to transporting a dog in a patrol vehicle.
 
 ---
 

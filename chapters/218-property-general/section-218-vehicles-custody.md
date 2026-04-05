@@ -193,6 +193,23 @@ To process non-evidence stolen or apparently abandoned vehicles, including motor
 
 **DOUBLE TOW** — Additional tow truck needed for unusual recovery (embankment, overturned, wedged). NOT authorized solely because vehicle has no wheels.
 
+> **Exam Alert:** Double Tow is approved by selecting "Yes" in the "Double Tow" caption in FORMS-P when preparing the PCI, and entering the TAX # of the authorizing officer. A vehicle with **no wheels** does NOT automatically qualify for a double tow — a tow should handle that with one truck. *(PG 218-21)*
+
+### VTL 1224 — Abandoned Vehicle Time Chart
+
+| Time Left Unattended | Condition |
+|---------------------|-----------|
+| More than 6 hours | No plates |
+| More than 24 hours | Illegally parked |
+| More than 48 hours | Legally parked initially, then becomes illegally parked (e.g., alternate side); 48 hours later it is considered abandoned |
+| More than 96 hours | On private property without permission of owner |
+
+> **Exam Alert:** Know these VTL 1224 time thresholds cold — they appear frequently in test scenarios involving whether a vehicle qualifies for Ro-Tow. *(PG 218-21)*
+
+### What is NOT Ro-Tow (Memory Aid)
+
+> **Memory Aid — CHASED FIT DOM:** The situations that disqualify a vehicle from Ro-Tow are remembered as: **C**rime (Dept. Tow), **H**ighway (Authorized or Dept. Tow), **A**rrest made (except photo release), **S**afeguard (Aided/Collision), **E**vidence (Dept. Tow), **D**etermine True Owner — **F**orfeiture, **I**nvestigation, **T**ruck (large) — **D**erelict (Sanitation), **O**wner on scene AND recovered prior to police, **M**oped (limited use motorcycle). *(PG 218-21)*
+
 ### Vehicle Is NOT Qualified for Rotation Tow If:
 
 1. Arrest made in conjunction with recovery (except photo-release cases)
@@ -204,6 +221,8 @@ To process non-evidence stolen or apparently abandoned vehicles, including motor
 7. Owner on scene and recovers own vehicle
 8. Must be safeguarded due to owner inability to remove (prisoner, aided, collision)
 
+> **Exam Alert:** A DSNY (Sanitation Department) sticker or notification does **NOT** automatically make a vehicle eligible for Ro-Tow. The **final determination is made by the UMOS** based on a visual inspection using criteria on the rear inside cover of the Ro-Tow Log. *(PG 218-21)*
+
 ### Desk Officer Responsibilities
 
 - Notify next participating tow operator in rotation **IMMEDIATELY**
@@ -211,6 +230,25 @@ To process non-evidence stolen or apparently abandoned vehicles, including motor
 - Tow operators **DO NOT** have option of deciding availability **AFTER** being told vehicle type/condition
 - Prepare REPORT OF VIOLATION if tow operator refuses AFTER being informed of vehicle
 - On limited access highways: **ONLY** franchise tow operator may tow
+
+> **Exam Alert:** If a tow operator refuses an assignment AFTER being informed of vehicle type and condition, prepare a **Report of Violation (LD 6)** AND forward to the **Dept. of Consumer/Worker Protection (DCWP)**. The next tow operator in sequence is used whenever a tow operator is not available for any reason. *(PG 218-21)*
+
+> **Exam Alert:** Do **NOT** cancel the alarm or notify the owner until the tow operator advises that the vehicle has been removed to the storage facility. *(PG 218-21)*
+
+### Commanding Officer/Designee Responsibilities
+
+- **Daily** inspection of Ro-Tow Log for previous 24 hours (sign in remarks column with corrective action)
+- **Daily** inspection of Ro-Tow 30-day file to ensure no vehicle is held more than 30 days
+- Complaints involving license violations/overcharges by tow operators: **LD6** forwarded to DCWP
+- Complaints of theft/other unlawful acts by tow company: **Complaint Report (61)** forwarded to DCWP (for information only)
+
+> **Exam Alert:** Overcharges by tow operators = **LD6 to DCWP**. Theft or other unlawful acts by tow company = **61 to DCWP** (duplicate, informational only). Know which form applies to which complaint type. *(PG 218-21)*
+
+### Tow Operator Rights
+
+Participating tow operators are permitted to view the **Rotation Towing Logs** of precincts within their assigned zone to verify their rotational sequence.
+
+> **See Also:** PG 218-20 — Delivery of vehicle to Property Clerk (48-hour deadline, Traffic Safety Sergeant responsibility).
 
 ### Tow Operator Timelines
 

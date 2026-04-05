@@ -76,6 +76,10 @@ A member determines if someone is a co-occupant (not visitor/guest) by:
 4. Examining rent receipts or similar documentation
 5. Considering any other relevant factors
 
+### Co-Occupant vs. Visitor/Guest Determination
+
+Examine documents reflecting address (license, mail, credit cards, rent receipts), question neighbors, check closets for clothes, consider other relevant factors.
+
 ### Patrol Supervisor Responsibilities
 
 | Step | Action |
@@ -88,11 +92,47 @@ A member determines if someone is a co-occupant (not visitor/guest) by:
 | 8 | Direct search of residence — take custody of: cash, jewelry, valuables, IDs, wills, insurance policies, bank books, safe deposit keys, prescription medication (if directed to OCME) |
 | 9 | Assign member to safeguard body until removed by OCME |
 
-> **Exam Alert:** Any uniformed member of the service may search a dead human body.
+> **Exam Alert:** Any uniformed member of the service may search a dead human body. However, the Patrol Supervisor must **confer with the ME or assistant ME PRIOR to directing** a member to search the body. *(PG 218-28)*
 
-> **Exam Alert:** DO NOT seal door of premises if a **co-occupant** resided with the deceased.
+> **Exam Alert:** DO NOT seal door of premises if a **co-occupant** resided with the deceased. *(PG 218-28)*
 
-> **Exam Alert:** If multiple dead human bodies as a result of a **mass casualty attack** (e.g., active shooter), do NOT search bodies for identification.
+> **Exam Alert:** If multiple dead human bodies as a result of a **mass casualty attack** (e.g., active shooter), do **NOT** search bodies for identification. *(PG 218-28)*
+
+### Prescription Medication — Critical Rules
+
+- If the ME is taking the body: take possession of prescription meds in the **immediate vicinity**
+- **Separate** voucher for prescription meds (whether evidence or not) from other property
+- If the deceased **lived alone**: invoice meds **NOT in a prescription container** (e.g., daily pill box)
+- If the deceased **did not live alone**: take meds not in a prescription container that the co-occupant cannot prove are theirs
+
+> **Exam Alert:** Prescription meds always get a **separate voucher** from other property. If the person lived alone, you invoice meds found in a daily pill box or other non-prescription container. If they did NOT live alone, you only invoice meds in non-prescription containers that the co-occupant cannot prove belong to them. *(PG 218-28)*
+
+### Navigable Waters
+
+Harbor searches the body removed from navigable waters and gives the property to a precinct MOS.
+
+### Police Lock
+
+If a police lock is used to secure the premises, include the key on the PCI worksheet.
+
+### Securing Premises After DOA
+
+The PG states the Desk Officer will have the "SEAL FOR DOOR OF DOA PREMISES" prepared — it does **NOT** say "if appropriate" (unlike what some may expect). After the body is removed (if DOA lived alone), have the seal pasted across door and doorjamb.
+
+- If someone needs to enter sealed premises for burial clothes: allow entry accompanied by a UMOS; **reseal with a NEW seal** afterward.
+
+### Public Administrator
+
+- If no next of kin OR next of kin cannot be notified: request **Operations** to notify Public Administrator
+- When Public Administrator's representative arrives and property is NOT yet sent to Property Clerk: ask for **identification** and **photocopy their ID**
+- **Prior to breaking the seal or opening envelope**: have the Public Administrator examine the lead seal/PSE and check the number against the PCI
+
+### Surrogate Court Referral
+
+| Deceased's Status | Referral |
+|------------------|---------|
+| NY State resident | Surrogate Court of deceased's **resident county** |
+| Non-NY State resident | Surrogate Court of **borough where property is located** |
 
 ### Key Steps — Desk Officer
 
