@@ -117,11 +117,20 @@ function parsePracticeExam(md) {
   return questions;
 }
 
+function cleanReadme(md) {
+  // Remove "Chapter Contents" sections that list .md file links
+  return md
+    .replace(/## Chapter Contents\n[\s\S]*?(?=\n## |\n---|\n$)/g, '')
+    .replace(/\[([^\]]+)\]\([^)]*\.md\)/g, '$1')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
 const chapters = [];
 for (const id of CHAPTER_ORDER) {
   const dir = path.join(CHAPTERS_DIR, id);
   if (!fs.existsSync(dir)) continue;
-  const readme = readFile(path.join(dir, 'README.md')) || '';
+  const readme = cleanReadme(readFile(path.join(dir, 'README.md')) || '');
   const keyTerms = readFile(path.join(dir, 'key-terms.md')) || '';
   const reviewRaw = readFile(path.join(dir, 'review-questions.md')) || '';
   const sectionFiles = fs.readdirSync(dir)
