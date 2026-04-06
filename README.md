@@ -1,4 +1,4 @@
-# NYPD Sergeant Promotional Exam — Study Guide
+# Sergeant Promotional Exam — Study Guide
 
 A comprehensive study guide for the NYPD Sergeant Promotional Exam, built from the official NYPD Public Patrol Guide and enriched with exam-focused content from The Key Police Promotional School's 24-lesson preseason course.
 
