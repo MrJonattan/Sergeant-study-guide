@@ -46,7 +46,7 @@ test('every chapter has required fields', () => {
 });
 
 test('every chapter has at least one section (except known empty)', () => {
-  const emptyAllowed = ['303-duties-responsibilities', '320-personnel-matters', '331-evaluations'];
+  const emptyAllowed = ['331-evaluations'];
   D.chapters.forEach(ch => {
     if (emptyAllowed.includes(ch.id)) return;
     assert(ch.sections.length > 0, `${ch.id} has 0 sections`);
