@@ -35,12 +35,12 @@ This project converts the NYPD's 1,600-page Patrol Guide into a structured, sear
 | Metric | Count |
 |--------|-------|
 | Chapters | 28 (PG sections 200-332) |
-| Section files | 132 |
-| Chapter review questions | 532 |
+| Section files | 135 |
+| Chapter review questions | 564 |
 | Master practice exam questions | 120 (with explanations) |
 | Exam callouts (alerts, mnemonics, prior test notes) | 1,331 |
 | Combined study guide | 38,220 lines |
-| Key terms files | 25 |
+| Key terms files | 28 |
 
 ---
 
@@ -229,38 +229,38 @@ Chapters use the pattern `{PG-section}-{topic}`:
 
 | PG Section | Topic | Sections | Questions | Enriched |
 |------------|-------|----------|-----------|----------|
-| 200 | General | 1 | 10 | - |
-| 202 | Duties & Responsibilities | 2 | 25 | Yes |
-| 207 | Complaints | 6 | 20 | Yes |
-| 208 | Arrests | 9 | 25 | Yes |
-| 209 | Summonses | 6 | 20 | Yes |
-| 210 | Prisoners | 4 | 15 | Yes |
+| 200 | General | 1 | 5 | - |
+| 202 | Duties & Responsibilities | 2 | 22 | Yes |
+| 207 | Complaints | 6 | 28 | Yes |
+| 208 | Arrests | 9 | 32 | Yes |
+| 209 | Summonses | 6 | 22 | Yes |
+| 210 | Prisoners | 4 | 22 | Yes |
 | 211 | Court Appearances | 6 | 15 | - |
 | 212 | Command Operations | 12 | 35 | Yes |
 | 213 | Mobilization/Emergency | 7 | 20 | Yes |
-| 214 | Quality of Life | 6 | 15 | Yes |
-| 215 | Juvenile Matters | 4 | 20 | Yes |
-| 216 | Aided Cases | 6 | 20 | Yes |
-| 217 | Vehicle Collisions | 5 | 13 | Yes |
-| 218 | Property General | 6 | 11 | Yes |
-| 219 | Department Property | 5 | 12 | Yes |
-| 220 | Citywide Incident Mgmt | 6 | 10 | Yes |
+| 214 | Quality of Life | 6 | 22 | Yes |
+| 215 | Juvenile Matters | 4 | 22 | Yes |
+| 216 | Aided Cases | 6 | 28 | Yes |
+| 217 | Vehicle Collisions | 5 | 28 | Yes |
+| 218 | Property General | 6 | 31 | Yes |
+| 219 | Department Property | 5 | 27 | Yes |
+| 220 | Citywide Incident Mgmt | 6 | 35 | Yes |
 | 221 | Tactical Operations | 6 | 25 | Yes |
 
 ### 300-Series — Personnel & Administration (11 chapters)
 
 | PG Section | Topic | Sections | Questions | Enriched |
 |------------|-------|----------|-----------|----------|
-| 303 | Duties & Responsibilities (Admin) | 0 | 0 | - |
+| 303 | Duties & Responsibilities (Admin) | 1 | 10 | - |
 | 304 | General Regulations | 6 | 16 | Yes |
 | 305 | Uniforms & Equipment | 7 | 17 | Yes |
 | 318 | Disciplinary Matters | 8 | 20 | Yes |
 | 319 | Civilian Personnel | 1 | 4 | Yes |
-| 320 | Personnel Matters | 0 | 0 | - |
+| 320 | Personnel Matters | 1 | 10 | - |
 | 324 | Leave, Payroll & Timekeeping | 1 | 7 | - |
 | 329 | Career Development | 1 | 12 | - |
 | 330 | Medical, Health & Wellness | 7 | 25 | Yes |
-| 331 | Evaluations | 0 | 0 | - |
+| 331 | Evaluations | 1 | 12 | - |
 | 332 | Employee Rights | 4 | 12 | Yes |
 
 **"Enriched"** = Content enhanced with The Key exam callouts, mnemonics, and prior test references.
