@@ -4,7 +4,7 @@ A comprehensive study guide for the NYPD Sergeant Promotional Exam, built from t
 
 ## Live App
 
-**[https://mrjonattan.github.io/nypd-sergeant-study-guide/](https://mrjonattan.github.io/nypd-sergeant-study-guide/)**
+**[https://mrjonattan.github.io/sergeant-study-guide/](https://mrjonattan.github.io/sergeant-study-guide/)**
 
 Works offline on iPhone and Android (PWA). Add to home screen for a native app experience.
 
