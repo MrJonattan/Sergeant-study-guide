@@ -2,7 +2,7 @@
 
 ## Overview
 
-A PDF study guide for the NYPD Sergeant Promotional Exam, organized by chapters and sections with built-in progress tracking. All content is sourced exclusively from the NYPD Public Patrol Guide.
+A PDF study guide for the NYPD Sergeant Promotional Exam, organized by chapters and sections with built-in progress tracking. All content is sourced exclusively from the NYPD Public Patrol Guide and Administrative Guide.
 
 ## Source Material
 
@@ -14,8 +14,11 @@ All content must be derived from these documents only:
 | `~/Documents/NYPD PG/ocr/public-pguide1-ocr.pdf` | _(same as above)_ | 441 | OCR'd version — use this for text extraction |
 | `~/Documents/NYPD PG/public-pguide2.pdf` | 210 Prisoners, 211 Court & Agency Appearances, 212 Command Operations, 213 Mobilization/Emergency Incidents | 452 | Text-selectable |
 | `~/Documents/NYPD PG/public-pguide3.pdf` | 214 Quality of Life, 215 Juvenile Matters, 216 Aided Cases, 217 Vehicle Collisions | 289 | Text-selectable |
-| `~/Documents/NYPD PG/public-pguide4.pdf` | 218 Property General, 219 Dept Property, 220 Citywide Incident Mgmt, 221 Tactical Operations, 303-332 (Personnel/Admin) | 412 | Original (scanned images) |
+| `~/Documents/NYPD PG/public-pguide4.pdf` | 218 Property General, 219 Dept Property, 220 Citywide Incident Mgmt, 221 Tactical Operations | 412 | Original (scanned images) |
 | `~/Documents/NYPD PG/ocr/public-pguide4-ocr.pdf` | _(same as above)_ | 412 | OCR'd version — use this for text extraction |
+| `~/Documents/NYPD PG/NYPD Admin Guide/Public Admin Guide1.pdf` | 303 Duties & Responsibilities (Borough Command) | 297 | Administrative Guide (scanned images) |
+| `~/Documents/NYPD PG/NYPD Admin Guide/Public Admin Guide2.pdf` | 320 Personnel Matters, 329 Career Development, 330 Medical/Health/Wellness, 331 Evaluations, 332 Employee Rights | 320 | Administrative Guide (scanned images) |
+| `~/Documents/NYPD PG/NYPD Admin Guide/AG PDFs/` | Individual AG procedure PDFs (304, 305, 318, 319, 324, etc.) | varies | 12 individual PDFs |
 | `~/Documents/NYPD PG/Table of content.pdf` | Full Table of Contents | 2 | Text-selectable |
 
 **Important:** Do NOT use external sources. If information is needed beyond these documents, ask the user to provide updated materials.

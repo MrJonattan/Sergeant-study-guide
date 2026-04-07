@@ -175,3 +175,8 @@ fs.writeFileSync(
   `window.STUDY_DATA=${JSON.stringify(data)};`
 );
 console.log(`Built ${chapters.length} chapters, ${data.totalQuestions} chapter quiz questions, ${examQuestions.length} exam questions`);
+if (chapters.length < CHAPTER_ORDER.length) {
+  const built = new Set(chapters.map(c => c.id));
+  const missing = CHAPTER_ORDER.filter(id => !built.has(id));
+  console.warn(`WARNING: Expected ${CHAPTER_ORDER.length} chapters but only built ${chapters.length}. Missing: ${missing.join(', ')}`);
+}
