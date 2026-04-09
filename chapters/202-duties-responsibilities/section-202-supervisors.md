@@ -448,21 +448,47 @@ Sergeants should be aware that the ICO monitors compliance within the command. S
 
 ---
 
-## P.G. 202-30: Executive Officer (XO)
+## P.G. 202-30: Executive Officer (XO) — Updated 10/24/25, R.O. 111
 
 > **Rank Requirement:** Captain (typically)
+> **Core Responsibility:** Assume command during CO's absence; oversee administrative and operational functions.
 
 ### Key Duties
 
-- Serve as second-in-command of the precinct/command
-- Oversee administrative operations and personnel matters
-- Act as commanding officer in the CO's absence
-- Coordinate with the operations coordinator and platoon commanders
-- Review and approve administrative reports and requests
+1. Assume command and perform functions of the commanding officer during absence
+   - Sign routine communications and reports during absence of **24 hours or more**
+2. Respond to major radio runs and unusual occurrences within command, when available, and perform prescribed functions
+   - Request assistance of the duty captain, as necessary
+3. Make entry in **Command Log** when reporting on or off-duty
+4. Supervise performance of administrative functions in the command
+5. Study deployment of resources of command and recommend more effective deployment to commanding officer, where appropriate
+6. Assign command police officer to cover traffic posts when traffic conditions require such assignments
+7. Assist the commanding officer in managing quality of life operations
+8. Utilize **Salesforce Application** to assist in supervising and conducting quality of life operations, as applicable
+9. Coordinate all specialized units
+10. Evaluate training, planning and personnel functions and needs of the command and make recommendations to the commanding officer
+11. Inspect uniforms, equipment, and general appearance of members of the command frequently
+12. Inspect and sign digital **Activity Log** of platoon commanders, special operations lieutenants, and patrol supervisors at least once a month
+13. Supervise the investigation of communications and preparation and forwarding of written reports
+14. Perform duty under the chart, or as directed by the borough commander and perform functions of "duty captain" when directed
+15. Perform tours, on "open days," which best meet the day to day needs of the command
+16. Do not perform the same duty as commanding officer, if both working the same tour (One will perform patrol duty and conduct field inspections, etc.)
+17. Conduct investigations as directed by commanding officer or other competent authority
+18. Ensure that command is clean, all equipment is accounted for and in good condition, and personnel are performing a necessary police duty
+19. Represent the commanding officer at community meetings of concern to command when designated
+20. Perform duty in uniform, when practical
+21. Inspect and sign Interrupted Patrol Log once each tour
+22. Adjudicate command discipline as directed by commanding officer
+23. Review Command Log entries regarding invoiced property daily and if any property is stored in the command in excess of **thirty days**, consult with the operations coordinator, desk officer, evidence/property control specialist etc., to determine the appropriate course of action to expedite the transfer of the property to the final storage location
+    - Brief the commanding officer on actions taken
+24. Personally conduct, in conformance with the Quality Assurance Section self-inspection program, the command self-inspection of **STOP REPORT (PD383-151)**
+25. Manage the Field Training Program within the precinct, police service area, or transit district
 
 ### Sergeant Relevance
 
-The XO is typically the captain who handles day-to-day administrative oversight. Sergeants interact with the XO on personnel issues, scheduling, and administrative approvals.
+The XO is typically the captain who handles day-to-day administrative oversight. Sergeants interact with the XO on personnel issues, scheduling, and administrative approvals. The XO reviews the digital Activity Logs of patrol supervisors monthly — sergeants must ensure their logs are thorough and current.
+
+> **Exam Alert:** The XO signs routine communications only during CO absence of **24 hours or more** — not immediately upon any absence. The XO also conducts the command self-inspection of STOP REPORTS (PD383-151) (P.G. 202-30).
 
 ---
 
@@ -479,34 +505,143 @@ The XO is typically the captain who handles day-to-day administrative oversight.
 
 ---
 
-## P.G. 202-32: Duty Captain
+## P.G. 202-32: Duty Captain — Updated 03/17/26, R.O. 24 (NEWEST REVISION)
 
 > **Rank Requirement:** Captain
+> **Core Responsibility:** Perform duty in patrol borough-based Department Duty Captain Response Vehicle (DCRV).
 
 ### Key Duties
 
-- Serve as the borough/citywide captain on duty during the assigned tour
-- Respond to major incidents within the borough/area of responsibility
-- Coordinate resources across multiple commands when needed
-- Act as the link between precinct-level supervisors and borough/citywide command
+1. Perform duty, in uniform, in patrol borough-based Department **Duty Captain Response Vehicle (DCRV)**
+2. Supervise all personnel performing duty within borough command
+3. Respond to major radio runs and unusual occurrences
 
----
+> *NOTE: If available, the commanding/executive officer, precinct of occurrence, will respond and perform prescribed functions. The duty captain will assist the commanding/executive officer, precinct of occurrence, as requested.*
 
-## P.G. 202-33: Commanding Officer
+4. Visit precincts, police service areas, transit districts and borough court section facilities located within patrol borough of assignment
+   - Inspect and sign Interrupted Patrol Log of commands visited
+   - Visit command detention cells, holding cells, detective holding cells, emergency rooms and hospitalized prisoner rooms, and make appropriate Command Log entries to document such visits
+   - Personally prepare reports on all prisoner escapes in the absence of commanding officer/executive officer of the precinct, police service area, transit district or borough court section facility of occurrence
+5. Confer with the Traffic Management Center supervisor, when notified of a traffic congestion problem or condition
+   - Evaluate the situation and assign patrol borough and/or other resources as necessary
+   - Direct the Traffic Management Center supervisor to record conditions in the TMC Command Log, and on the Daily Significant Incident Report
+6. Submit report at end of each tour including:
+   a. Observations and disciplinary action taken
+   b. Visits to stationhouses, police service areas and transit districts
+   c. Unusual occurrences
+   d. Radio backlogs and action taken
+   e. Radio runs to which responded
+   f. Recommendations to improve police services
+7. Make a background inquiry, if necessary, through the Internal Affairs Bureau Command Center during the initial stages of an official investigation involving a member of the service and prior to suspending, modifying or temporarily removing firearms from the member concerned in non-disciplinary cases
+8. Upon completion of an official investigation for which an Internal Affairs Bureau log number has been generated, prepare and submit a detailed report on **Typed Letterhead** regarding the investigation
+   - Make a recommendation to close an investigation if deemed complete
+9. Ensure **Body-Worn Cameras** of uniformed members of the service directly involved in critical incidents are accounted for, as per *A.G. 326-09, "Public Release of Body-Worn Camera (BWC) Footage of Critical Incidents"*
 
-> **Rank Requirement:** Captain or above (Inspector for certain commands)
-
-### Key Duties
-
-- Ultimate responsibility for all operations, personnel, and administration within the command
-- Set command priorities and enforcement strategies
-- Conduct CompStat preparation and presentations
-- Approve personnel assignments, transfers, and evaluations
-- Maintain discipline and accountability throughout the command
+> *NOTE: Background inquiry through IAB is to obtain background information that may assist in the investigation. All decisions regarding the investigation, as well as any resulting determination regarding the member's duty status, remain the responsibility of the commanding officer/duty captain concerned.*
 
 ### Sergeant Relevance
 
-The commanding officer sets the tone and priorities that sergeants enforce. Understanding the CO's responsibilities helps sergeants align their supervision with command objectives.
+The Duty Captain is the borough-level captain who responds to significant incidents. Sergeants should know when to notify the Duty Captain vs. the Commanding Officer. The DCRV is a new reference — know that the Duty Captain operates from this specific vehicle.
+
+> **Exam Alert:** This is the **newest revision** in the entire Patrol Guide (03/17/26, R.O. 24). The addition of BWC accountability for critical incidents (duty #9) and the DCRV designation are new. Expect exam questions on this updated procedure.
+
+---
+
+## P.G. 202-33: Commanding Officer — Updated 10/24/25, R.O. 111 (5 pages)
+
+> **Rank Requirement:** Captain or above (Inspector for certain commands)
+> **Core Responsibility:** Command a precinct, police service area, transit district or similar unit.
+
+### Key Duties (37 total — significantly expanded)
+
+1. Command a precinct, police service area, transit district or similar unit
+2. Be responsible for:
+   a. Proper performance of functions designated for command
+   b. Efficiency and discipline of personnel assigned to command
+   c. Informing members of command of current directives and orders
+   d. Serviceability, proper care and use of facility and equipment assigned to command
+   e. Patrol, administrative, and crime reporting functions of the command
+3. Ensure that the neighborhood policing philosophy informs decision making and advances Department goals of reducing crime, promoting safety and respect, and solving problems collaboratively
+4. Review **CENTRAL PERSONNEL INDEX BACKGROUND REQUEST (PD449-160)** for personnel assigned to critical positions within the command, upon assignment to a command
+   - Review the disciplinary history of members in Performance Monitoring Programs assigned to command
+5. Instruct and frequently test the knowledge of members of command regarding their duties and responsibilities
+6. Respond to major radio runs and unusual occurrences within command when available, and perform prescribed functions
+   - Request assistance of the duty captain, if necessary
+7. Ensure supervisors make frequent personal inspections of uniforms, equipment and general appearance of members at outgoing roll calls and while on duty
+8. Delegate administrative tasks as follows:
+   a. Assign ranking officers within command to perform tasks normally reserved specifically for commanding officers (preparation, signing and forwarding of required reports, forms, **PERFORMANCE EVALUATIONS**, communications, etc.)
+   b. Assign members of command to read, analyze and report on any voluminous communications directed to the commanding officer
+   c. Assign ranking officer to inspect command facility daily to ensure security, cleanliness and orderly condition
+9. Manage quality of life operations within precinct or police service area
+10. Utilize **Salesforce Application** to assist in supervising and conducting quality of life operations, as applicable
+11. Assign members proportionately to squads according to the needs of command
+12. Select uniformed members of the service for:
+    a. Quality of life officers and quality of life sergeants
+    b. Command youth coordination officer, after conferral with borough operations commander
+    c. **Digital communications officers (2)**, in any rank, in addition to their regularly assigned duties
+13. Closely monitor the performance of uniformed members of the service assigned to specialized units
+    a. Ensure they are properly supervised, trained and equipped
+    b. Deploy based on command crime analysis trends and patterns, with emphasis on violent street crime and burglaries
+    c. Long term assignments to specialized units for a period of **five years** will be recommended for career path assignments to the Detective Bureau
+14. Maintain record of members who volunteer for specialized units and make assignments accordingly
+    - If the member is currently in a Level II or Level III Monitoring Program, contact the Bureau/Borough Commander
+15. Consult with immediate supervisor of member before recommending or granting change of precinct assignment, etc.
+16. Review activity of members of command each month
+    - Personally review and sign monitoring profiles of members in Level II or Level III Monitoring Programs. Performance profiles (original copies only) are due by the **fifth day** of each month (quarterly for Level II and monthly for Level III), as appropriate
+17. Notify borough command if at least **two supervisors** are not available to perform duty on each tour
+    - Notify Transit Bureau Wheel for commands within the Transit Bureau
+18. Supervise and monitor performance of the integrity control officer
+19. Supervise and direct community affairs officer, where appropriate
+20. Provide formal orientation program for newly assigned lieutenants, sergeants and police officers on **two consecutive day tours** including interviews, introductions, and various command conditions, problems, boundaries, crime statistics, etc.
+21. Be thoroughly familiar with "Confidential Performance Profile" of subordinate members
+
+> *NOTE: The "Confidential Performance Profile" is an up-to-date and confidential profile of uniformed members who are "personnel concerns" to assist in the supervision, training and development needs of such uniformed members. Included in the profile would be such matters as all past administrative transfers, transfers made by the borough commander at the request of member's previous commanding officer, sick record, disciplinary record and all other Central Personnel Index indicators as well as appropriate command data.*
+
+22. Make entry in Command Log when reporting on or off-duty
+    a. Indicate manner of patrol, Department auto number, if applicable, and whether in uniform or civilian clothes
+    b. Perform duty in uniform whenever practical
+    c. Use a Department auto when on patrol
+23. Maintain personal contact with community groups and organizations
+24. Assign competent member to attend scheduled local meetings of the planning board, school board, poverty corporation, or any other community group
+25. Act as the senior problem-solving coordinator for the command
+    a-e. Problem analysis steps (identify, analyze, design response, implement, evaluate)
+26. Notify the borough adjutant or borough executive officer upon discovery that invoiced property stored in the command in excess of **thirty days**
+    a. Conduct investigation
+    b. Expedite transfer of property to final storage location
+27. Confer with Commanding Officer, Performance Analysis Unit regarding removal proceedings when member of the service fails to perform assigned duties in a satisfactory manner
+28. Visit upon assignment to command and semi-annually thereafter, for briefing, the following:
+    a. Civilian Complaint Review Board
+    b. Internal Affairs Bureau
+    c. Community Affairs Bureau
+    d. Quality Assurance Section
+29. Review and evaluate upon initial assignment to command, all Clergy Liaisons
+30. Visit Office of Equal Employment Opportunity for briefing upon assignment to command and annually thereafter, and:
+    a. Meet annually with ranking officers/supervisors within command to discuss responsibilities under the NYPD's EEO policy
+    b. Assign two non-supervisory MOS willing to voluntarily serve as EEO liaisons
+    c. Ensure that EEO liaison applications and **COMMANDING OFFICER'S RECOMMENDATIONS (PD406-180)** are submitted to the Office of Equal Employment Opportunity
+    d. Ensure that all members assigned to command are aware of EEO guidelines and active EEO liaisons
+    e. Meet with EEO liaisons quarterly regarding new EEO policies and laws
+    f. Ensure that EEO liaisons are scheduled to attend all mandatory trainings
+31. Develop and review precinct School Security Plan, Summer Youth Security Plan and Safe Corridor Plan and Safe Passage Plan for Transit Bureau commands
+32. Ensure all members of command comply with *A.G. 332-01, "Employment Discrimination"* and *A.G. 332-02, "Sexual, Ethnic, Racial, Religious, or other Discriminatory Slurs through Display of Offensive Material"*
+33. Review and analyze reports received from a staff inspection unit
+34. Query **NYPD-360 Civilian Complaint Review Board (CCRB) Dashboard** at least **once per month**
+    - Review all new CCRB complaints received in command
+35. Confer with subject member of command prior to all CCRB appearances
+    - Review all associated complaint documentation (e.g., Body-Worn Camera footage, digital Activity Log, etc.) with subject member of command
+    - Prepare a report on Typed Letterhead detailing conferral with subject member of command and forward to borough adjutant
+    - Confer with Professional Standards Division, if early intervention measures are appropriate
+36. Regularly review performance of quality of life teams with team supervisors and special operations lieutenant to identify areas in need of improvement
+    - Designate one quality of life team sergeant to oversee all administrative traffic functions and attend Traffic Stat meetings
+37. Prepare monthly report on **Typed Letterhead** and submit copies to Chief of Department, Chief of Housing, Chief of Patrol and Deputy Commissioner, Strategic Initiatives
+    - Include observations as to effectiveness of quality of life teams and impact on command's overall efforts to respond to community complaints, considering community feedback and community council feedback
+    - Include information that cannot be quantified (e.g., success stories)
+
+### Sergeant Relevance
+
+The commanding officer sets the tone and priorities that sergeants enforce. Key items for sergeants: the CO must visit four agencies upon assignment (CCRB, IAB, Community Affairs, Quality Assurance) and semi-annually. New orientation for sergeants is on **two consecutive day tours**. Performance monitoring profiles (Level II quarterly, Level III monthly) are due by the **5th of the month**.
+
+> **Exam Alert:** The CO queries the CCRB Dashboard at least **once per month** and must confer with subject members PRIOR to CCRB appearances, reviewing BWC footage and Activity Logs. The CO also selects **digital communications officers (2)** — a new role designation. Long-term specialized unit assignments of **5 years** trigger recommendation for Detective Bureau career path (P.G. 202-33).
 
 ---
 
@@ -534,69 +669,170 @@ The commanding officer sets the tone and priorities that sergeants enforce. Unde
 
 ---
 
-## P.G. 202-36: Community Response Team (CRT) Supervisor (HIGH PRIORITY)
+## P.G. 202-36: Community Response Team (CRT) Supervisor (HIGH PRIORITY) — 08/22/25, R.O. 79
 
 > **Rank Requirement:** Sergeant or above, SOLELY assigned to CRT supervision.
 > **Core Rule:** CRTs may NOT deploy without a sergeant or above assigned solely to supervision.
+> **Deployment Limit:** CRTs may not be deployed if a supervisor in the rank of sergeant or above is not assigned solely to their supervision.
 
-### Key Duties
+### Key Duties (13 duties — fully expanded)
 
-- **SHALL** attend requisite training BEFORE performing CRT supervisory duties
-- **SHALL** be solely assigned to CRT supervision during deployment
-- **SHALL** systematically review Body Worn Camera (BWC) video of CRT officers
-- **SHALL** use the CRAFT SUPERVISOR FEEDBACK FORM for commendable actions
+1. Do NOT perform duty as a member of a CRT prior to attending requisite training
+2. Perform duty in specifically prescribed uniform as described in *A.G. 305-19, "Community Response Team Uniforms"*
+   - Be equipped with all required equipment as described in *A.G. 305-08, "Required Equipment"*
+3. Perform NO duties other than Community Response Team (CRT) patrol, when assigned as CRT supervisor
+   - CRTs may not be deployed if a supervisor in the rank of sergeant or above is not assigned solely to their supervision
+   - Ensure all CRT members have attended requisite training prior to being deployed
+4. Inspect members daily for proper uniforms and equipment as detailed in *A.G. 305-08* and *A.G. 305-19*
+5. Inform desk officer, precinct of deployment, of CRT assignment in confines of precinct and times of anticipated patrol
+6. Supervise all police operations of assigned CRT
+   a. Be cognizant of location of CRT members, and be able to contact personnel at all times
+   b. Ensure that CRT members do NOT perform duty in **plainclothes** or conduct **decoy operations**
+7. Inspect and sign digital **Activity Logs** of CRT members daily
+8. Coordinate with commanding officers/executive officers of precincts of concern to address patterns and problematic areas within that command
+9. Monitor and regularly evaluate uniformed members of the service assigned to CRT for effectiveness by determining success of crime reduction, problem solving strategies, case preparation, and engagement with other Department units and community residents
+10. Attend community events (e.g., precinct community council meetings, etc.), within commands in which CRT deploys
+11. Systematically review **body-worn camera video**, including all videos regarding arrests and use of force incidents, to provide positive feedback and address any performance or tactical deficiencies observed
+12. Use **SUPERVISOR FEEDBACK FORM** on Cops Rapid Assessment and Feedback Tool (**CRAFT**) application to highlight commendable actions by CRT members (e.g., an arrest that closes a precinct pattern, arrests involving a firearm, an exceptional community interaction, etc.), when warranted
+13. Confer regularly with **Legal Bureau** regarding developments in applicable case law
 
 ### Key Exam Points — CRT Supervisor
 
 1. CRTs CANNOT deploy without a solely assigned sergeant (same rule as NST)
 2. Supervisor must complete training BEFORE performing CRT duties
-3. BWC review is systematic (same standard as NST)
-4. CRAFT form used for commendable actions (same tool as NST)
-5. The NST and CRT supervisor requirements are nearly identical — exam may test whether you can distinguish them or recognize the parallel structure
+3. CRT members must also complete training BEFORE deployment
+4. CRT members may NOT perform duty in plainclothes or conduct decoy operations
+5. CRT supervisor must know location of ALL CRT members at all times
+6. BWC review is systematic — includes ALL arrest and use of force videos
+7. CRAFT Supervisor Feedback Form used for commendable actions (same tool as NST)
+8. CRT supervisor must confer with **Legal Bureau** on case law developments (unique to CRT)
+9. Must attend community events in commands where CRT deploys
+10. Must wear specifically prescribed uniform per A.G. 305-19
+11. The NST and CRT supervisor requirements are structurally similar — exam may test whether you can distinguish them or recognize the parallel structure
+
+> **Exam Alert:** Key CRT vs. NST difference: CRT supervisor must confer with Legal Bureau (duty #13) and attend community events (duty #10) — these are NOT listed for NST supervisors. Also, the CRT uniform is prescribed by A.G. 305-19 (specific CRT uniform) vs. standard patrol uniform for NST (P.G. 202-36 vs. 202-20).
 
 ---
 
-## P.G. 202-37: Community Response Team Officer
+## P.G. 202-37: Community Response Team Officer — 08/22/25, R.O. 80
 
-### Key Duties
+> **SCOPE:** Community Response Teams operate directly under the control of the Office of the **Chief of Patrol**. No more than **three** Community Response Team members, including a supervisor, may be assigned to a Department vehicle per tour.
 
-- Perform community response duties as directed by the CRT supervisor
-- Engage with community members in designated areas
-- Address quality-of-life conditions and community concerns
-- Maintain required documentation of community interactions
+### Key Duties (11 duties)
+
+1. Do NOT perform duty as a member of a CRT prior to attending requisite training
+2. Perform duty in specifically prescribed uniform as described in *A.G. 305-19, "Community Response Team Uniforms"*
+   - Be equipped with all required equipment as described in *A.G. 305-08, "Required Equipment"*
+3. Maintain daily record of activity in digital **Activity Log**
+4. Inform radio dispatcher when responding to, or present at the scene of a police incident
+5. Address a variety of conditions within a geographic area at the direction of Patrol Services Bureau and consult patrol borough concerned on needs of community and analysis of crime data
+6. Monitor **311 calls for service** in area of assignment for chronic conditions, locations, or matters of community concern
+7. Reduce violent street crime by identifying, investigating, and apprehending individuals who possess illegal firearms and jeopardize public safety
+8. Engage and interact with community members to build thoughtful and productive relationships that foster positive sentiment
+9. Conduct coordinated operations with appropriate units to address chronic complaints (e.g., car meets, unlicensed vending, illegally operated mopeds, etc.)
+10. Confer with field intelligence officer/field intelligence team, precinct of deployment, to be knowledgeable of criminal groups, recidivists, open patterns, current crime trends, problematic locations, and any other relevant intelligence
+11. Do NOT perform duty in **plainclothes** or conduct **decoy operations**
 
 ### Sergeant Relevance
 
-CRT officers operate under direct sergeant supervision. The supervisor is accountable for their deployment, conduct, and documentation.
+CRT officers operate under direct sergeant supervision. The supervisor (202-36) is accountable for their deployment, conduct, and documentation. Key for sergeants: the **3-member vehicle limit** (including supervisor), the prohibition on plainclothes/decoy operations, and the chain of command through the Chief of Patrol.
+
+> **Exam Alert:** Maximum **3 CRT members per vehicle per tour** (including supervisor) — compare with NST which allows **3 members per vehicle** (P.G. 202-05). CRT operates under the **Chief of Patrol** — not the local commanding officer. The 311 monitoring duty is unique to CRT officers (P.G. 202-37).
 
 ---
 
-## P.G. 202-38: Quality of Life Officer
+## P.G. 202-38: Quality of Life Officer — Updated 10/24/25, R.O. 107
 
-### Key Duties
+> **Core Responsibility:** Patrol in uniform, equipped with body-worn camera, addressing quality of life conditions.
 
-- Address quality-of-life conditions within the command
-- Issue summonses for quality-of-life violations
-- Coordinate with the Quality of Life Sergeant on enforcement priorities
-- Document conditions and enforcement actions taken
+### Key Duties (10 duties)
+
+1. Perform duty in uniform of the day equipped with **body-worn camera**
+   a. Maintain daily record of activity in digital **Activity Log**
+   b. Carry a sufficient amount of summonses
+   c. Patrol in marked radio motor patrol (RMP) or on foot
+2. Regularly monitor the **311 system** and **Domain Awareness System (DAS)** application and respond to community complaints within command
+   - Set Department smartphone DAS and 311 application alerts for command of assignment
+3. Be knowledgeable about quality of life conditions, crime conditions, community issues, and available resources within the command at borough level and through Quality of Life Division
+4. Work assigned tour under the direction of a designated supervisor
+   - Report to desk officer for assignment, if no designated supervisor is available to supervise a team
+5. Patrol command in a manner that strengthens the lines of communication with residents and businesses
+6. Coordinate with patrol and special operations units to address community concerns by establishing effective and continuous communication with all stakeholders regarding the implementation and development of strategies
+   a. Document coordination and strategy development in **Salesforce application**
+   b. Document implementation of strategy and specific actions taken to address chronic, ongoing quality-of-life conditions in Salesforce application
+7. Obtain crime and quality of life information from crime analysis and administrative quality of life personnel regularly and as needed
+   a. Update regularly progress on conditions within assigned sector in Salesforce application
+8. Participate in community council meetings and other public forums at the direction of commanding officer
+9. Conduct follow up calls/visits to identified 311/911 quality of life calls and document follow up, results, and next steps in **Salesforce application**
+10. Patrol identified quality of life zones with special attention to identified chronic, ongoing quality-of-life conditions within a sector and command and address conditions, as appropriate
+
+> *ADDITIONAL DATA: Quality of life officers assigned specifically to address traffic related conditions may be assigned a tour to best address the traffic related conditions of the command, at the discretion of the commanding officer.*
+
+### Sergeant Relevance
+
+QOL Officers operate under sergeant supervision. Sergeants must ensure QOL officers are using the DAS/311 systems, documenting in Salesforce, and wearing body-worn cameras.
+
+> **Exam Alert:** QOL Officers must use THREE technology systems: (1) 311 system, (2) Domain Awareness System (DAS), and (3) Salesforce application. Know which system is used for what — 311/DAS for monitoring complaints, Salesforce for documenting strategies and actions (P.G. 202-38).
 
 ---
 
-## P.G. 202-39: Quality of Life Sergeant (HIGH PRIORITY)
+## P.G. 202-39: Quality of Life Sergeant (HIGH PRIORITY) — Updated 10/24/25, R.O. 109 (2 pages)
 
 > **Rank Requirement:** Sergeant
+> **Core Responsibility:** Supervise only ONE quality of life team throughout designated tour. Report directly to command's special operations lieutenant.
 
-### Key Duties
+### Key Duties (22 duties — significantly expanded)
 
-- Supervise Quality of Life Officers (P.G. 202-38) and Administrative QOL Officers (P.G. 202-06)
-- Set quality-of-life enforcement priorities based on community complaints and command direction
-- Coordinate QOL enforcement strategy with the platoon commander and special operations lieutenant
-- Review and approve QOL-related documentation and summons activity
-- Ensure QOL enforcement is consistent, fair, and aligned with community needs
+1. Supervise only **one** quality of life team throughout designated tour
+2. Perform duty in uniform of the day equipped with **body-worn camera**
+3. Report directly to command's **special operations lieutenant**
+4. Assume primary responsibility for timely response to 311 and 911 quality of life calls for service
+
+> *NOTE: The command's desk officer and patrol supervisor will continue to monitor 311 and 911 quality of life calls for service and direct the overall response to these calls through all available personnel.*
+
+5. Ensure follow up calls/visits to identified 311 and 911 quality of life calls are conducted and follow ups, results, and next steps are documented in **Salesforce application**
+6. Regularly confer with commanding officer, executive officer, special operations lieutenant, operations coordinator, platoon commanders, precinct detective squad commander, field intelligence officers, community affairs officers, crime prevention officer, and patrol supervisors to identify quality of life and crime conditions affecting the command
+7. Regularly engage with community leaders, residents, and business persons to identify quality of life and crime conditions affecting the command
+8. Assist other command supervisors in monitoring and reviewing all **Police Accident Reports (MV104AN)**
+9. Supervise and review precinct **Traffic Safety Plan** and Emergency Plans "A," "B," and "C"
+10. Ensure maintenance and updating of precinct's **traffic safety bulletin board** with current collision-prone locations, school/house of worship crossings, and other traffic safety information
+11. Attend patrol borough traffic safety meetings with traffic safety officer
+12. Review prepared statistical data for **Traffic Stat meetings** and attend meeting with executive officer
+13. Attend community council and safety board meetings, as well as, other public forums to discuss quality of life and traffic safety concerns at the direction of the commanding officer
+14. Assist quality of life teams in identifying strategies to address command conditions
+15. Coordinate the activities of quality of life teams with other members of the command
+16. Inspect and sign digital **Activity Logs** of quality of life members daily
+17. Monitor level of teams' effectiveness by determining success of quality of life complaint reduction and problem solving strategies, effectiveness in long-term solutions, soliciting feedback from community residents or business representatives, etc.
+18. Monitor and review all **Police Accident Reports (MV104AN)**
+19. Review and analyze all **TRAFFIC INTELLIGENCE REPORTS (PD178-150)**
+20. Attend patrol borough traffic safety meetings with traffic safety officer
+21. Ensure borough level training is attended by newly assigned Quality of Life traffic safety officers
+22. Coordinate daily activities of school crossing guards and school crossing guard level IIs assigned to command as detailed in *Administrative Guide 326-01, "Crossing Guards - General Regulations"*
+
+> *ADDITIONAL DATA: Quality of life sergeants will not be used as backfill for other command assignments (i.e., patrol supervisor, desk officer, etc.).*
+
+> *Quality of life sergeants will not be assigned to details during their regularly scheduled tours of duty without permission of the bureau chief concerned, the Chief of Department, or the Police Commissioner.*
+
+> *All Quality of life sergeants will be familiar with the "Procedural Manual for Traffic Safety Officer."*
+
+### Key Exam Points — QOL Sergeant
+
+1. Supervise only **ONE** QOL team per tour — cannot split across teams
+2. Reports to **special operations lieutenant** (not platoon commander)
+3. QOL sergeants will **NOT** be used as backfill for patrol supervisor or desk officer
+4. QOL sergeants cannot be assigned to details without **bureau chief** permission (or Chief of Department or PC)
+5. Must be familiar with the "Procedural Manual for Traffic Safety Officer"
+6. Responsible for Traffic Safety Plan, Emergency Plans A/B/C, and traffic safety bulletin board
+7. Reviews TRAFFIC INTELLIGENCE REPORTS (PD178-150) and Police Accident Reports (MV104AN)
+8. Coordinates school crossing guards and crossing guard level IIs per A.G. 326-01
+9. Must use Salesforce application for documenting 311/911 follow-ups
+10. Inspects and signs digital Activity Logs of QOL members **daily**
 
 ### Sergeant Relevance
 
-This is a direct sergeant assignment. The QOL Sergeant balances enforcement with community relations and must coordinate across multiple officer-level positions.
+This is a direct sergeant assignment with significant responsibilities. The QOL Sergeant balances enforcement with community relations and must coordinate across multiple officer-level positions. The **no-backfill rule** is critical — a QOL sergeant cannot be pulled to cover a desk officer or patrol supervisor vacancy without bureau chief approval.
+
+> **Exam Alert:** The no-backfill rule is highly testable — a QOL sergeant CANNOT be reassigned to desk officer or patrol supervisor duties without permission of the bureau chief, Chief of Department, or Police Commissioner. Also, the QOL sergeant supervises crossing guards per A.G. 326-01 — a duty not commonly associated with sergeant-level positions (P.G. 202-39).
 
 ---
 
@@ -608,17 +844,21 @@ This is a direct sergeant assignment. The QOL Sergeant balances enforcement with
 
 ## Supervisor Roles — Comparison Matrix
 
-| Feature | Desk Officer (202-18) | Patrol Supervisor (202-19) | NST Supervisor (202-20) | CRT Supervisor (202-36) |
-|---------|----------------------|---------------------------|------------------------|------------------------|
-| **Minimum Rank** | Sergeant | Sergeant | Sergeant | Sergeant |
-| **Key Phrase** | "Responsible for **police** operations" | "Supervise **field** operations" | Solely assigned to NST | Solely assigned to CRT |
-| **Scope** | ALL command operations | ALL field operations | NST unit only | CRT unit only |
-| **Location** | Inside command facility | In the field | In the field | In the field |
-| **Solely Assigned** | Yes (at desk) | Yes (to field) | YES (mandatory) | YES (mandatory) |
-| **BWC Review** | N/A | As needed | Systematic | Systematic |
-| **CRAFT Form** | N/A | N/A | Yes | Yes |
-| **Max Subordinates** | N/A (facility staff) | N/A (all field MOS) | 5 per tour | Per assignment |
-| **Reports To** | Platoon Commander | Platoon Commander | Special Ops Lt | Special Ops Lt |
+| Feature | Desk Officer (202-18) | Patrol Supervisor (202-19) | NST Supervisor (202-20) | CRT Supervisor (202-36) | QOL Sergeant (202-39) |
+|---------|----------------------|---------------------------|------------------------|------------------------|----------------------|
+| **Minimum Rank** | Sergeant | Sergeant | Sergeant | Sergeant | Sergeant |
+| **Key Phrase** | "Responsible for **police** operations" | "Supervise **field** operations" | Solely assigned to NST | Solely assigned to CRT | Supervise **one** QOL team |
+| **Scope** | ALL command operations | ALL field operations | NST unit only | CRT unit only | One QOL team only |
+| **Location** | Inside command facility | In the field | In the field | In the field | In the field |
+| **Solely Assigned** | Yes (at desk) | Yes (to field) | YES (mandatory) | YES (mandatory) | YES (no backfill) |
+| **BWC Review** | N/A | As needed | Systematic | Systematic (arrests + UOF) | N/A |
+| **CRAFT Form** | N/A | N/A | Yes | Yes | N/A |
+| **Plainclothes/Decoy** | N/A | N/A | N/A | PROHIBITED | N/A |
+| **Max Subordinates** | N/A (facility staff) | N/A (all field MOS) | 5 per tour | 3 per vehicle (incl. supe) | One team |
+| **Reports To** | Platoon Commander | Platoon Commander | Special Ops Lt | Special Ops Lt | Special Ops Lt |
+| **Key Technology** | DAS, CPR, FORMS-P | DAS/AVL | BWC | BWC, Activity Log | Salesforce, 311, DAS |
+| **Legal Bureau** | N/A | N/A | N/A | YES (confer regularly) | N/A |
+| **Backfill Allowed** | N/A | N/A | N/A | N/A | NO (bureau chief approval) |
 
 ---
 
@@ -633,7 +873,13 @@ This is a direct sergeant assignment. The QOL Sergeant balances enforcement with
 | **5 members** | Maximum NST officers per supervisor per tour | 202-20 |
 | **3 per vehicle** | Maximum NST members (including supervisor) per vehicle | 202-05 |
 | **5 blocks** | RMP must respond to serious emergency within this range | 202-02 |
+| **5 years** | Specialized unit assignment triggers Detective Bureau career path recommendation | 202-33 |
+| **3 per vehicle** | Maximum CRT members (including supervisor) per vehicle per tour | 202-37 |
+| **Once per month** | CO queries CCRB Dashboard minimum frequency | 202-33 |
 | **Once per tour** | Minimum facility walk-through (Desk Officer) | 202-18 |
 | **Once per tour** | Minimum hospital/special post visit (Patrol Supervisor) | 202-19 |
+| **2 supervisors** | Minimum per tour — notify borough command if fewer available | 202-33 |
+| **2 consecutive day tours** | New member orientation program (lieutenants, sergeants, POs) | 202-33 |
+| **24 hours** | CO absence threshold before XO signs routine communications | 202-30 |
 | **30 days** | Property storage threshold triggering separate CLE and Ops Coordinator notification | 202-18 |
 | **4th hour + EOT** | TDL signing times for Desk Officer | 202-18 |

@@ -6,6 +6,8 @@ Covers P.G. 207-23, 207-31, 207-39
 
 ## P.G. 207-23: Missing Persons
 
+*(Updated R.O. 121, effective 11/21/25)*
+
 *7 pages in the Patrol Guide — high priority for the Sergeant exam.*
 
 ### Definition of Missing Person
@@ -140,6 +142,8 @@ In ALL missing cases, a **Complaint Report AND Missing Report** must be made eve
 
 ## P.G. 207-31: Silver Alert System
 
+*(Updated R.O. 66, effective 08/01/25)*
+
 *4 pages in the Patrol Guide.*
 
 ### Definition — Vulnerable Senior
@@ -171,6 +175,8 @@ A Silver Alert can **also be activated for persons under 65** who have dementia,
 ---
 
 ## P.G. 207-39: Blue Alert System
+
+*(Updated R.O. 115, effective 11/04/25)*
 
 ### Purpose
 

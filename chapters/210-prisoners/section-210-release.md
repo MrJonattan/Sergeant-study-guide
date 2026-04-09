@@ -115,19 +115,171 @@ After a voided arrest, the following must be notified:
 
 ## P.G. 210-17: Special Category Prisoners
 
-### Special Categories
+> **Updated:** 07/02/25 | R.O. 56 | 3 pages
 
-Certain prisoner categories require additional notifications, procedures, or handling considerations. These include but are not limited to:
+### Purpose
 
-| Category | Additional Considerations |
-|----------|--------------------------|
-| Foreign nationals | Consular notification requirements |
-| Diplomatic/consular immunity | Verify credentials; contact Operations Unit |
-| Military personnel | Notify military authorities |
-| Government officials | Additional notification chain |
-| Juveniles | Separate handling under P.G. 215 |
+To ensure that all pre-arraignment prisoners in custody at precinct, transit district, police service area, and borough court section holding pens are medically screened by Emergency Medical Service (EMS) personnel located at the borough court sections.
 
-> **Sergeant Focus:** Special category prisoners require additional notifications beyond standard procedures. Sergeants must verify that all required notifications are made and documented. Consular notification for foreign nationals is a legal requirement, not discretionary.
+### Scope
+
+EMS personnel are assigned to all patrol borough court sections **with the exception of the Staten Island Court Section**. On Staten Island, the supervisor at the court section (not EMS) makes the determination as to whether a prisoner will be designated as Special Category.
+
+### Definition — Special Category Prisoner
+
+A prisoner who should be removed from the general population for any of the following reasons:
+
+| Reason | Description |
+|--------|-------------|
+| a. Medical condition or physical disability | Prisoner has a condition requiring separation |
+| b. Safety risk | Placing prisoner in general population may pose a **safety risk** to that prisoner or other prisoners |
+| c. Health risk | Placing prisoner in general population may pose a **health risk** to that prisoner or other prisoners |
+
+> **Exam Alert:** Know the 3 reasons for Special Category designation: (1) medical/physical disability, (2) safety risk, (3) health risk. The exam tests the distinction between safety and health risks — they are separate categories.
+
+### Exclusions — NOT Special Category
+
+| Exclusion | Reference |
+|-----------|-----------|
+| a. Hospitalized prisoners | Refer to P.G. 210-02, "Hospitalized Prisoners" |
+| b. Prisoners issued DATs or summonses and released directly from precinct/transit district/PSA | Not designated Special Category |
+
+> **Exam Alert:** Hospitalized prisoners and those released directly with DATs/summonses are specifically **excluded** from the Special Category designation. A common exam trap is presenting a hospitalized prisoner as a Special Category — they are handled under a different procedure.
+
+### Procedure — Upon Transporting to Borough Court Section
+
+| Step | Role | Action |
+|------|------|--------|
+| 1 | UMOS | Ensure prisoner is **medically screened by EMS** as soon as possible |
+| 2 | BCS Supervisor | Determine, **in conjunction with EMS personnel**, whether prisoner should be designated "Special Category Prisoner" |
+
+### Guidelines for Handling Special Category Prisoners
+
+| Step | Role | Action |
+|------|------|--------|
+| 3 | BCS Supervisor | Ensure notation in **"Detention Alert"** caption of Prisoner Movement Slip (reason: medical, safety risk, disability, etc.) |
+| 4 | BCS Supervisor | Direct Special Category Prisoner be lodged in a **separate cell** from general pre-arraignment population |
+| 5 | BCS Supervisor | Ascertain, in consultation with EMS, whether it is advisable to house **more than one** Special Category Prisoner in a cell |
+| 6 | BCS Supervisor | Have **MEDICAL TREATMENT OF PRISONER (PD244-150)** form prepared for **each** Special Category Prisoner |
+| 7 | BCS Supervisor | Ensure "Yes" box in caption **"Recommend Prisoner Be Separated From General Population"** on MTP form is checked |
+| 8 | BCS Supervisor | Ensure all Special Category Prisoners originally screened by EMS at BCS are **subsequently screened** upon returning from any hospital, as applicable |
+| 9 | BCS Supervisor | **Oversee and expedite** the processing of all Special Category Prisoners and their co-defendants, if any |
+| 10 | BCS Supervisor | Ensure prisoners lodged in separate cells at precinct, district, or PSA commands are **transported to the appropriate arraignment part** at court, when necessary |
+
+> **Exam Alert:** The BCS Supervisor has 8 specific duties (steps 3-10) for handling Special Category Prisoners. Know especially: (1) MTP prepared for EACH Special Category Prisoner, (2) "Recommend Prisoner Be Separated" box must be checked on MTP, (3) re-screening by EMS after hospital return, (4) expedited processing.
+
+> **Sergeant Focus:** The BCS Supervisor is the key decision-maker for Special Category designation, working in conjunction with EMS. The sergeant must ensure all 8 handling steps are completed, especially the MTP preparation and the "Recommend Prisoner Be Separated" checkbox.
+
+### Lodging Special Category Prisoners
+
+| Rule | Detail |
+|------|--------|
+| Preference | Lodge in **separate cells** at BCS |
+| If not possible | BCS Supervisor directs temporary lodging in separate cell at precinct, district, or PSA |
+| Multi-prisoner cells | Decision based on whether prisoners pose safety or health risk **to one another** |
+| Avoid handcuffing | Make **every reasonable effort** to avoid handcuffing prisoners to chairs, railings, etc. for extended periods |
+
+> **Exam Alert:** It is **preferable** to lodge Special Category Prisoners in separate cells at BCS, but if not possible, the BCS Supervisor directs temporary lodging at a precinct/district/PSA. The "reasonable effort to avoid handcuffing to chairs/railings" language is testable.
+
+### Operational Considerations
+
+| Rule | Detail |
+|------|--------|
+| Subsequent designation | Prisoner may be designated Special Category at a **subsequent** EMS screening |
+| Priority processing | Special Category Prisoners given **priority status** at every stage of pre-arraignment, including placement on the **"Medical Expedite" list** at BCS |
+| Contagious disease | Prisoners identified as being infected with or suspected of carrying an actively contagious disease (e.g., tuberculosis) will be **sent to the hospital immediately** |
+
+> **Exam Alert:** Special Category Prisoners are placed on the **"Medical Expedite" list** for priority processing at BCS. Also, contagious disease (e.g., tuberculosis) requires **immediate** hospital transport — not just separation.
+
+### Wheelchair/Mobility Impaired Prisoners
+
+If a prisoner is confined to a wheelchair or is otherwise mobility impaired:
+- **Desk officer, command of arrest** will **confer with the BCS Supervisor** prior to transporting to a court section facility
+- Be guided by BCS Supervisor's direction regarding lodging and further processing
+- Comply with **P.G. 210-19**, "Department Transportation Services for Arrestees Who Have a Mobility Disability," when necessary
+
+> **See Also:** P.G. 210-19 for ADA-compliant van transport procedures.
+
+---
+
+## P.G. 210-19: Department Transportation Services for Arrestees with a Mobility Disability (NEW)
+
+> **New Procedure:** 07/02/25 | R.O. 56 | 3 pages
+
+### Purpose
+
+To provide a safe method of transportation for arrestees with mobility disabilities.
+
+### Centralized ADA-Accessible Locations
+
+The following commands are designated as centralized locations for arrest processing of mobility-impaired arrestees:
+
+| Borough Code | Precinct |
+|-------------|----------|
+| **PBBN** | 83rd Precinct |
+| **PBBS** | 67th Precinct |
+| **PBMN** | 28th Precinct |
+| **PBMS** | 9th Precinct |
+| **PBSI** | 121st Precinct |
+| **PBQN** | Precinct of arrest |
+| **PBQS** | Precinct of arrest |
+| **PBBX** | Precinct of arrest |
+
+> **Exam Alert:** There are **8 centralized borough locations** for mobility-impaired arrestee processing. For PBQN, PBQS, and PBBX, the arrestee is processed at the **precinct of arrest** (not a centralized location). Know the specific precincts for PBBN (83rd), PBBS (67th), PBMN (28th), PBMS (9th), and PBSI (121st).
+
+### Procedure
+
+| Step | Role | Action |
+|------|------|--------|
+| 1 | Patrol Borough Commander | Ensure training via Training Bureau for appropriate number of MOS to provide **24-hour coverage** |
+| 1a | | Maintain list of **qualified, van-trained** MOS |
+| 2 | Patrol Borough Commander | Ensure a Department **ADA compliant van** equipped with wheelchair lift is readily available |
+| 3 | Arresting/Escorting Officer | **Interview arrestee** and determine need for accessible transportation based on mobility impairment |
+| 4 | Arresting/Escorting Officer | Notify desk officer that a Department ADA compliant van is needed at scene |
+| 5 | Desk Officer | Notify **Patrol Borough** to dispatch qualified van operator with ADA van to scene |
+| 5a | | Record notification in **Command Log** |
+| 6 | Patrol Borough/PS | Dispatch qualified van operator to scene to transport arrestee to **ADA accessible location** for arrest processing |
+| 6a | | Record dispatch in **Command Log and/or Digital Activity Log** |
+| 7 | Arresting/Escorting Officer | Comply with **P.G. 208-05** ("Arrests - General Search Guidelines") prior to transport in ADA van |
+| 7a | | Perform **field search** and utilize hand-held metal detector or similar device |
+
+> **Exam Alert:** The arresting officer must **interview the arrestee** about their mobility impairment (step 3) and perform a **field search with metal detector** (step 7a) before transport in the ADA van.
+
+### Medical Condition Limitation
+
+If an arrestee claims a medical condition that would limit the scope of a field search or prevent safe transport in the ADA van:
+- Request response of an **ambulance**
+- Remove the arrestee to a **hospital**
+- Comply with **P.G. 210-04** ("Prisoners Requiring Medical/Psychiatric Treatment")
+
+### Transport Phase 1 — Scene to Command
+
+| Step | Role | Action |
+|------|------|--------|
+| 8 | Patrol Supervisor | Ensure A/O-E/O **accompanies** arrestee during transportation to command |
+| 9 | Qualified ADA Van Operator | Safely transfer arrestee onto van using **wheelchair lift**; request assistance if needed |
+| 10 | Qualified ADA Van Operator | Properly **secure** arrestee using belts provided in van |
+| 11 | Arresting/Escorting Officer | Take position in van; ensure arrestee is **observed at all times** during transport |
+| 12 | Arresting/Escorting Officer | Upon arrival, assist van operator in **removing** arrestee if requested |
+
+> **Note:** Upon completion of transport, the van will be **returned to command concerned**.
+
+### Transport Phase 2 — Command to Borough Court Section
+
+| Step | Role | Action |
+|------|------|--------|
+| 13 | Desk Officer | Comply with **P.G. 208-03** ("Arrests - General Processing") and confer with **BCS Supervisor** for direction on lodging and processing |
+| 14 | Desk Officer | Notify appropriate command and request ADA van to respond; transport arrestee to BCS |
+| 15 | Desk Officer | Assign **escorting officer** to bring arrestee to BCS |
+| 16 | Qualified ADA Van Operator | Safely transfer arrestee onto van using wheelchair lift; request assistance if needed |
+| 17 | Qualified ADA Van Operator | Properly secure arrestee using belts provided in van |
+| 18 | Escorting Officer | Take position in van; observe arrestee at all times during transport |
+| 19 | Escorting Officer | Upon arrival at BCS, assist van operator in removing arrestee if requested |
+| 20 | BCS Personnel | Comply with **P.G. 210-17** ("Special Category") upon arrestee's arrival at BCS |
+
+> **Exam Alert:** There are **two transport phases**: (1) scene to command (steps 8-12), and (2) command to BCS (steps 13-20). The desk officer must confer with the **BCS Supervisor** before the second transport. BCS personnel comply with P.G. 210-17 upon arrival.
+
+> **Sergeant Focus:** The Patrol Supervisor ensures the A/O-E/O accompanies the arrestee during transport (step 8). The desk officer is responsible for arranging both transports and conferring with BCS. The van operator must be **qualified and trained** in wheelchair lift operation.
 
 ---
 
@@ -143,6 +295,18 @@ Certain prisoner categories require additional notifications, procedures, or han
 8. **Voided arrest documentation** — 5 elements on OLBS Arrest Worksheet
 9. **Sealing records** — BCS intake supervisor faxes DCJS for fingerprinted voided arrests
 10. **Other agency conflicts** — Precinct commander/duty captain resolves
+11. **Special Category definition** — 3 reasons: medical/disability, safety risk, health risk
+12. **Special Category exclusions** — Hospitalized prisoners and DAT/summons releases are NOT Special Category
+13. **BCS Supervisor duties** — 8 specific steps (3-10) for handling Special Category Prisoners
+14. **MTP for each Special Category Prisoner** — Must prepare MTP and check "Recommend Prisoner Be Separated" box
+15. **Medical Expedite list** — Special Category Prisoners get priority status at BCS
+16. **Contagious disease** — Immediate hospital transport (not just separation)
+17. **EMS screening** — All pre-arraignment prisoners screened by EMS at BCS (except Staten Island, where supervisor screens)
+18. **Staten Island exception** — Supervisor at court section (not EMS) makes Special Category determination
+19. **ADA van — 8 centralized locations** — PBBN=83rd, PBBS=67th, PBMN=28th, PBMS=9th, PBSI=121st; PBQN/PBQS/PBBX=precinct of arrest
+20. **ADA van — two transport phases** — Scene to command, then command to BCS
+21. **Field search with metal detector** — Required before ADA van transport
+22. **Wheelchair/mobility prisoner** — D.O. confers with BCS Supervisor BEFORE transport to court section
 
 ## Sergeant Study Notes
 
@@ -155,3 +319,11 @@ Certain prisoner categories require additional notifications, procedures, or han
 - If a warrant is found during release processing, the prisoner is held on the **warrant only** — original charges are dropped per the decline
 - Inter-agency release conflicts are resolved at the **precinct commander/duty captain** level — do not attempt to resolve at the sergeant level
 - Notification requirements after a voided arrest are extensive — patrol borough commander, Identification Unit, BCS, CO of arresting officer, and desk officer of command of occurrence
+- **Special Category designation** is a joint decision between the BCS Supervisor and EMS — not a unilateral call
+- The BCS Supervisor must prepare an **MTP for each Special Category Prisoner** and check the "Recommend Prisoner Be Separated" box
+- **Medical Expedite list** placement gives Special Category Prisoners priority at every stage of pre-arraignment processing
+- **Contagious disease** (e.g., tuberculosis) requires immediate hospital transport — this is non-negotiable
+- For **wheelchair/mobility-impaired** prisoners, the desk officer must confer with BCS Supervisor BEFORE transport to court
+- The **ADA van** must be operated by a qualified, trained MOS; the Patrol Borough Commander maintains the list of qualified operators
+- A **field search with metal detector** is mandatory before placing any arrestee in the ADA van
+- If a mobility-impaired arrestee has a medical condition preventing safe ADA van transport, call an ambulance and comply with P.G. 210-04

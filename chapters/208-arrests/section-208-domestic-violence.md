@@ -6,116 +6,177 @@ Covers P.G. 208-36, 208-37, 208-38, 208-39, 208-70
 
 ## P.G. 208-36: Family Offenses / Domestic Violence
 
+> **Updated:** 10/20/25 | R.O. 106 | 17 pages
+
+**PURPOSE:** To process family offenses and other offenses that occur between family/household members as per the Family/Household - Expanded Definition.
+
 ### Family/Household Definitions
 
-#### Family Court Act (FCA) Definition
+#### Family Court Act (FCA) Definition (subdivisions "a" through "f")
 
-A **family/household member** under the FCA includes:
-- Persons **legally married**
-- Persons **formerly married**
-- Persons **related by marriage**
-- Persons **related by blood**
-- Persons who have a **child in common**
-- Persons in an **intimate relationship**
+A **family/household member** under the FCA includes persons who:
+- a. Are **legally married** to one another
+- b. Were **formerly legally married** to one another
+- c. Are **related by marriage** (affinity)
+- d. Are **related by blood** (consanguinity)
+- e. Have a **child in common** regardless of whether such persons have been married or have lived together at any time
+- f. Are not related by consanguinity (blood) or affinity (marriage) and who are, or have been, in an **intimate relationship** regardless of whether such persons have lived together at any time
 
-#### NYPD Expanded Definition
+A family/household thus includes: "common-law" marriages, same sex couples, registered NYC domestic partners, different generations of the same family, siblings, in-laws, persons involved in "intimate relationships," and persons who live or have lived together in a family-type relationship.
 
-The NYPD expands the FCA definition to also include:
-- Persons **currently or formerly living together** in a **family-type relationship**
+#### NYPD Expanded Definition (subdivisions "a" through "h")
 
-> **Exam Alert:** The NYPD definition is BROADER than the FCA definition. The FCA covers six categories; the NYPD adds cohabitation in a family-type relationship. Know both definitions.
+The NYPD expands the FCA definition to also include persons who:
+- g. Are **currently living together** in a family-type relationship
+- h. **Formerly lived together** in a family-type relationship
+
+> **Exam Alert:** The NYPD definition is BROADER than the FCA definition. The FCA covers subdivisions "a" through "f"; the NYPD adds "g" and "h" (current/former cohabitation in a family-type relationship). Know both definitions and which subdivision letters apply to each.
+
+### Complainant/Victim Definition
+
+For purposes of this procedure ONLY, is limited to a person described in subdivisions "a" through "h" above (the full NYPD Expanded Definition).
 
 ### "Intimate Relationship" Standard
 
-Determined by **common sense and totality of circumstances**, considering:
+Determined by **common sense standard** regarding the **totality of circumstances**, considering:
 
 | Factor | Detail |
 |---|---|
-| **Nature** of the relationship | Romantic, sexual, emotional bond |
+| **Nature or type** of the relationship | The relationship does NOT have to be sexual to be "intimate" |
 | **Frequency** of interaction | How often the parties see each other |
 | **Duration** | How long the relationship has lasted |
 | **Time spent together** | In either a work or leisure-related capacity |
 | **Shared expenses/finances** | Joint financial obligations |
 | **Extent of interaction with family members** | Integration into each other's families |
 
-**Does NOT have to be sexual** to be considered "Intimate."
-
 **Does NOT qualify:**
 - Casual acquaintance
-- Ordinary business, educational, or social friends
+- Ordinary fraternization in a business, educational, or social context
 
-> **Exam Alert:** If unable to determine if the relationship is "intimate," the responding MOS must request the response of the **Patrol Supervisor** to make the determination.
+> **Exam Alert:** If unable to determine if the relationship is "intimate," the MOS will request the response of the **Patrol Supervisor** to make the determination.
 
-### Family Offenses — Specific Charges
+> **Exam Alert:** All members are reminded that their primary responsibility is to ensure the immediate and future safety of ALL parties involved in domestic violence incidents.
+
+### Offense Definition
+
+**OFFENSE** - Conduct for which a sentence to a term of imprisonment or to a fine is provided (felony, misdemeanor, or violation).
+
+### Family Offenses — Specific Charges (AS DEFINED IN THE FAMILY COURT ACT)
+
+Any act which may constitute the following and is committed by one member of the same family/household (subdivisions "a" through "f" above) against another:
 
 > **Exam Alert:** UMOS does NOT need to know what is considered a "Family Offense" to make an arrest. Family Offenses affect decisions on Primary Aggressor Analysis and Concurrent Jurisdiction. The above steps for DV response apply to ANY offense between "Family Members."
 
-#### Personal Crimes (DRAMAS)
+| Letter | Family Offense |
+|---|---|
+| a. | **Harassment** 1st or 2nd degree |
+| b. | **Assault** 2nd degree or Attempt |
+| c. | **Disorderly Conduct** (including acts amounting to Dis Con NOT committed in a public place) |
+| d. | **Aggravated Harassment** 2nd degree |
+| e. | **Assault** 3rd degree or Attempt |
+| f. | **Reckless Endangerment** |
+| g. | **Menacing** 2nd or 3rd degree |
+| h. | **Stalking** (1st, 2nd, 3rd, and 4th degrees) |
+| i. | **Sexual Misconduct** |
+| j. | **Forcible Touching** |
+| k. | **Sexual Abuse** 3rd degree |
+| l. | **Sexual Abuse** 2nd degree when committed against a victim incapable of consent due to a factor other than being less than 17 years old |
+| m. | **Criminal Mischief** (all degrees) |
+| n. | **Strangulation** 1st or 2nd degree |
+| o. | **Criminal Obstruction of Breathing or Blood Circulation** |
+| p. | **Identity Theft** (1st, 2nd, and 3rd degrees) |
+| q. | **Grand Larceny** (3rd and 4th degrees) |
+| r. | **Coercion** 2nd degree (subdivisions 1, 2, 3) |
+| s. | **Unlawful Dissemination or Publication of Intimate Image** (PL 245.15 violations only) |
+
+> **NOTE:** Stalking convictions (all four degrees) will subject an offender to automatic suspension or revocation of a pistol license by the Criminal or Family Court.
+
+> **NOTE:** A violation of Administrative Code 10-177 does NOT qualify as a family offense.
+
+#### Memory Aids
 
 > **Memory Aid — DRAMAS:** **D**is Con (including acts not in public) / **R**eckless Endangerment / **A**ggravated Harassment 2nd, Harassment 1st or 2nd / **M**enacing 2nd or 3rd / **A**ssault 2nd or 3rd (or Attempts) / **S**trangulation 1st or 2nd, Criminal Obstruction of Breathing or Blood Circulation, Stalking all four degrees
 
-> **Exam Alert:** Criminal Obstruction of Breathing is sometimes called "3rd degree Strangulation" — know this alternate name.
-
-#### Property/Sexual Crimes (C GIF CUSS)
-
-> **Memory Aid — C GIF CUSS:** **C**riminal Mischief (all degrees) / **G**rand Larceny (3rd and 4th) / **I**dentity Theft (1st, 2nd, and 3rd) / **F**orcible Touching / **C**oercion 2nd (subdivisions 1, 2, 3) / **U**nlawful Dissemination or Publication of Intimate Image (PL 245.15 — Revenge Porn) / **S**exual Misconduct / **S**exual Abuse 3rd AND Sexual Abuse 2nd sub 1 (Not sub 2 which is less than 14)
+> **Memory Aid — C GIF CUSS:** **C**riminal Mischief (all degrees) / **G**rand Larceny (3rd and 4th) / **I**dentity Theft (1st, 2nd, and 3rd) / **F**orcible Touching / **C**oercion 2nd (subdivisions 1, 2, 3) / **U**nlawful Dissemination or Publication of Intimate Image (PL 245.15) / **S**exual Misconduct / **S**exual Abuse 3rd AND Sexual Abuse 2nd sub 1
 
 > **Exam Alert:** Sexual Abuse 2nd sub 1 (incapable of consent by reason other than being less than 17) is a family offense. Sexual Abuse 2nd sub 2 (victim less than 14) is NOT a family offense — a victim less than 14 is too serious for Family Court; it goes to Criminal Court only.
 
-| Offense Category | Specific Charges |
-|---|---|
-| **Harassment offenses** | Dis Con, Harassment 1st/2nd, Aggravated Harassment 2nd |
-| **Assault offenses** | Assault 2nd/3rd (or Attempts), Menacing 2nd/3rd, Reckless Endangerment |
-| **Sexual offenses** | Sexual Misconduct, Forcible Touching, Sexual Abuse 3rd, Sexual Abuse 2nd sub 1 |
-| **Property offenses** | Criminal Mischief (all degrees), Grand Larceny (3rd/4th), Identity Theft (1st/2nd/3rd) |
-| **Stalking offenses** | Stalking (all four degrees) |
-| **Strangulation** | Criminal Obstruction of Breathing/Blood Circulation, Strangulation 1st/2nd |
-| **Coercion** | Coercion 2nd (subdivisions 1, 2, 3) |
-| **Image offenses** | Unlawful Dissemination or Publication of Intimate Image |
+> **Exam Alert:** Criminal Obstruction of Breathing is sometimes called "3rd degree Strangulation" — know this alternate name.
+
+### Order of Protection Definition
+
+An order issued by NYC Criminal Court, NYS Family Court, or NYS Supreme Court, requiring compliance with specific conditions of behavior, hours of visitation, and any other condition deemed appropriate by the court of issuance. An OOP may also be issued by Supreme Court as part of a separation decree, divorce judgment, annulment, or as part of a court order in a pending separation, divorce, or annulment action.
+
+### Probable Cause Definition
+
+A combination of facts, viewed through the eyes of a uniformed member of the service, which would lead a person of reasonable caution to believe that an offense is being or has been committed.
+
+> **Exam Alert:** The "probable cause" standard applied in family offense/DV offenses IS NO DIFFERENT from the standard applied in other offenses and may be met by evidence other than the statement of the complainant/victim.
 
 ### Concurrent Jurisdiction
 
-**Concurrent jurisdiction** between Criminal Court and Family Court exists when ALL three conditions are met:
+**Concurrent jurisdiction** exists when different courts have jurisdiction over the same subject matter within the same territory. Both Criminal Court and Family Court have concurrent jurisdiction when ALL three conditions are met:
 
 | Condition | Requirement |
 |---|---|
-| 1 | The offense is a **family offense** (from the list above) |
-| 2 | The parties have a **Family Court Act relationship** (NOT the NYPD expanded definition) |
-| 3 | The offender is **18 years or older** |
+| a. | A **family offense** (as defined above) has been committed; AND |
+| b. | A **family/household relationship as defined in the Family Court Act** "a" through "f" above (and NOT including the NYPD Expanded Definition) exists between the offender and the victim; AND |
+| c. | The offender is **18 years of age or older** |
 
-**Exception for 16-17 year olds:** Concurrent jurisdiction exists ONLY if the 16-17 year old is charged with a **felony-level** family offense (Adolescent Offender).
+**Exception for 16-17 year olds:** If the offender is 16 or 17 years of age, concurrent jurisdiction ONLY exists if the offender is charged with a **felony-level** family offense.
 
-**If conditions are NOT met:** The case proceeds in **Criminal Court only**.
+**If conditions are NOT met:** The complainant MUST go to **Criminal Court**.
 
-> **Exam Alert:** All three conditions must be present for concurrent jurisdiction. A common exam trap: a 17-year-old charged with misdemeanor harassment against a spouse — this goes to Criminal Court only because the offender is under 18 and it is not a felony.
+**If the first two elements are met, but the offender is less than 18:** The complainant must go to **Family Court**.
 
-> **Exam Alert:** Concurrent jurisdiction uses the FAMILY COURT ACT definition of family member, NOT the NYPD expanded definition. Primary Aggressor Analysis and Concurrent Jurisdiction apply only to "Family Offenses" — NOT to all offenses between family members.
+> **Exam Alert:** All three conditions must be present for BOTH courts to have jurisdiction. A common exam trap: a 17-year-old charged with misdemeanor harassment against a spouse — this goes to Criminal Court only because the offender is under 18 and it is not a felony.
 
-### Steps for Concurrent Jurisdiction
-1. Advise Complainant/Victim when concurrent jurisdiction exists:
-   - Family court is to **resolve the dispute and end the violence**
-   - Criminal court is to **prosecute the offender**
-   - Can proceed in **both** courts AND change courts any time
-2. Document in Digital Activity Log that C/V was advised of concurrent jurisdiction
+> **Exam Alert:** Concurrent jurisdiction uses the FAMILY COURT ACT definition (subdivisions "a" through "f"), NOT the NYPD expanded definition ("g" and "h"). Primary Aggressor Analysis and Concurrent Jurisdiction apply only to "Family Offenses" — NOT to all offenses between family members.
 
-### UMOS Response at Scene
+### When Concurrent Jurisdiction Exists
+
+Advise complainants/victim that:
+1. There is concurrent jurisdiction with respect to family offenses in **both** Family Court and Criminal Courts
+2. A **Family Court** proceeding is a civil proceeding to stop the violence, end the family disruption, and obtain protection (referrals for counseling/probation available)
+3. A **Criminal Court** proceeding is for prosecution and can result in criminal conviction
+4. A proceeding subject to FCA Section 812 is initiated at the time of filing an **accusatory instrument or Family Court petition**, NOT at the time of arrest or request for arrest
+5. An arrest may precede the commencement of either proceeding, but **an arrest is not a requirement** for commencing either proceeding; however, arrest of an alleged offender shall be made under the circumstances described in CPL Section 140.10(4)
+
+Document in Digital Activity Log that C/V was advised of concurrent jurisdiction.
+
+### UMOS Response at Scene (NYPD Expanded Definition)
+
+When MOS respond to, or are notified of, any incident involving members of the same Family/Household (NYPD EXPANDED DEFINITION):
 
 | Step | Action |
 |---|---|
-| **1. Medical treatment (1st action)** | If requested or need is apparent → obtain medical assistance |
-| **2. Ascertain facts** | Interview all persons involved **SEPARATELY** |
-| **3. Collect evidence** | Take photos with Dept smartphone of all visible injuries and/or damaged property |
-| **4. Determine probable cause** | Determine if probable cause exists that ANY offense was committed |
+| **1. Medical treatment (1st action)** | Obtain medical assistance if requested or the need is apparent |
+| **2. Ascertain all facts** | Interview persons involved **SEPARATELY**; interview and record names of any witnesses present |
+| **2c. Collect evidence** | Collect evidence and record statements of persons present (e.g., admission by offender during dispute) |
+| **2d. Take photographs** | Using Dept smartphone via FORMS, in ALL cases where victim has visible injuries and/or damaged property as a result of DV. Upload photos via FORMS per P.G. 208-39. Other DV evidence (weapons, clothing, etc.) must be vouchered per P.G. 218-01. |
+| **3. Determine** | (a) Probable cause exists that ANY offense has been committed; (b) An OOP has been obtained by C/V; (c) The offense constitutes a FAMILY OFFENSE; (d) Children present who may be victims of neglect, abuse, or maltreatment |
+
+### Child Abuse — Suspected Child in Household
+
+If a member **REASONABLY SUSPECTS** a child less than 18 is abused, neglected or maltreated and continued presence in the household presents an imminent risk to the child's physical or mental health:
+1. Request patrol supervisor to respond
+2. Prepare **REPORT OF SUSPECTED CHILD ABUSE OR MALTREATMENT (PD377-154)**
+3. Notify the State Central Registry as per P.G. 215-03
+
+> **Exam Alert:** Willful failure to make such notification is a **Class "A" Misdemeanor**. Further, civil liability may result for the damages caused by such failure.
+
+If probable cause exists that a crime has been committed against a child, the perpetrator will be arrested, and **NO DESK APPEARANCE TICKET (PD260-121)** will be issued.
 
 ### Interpreter Requirements
 
 | Requirement | Detail |
 |---|---|
-| **Avoid** | Using bystanders/family members as interpreters |
-| **Temporary use** | May use temporarily to **stabilize scene and gather information** |
-| **Verification** | MUST use a **Certified MOS** or **Language Line Service (LLS)** to verify info before finalizing the job |
-| **LEP/Deaf persons** | Follow LEP 212-90 or Deaf 212-104 |
-| **Children** | Should be interviewed but do NOT use as interpreter, when feasible, on any assignment including DV |
+| **Avoid** | Using bystanders/family members as interpreters — to preserve privacy and minimize risk of faulty interpretation due to fear of arrest of a family member or other personal biases |
+| **Temporary use** | May be **temporarily** used for interpretation to **stabilize the scene and gather preliminary information** |
+| **Verification** | Responding officers MUST use a **certified MOS** or the **Language Line Service** to verify the details of the DV incident before finalizing the job |
+| **LEP persons** | Follow P.G. 212-90 |
+| **Deaf/Hard of Hearing** | Follow P.G. 212-104 |
+| **Children** | As possible victims or witnesses, a child should be interviewed; however, when feasible, a child should NOT be used as an interpreter for any kind of police incident, including DV |
 
 > **See Also:** PG 212-90 — Limited English Proficient; PG 212-104 — Persons who are Deaf or Hard of Hearing; PG 215-03 — Child Abuse
 

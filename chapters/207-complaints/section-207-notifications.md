@@ -53,6 +53,8 @@ Police impersonation goes **directly** to IAB (no Operations Unit).
 
 ## P.G. 207-24: Notifications from Caseworkers (Adult Protective Services / Dept. for the Aging)
 
+*(Updated R.O. 104, effective 10/20/25)*
+
 When notifications are received from caseworkers of Adult Protective Services or the Department for the Aging:
 - The information is documented and appropriate action is taken
 - These notifications often involve vulnerable adults who may be victims of abuse, neglect, or exploitation
