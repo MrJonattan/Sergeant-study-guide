@@ -83,6 +83,43 @@ Report to duty captain/incident commander:
 
 ---
 
+## P.G. 212-20 — Ejection from New York City Transit Property
+
+*(Updated R.O. 90, effective 10/02/25)*
+
+### Purpose
+To provide procedures for uniformed members having occasion to eject a passenger from New York City Transit property.
+
+### Scope
+Any person who violates any portion of NYCRR Part 1050, regardless of whether or not that person has also been issued a TAB summons/NOV or Criminal Court Summons for that violation, is subject to ejection from NYC Transit facilities. Issuance of a Notice of Violation does **not** preclude a member from ejecting a passenger from the transit system, if the member concerned deems it appropriate.
+
+### Procedure — When Necessary to Eject a Passenger
+
+### Uniformed Member of the Service
+
+1. Advise passenger of ejection and reason.
+2. Permit passenger who voluntarily leaves or shows willingness to do so, to leave without interference.
+3. Use **no more force** than is necessary to effect the ejection, if passenger refuses to leave.
+   a. Generally, grasping the upper arm and forearm to escort the person off the system is considered using reasonable force necessary to effect the ejection.
+
+> *NOTE: If the passenger's conduct requires more force than is ordinarily needed to assist and guide the passenger out of the transit system, an arrest may be appropriate.*
+
+4. Make digital **Activity Log** entries and prepare a **TRANSIT SYSTEM EJECTION REPORT** using Finest Online Records Management System (FORMS) each time an ejection is effected.
+   a. Submit completed report **prior to completion of tour**.
+   b. Use radio code disposition **"10-93E"** to finalize assignment anytime an individual is ejected from the NYC Transit System.
+
+### Transit District Supervisor
+
+5. Review **TRANSIT SYSTEM EJECTION REPORT** using FORMS and ensure all required captions are complete and accurate.
+   a. If unable to verify accuracy and completeness, return to submitting member for necessary attention.
+   b. **Approve** TRANSIT SYSTEM EJECTION REPORT using FORMS, after verifying accuracy and completeness.
+
+> **Exam Alert:** Radio code **10-93E** is used to finalize the assignment when an individual is ejected from transit. The Transit District Supervisor reviews and approves the ejection report via FORMS.
+
+> **Sergeant Focus:** The supervisor shall review every Transit System Ejection Report for accuracy and completeness before approving it in FORMS. If the report is deficient, it must be returned to the member for correction.
+
+---
+
 ## P.G. 212-21 — Photography on NYC Transit System
 
 ### General Rule

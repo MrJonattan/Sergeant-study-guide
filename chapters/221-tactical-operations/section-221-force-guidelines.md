@@ -10,7 +10,33 @@ To provide members of the service with force/restraint and firearm prohibitions.
 
 ### Scope
 
+**The primary duty of all members of the service (MOS) is to protect human life, including the lives of individuals being placed in police custody.** Force may be used when it is reasonable to ensure safety of MOS or a third person, or otherwise protect life, or when it is reasonable to place a person in custody or to prevent escape from custody. In all circumstances, any application or use of force must be **reasonable under the circumstances**. All MOS at a police incident must use reasonable force, employ less lethal alternatives, and prioritize **de-escalation**, whenever possible. If the force used is unreasonable under the circumstances, it will be deemed excessive and in violation of Department policy.
+
+All MOS must, when in a position to do so, **intervene** to stop another MOS or members of other law enforcement agencies from using excessive force. Failure to intervene in the use of excessive force, or report excessive force, or failure to request or to ensure timely medical treatment for an individual is **serious misconduct** that may result in criminal and civil liability and **will** result in Department discipline, up to and including **dismissal**. If a member becomes aware of the use of excessive force or failure to request or ensure timely medical treatment, the member **must** report such misconduct to the Internal Affairs Bureau Command Center.
+
 Excessive force will NOT be tolerated. MOS who use excessive force will be subject to Department discipline, up to and including **dismissal**.
+
+### Reporting Misconduct
+
+Reporting misconduct by a member of the service is outlined in P.G. 207-21, *"Allegations of Corruption and Other Misconduct Against Members of the Service."* Additionally, reporting misconduct by other city employees is outlined in P.G. 207-22, *"Allegations of Corruption Against City Employees (Other Than Members of The New York City Police Department)."*
+
+### Factors for Determining Reasonableness of Force
+
+In determining whether the use of force is reasonable, MOS should consider:
+
+| Factor | Description |
+|--------|-------------|
+| a | Nature and severity of the crime/circumstances |
+| b | Actions taken by the subject |
+| c | Duration of the action |
+| d | Immediacy of the perceived threat or harm to the subject, MOS, and/or bystanders |
+| e | Whether the subject is actively resisting custody |
+| f | Whether the subject is attempting to evade arrest by flight |
+| g | Number of subjects in comparison to the number of MOS |
+| h | Size, age, and condition of the subject in comparison to the MOS |
+| i | Subject's violent history, if known |
+| j | Presence of hostile crowd or agitators |
+| k | Subject apparently under the influence of a stimulant/narcotic which would affect pain tolerance or increase the likelihood of violence |
 
 ### Key Definitions
 
@@ -36,9 +62,15 @@ Excessive force will NOT be tolerated. MOS who use excessive force will be subje
 | Discharge at a dog/animal except to protect from **imminent physical injury** and no opportunity to retreat |
 | **Cock** a firearm — must fire **double action** at all times |
 
+### Notes on Drawing a Firearm
+
+Drawing a firearm prematurely or unnecessarily limits a UMOS's options in controlling a situation and may result in an unwarranted or accidental discharge. The decision to display or draw a firearm **should** be based on an articulable belief that the potential for serious physical injury is present. MOS, when feasible, **should** issue an appropriate verbal warning prior to discharging a firearm. When the potential for serious physical injury is no longer present, the UMOS will holster the firearm as soon as practicable.
+
+*Where only a vehicle is used as deadly physical force against MOS, members should safely attempt to move out of the path of an approaching vehicle.*
+
 ### Mass Casualty Vehicle Ramming Attack Exception
 
-If a vehicle is being used in a mass casualty ramming attack, UMOS may utilize tactics **otherwise prohibited** within P.G. 221-15 (Vehicle Pursuits) to stop the vehicle if deadly physical force or death is imminent.
+If a vehicle is being used in a mass casualty ramming attack, UMOS may utilize tactics **otherwise prohibited** within P.G. 221-15 (Vehicle Pursuits) to stop the vehicle if deadly physical force or death is imminent against MOS or other persons present, by means of a moving vehicle as the sole or primary threat.
 
 ### Restraint Prohibitions — SHALL NOT:
 
