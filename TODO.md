@@ -51,8 +51,8 @@ The `build/` directory has full HTML output but `docs/` only has the PWA files. 
 
 ## Verify Cross-References
 
-- [ ] Scan all `See Also:` callouts — verify every PG/AG reference exists in the chapter structure
-- [ ] Update any broken internal links
+- [x] Scan all `See Also:` callouts — verify every PG/AG reference exists in the chapter structure
+- [x] Update any broken internal links (none found — all references valid, external refs marked)
 
 ## Update Progress Tracker
 
