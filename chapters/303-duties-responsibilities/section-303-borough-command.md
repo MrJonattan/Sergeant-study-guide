@@ -22,11 +22,29 @@
 
 > **NOTE:** Borough commanders of bureaus performing enforcement functions (e.g., Detective, Transit, Housing, etc.) will ensure that executive staff from their respective borough attend a briefing with Internal Affairs Bureau, Community Affairs Bureau, Quality Assurance Section, and Personnel Orders Division upon assignment to command and semi-annually thereafter.
 
+> **Memory Aid — B.C. SCHEDULE:** **S**emi-annual (S-S) = **S**emi-annual **S**taff briefings (IAB, CAB, QAS, OEEO, Personnel Orders) = **S**taff. **A**nnual = **A**nnual **A**udit (Confidential Performance Profile). **Q**uarterly = **Q**uarterly **Q**uality meetings (executive staff + line organizations). Pattern: **S-A-Q**.
+
+> **Exam Alert — Semi-Annual vs. Annual vs. Quarterly:** The three timeframes for Borough Commander duties are frequently confused. Semi-annual = staff briefings. Annual = CPP inspection. Quarterly = executive staff meetings. A question may ask "How often must a Borough Commander brief with IAB?" — the answer is semi-annual, not quarterly.
+
+> **Exam Alert — "All Police Operations":** The Borough Commander is responsible for *all* police operations within the borough — not just patrol, not just crime, but ALL operations. This is broader than the Borough Executive Officers who divide responsibilities between Operations and Administration.
+
 ### Sergeant Exam Focus
 - **Semi-annual** briefings with IAB, CAB, QAS, OEEO, Personnel Orders
 - **Annual** inspection of Confidential Performance Profile
 - **Quarterly** meetings with executive staff and line organizations
 - Borough Commander is responsible for **all** police operations within borough
+
+---
+
+**Role Comparison — Borough Command Structure:**
+
+| Role | Reports To | Primary Focus | Key Responsibilities |
+|------|-----------|---------------|---------------------|
+| **Borough Commander** | None (top of borough) | All police operations within borough | Strategic plans, community relationships, mentor executive staff, inspect CPP annually |
+| **Borough Executive Officer, Operations** | Borough Commander | Operational efficiency | Crime control, QOL, traffic, graffiti, liaison with Counterterrorism Coordinator |
+| **Borough Executive Officer, Administration** | Borough Commander | Administrative oversight | Discipline, personnel, scheduling, QA, property, budget |
+| **Borough Adjutant** | Exec Officer, Administration | Risk management | Early Intervention, auditing, sick monitoring, CCRB reports, self-inspection |
+| **Borough Operations Commander** | Exec Officer, Operations | Crime reduction strategies | 9 crime categories, special events, youth coordination officers |
 
 ---
 
@@ -54,6 +72,12 @@
 - Supervises Borough Operations Commander, Special Projects Coordinator, and specialty units
 - Responsible for **operational** oversight (crime, QOL, traffic, graffiti)
 - Liaison with Borough Counterterrorism Coordinator for emergency preparedness
+
+> **Exam Alert — Operations vs. Administration Split:** A frequent exam question presents a scenario and asks whether it falls under Operations or Administration. Remember: **Operations = crime, QOL, traffic, graffiti** (the visible, field-facing work). **Administration = discipline, personnel, scheduling, budget, property** (the internal, paper-facing work).
+
+> **Exam Alert — Crime Reduction Strategy Covers 9 Categories:** The Borough Operations Commander develops strategies for: (1) Sex crimes, (2) Robberies, (3) Assaults, (4) Burglaries, (5) Larcenies/thefts, (6) Vehicle theft, (7) Domestic violence, (8) Firearms violence/weapons, (9) Other crimes as they emerge. Know this number — it appears on exams.
+
+> **See Also:** A.G. 303-03 — Borough Executive Officer, Administration (discipline, personnel, evaluations)
 
 ---
 
@@ -87,6 +111,14 @@
      - (3) Data integrity
      - (4) Data quality
 
+> **Exam Alert — Operations vs. Administration Split:** A frequent exam question presents a scenario and asks whether it falls under Operations or Administration. Remember: **Operations = crime, QOL, traffic, graffiti** (the visible, field-facing work). **Administration = discipline, personnel, scheduling, budget, property** (the internal, paper-facing work).
+
+> **Exam Alert — Crime Reduction Strategy Covers 9 Categories:** The Borough Operations Commander develops strategies for: (1) Sex crimes, (2) Robberies, (3) Assaults, (4) Burglaries, (5) Larcenies/thefts, (6) Vehicle theft, (7) Domestic violence, (8) Firearms violence/weapons, (9) Other crimes as they emerge. Know this number — it appears on exams.
+
+> **See Also:** A.G. 303-03 — Borough Executive Officer, Administration (discipline, personnel, evaluations)
+
+---
+
 ### Sergeant Exam Focus
 - Supervises Borough Administrator and Borough Adjutant
 - Responsible for **administrative** oversight (discipline, personnel, scheduling, QA)
@@ -116,6 +148,10 @@
 11. Review firearms discharges by uniformed members of the service.
 12. Conduct staff Performance Evaluations.
 13. Review reports submitted by commanding officers within borough regarding conferrals with uniformed members of the service prior to Civilian Complaint Review Board (CCRB) appearances for accuracy and completeness.
+
+> **Exam Alert — Borough Adjutant Reports to Administration, Not Operations:** The Borough Adjutant reports to the Borough Executive Officer, **Administration** — not Operations. This is a common test trap. The chain is: Borough Commander → Exec Officer Administration → Borough Adjutant. Ops chain is separate: Borough Commander → Exec Officer Operations → Borough Operations Commander.
+
+> **Exam Alert — Adjutant's Multiple Roles:** The Borough Adjutant wears many hats — risk management, Early Intervention, auditing, disciplinary equity, self-inspection, overtime management, sick monitoring, firearms discharge review, CCRB conferral review. Know that all of these flow through the Adjutant and feed into the Administration executive's oversight function.
 
 ### Sergeant Exam Focus
 - Reports to Borough Executive Officer, **Administration**
@@ -153,3 +189,5 @@
 - Responsible for crime reduction strategies across **9 crime categories**
 - Oversees **youth coordination officer** selection (after conferral with precinct/PSA COs)
 - Supervises **special event preparation**
+
+> **Exam Alert — 9 Crime Categories:** The Borough Operations Commander's 9 crime reduction categories are frequently tested by number. The categories are: (1) Sex crimes, (2) Robberies, (3) Assaults, (4) Burglaries, (5) Larcenies/thefts, (6) Vehicle theft, (7) Domestic violence, (8) Firearms violence/weapons, (9) Other crimes as they emerge. Expect a question asking "How many specific crime categories does the Borough Operations Commander develop reduction strategies for?" Answer: **9**.

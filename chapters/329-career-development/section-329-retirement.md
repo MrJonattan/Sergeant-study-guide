@@ -97,6 +97,10 @@ To apply for discontinuance of police service (retirement or vested interest).
 
 > **Exam Alert:** Tier 2 must report to PPF **30 calendar days** in advance. Terminal leave = 1 month per 10 years + 3 days per year beyond 20. LEOSA card requires qualification within **12 months** and **20 years of service** or line of duty injury.
 
+> **Memory Aid — TIER 2 vs TIER 3:** **Tier 2 = 63rd birthday** mandatory retirement, **Tier 3 = 62nd birthday**. Think: "2 has 3 letters in 'si3' (no), just remember Tier 2 is the higher number (63), Tier 3 is the lower number (62)." Also: Tier 2 requires **30 days advance notice** to PPF; Tier 3 requires **no advance notice**.
+
+> **Exam Alert — Property Return Is Comprehensive:** When retiring or resigning, members must return ALL Department property including: transit passes, parking permits, vehicle ID plate, ballistic helmet, tactical retreat hood, body-worn camera, portable radio, laptop/tablet, cellular telephone, MIFI/VPN, shield and ID card, firearms (unless LEOSA qualified), OC pepper spray, and CBRN vest. Failure to return any item delays final settlement. (A.G. 329-06, Property Return table)
+
 > **Sergeant Focus:** Know the property return matrix. Tier 2 mandatory retirement age is **63**; Tier 3 is **62**. Members on terminal leave are only available for **emergencies**. No leaves after terminal leave starts.
 
 ---
@@ -176,6 +180,8 @@ Resignation **bars reinstatement** EXCEPT if approved by the **Police Commission
 | Using vacation in excess of accrual rates prior to resigning → required to **forfeit pay** and/or reimburse Department |
 | Resigning in good standing after 1 year of service → compensated for remaining accrued time |
 
-> **Exam Alert:** Resignation bars reinstatement except by **Police Commissioner within 1 year**. Firearms delivered to **borough Property Clerk's Office ONLY**. If member won't report to PPF, CO accepts property. Assign **sergeant** to open locker for absent resignees.
+> **Exam Alert — Resignation Bars Reinstatement:** Resignation **bars reinstatement EXCEPT** if approved by the **Police Commissioner within one year**. This is a critical exam distinction — the one-year window is the only exception, and only the Police Commissioner (not the Chief, not the First Deputy) can grant it.
 
-> **Sergeant Focus:** Ensure 8 items of info provided to Operations Unit. Distribute RESIGNATION AND EXIT INTERVIEW within **5 business days**. Members must report to PPF in **civilian clothes**. Vacation is prorated upon resignation.
+> **Exam Alert — Sergeant + Clerical for Absent Resignee:** When a member resigns other than in person, the desk officer assigns a **sergeant and clerical member** (both required) to open the locker and obtain Department property. This is frequently tested as a "which rank" question — the answer is always sergeant AND clerical.
+
+> **Exam Alert — Last Working Day = 2nd Platoon, Civilian Clothes at PPF:** On the last working day, assign the resigning member to the **2nd platoon**. The member reports to PPF in **civilian clothes** (not uniform). Firearms go to **borough Property Clerk's Office only**. These three details (2nd platoon, civilian clothes, borough PC) are frequently tested.

@@ -93,3 +93,103 @@ D. Because of their oath of office
 ---
 
 **Score: _____ / 5**
+
+---
+
+### Question 6
+
+**Which statement best reflects the NYPD's approach to community relations?**
+
+A. The NYPD serves the community by enforcing laws without compromise
+B. The NYPD works in partnership with the community to enhance quality of life
+C. The NYPD prioritizes crime statistics reduction above all other concerns
+D. The NYPD maintains order through visible patrol and deterrent presence
+
+<details>
+<summary>Answer</summary>
+
+**B.** The mission specifically states the NYPD works "**in partnership with the community**" to enhance quality of life. This partnership framing distinguishes the NYPD's stated approach from a purely enforcement-dominated model. (P.G. 200-02, Mission)
+
+> **Exam Alert:** The word "partnership" in the mission statement is a deliberate choice — it signals community collaboration, not just enforcement authority. Any answer choice that omits this collaborative element may be tempting but is incomplete.
+
+</details>
+
+---
+
+### Question 7
+
+**A newly promoted Sergeant addresses a community group. Which description most accurately represents the NYPD's vision?**
+
+A. A safe and fair city through strategic deployment of resources, focusing on crime prevention, quality-of-life concerns, and building lasting community relationships
+B. A city with zero crime where all laws are strictly enforced at all times
+C. A city where the police maintain complete control over all neighborhoods
+D. A city where quality-of-life concerns are addressed primarily through community policing alone
+
+<details>
+<summary>Answer</summary>
+
+**A.** The vision explicitly states: "foster a **safe and fair City** through the **strategic deployment of resources**, focusing on both **crime prevention** and **addressing quality-of-life concerns** while **building lasting community relationships**." (P.G. 200-02, Vision)
+
+</details>
+
+---
+
+### Question 8
+
+**On an exam, a question asks about the relationship between the NYPD's values and supervisory accountability. Which answer is most accurate?**
+
+A. The values serve as aspirational goals that Sergeants are encouraged to follow voluntarily
+B. The values are decorative statements not directly relevant to Sergeant duties
+C. The values establish conduct standards Sergeants must model and enforce within their squad
+D. The values apply only to officers in precincts, not to specialized units
+
+<details>
+<summary>Answer</summary>
+
+**C.** As a supervisor, a Sergeant is expected to **model and enforce** these values within their squad. The values stress **integrity** and **higher standards** — Sergeants are held to an even higher standard as first-line supervisors. (P.G. 200-02, Sergeant Study Notes)
+
+> **Exam Alert:** The phrase "higher standard of integrity" is not rhetorical — it has direct exam implications. Sergeants are expected to know and enforce the values, not merely aspire to them.
+
+</details>
+
+---
+
+### Question 9
+
+**A Sergeant notices an officer making a discourteous remark to a civilian. This conduct is best described as a violation of:**
+
+A. The NYPD's mission statement
+B. The NYPD's vision statement
+C. The NYPD's values statement
+D. Not addressed in P.G. 200-02
+
+<details>
+<summary>Answer</summary>
+
+**C.** The values pledge to "value human life, respect the dignity of each individual and render our services with **courtesy and civility.**" Making a discourteous remark directly violates this value. (P.G. 200-02, Values)
+
+> **Prior Test:** This exact scenario — an officer being discourteous to a civilian asking for directions — appeared on a recent Sergeant exam, with the correct answer citing the values statement on courtesy and civility.
+
+</details>
+
+---
+
+### Question 10
+
+**The phrase "strategic deployment of resources" belongs to which guiding statement?**
+
+A. The Mission
+B. The Vision
+C. The Values
+D. None of the above
+
+<details>
+<summary>Answer</summary>
+
+**B.** "Strategic deployment of resources" is a key phrase in the **Vision** statement, which describes fostering a safe and fair city through strategic deployment, crime prevention, and quality-of-life focus. It does not appear in the Mission or Values statements. (P.G. 200-02, Vision)
+
+> **Memory Aid — S.D.R.:** **S**trategic **D**eployment = **V**ision. Apply the same letter pattern: **M**ission = **M**-Q-L (enhance **M**ain **Q**uality **L**ife), **V**ision = **V**-S-**V** (**V**ision = **S**afe/**V**ision = **V**ictory through strategic **V**ictory... easier: just remember **V**ision has **V**erb "foster" and **V**ision = **V** = **V**ictory/Safe).
+
+</details>
+
+---

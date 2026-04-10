@@ -67,3 +67,11 @@
 3. Sick Report Return (if > 6 months old)
 
 > Purged reports are filed and safeguarded until an Operations Order for destruction is received.
+
+## Memory Aids
+
+> **Memory Aid — EXCHANGE OF TOUR RULES (mutual):** **S.S.S.F.F.C.** = **S**ame rank, **S**ame command, **S**ame FLSA cycle, **F**it for duty (no Admin Sick), **F**ive days advance notice, **C**annot be two consecutive tours. All five rules apply to every mutual.
+
+> **Memory Aid — PERSONAL FOLDER PURGE (Jan 1 / July 1):** **J-Jan** and **J-Jul** = **J**anuary 1st and **J**uly 1st. Reports purged if more than 6 months old: **O**fficer Profile, **F**INEST messages, **S**ick Report Return = **OFS** — think "O.F.S. = Old Files Shred."
+
+> **Memory Aid — CORRECTIONAL FACILITY VISIT:** **7 days** notice, notify **IAB** and **Command Center**, forward to **Deputy Commissioner, IAB**, file in **personal folder**. Think: **I.C.D.C.** — **I**AB, **C**ommand, **D**eputy **C**ommissioner IAB = the three notifications.

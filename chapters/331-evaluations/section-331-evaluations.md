@@ -106,6 +106,25 @@ All uniformed and civilian members of the service, regardless of rank or assignm
 - **EEO factors** must be considered when preparing evaluations. Substantiated EEO violations will bear on the rating.
 - If excessive absence, tardiness or poor performance is cited for a BELOW STANDARDS or WELL BELOW STANDARDS rating, include a copy of the appropriate form: **ABSENCE AND TARDINESS RECORD (PD433-145)**, **CIVILIAN RECORD OF SUPERVISORY CONFERENCES (SUB-MANAGERIAL) (PD433-1411)**, **CIVILIAN LATENESS/WARNING NOTIFICATION (PD449-122)**, or **CIVILIAN UNSATISFACTORY PERFORMANCE WARNING (PD439-012)**.
 
+> **Memory Aid — RATER'S CHECKLIST (8 things to review before rating):** **C.P.I. + R.S.C.C. + C.C.L. + S.F.** — **C**ompliments/**C**ommendations, **P**erformance (recognition), **I**ncident/**C**PI record, **R**ecognitions, **S**ick record, **C**CRB record, **C**ommand Discipline Log, **S**upervisor Feedback Form. *(Add **F**orce Record update at step 7.)*
+
+> **Memory Aid — PROBATIONARY SCHEDULES (who gets evaluated when):**
+> - **Probationary POs:** 10th, 16th, 22nd month *(POs = Police Officers = three dates: 10-16-22)*
+> - **Probationary Sergeants/Lieutenants:** 4th, 10th month *(Sergeants are promoted supervisors = shorter initial schedule; 16th only if probation extended)*
+> - **Probationary Captains:** 4th, 10th, 16th month *(Captains = highest rank = longest schedule: 4-10-16)*
+
+> **Exam Alert — Below Competent (2.5 or lower) or Extremely Competent (5.0):** When a ratee receives a rating of below competent (2.5 or lower) OR extremely competent (5.0), the **reviewer must be captain or above** (or selected civilian managerial titles). This is a common exam trap — students forget the "extremely competent" condition and only associate captain-or-above reviewer with bad ratings.
+
+> **Exam Alert — Probationary Members Cannot Appeal:** Entry-level probationary members (probationary POs, probationary sergeants, probationary lieutenants) and civilians who have not completed probation or served less than two years in provisional status **are not permitted to appeal** their evaluation. This distinction is frequently tested — permanent members can appeal, probationary members cannot.
+
+> **Exam Alert — "Evaluations Due" App:** Use the "Evaluations Due" computer application on the NYPD Intranet to identify which members require evaluation — do not rely on memory or manual tracking. Sergeants must check this system as part of their supervisory responsibilities.
+
+> **Exam Alert — Force Record Update:** The rater must review and update the **FORCE RECORD (PD406-143)** with the ratee during the evaluation interview. This step is frequently missed in practice but is required by procedure — and tested.
+
+> **PG Conflict — Probationary Evaluations vs. Annual Evaluations:** Probationary POs are evaluated at 10th, 16th, and 22nd month (three times), while annual evaluations for permanent members are prepared once per year. Sergeants must track both timelines for officers in their command — a common supervisory oversight that appears on the exam.
+
+> **See Also:** A.G. 333-10 — Appeal of Evaluation (Uniformed MOS); A.G. 333-11 — Appeal of Evaluation (Civilian MOS)
+
 ### Sergeant Exam Focus
 - **Annual evaluation** required for all uniformed and civilian members
 - Use "Evaluations Due" on NYPD Intranet to identify members needing evaluation
@@ -176,6 +195,12 @@ The probationary period should be utilized to closely scrutinize the member's pe
 - Entry-level probation may be extended **additional 6 months**
 - Interim evaluations required when performance problems are apparent
 
+> **Memory Aid — PROB PO DATES:** **P**O = **10**th, **1**6th, **2**2nd month. Remember: **10**-**16**-**22** — three dates, three possible outcomes (Permanent, Extend, Terminate). A 22nd month evaluation with "Termination" requires a detailed Typed Letterhead report to the Performance Analysis Unit.
+
+> **Exam Alert — "Termination of Services" vs. "Extension of Probation":** The 22nd month evaluation's three possible recommendations are frequently confused. The exact wording matters: **Permanent Appointment**, **Extension of Probation**, or **Termination of Services**. Extension of probation means the officer is not yet ready for permanent appointment but is salvageable — "Termination" means the officer should be removed.
+
+> **Exam Alert — Typed Letterhead Reports:** Two separate Typed Letterhead reports are required during probation: (1) Request for Charges and Specifications to the **First Deputy Commissioner**, and (2) Report of any matter that may bear upon the fitness of the probationer to the **Chief of Personnel in a sealed envelope**. Know which report goes where — this is a common test trap.
+
 ---
 
 ## A.G. 331-03: Evaluation of Police Officers and Detectives Assigned to Investigative Duties
@@ -205,6 +230,12 @@ Prior to the scheduled evaluation of uniformed members of the service:
 5. Review and sign **EVALUATION** form.
 
 > **NOTE:** *When an investigator is designated "Chronic Absent - Category B," it is presumed that the investigator is performing in a substandard manner. If the performance of the "Category B" investigator is rated higher than "Low", the rater must demonstrate how the performance was achieved in spite of the absence record of the investigator. In all cases, the rater must state if the ratee should remain in the investigative assignment. If ratee is a detective, determine if ratee should retain such designation or have such designation revoked and be reassigned.*
+
+> **Exam Alert — Chronic Absent Category B Investigator:** If a Category B investigator is rated **higher than "Low,"** the rater must specifically demonstrate how performance was achieved **in spite of** the absence record. The exam may present a scenario where a rater gives a good rating to a Category B investigator — the correct answer would be that the rating is improper without explicit justification.
+
+> **Exam Alert — Investigative Time Audit:** The rater must **audit investigative time** accrued by members assigned to the command. This is a specific required step (step 6) that supervisors frequently overlook — and a likely exam question.
+
+> **Exam Alert — 8th and 15th Month vs. Annual:** Investigative officers are evaluated at **8th and 15th month** during their initial 15-month assignment. After 15 months, they switch to **annual** evaluations. The 15-month mark also triggers a requirement for an **immediate interim evaluation** if performance changes — not just at the next annual cycle.
 
 **RATER:**
 
@@ -267,6 +298,16 @@ When preparing annual evaluations of police officers and detective specialists a
 | 68-76 | Meets Standards |
 | 60-67 | Needs Improvement |
 | 59 or BELOW | Unsatisfactory |
+
+> **Memory Aid — PERF SCORE RANGES:** **E**xceptional = **90-100** (highest, one letter **E**), **E**xceeds = **77-89** (two **E**s), **M**eets = **68-76** (middle), **N**eeds = **60-67** (**N**ext lowest), **U**nsatisfactory = **59 or below** (**U** = underperforming). Think of the scale as E → E → M → N → U going downward.
+
+> **Exam Alert — PERF Rating Scale Thresholds:** The boundaries between ratings are frequently tested. A score of exactly **77** = Exceeds Expectations; **76** = Meets Standards. The cutoff between "Meets" and "Needs Improvement" is **67** — a 68 is Meets Standards, a 60 is Needs Improvement. A 59 is Unsatisfactory. Watch for exam questions that give a specific score and ask which rating category it falls into.
+
+> **Exam Alert — January 31st Deadline:** Annual evaluations for non-investigative members must be completed and **finalized by January 31st** of each year. This is a hard deadline — missing it is a procedural violation. Sergeants should schedule their evaluation interviews well before this date to avoid last-minute issues.
+
+> **Exam Alert — Private Setting for Interview:** The rater must interview the ratee **in a private setting** to discuss overall performance. This requirement is frequently tested — the interview cannot be conducted in a public or group setting.
+
+> **Exam Alert — Supervisor's Quarterly Evaluations Must Precede Annual:** The **Supervisor's Quarterly Evaluations** for the fourth quarter must be completed **before** the rater can start the annual evaluation in PERF. You cannot skip directly to the annual evaluation — quarterly evaluations are a prerequisite.
 
 **REVIEWER:**
 
@@ -356,6 +397,10 @@ Prior to the scheduled evaluation of uniformed members of the service:
 
 > **NOTE:** *Raters must conscientiously evaluate probationary sergeants and lieutenants to ensure that members who are unable to satisfactorily perform their duties are identified. Interim evaluations are to be submitted when necessary (e.g., change in the ratee's performance, etc.).*
 
+> **Exam Alert — 16th Month Only If Probation Extended:** The 16th month evaluation for Sergeants and Lieutenants is **only required if probation has been extended** — not all Sergeants/Lieutenants get a 16th month evaluation. This is a key distinction from Probationary Captains, who always get 3 evaluations (4th, 10th, 16th). Compare: Prob PO = 10-16-22 (all three), Prob Sgt/LT = 4-10 (16th only if extended), Prob Captain = 4-10-16 (all three).
+
+> **Exam Alert — Precinct Detective Squad Supervisor Evaluation:** When evaluating a sergeant or lieutenant assigned as a precinct detective squad supervisor/commander, the rater must **confer with the precinct commanding officer** and record the CO's overall evaluation in the Rater Comments section. This is an additional step unique to this assignment — not required for all Sergeants/Lieutenants.
+
 2. Evaluate sergeants and lieutenants annually upon completion of their probationary period on appropriate **PERFORMANCE EVALUATION REPORTS**.
 3. Confer with commanding officer, when evaluating sergeants or lieutenants assigned as precinct detective squad supervisors/commanders. Record this conferral in the "Overall Rater's Comments" section, noting the precinct commander's overall evaluation of the ratee.
 
@@ -400,6 +445,8 @@ During the evaluation period:
 1. Evaluate probationary captains three times during probationary period, on the **4th, 10th, and 16th month**, if necessary, using the Online Evaluation System on the Department Intranet.
 
 > **NOTE:** *All newly promoted captains are on probation for a period of twelve months unless cause exists to extend such period for an additional six months. Extension of probation beyond twelve months may be authorized on a case-by-case basis. Interim performance evaluations are to be submitted when necessary. Raters must conscientiously evaluate probationary captains to ensure that members who are unable to satisfactorily perform their duties are identified. Those members in the rank of captain who are on probation, yet are serving in the capacity of commanding officer, may be rated using the Online Evaluation System on the Department Intranet. The bureau chief concerned will make the determination of which evaluation instrument is best suited to the ratee.*
+
+> **Exam Alert — Captain+ Uses MBO System:** Captain through Deputy Chief use a **Management By Objectives (MBO)** evaluation system — not the standard PERF rating scale. The MBO system involves **five Key Result Areas (KRAs)** defined at the beginning of the rating period with the ratee. Sergeants should know this system is distinct from the PERF scale — it will not appear on the rating conversion chart.
 
 2. Evaluate permanent captains through deputy chiefs, as well as police surgeons and deputy chief surgeons using the Online Evaluation System on the Department Intranet.
 

@@ -59,3 +59,15 @@
 | Firearms delivered to **borough Property Clerk's Office ONLY** |
 | Report to PPF on last working day in **civilian clothes** |
 | Sergeant and clerical member assigned to open locker of absent resignee |
+
+## Memory Aids
+
+> **Memory Aid — TERMINAL LEAVE MATH:** **1 month per 10 years** + **3 days per year beyond 20** + **1 day per 4 months** partial year. Example: 23 years = 2 months (20 years) + 9 days (3 × 3 years) = 2 months + 9 days terminal leave.
+
+> **Memory Aid — TIER 2 vs TIER 3 RETIREMENT AGE:** **Tier 2 = 63rd birthday**, **Tier 3 = 62nd birthday.** Think: "**2** has **3** digits (63), **3** has **2** digits (62)" — or: Tier **2** gets the **higher** age (63), Tier **3** gets the **lower** age (62).
+
+> **Memory Aid — TIER 2 vs TIER 3 PPF NOTICE:** **Tier 2 = 30 days advance notice** ("Tier Two = Takes Time, needs 30 days"). **Tier 3 = No notice required** ("Three = Free, no notice").
+
+> **Memory Aid — RESIGNATION REINSTATEMENT:** Only **Police Commissioner** can reinstate, and only within **1 year.** Think: **PC** = **P**olice **C**ommissioner = **P**erson who has **C**omplete authority.
+
+> **Memory Aid — FIREARMS UPON RESIGNATION:** Deliver to **borough Property Clerk's Office ONLY** ("Resigning = **B**orough **P**roperty **C**lerk, not Manhattan" — actually both Manhattan AND borough PC deliver, but the key exam point is borough PC is where resignations go, not the member's choice). LEOSA holders don't deliver firearms.

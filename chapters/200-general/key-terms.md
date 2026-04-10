@@ -9,3 +9,9 @@
 | **Community Partnership** | The foundational approach — the NYPD works WITH the community, not just FOR or OVER it |
 | **Strategic Deployment** | Allocating resources based on data and need, central to the NYPD's vision |
 | **Impartially** | Enforcing the law without bias or favoritism — a core value |
+| **M.V.V.** | Memory aid for the three guiding statements: Mission, Vision, Values |
+| **P.I.V.L.** | Memory aid for the four pledged values: **P**rotect/impartially enforce, **I**ntegrity (higher standard), **V**alue human life/courtesy, **L**aw (fight crime/prevention) |
+| **Community Partnership** | Foundational NYPD approach — work *with* the community, not just *for* or *over* it; central to the mission statement |
+| **Strategic Deployment** | Allocating resources based on data and need; central to the NYPD's vision statement |
+| **Quality of Life** | Recurring theme: refers to both crime reduction AND addressing community concerns |
+| **Courtesy and Civility** | A core value — members pledge to render services with courtesy; violation is a values breach |
