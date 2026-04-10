@@ -134,6 +134,26 @@ function cleanReadme(md) {
     .trim();
 }
 
+const SERGEANT_CATEGORIES = [
+  { id: 'prisoner-mgmt',      label: 'Prisoner Management',          chapters: ['210-prisoners'] },
+  { id: 'arrest-processing', label: 'Arrest Processing',             chapters: ['208-arrests'] },
+  { id: 'supervisor-response',label: 'Supervisor Response',           chapters: ['212-command-operations'] },
+  { id: 'documentation',     label: 'Documentation & Reports',        chapters: ['212-command-operations'] },
+  { id: 'property-evidence',label: 'Property & Evidence',            chapters: ['218-property-general', '219-department-property'] },
+  { id: 'court-legal',        label: 'Court & Legal',                 chapters: ['211-court-appearances'] },
+  { id: 'use-of-force',       label: 'Use of Force',                  chapters: ['221-tactical-operations'] },
+  { id: 'juvenile',           label: 'Juvenile Procedures',            chapters: ['215-juvenile-matters'] },
+  { id: 'personnel-leave',    label: 'Personnel & Leave',             chapters: ['319-civilian-personnel', '324-leave-payroll-timekeeping', '329-career-development'] },
+  { id: 'equipment-uniforms',label: 'Equipment & Uniforms',          chapters: ['305-uniforms-equipment'] },
+  { id: 'command-ops',        label: 'Command Operations',            chapters: ['212-command-operations', '220-citywide-incident-mgmt'] },
+  { id: 'qol-enforcement',   label: 'Quality of Life',               chapters: ['214-quality-of-life'] },
+  { id: 'mobilization',      label: 'Mobilization & Emergency',     chapters: ['213-mobilization-emergency'] },
+  { id: 'disciplinary',       label: 'Disciplinary Matters',         chapters: ['318-disciplinary-matters', '332-employee-rights'] },
+  { id: 'complaints',         label: 'Complaints & Investigations', chapters: ['207-complaints'] },
+  { id: 'medical-wellness',   label: 'Medical & Wellness',           chapters: ['330-medical-health-wellness'] },
+  { id: 'general-regulations',label: 'General Regulations',          chapters: ['304-general-regulations'] },
+];
+
 const chapters = [];
 for (const id of CHAPTER_ORDER) {
   const dir = path.join(CHAPTERS_DIR, id);
@@ -147,6 +167,17 @@ for (const id of CHAPTER_ORDER) {
     filename: f,
     content: fs.readFileSync(path.join(dir, f), 'utf8')
   }));
+
+  // Extract Sergeant Focus callouts per chapter
+  const sergeantFocus = [];
+  sections.forEach(s => {
+    const matches = s.content.match(/^>\s+\*\*Sergeant Focus:\*\*.+/gm) || [];
+    matches.forEach(m => {
+      const text = m.replace(/^>\s+/,'').replace(/\*\*Sergeant Focus:\*\*\s*/,'');
+      sergeantFocus.push({ filename: s.filename, text });
+    });
+  });
+
   const titleM = readme.match(/^#\s+.*?—\s+(.*)/m);
   const sectionNum = id.split('-')[0];
   chapters.push({
@@ -154,7 +185,8 @@ for (const id of CHAPTER_ORDER) {
     title: titleM ? titleM[1].trim() : id,
     readme, sections, keyTerms,
     reviewQuestions: reviewRaw,
-    questions: parseReviewQuestions(reviewRaw)
+    questions: parseReviewQuestions(reviewRaw),
+    sergeantFocus
   });
 }
 
@@ -172,9 +204,11 @@ const data = {
 fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 fs.writeFileSync(
   path.join(OUTPUT_DIR, 'data.js'),
-  `window.STUDY_DATA=${JSON.stringify(data)};`
+  `window.STUDY_DATA=${JSON.stringify(data)};\nwindow.SERGEANT_CATEGORIES=${JSON.stringify(SERGEANT_CATEGORIES)};`
 );
 console.log(`Built ${chapters.length} chapters, ${data.totalQuestions} chapter quiz questions, ${examQuestions.length} exam questions`);
+const totalSF = chapters.reduce((s,c) => s + (c.sergeantFocus||[]).length, 0);
+console.log(`Sergeant Focus callouts: ${totalSF}`);
 if (chapters.length < CHAPTER_ORDER.length) {
   const built = new Set(chapters.map(c => c.id));
   const missing = CHAPTER_ORDER.filter(id => !built.has(id));
