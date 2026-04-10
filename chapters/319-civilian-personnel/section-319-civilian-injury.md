@@ -37,4 +37,10 @@ To report injury of a civilian member while on duty.
 
 > **Exam Alert:** Civilian member must report injury within **7 days**. Supervisor must notify Civilian Employee Services Unit immediately (or 0900 following business day) and forward copies within **24 hours**.
 
+> **Memory Aid — FIVE FORMS FOR CIVILIAN INJURY:** **WCS-110** (Employee Statement), **WCS-100** (Supervisor Report), **WCS-120** (Witness Statement), **DP2002** (Employee Option), **Time Usage 49** (Workers Comp time tracking). Think: **"S-T-A-W-T"** — **S**upervisor **T**he **A**gency **W**orker's **T**ime forms.
+
+> **Exam Alert — 5 Forms Must ALL Be Prepared:** The investigating supervisor must ensure preparation of ALL five forms. A question may ask which forms are required for a civilian on-duty injury — the answer includes all five. Missing any form is a procedural deficiency.
+
+> **See Also:** A.G. 319-01 through 319-07 — Other civilian personnel procedures
+
 > **Sergeant Focus:** Know the 5 forms required: WCS-110 (Employee Statement), WCS-100 (Supervisor Report of Injury), WCS-120 (Witness Statement), DP2002 (Employee Option), and Time Usage 49. Chief of Personnel grants leave with pay for first week.

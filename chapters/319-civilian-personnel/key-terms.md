@@ -23,3 +23,9 @@
 | Authority | Action |
 |-----------|--------|
 | **Chief of Personnel** | Empowered to grant leave with pay for first week's absence (Workers Compensation, disabled in line of duty) |
+
+## Memory Aids
+
+> **Memory Aid — 7-24-NOTIFY:** **7** days to report injury, **24** hours to forward copies, **Notify immediately** during business hours (or 0900 next business day if after hours).
+
+> **Memory Aid — FIVE FORMS:** **WCS-110, WCS-100, WCS-120, DP2002, TIME USAGE 49.** Think: **"S-T-A-W-T"** — **S**upervisor **T**ransmits **A**ll **W**ork-related injury **T**ransmittal forms.

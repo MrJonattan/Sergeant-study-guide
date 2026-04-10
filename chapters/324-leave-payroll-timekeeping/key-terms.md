@@ -41,3 +41,11 @@
 | Applies To | Does NOT Apply To |
 |-----------|------------------|
 | Uniformed Members of the Service (UMOS) | Civilian Members of the Service (CMOS) |
+
+## Memory Aids
+
+> **Memory Aid — AWOL 2 vs 4 HOURS:** **2** hours = **T**elephone and **T**ower (residence response by **T**he D.O.'s **T**eam sending a **S**upervisor). **4** hours = **I**AB, **C**.O., **O**ps, **B**oro — **I** = Internal Affairs, all others starting with letters in **ICOB** = **I**-**C**-**O**-**B** = **I**AB, **C**.O., **O**ps, **B**oro.
+
+> **Memory Aid — WHO RESPONDS TO RESIDENCE:** For city-dwelling AWOL members, a **supervisor** (boss) is sent — not the member's own supervisor, not just any officer. For out-of-city members, ICCU notifies **local PD**.
+
+> **Memory Aid — ENTIRE TOUR AWOL:** **C**hief **O**f **D**epartment **P**ermission required before member can return to duty. Think: **C.O.D.P.** = **C**hief's **O**rder **D**aily **P**ermission. Or: **N**o **D**uty **W**ithout **C**hief = **NDWC** — can't go back to work without the Chief's say-so.

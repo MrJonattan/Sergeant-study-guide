@@ -42,6 +42,14 @@
 8. Firearms violence/weapons possession/use
 9. Other crimes and conditions as they emerge
 
+## Memory Aids
+
+> **Memory Aid — B.C. SCHEDULE:** **S**emi-annual = **S**taff briefings (IAB, CAB, QAS, OEEO, Personnel Orders). **A**nnual = **A**nnual CPP inspection. **Q**uarterly = **Q**uality meetings with executive staff and line orgs. The S-A-Q pattern matches the first letters of each timeframe.
+
+> **Memory Aid — OPS vs. ADMIN:** **OPS** = **O**utward-facing, **P**atrol/crime/ **S**treet work. **ADMIN** = **A**gency-internal, **D**ocuments/**I**nternal/**M**onitoring. Think: Ops = field/visible, Admin = desk/records.
+
+> **Memory Aid — 9 CRIME CATEGORIES:** **S.R.A.B.L.V.D.F.O.** — **S**ex crimes, **R**obberies, **A**ssaults, **B**urglaries, **L**arcenies, **V**ehicle theft, **D**omestic violence, **F**irearms/weapons, **O**ther emerging crimes.
+
 ## Key Distinctions
 
 | Operations Track (303-02) | Administration Track (303-03) |

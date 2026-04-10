@@ -58,6 +58,14 @@ Permits uniformed members of the service below the rank of captain who are assig
 - Form: **PD433-160** (Exchange of Tour Request)
 - If MOS fails to perform, Dept can reschedule **any** same-rank MOS without **24-hour notice**
 
+> **Memory Aid — EXCHANGE OF TOUR RULES (mutual):** **S.S.S.F.F.C.** = **S**ame rank, **S**ame command, **S**ame FLSA cycle, **F**it (no Admin Sick), **F**ive days notice, **C**onsecutive tours prohibited. All six rules apply to every mutual.
+
+> **Exam Alert — No Admin Sick During Mutual:** Members cannot report **Administrative Sick** during an exchanged tour — they must report **Regular Sick**, which requires a Department surgeon visit. This is a common exam trap — students assume sick is sick and miss the Administrative vs. Regular Sick distinction.
+
+> **Exam Alert — 5 Days Advance Notice:** The Exchange of Tour Request must be submitted to the Operations Coordinator **at least 5 days in advance**. Late submissions are procedurally deficient — the Ops Coordinator is not obligated to accept them.
+
+> **Exam Alert — 24-Hour Rescheduling Without Mutual:** If a member fails to perform an exchanged tour, the Department can reschedule **any** same-rank MOS — not just the mutual partner. The rescheduled member does not need to have been part of the original exchange agreement.
+
 ---
 
 ## A.G. 320-02: Monitoring Off-Duty Visits to Inmates at Correctional Facilities by Members of the Service
@@ -101,6 +109,14 @@ When a member of the service intends to visit an inmate at a correctional facili
 - Forward copy to **Deputy Commissioner, Internal Affairs**
 - Copy filed in member's **personal folder**
 - MOS must cooperate with **all correctional facility rules** (securing weapons, searches, etc.)
+
+> **Exam Alert — Separate Notification for Each Visit:** A single notification does NOT cover multiple visits — every intended visit to an inmate requires its own separate 7-day advance notification. There is no blanket approval process for repeat visitors.
+
+> **Exam Alert — IAB + Command Center Notifications:** The CO must notify **both** IAB and the Command Center. Omitting either notification is a procedural violation. These notifications are required regardless of the inmate's relationship to the member.
+
+> **Memory Aid — CORRECTIONAL FACILITY VISIT:** **7 days** notice, **IAB** + **Command Center** notifications, **Deputy Commissioner IAB** gets copy, filed in **personal folder** = **7-I-C-D-P**. Or: think of the chain: **I**AB, **C**ommand Center, **D**eputy Commissioner IAB, **P**ersonal folder.
+
+> **See Also:** A.G. 318-01 — Schedule "B" CD for bringing alcohol into department facility (relevant to correctional facility prohibitions)
 
 ---
 
@@ -176,3 +192,9 @@ To maintain readily available personnel data for each member of the command and 
 - Receiving CO must check member's **NYS driver's license**
 - Overtime Report kept in separate **Time Record Folder (TRF)**, not personal folder
 - **16 forms/documents** listed for personal folder — know the key PD form numbers
+
+> **Memory Aid — PERSONAL FOLDER PURGE DATES:** **January 1st and July 1st** = **J1 and J7**. Reports purged if more than 6 months old: **O**fficer Profile Report, **F**INEST sick messages, **S**ick Report Return = **OFS**. Think: **OFS = Old Files Shred**. Purge dates = **Jan 1 / Jul 1** = **"Jan-Jul"** = "**J**anuary **J**anuary — once in the new year, once mid-year."
+
+> **Exam Alert — Overtime Report NOT in Personal Folder:** The **OVERTIME REPORT (PD138-064)** goes in a separate **Time Record Folder (TRF)** — not in the personal folder. This is a common test trap where students assume all records go in the personal folder.
+
+> **Exam Alert — NYS Driver's License Check on Transfer:** The receiving Commanding Officer must check the transferred member's **New York State driver's license** when assigned. This is a specific, required action for any new member arriving at a command.
