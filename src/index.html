@@ -516,6 +516,24 @@ html.dark .mnemonic-box .mnemonic-label { color: #66bb6a; }
 
 /* ── Cheat Sheet ── */
 .cheat-sheet { font-size: 0.92rem; line-height: 1.65; }
+.sf-categories { display: flex; flex-direction: column; gap: 0.75rem; }
+.sf-category { border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
+.sf-cat-header {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 0.9rem 1.1rem; background: var(--bg-alt); cursor: pointer;
+  font-weight: 600; font-size: 0.95rem;
+}
+.sf-cat-header::after { content: '\25B2'; font-size: 0.65rem; transition: transform 0.2s; opacity: 0.5; }
+.sf-category.open .sf-cat-header::after { transform: rotate(180deg); }
+.sf-cat-content { display: none; padding: 0.5rem 0.75rem 0.75rem; }
+.sf-category.open .sf-cat-content { display: block; }
+.sf-cat-content .callout-sergeant { margin: 0.6rem 0; font-size: 0.88rem; }
+.sf-count {
+  background: var(--fg); color: var(--bg);
+  border-radius: 50%; min-width: 1.5rem; height: 1.5rem;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.7rem; font-weight: 700; padding: 0 0.3rem;
+}
 .cheat-sheet h2 { font-size: 1.2rem; }
 .cheat-sheet table { font-size: 0.88rem; }
 </style>
@@ -538,6 +556,7 @@ html.dark .mnemonic-box .mnemonic-label { color: #66bb6a; }
       <button class="nav-item" data-view="cheatsheet" onclick="App.nav('cheatsheet')">Cheat Sheet</button>
       <button class="nav-item" data-view="exam" onclick="App.nav('exam')">Practice Exam</button>
       <button class="nav-item" data-view="weak" onclick="App.nav('weak')">Weak Areas</button>
+      <button class="nav-item" data-view="sergeant" onclick="App.nav('sergeant')">Sergeant Focus</button>
     </div>
     <div class="nav-section" id="nav-chapters"><div class="nav-section-title">Chapters</div></div>
   </nav>
@@ -760,6 +779,7 @@ const App = (function() {
       else if (view === 'cheatsheet') showCheatSheet();
       else if (view === 'exam') showExam();
       else if (view === 'weak') showWeakAreas();
+      else if (view === 'sergeant') showSergeantFocus();
       else if (view === 'settings') showSettings();
       else if (view === 'quickquiz') showQuickQuiz();
       else showHome();
@@ -1321,6 +1341,35 @@ const App = (function() {
     tabBar.innerHTML = '';
     setBreadcrumbs({ label: 'Dashboard', action: "App.nav('home')" }, { label: 'Cheat Sheet' });
     content.innerHTML = `<div class="cheat-sheet">${renderMd(D.cheatSheet)}</div>`;
+  }
+
+  // ── Sergeant Focus ──
+  function showSergeantFocus() {
+    tabBar.innerHTML = '';
+    setBreadcrumbs({ label: 'Dashboard', action: "App.nav('home')" }, { label: 'Sergeant Focus' });
+    const categories = window.SERGEANT_CATEGORIES || [];
+    const chapMap = {};
+    D.chapters.forEach(ch => { chapMap[ch.id] = ch; });
+    let html = `<div class="view-header"><h2>Sergeant Focus & Relevance</h2><p>Every supervisor duty — organized by category</p></div><div class="sf-categories">`;
+    categories.forEach(cat => {
+      const callouts = [];
+      cat.chapters.forEach(cid => {
+        const ch = chapMap[cid];
+        if (ch && ch.sergeantFocus) callouts.push(...ch.sergeantFocus);
+      });
+      if (callouts.length === 0) return;
+      html += `<div class="sf-category">
+        <div class="sf-cat-header" onclick="this.parentElement.classList.toggle('open')">
+          <span>${cat.label}</span><span class="sf-count">${callouts.length}</span>
+        </div>
+        <div class="sf-cat-content">`;
+      callouts.forEach(co => {
+        html += `<div class="callout-sergeant">${co.text}</div>`;
+      });
+      html += `</div></div>`;
+    });
+    html += `</div>`;
+    content.innerHTML = html;
   }
 
   // ── Practice Exam ──
