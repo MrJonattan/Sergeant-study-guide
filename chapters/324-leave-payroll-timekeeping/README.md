@@ -17,6 +17,12 @@
 
 | Procedure | Title | Status |
 |-----------|-------|--------|
+| A.G. 324-01 | Vacation Policy | completed |
+| A.G. 324-02 | Working During Vacation | completed |
+| A.G. 324-03 | Vacation Lost Due to Sick Leave | completed |
+| A.G. 324-04 | Ranking Officers Vacations | completed |
+| A.G. 324-05 | Authorized Leave | completed |
+| A.G. 324-06 | Bereavement Leave | completed |
 | P.G. 324-17 | AWOL | completed |
 
 ## Chapter Files

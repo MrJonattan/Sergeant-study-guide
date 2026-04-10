@@ -26,6 +26,11 @@ Section 303 of the Administrative Guide defines the duties and responsibilities 
 | A.G. 303-03 | Borough Executive Officer, Administration | borough-command | completed |
 | A.G. 303-04 | Borough Adjutant | borough-command | completed |
 | A.G. 303-05 | Borough Operations Commander | borough-command | completed |
+| A.G. 303-06 | Borough Administrator | extended | completed |
+| A.G. 303-07 | Borough Special Projects Coordinator | extended | completed |
+| A.G. 303-08 | Borough Counterterrorism Coordinator | extended | completed |
+| A.G. 303-09 | Patrol Borough Traffic Safety Coordinator | extended | completed |
+| A.G. 303-10 | Borough Auxiliary Police Coordinator | extended | completed |
 
 ## Priority Topics for Sergeant Exam
 
