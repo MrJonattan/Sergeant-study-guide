@@ -782,64 +782,40 @@ const App = (function() {
       .replace(/^## (.+)$/gm, (_, t) => `<h2 id="toc-${t.replace(/[^a-zA-Z0-9]/g,'-').toLowerCase()}">${t}</h2>`)
       .replace(/^# (.+)$/gm, '<h1>$1</h1>')
       .replace(/^---+$/gm, '<hr>')
-      // 1. Callout blocks — must process before bold markers are consumed
-      .replace(/(^>\s+\*\*Sergeant Focus:\*\*.+(?:\n>\s+.+)*)/gm, (block) => {
-        const text = block.replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>')
-          .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-          .replace(/(?<!\w)\*(.+?)\*(?!\w)/g, '<em>$1</em>')
-          .split('\n').map(l => l.replace(/^>\s+/,'')).join(' ')
-          .replace(/\*\*Sergeant Focus:\*\*\s*/,'');
-        return `<div class="callout-sergeant">${text}</div>`;
-      })
-      // Exam Alert — label may end with ":" or "— TOPIC:"
-      .replace(/(^>\s+\*\*Exam Alert[^:—]*(?::|—)[^*]*\*\*.+(?:\n>\s+[^]*)*)/gm, (block) => {
-        const text = block.replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>')
-          .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-          .replace(/(?<!\w)\*(.+?)\*(?!\w)/g, '<em>$1</em>')
-          .split('\n').map(l => l.replace(/^>\s+/,'')).join(' ')
-          .replace(/\*\*Exam Alert:\*\*\s*/,'');
-        return `<div class="callout-exam">${text}</div>`;
-      })
-      // Memory Aid
-      .replace(/(^>\s+\*\*Memory Aid[^*]*(?:\*\*:|[^*])*\*\*.+(?:\n>\s+[^]*)*)/gm, (block) => {
-        const text = block.replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>')
-          .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-          .replace(/(?<!\w)\*(.+?)\*(?!\w)/g, '<em>$1</em>')
-          .split('\n').map(l => l.replace(/^>\s+/,'')).join(' ');
-        return `<div class="callout-memory">${text}</div>`;
-      })
-      // Prior Test
-      .replace(/(^>\s+\*\*Prior Test:\*\*.+(?:\n>\s+.+)*)/gm, (block) => {
-        const text = block.replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>')
-          .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-          .replace(/(?<!\w)\*(.+?)\*(?!\w)/g, '<em>$1</em>')
-          .split('\n').map(l => l.replace(/^>\s+/,'')).join(' ')
-          .replace(/\*\*Prior Test:\*\*\s*/,'');
-        return `<div class="callout-prior">${text}</div>`;
-      })
-      // PG Conflict
-      .replace(/(^>\s+\*\*PG Conflict:\*\*.+(?:\n>\s+.+)*)/gm, (block) => {
-        const text = block.replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>')
-          .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-          .replace(/(?<!\w)\*(.+?)\*(?!\w)/g, '<em>$1</em>')
-          .split('\n').map(l => l.replace(/^>\s+/,'')).join(' ')
-          .replace(/\*\*PG Conflict:\*\*\s*/,'');
-        return `<div class="callout-conflict">${text}</div>`;
-      })
-      // See Also
-      .replace(/(^>\s+\*\*See Also:\*\*.+(?:\n>\s+.+)*)/gm, (block) => {
-        const text = block.replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>')
-          .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-          .replace(/(?<!\w)\*(.+?)\*(?!\w)/g, '<em>$1</em>')
-          .split('\n').map(l => l.replace(/^>\s+/,'')).join(' ')
-          .replace(/\*\*See Also:\*\*\s*/,'');
-        return `<div class="callout-seealso">${text}</div>`;
-      })
-      // 2. Bold/italic inline formatting (only non-callout content remains)
       .replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>')
       .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
       .replace(/(?<!\w)\*(.+?)\*(?!\w)/g, '<em>$1</em>')
       .replace(/`([^`]+)`/g, (_, c) => `<code>${escHtml(c)}</code>`)
+      // Sergeant Focus
+      .replace(/(^>\s+\*\*Sergeant Focus:\*\*.+(?:\n>\s+.+)*)/gm, (block) => {
+        const text = block.split('\n').map(l => l.replace(/^>\s+/,'')).join(' ').replace(/\*\*Sergeant Focus:\*\*\s*/,'');
+        return `<div class="callout-sergeant">${text}</div>`;
+      })
+      // Exam Alert
+      .replace(/(^>\s+\*\*Exam Alert:\*\*.+(?:\n>\s+.+)*)/gm, (block) => {
+        const text = block.split('\n').map(l => l.replace(/^>\s+/,'')).join(' ').replace(/\*\*Exam Alert:\*\*\s*/,'');
+        return `<div class="callout-exam">${text}</div>`;
+      })
+      // Memory Aid
+      .replace(/(^>\s+\*\*Memory Aid[^*]*\*\*.+(?:\n>\s+.+)*)/gm, (block) => {
+        const text = block.split('\n').map(l => l.replace(/^>\s+/,'')).join(' ');
+        return `<div class="callout-memory">${text}</div>`;
+      })
+      // Prior Test
+      .replace(/(^>\s+\*\*Prior Test:\*\*.+(?:\n>\s+.+)*)/gm, (block) => {
+        const text = block.split('\n').map(l => l.replace(/^>\s+/,'')).join(' ').replace(/\*\*Prior Test:\*\*\s*/,'');
+        return `<div class="callout-prior">${text}</div>`;
+      })
+      // PG Conflict
+      .replace(/(^>\s+\*\*PG Conflict:\*\*.+(?:\n>\s+.+)*)/gm, (block) => {
+        const text = block.split('\n').map(l => l.replace(/^>\s+/,'')).join(' ').replace(/\*\*PG Conflict:\*\*\s*/,'');
+        return `<div class="callout-conflict">${text}</div>`;
+      })
+      // See Also
+      .replace(/(^>\s+\*\*See Also:\*\*.+(?:\n>\s+.+)*)/gm, (block) => {
+        const text = block.split('\n').map(l => l.replace(/^>\s+/,'')).join(' ').replace(/\*\*See Also:\*\*\s*/,'');
+        return `<div class="callout-seealso">${text}</div>`;
+      })
       // Blockquotes
       .replace(/(^>\s+.+\n?)+/gm, (block) => {
         const lines = block.split('\n').map(l => l.replace(/^>\s+/,'')).filter(l => l);

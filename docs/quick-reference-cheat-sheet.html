@@ -1,714 +1,241 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>NYPD Sergeant Exam — Quick Reference Cheat Sheet</title>
-  <style>
-    /* Default styles provided by pandoc.
-    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-    */
-    html {
-      color: #1a1a1a;
-      background-color: #fdfdfd;
-    }
-    body {
-      margin: 0 auto;
-      max-width: 36em;
-      padding-left: 50px;
-      padding-right: 50px;
-      padding-top: 50px;
-      padding-bottom: 50px;
-      hyphens: auto;
-      overflow-wrap: break-word;
-      text-rendering: optimizeLegibility;
-      font-kerning: normal;
-    }
-    @media (max-width: 600px) {
-      body {
-        font-size: 0.9em;
-        padding: 12px;
-      }
-      h1 {
-        font-size: 1.8em;
-      }
-    }
-    @media print {
-      html {
-        background-color: white;
-      }
-      body {
-        background-color: transparent;
-        color: black;
-        font-size: 12pt;
-      }
-      p, h2, h3 {
-        orphans: 3;
-        widows: 3;
-      }
-      h2, h3, h4 {
-        page-break-after: avoid;
-      }
-    }
-    p {
-      margin: 1em 0;
-    }
-    a {
-      color: #1a1a1a;
-    }
-    a:visited {
-      color: #1a1a1a;
-    }
-    img {
-      max-width: 100%;
-    }
-    svg {
-      height: auto;
-      max-width: 100%;
-    }
-    h1, h2, h3, h4, h5, h6 {
-      margin-top: 1.4em;
-    }
-    h5, h6 {
-      font-size: 1em;
-      font-style: italic;
-    }
-    h6 {
-      font-weight: normal;
-    }
-    ol, ul {
-      padding-left: 1.7em;
-      margin-top: 1em;
-    }
-    li > ol, li > ul {
-      margin-top: 0;
-    }
-    blockquote {
-      margin: 1em 0 1em 1.7em;
-      padding-left: 1em;
-      border-left: 2px solid #e6e6e6;
-      color: #606060;
-    }
-    code {
-      white-space: pre-wrap;
-      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
-      font-size: 85%;
-      margin: 0;
-      hyphens: manual;
-    }
-    pre {
-      margin: 1em 0;
-      overflow: auto;
-    }
-    pre code {
-      padding: 0;
-      overflow: visible;
-      overflow-wrap: normal;
-    }
-    .sourceCode {
-     background-color: transparent;
-     overflow: visible;
-    }
-    hr {
-      border: none;
-      border-top: 1px solid #1a1a1a;
-      height: 1px;
-      margin: 1em 0;
-    }
-    table {
-      margin: 1em 0;
-      border-collapse: collapse;
-      width: 100%;
-      overflow-x: auto;
-      display: block;
-      font-variant-numeric: lining-nums tabular-nums;
-    }
-    table caption {
-      margin-bottom: 0.75em;
-    }
-    tbody {
-      margin-top: 0.5em;
-      border-top: 1px solid #1a1a1a;
-      border-bottom: 1px solid #1a1a1a;
-    }
-    th {
-      border-top: 1px solid #1a1a1a;
-      padding: 0.25em 0.5em 0.25em 0.5em;
-    }
-    td {
-      padding: 0.125em 0.5em 0.25em 0.5em;
-    }
-    header {
-      margin-bottom: 4em;
-      text-align: center;
-    }
-    #TOC li {
-      list-style: none;
-    }
-    #TOC ul {
-      padding-left: 1.3em;
-    }
-    #TOC > ul {
-      padding-left: 0;
-    }
-    #TOC a:not(:hover) {
-      text-decoration: none;
-    }
-    span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    /* The extra [class] is a hack that increases specificity enough to
-       override a similar rule in reveal.js */
-    ul.task-list[class]{list-style: none;}
-    ul.task-list li input[type="checkbox"] {
-      font-size: inherit;
-      width: 0.8em;
-      margin: 0 0.8em 0.2em -1.6em;
-      vertical-align: middle;
-    }
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NYPD Sergeant Exam — Quick Reference Cheat Sheet</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0d1117; color: #e6edf3; line-height: 1.6; padding: 20px; }
+.container { max-width: 1100px; margin: 0 auto; }
+h1 { color: #58a6ff; font-size: 1.8em; margin-bottom: 8px; border-bottom: 2px solid #30363d; padding-bottom: 10px; }
+h2 { color: #79c0ff; font-size: 1.3em; margin: 28px 0 12px; border-left: 4px solid #1f6feb; padding-left: 12px; }
+h3 { color: #a5d6ff; font-size: 1.1em; margin: 20px 0 8px; }
+h4 { color: #d2a8ff; font-size: 1em; margin: 14px 0 6px; }
+hr { border: none; border-top: 1px solid #30363d; margin: 24px 0; }
+table.cheat-table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 0.9em; }
+table.cheat-table th { background: #161b22; color: #79c0ff; padding: 8px 12px; text-align: left; border: 1px solid #30363d; }
+table.cheat-table td { padding: 7px 12px; border: 1px solid #21262d; background: #161b22; }
+table.cheat-table tr:hover td { background: #1c2128; }
+.callout-memory { background: #0d3326; border-left: 4px solid #3fb950; padding: 10px 14px; margin: 10px 0; border-radius: 0 6px 6px 0; font-size: 0.9em; }
+.callout-exam { background: #2d1f1f; border-left: 4px solid #f85149; padding: 10px 14px; margin: 10px 0; border-radius: 0 6px 6px 0; font-size: 0.9em; }
+.callout-note { background: #1c1c2e; border-left: 4px solid #d2a8ff; padding: 10px 14px; margin: 10px 0; border-radius: 0 6px 6px 0; font-size: 0.9em; }
+blockquote { background: #161b22; border-left: 4px solid #30363d; padding: 8px 14px; margin: 8px 0; }
+strong { color: #ffa657; }
+em { color: #d2a8ff; }
+</style>
 </head>
 <body>
-<header id="title-block-header">
-<h1 class="title">NYPD Sergeant Exam — Quick Reference Cheat Sheet</h1>
-</header>
-<h1 id="nypd-sergeant-exam-quick-reference-cheat-sheet">NYPD Sergeant
-Exam — Quick Reference Cheat Sheet</h1>
-<hr />
-<h2 id="force-incident-levels">Force Incident Levels</h2>
-<table>
-<colgroup>
-<col style="width: 18%" />
-<col style="width: 35%" />
-<col style="width: 45%" />
-</colgroup>
-<thead>
-<tr>
-<th>Level</th>
-<th>Key Criteria</th>
-<th>Investigated By</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>1</strong></td>
-<td>Hand/foot strikes, takedowns, O.C. spray, CEW
-<strong>cartridge</strong>, physical injury from police action</td>
-<td><strong>Immediate Supervisor</strong></td>
-</tr>
-<tr>
-<td><strong>2</strong></td>
-<td>Striking with object/vehicle, canine bite, CEW <strong>drive
-stun</strong>, prohibited acts (excl. chokehold), excessive force
-allegation, unconscious/stitches/lost tooth</td>
-<td><strong>CO/XO/Duty Captain + IAB</strong></td>
-</tr>
-<tr>
-<td><strong>3</strong></td>
-<td>Force capable of causing death/serious injury (not firearm),
-chokehold, excessive force + serious injury</td>
-<td><strong>Internal Affairs Bureau</strong></td>
-</tr>
-<tr>
-<td><strong>4</strong></td>
-<td>ALL firearms discharges, UMOS firearm fired by another, subject
-dies/seriously injured in custody</td>
-<td><strong>Force Investigation Division</strong></td>
-</tr>
-</tbody>
-</table>
-<p><strong>Immediate Supervisor</strong> = NOT involved, same command,
-<strong>one rank higher</strong> than all involved members</p>
-<p><strong>BWC Rules:</strong> Level 1-2 → supervisor reviews | Level
-3-4 → <strong>DO NOT view</strong> — safeguard, await IAB/FID</p>
-<hr />
-<h2 id="critical-timeframes">Critical Timeframes</h2>
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr>
-<th>Item</th>
-<th>Time</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>T.R.I. Incident Report</td>
-<td>Before <strong>end of tour</strong></td>
-</tr>
-<tr>
-<td>PD324-140 (Firearms Discharge Report)</td>
-<td><strong>48 hours</strong></td>
-</tr>
-<tr>
-<td>Temporary assignment after discharge (death/injury)</td>
-<td>Min <strong>3 consecutive tours</strong></td>
-</tr>
-<tr>
-<td>Post-incident welfare follow-up</td>
-<td><strong>24-48 hours</strong></td>
-</tr>
-<tr>
-<td>SCOC M187 (death in custody)</td>
-<td>Fax <strong>6 hours</strong> / mail <strong>10 days</strong></td>
-</tr>
-<tr>
-<td>Operations Unit notification (discharge outside NYC)</td>
-<td><strong>6 hours</strong></td>
-</tr>
-<tr>
-<td>CEW replacement cartridge</td>
-<td><strong>72 hours</strong></td>
-</tr>
-<tr>
-<td>CEW unintentional discharge retraining</td>
-<td><strong>5 business days</strong></td>
-</tr>
-<tr>
-<td>O.C. pepper spray effects duration</td>
-<td><strong>15-30 minutes</strong></td>
-</tr>
-<tr>
-<td>CEW standard cycle</td>
-<td><strong>5 seconds</strong></td>
-</tr>
-<tr>
-<td>CEW risk threshold</td>
-<td>Beyond <strong>15 seconds</strong></td>
-</tr>
-<tr>
-<td>Vehicle checkpoint max duration</td>
-<td><strong>2 hours</strong></td>
-</tr>
-<tr>
-<td>Prudent alcohol abstinence before tour</td>
-<td><strong>4 hours</strong></td>
-</tr>
-<tr>
-<td>Undercover alcohol limit</td>
-<td><strong>2 beverages</strong> per tour</td>
-</tr>
-<tr>
-<td>Trauma counseling follow-up</td>
-<td><strong>48 hours</strong></td>
-</tr>
-<tr>
-<td>Additional trauma sessions</td>
-<td><strong>1-6 weeks</strong></td>
-</tr>
-<tr>
-<td>LOD Injury Report sign-off</td>
-<td>Before <strong>end of tour</strong></td>
-</tr>
-<tr>
-<td>Delayed LOD designation report</td>
-<td><strong>60 days</strong> (then every 60)</td>
-</tr>
-<tr>
-<td>FECA documentation</td>
-<td><strong>90 days</strong></td>
-</tr>
-<tr>
-<td>Lost/damaged uniform report</td>
-<td><strong>30 days</strong></td>
-</tr>
-<tr>
-<td>Reimbursement settlement</td>
-<td><strong>180 days</strong></td>
-</tr>
-<tr>
-<td>Civilian injury report deadline</td>
-<td><strong>7 days</strong></td>
-</tr>
-<tr>
-<td>Civilian Employee Services notification</td>
-<td><strong>Immediately</strong> / copies <strong>24 hours</strong></td>
-</tr>
-<tr>
-<td>Resignation — reinstatement window</td>
-<td><strong>1 year</strong> (Police Commissioner)</td>
-</tr>
-<tr>
-<td>RESIGNATION AND EXIT INTERVIEW distribution</td>
-<td><strong>5 business days</strong></td>
-</tr>
-<tr>
-<td>Tier 2 PPF reporting</td>
-<td><strong>30 calendar days</strong> advance</td>
-</tr>
-<tr>
-<td>LEOSA card expiration</td>
-<td><strong>12 months</strong> from last qualification</td>
-</tr>
-<tr>
-<td>NICS check before separation</td>
-<td><strong>30 days</strong> prior</td>
-</tr>
-<tr>
-<td>Interrogation tape (pre-charge)</td>
-<td><strong>20 days</strong> after charge service</td>
-</tr>
-<tr>
-<td>Interrogation tape (post-charge)</td>
-<td><strong>5 days</strong> after interrogation</td>
-</tr>
-<tr>
-<td>Transcript</td>
-<td><strong>1000 hours</strong> on trial date</td>
-</tr>
-<tr>
-<td>Post-charge interrogation deadline</td>
-<td><strong>10 days</strong> before trial</td>
-</tr>
-<tr>
-<td>PD469-150 (Fitness for Duty)</td>
-<td><strong>Immediately</strong></td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h2 id="approval-authorities">Approval Authorities</h2>
-<table>
-<colgroup>
-<col style="width: 44%" />
-<col style="width: 55%" />
-</colgroup>
-<thead>
-<tr>
-<th>Action</th>
-<th>Authority</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Tear gas</td>
-<td><strong>Patrol Borough Commander</strong></td>
-</tr>
-<tr>
-<td>Distraction device</td>
-<td><strong>Chief of Department</strong></td>
-</tr>
-<tr>
-<td>Return to command after firearms discharge</td>
-<td><strong>First Deputy Commissioner</strong></td>
-</tr>
-<tr>
-<td>Non-standard vehicle checkpoint</td>
-<td><strong>Deputy Commissioner, Legal Matters</strong> (written)</td>
-</tr>
-<tr>
-<td>Cancel ESU at EDP</td>
-<td><strong>Sergeant or above</strong></td>
-</tr>
-<tr>
-<td>Canine — non-authorized tactical</td>
-<td><strong>Borough Commander</strong></td>
-</tr>
-<tr>
-<td>Canine — non-peaceful demonstration</td>
-<td><strong>Chief of Patrol</strong></td>
-</tr>
-<tr>
-<td>Reinstatement after resignation</td>
-<td><strong>Police Commissioner</strong> (within 1 year)</td>
-</tr>
-<tr>
-<td>Reasonable time for counsel (interrogation)</td>
-<td><strong>Captain or above</strong></td>
-</tr>
-<tr>
-<td>Release interrogation Q&amp;A outside Dept</td>
-<td><strong>Deputy Commissioner, Legal Matters</strong> (written)</td>
-</tr>
-<tr>
-<td>Out-of-city LOD investigating supervisor</td>
-<td><strong>Captain or above</strong></td>
-</tr>
-<tr>
-<td>Leave with pay — civilian 1st week (WC)</td>
-<td><strong>Chief of Personnel</strong></td>
-</tr>
-<tr>
-<td>Exceptional termination (firearm/alcohol)</td>
-<td><strong>Police Commissioner</strong></td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h2 id="firearm-prohibitions-shall-not">Firearm Prohibitions (SHALL
-NOT)</h2>
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th>Prohibition</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Discharge to endanger innocent persons</td>
-</tr>
-<tr>
-<td>Discharge in defense of property</td>
-</tr>
-<tr>
-<td>Discharge at fleeing felon with no imminent threat</td>
-</tr>
-<tr>
-<td>Fire warning shots</td>
-</tr>
-<tr>
-<td>Discharge at/from moving vehicle (unless deadly force by other
-means)</td>
-</tr>
-<tr>
-<td>Discharge at animal (unless imminent injury, no retreat)</td>
-</tr>
-<tr>
-<td>Cock a firearm (double action only)</td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h2 id="less-lethal-weapons-quick-reference">Less Lethal Weapons — Quick
-Reference</h2>
-<table>
-<colgroup>
-<col style="width: 22%" />
-<col style="width: 33%" />
-<col style="width: 44%" />
-</colgroup>
-<thead>
-<tr>
-<th>Weapon</th>
-<th>Application</th>
-<th>Classification</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>O.C. Spray</strong></td>
-<td>2 bursts, 1 sec each, min <strong>3 feet</strong>, aim at eyes</td>
-<td>Force incident varies</td>
-</tr>
-<tr>
-<td><strong>CEW Cartridge</strong></td>
-<td>Lower center mass (front), below neck (back), <strong>5-sec</strong>
-cycle</td>
-<td><strong>Level 1</strong></td>
-</tr>
-<tr>
-<td><strong>CEW Drive Stun</strong></td>
-<td>Direct contact, front electrodes</td>
-<td><strong>Level 2</strong></td>
-</tr>
-<tr>
-<td><strong>Tear Gas</strong></td>
-<td>Borough commander approval, <strong>ESU only</strong></td>
-<td>—</td>
-</tr>
-<tr>
-<td><strong>Distraction Device</strong></td>
-<td>Chief of Department approval, <strong>ESU only</strong></td>
-<td>—</td>
-</tr>
-</tbody>
-</table>
-<p><strong>NEVER use O.C., CEW, or impact weapons on passively resisting
-subjects</strong> <strong>NEVER use CEW on rear-cuffed prisoner</strong>
-<strong>CEW holster:</strong> Support side, opposite firearm — no
-cross-draw</p>
-<hr />
-<h2 id="edp-key-rules">EDP Key Rules</h2>
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th>Rule</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Zone of safety: minimum <strong>20 feet</strong></td>
-</tr>
-<tr>
-<td><strong>NEVER</strong> transport EDP to police facility</td>
-</tr>
-<tr>
-<td>Spit hood: <strong>ESU only</strong> applies and removes</td>
-</tr>
-<tr>
-<td>Cancel ESU: <strong>Sergeant or above</strong> only</td>
-</tr>
-<tr>
-<td>Contained + armed + no immediate threat → <strong>NO action</strong>
-without CO/duty captain</td>
-</tr>
-<tr>
-<td>CIT-trained members as contact officers</td>
-</tr>
-<tr>
-<td>Firearms control: establish <strong>immediately</strong></td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h2 id="retirement-quick-reference">Retirement Quick Reference</h2>
-<table>
-<colgroup>
-<col style="width: 27%" />
-<col style="width: 36%" />
-<col style="width: 36%" />
-</colgroup>
-<thead>
-<tr>
-<th>Item</th>
-<th>Tier 2</th>
-<th>Tier 3</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>PPF advance notice</td>
-<td><strong>30 days</strong></td>
-<td>No notice required</td>
-</tr>
-<tr>
-<td>Mandatory retirement</td>
-<td>Eve of <strong>63rd</strong> birthday</td>
-<td>Eve of <strong>62nd</strong> birthday</td>
-</tr>
-<tr>
-<td>Retired ID/LEOSA timing</td>
-<td>At discontinuance</td>
-<td><strong>30 days</strong> after (unless 30 days advance to PPF)</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Terminal Leave:</strong> 1 month per 10 years + 3 days/year
-beyond 20 + 1 day per 4 months <strong>LEOSA:</strong> 20+ years or LOD
-injury, qualified within 12 months, good standing</p>
-<hr />
-<h2 id="intoxicated-umos-key-steps">Intoxicated UMOS — Key Steps</h2>
-<ol type="1">
-<li>Direct member to remain at location</li>
-<li>Prepare <strong>PD469-150 IMMEDIATELY</strong> (both supervisor AND
-CO/XO/duty captain)</li>
-<li>Remove firearms (A.G. 318-13)</li>
-<li>Modified assignment or suspend</li>
-<li><strong>Mandated</strong> contact to Counseling Services Unit</li>
-<li>Notify <strong>IAB Command Center</strong> — obtain log number</li>
-<li>8 copies of Typed Letterhead to 8 recipients</li>
-</ol>
-<p><strong>Firearm + alcohol = TERMINATION</strong> | <strong>Motor
-vehicle + serious injury + alcohol = TERMINATION</strong></p>
-<hr />
-<h2 id="interrogation-rights-garrity">Interrogation Rights
-(Garrity)</h2>
-<table>
-<colgroup>
-<col style="width: 52%" />
-<col style="width: 48%" />
-</colgroup>
-<thead>
-<tr>
-<th>Member Gets</th>
-<th>Member Must</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>PD339-121 before questioning</td>
-<td>Answer questions on official duties</td>
-</tr>
-<tr>
-<td>Counsel (serious violation)</td>
-<td>Refusal = <strong>suspension</strong></td>
-</tr>
-<tr>
-<td>BWC review of own footage</td>
-<td>—</td>
-</tr>
-<tr>
-<td>Line org representative present</td>
-<td>—</td>
-</tr>
-<tr>
-<td>Statements protected from criminal use</td>
-<td>Statements usable for Dept charges</td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h2 id="key-numbers">Key Numbers</h2>
-<table>
-<colgroup>
-<col style="width: 47%" />
-<col style="width: 52%" />
-</colgroup>
-<thead>
-<tr>
-<th>Number</th>
-<th>Meaning</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>1:10</strong></td>
-<td>Bleach to water ratio for blood spills</td>
-</tr>
-<tr>
-<td><strong>20 feet</strong></td>
-<td>EDP zone of safety</td>
-</tr>
-<tr>
-<td><strong>3 feet</strong></td>
-<td>O.C. spray minimum distance</td>
-</tr>
-<tr>
-<td><strong>5 seconds</strong></td>
-<td>CEW standard cycle</td>
-</tr>
-<tr>
-<td><strong>15 seconds</strong></td>
-<td>CEW risk threshold</td>
-</tr>
-<tr>
-<td><strong>2 hours</strong></td>
-<td>Vehicle checkpoint max</td>
-</tr>
-<tr>
-<td><strong>.08</strong></td>
-<td>PBT alcohol threshold</td>
-</tr>
-<tr>
-<td><strong>$100</strong></td>
-<td>Uniform reimbursement — direct vs through channels</td>
-</tr>
-<tr>
-<td><strong>$75</strong></td>
-<td>Max watch reimbursement</td>
-</tr>
-<tr>
-<td><strong>5 years</strong></td>
-<td>Resisting Recidivist lookback</td>
-</tr>
-<tr>
-<td><strong>1 report</strong></td>
-<td>T.R.I. Incident Report per incident (regardless of
-MOS/subjects)</td>
-</tr>
-</tbody>
-</table>
+<div class="container">
+# NYPD Sergeant Exam — Quick Reference Cheat Sheet
+
+<blockquote><strong>Updated:</strong> 2026-04-09 | Covers The Key integration + all Patrol Guide updates</blockquote>
+
+<hr>
+
+<h2>Force Incident Levels</h2>
+
+<table class="cheat-table"><thead><tr><th>Level</th><th>Key Criteria</th><th>Investigated By</th></tr></thead><tbody><tr><td><strong>1</strong></td><td>Hand/foot strikes, takedowns, O.C. spray, CEW <strong>cartridge</strong>, physical injury from police action</td><td><strong>Immediate Supervisor</strong></td></tr><tr><td><strong>2</strong></td><td>Striking with object/vehicle, canine bite, CEW <strong>drive stun</strong>, prohibited acts (excl. chokehold), excessive force allegation, unconscious/stitches/lost tooth</td><td><strong>CO/XO/Duty Captain + IAB</strong></td></tr><tr><td><strong>3</strong></td><td>Force capable of causing death/serious injury (not firearm), chokehold, excessive force + serious injury</td><td><strong>Internal Affairs Bureau</strong></td></tr><tr><td><strong>4</strong></td><td>ALL firearms discharges, UMOS firearm fired by another, subject dies/seriously injured in custody</td><td><strong>Force Investigation Division</strong></td></tr></tbody></table>
+
+<div class="callout-note"><strong>NOTE:</strong> Immediate Supervisor = NOT involved, same command, <strong>one rank higher</strong> than all involved members</div>
+
+<div class="callout-note"><strong>NOTE:</strong> BWC Rules: Level 1-2 → supervisor reviews | Level 3-4 → <strong>DO NOT view</strong> — safeguard, await IAB/FID</div>
+
+<hr>
+
+<h2>Critical Timeframes</h2>
+
+<table class="cheat-table"><thead><tr><th>Item</th><th>Time</th></tr></thead><tbody><tr><td>T.R.I. Incident Report</td><td>Before <strong>end of tour</strong></td></tr><tr><td>PD324-140 (Firearms Discharge Report)</td><td><strong>48 hours</strong></td></tr><tr><td>Temporary assignment after discharge (death/injury)</td><td>Min <strong>3 consecutive tours</strong></td></tr><tr><td>Post-incident welfare follow-up</td><td><strong>24-48 hours</strong></td></tr><tr><td>SCOC M187 (death in custody)</td><td>Fax <strong>6 hours</strong> / mail <strong>10 days</strong></td></tr><tr><td>Operations Unit notification (discharge outside NYC)</td><td><strong>6 hours</strong></td></tr><tr><td>CEW replacement cartridge</td><td><strong>72 hours</strong></td></tr><tr><td>CEW unintentional discharge retraining</td><td><strong>5 business days</strong></td></tr><tr><td>O.C. pepper spray effects duration</td><td><strong>15-30 minutes</strong></td></tr><tr><td>CEW standard cycle</td><td><strong>5 seconds</strong></td></tr><tr><td>CEW risk threshold</td><td>Beyond <strong>15 seconds</strong></td></tr><tr><td>Vehicle checkpoint max duration</td><td><strong>2 hours</strong></td></tr><tr><td>Prudent alcohol abstinence before tour</td><td><strong>4 hours</strong></td></tr><tr><td>Undercover alcohol limit</td><td><strong>2 beverages</strong> per tour</td></tr><tr><td>Trauma counseling follow-up</td><td><strong>48 hours</strong></td></tr><tr><td>Additional trauma sessions</td><td><strong>1-6 weeks</strong></td></tr><tr><td>LOD Injury Report sign-off</td><td>Before <strong>end of tour</strong></td></tr><tr><td>Delayed LOD designation report</td><td><strong>60 days</strong> (then every 60)</td></tr><tr><td>FECA documentation</td><td><strong>90 days</strong></td></tr><tr><td>Lost/damaged uniform report</td><td><strong>30 days</strong></td></tr><tr><td>Reimbursement settlement</td><td><strong>180 days</strong></td></tr><tr><td>Civilian injury report deadline</td><td><strong>7 days</strong></td></tr><tr><td>Civilian Employee Services notification</td><td><strong>Immediately</strong> / copies <strong>24 hours</strong></td></tr><tr><td>Resignation — reinstatement window</td><td><strong>1 year</strong> (Police Commissioner)</td></tr><tr><td>RESIGNATION AND EXIT INTERVIEW distribution</td><td><strong>5 business days</strong></td></tr><tr><td>Tier 2 PPF reporting</td><td><strong>30 calendar days</strong> advance</td></tr><tr><td>LEOSA card expiration</td><td><strong>12 months</strong> from last qualification</td></tr><tr><td>NICS check before separation</td><td><strong>30 days</strong> prior</td></tr><tr><td>Interrogation tape (pre-charge)</td><td><strong>20 days</strong> after charge service</td></tr><tr><td>Interrogation tape (post-charge)</td><td><strong>5 days</strong> after interrogation</td></tr><tr><td>Transcript</td><td><strong>1000 hours</strong> on trial date</td></tr><tr><td>Post-charge interrogation deadline</td><td><strong>10 days</strong> before trial</td></tr><tr><td>PD469-150 (Fitness for Duty)</td><td><strong>Immediately</strong></td></tr><tr><td>AWOL — residence response</td><td><strong>2 hours</strong> (Telephone/Tower → Supervisor sent)</td></tr><tr><td>AWOL — IAB/CO/Ops/Boro notification</td><td><strong>4 hours</strong></td></tr><tr><td>AWOL — entire tour</td><td><strong>Chief of Department Permission</strong> (CODP)</td></tr><tr><td>Exchange of tour advance notice</td><td><strong>5 business days</strong></td></tr><tr><td>Personal folder purge dates</td><td><strong>January 1 / July 1</strong> (J1 and J7)</td></tr><tr><td>Correctional facility visit notice</td><td><strong>7 days</strong> advance + IAB/Command Center notifications</td></tr><tr><td>Probationary PO evaluations</td><td><strong>10th, 16th, 22nd month</strong></td></tr><tr><td>Probationary Sgt/LT evaluations</td><td><strong>4th, 10th month</strong> (16th only if extended)</td></tr><tr><td>Probationary Captain evaluations</td><td><strong>4th, 10th, 16th month</strong></td></tr></tbody></table>
+
+<hr>
+
+<h2>Approval Authorities</h2>
+
+<table class="cheat-table"><thead><tr><th>Action</th><th>Authority</th></tr></thead><tbody><tr><td>Tear gas</td><td><strong>Patrol Borough Commander</strong></td></tr><tr><td>Distraction device</td><td><strong>Chief of Department</strong></td></tr><tr><td>Return to command after firearms discharge</td><td><strong>First Deputy Commissioner</strong></td></tr><tr><td>Non-standard vehicle checkpoint</td><td><strong>Deputy Commissioner, Legal Matters</strong> (written)</td></tr><tr><td>Cancel ESU at EDP</td><td><strong>Sergeant or above</strong></td></tr><tr><td>Canine — non-authorized tactical</td><td><strong>Borough Commander</strong></td></tr><tr><td>Canine — non-peaceful demonstration</td><td><strong>Chief of Patrol</strong></td></tr><tr><td>Reinstatement after resignation</td><td><strong>Police Commissioner</strong> (within 1 year)</td></tr><tr><td>Reasonable time for counsel (interrogation)</td><td><strong>Captain or above</strong></td></tr><tr><td>Release interrogation Q&A outside Dept</td><td><strong>Deputy Commissioner, Legal Matters</strong> (written)</td></tr><tr><td>Out-of-city LOD investigating supervisor</td><td><strong>Captain or above</strong></td></tr><tr><td>Leave with pay — civilian 1st week (WC)</td><td><strong>Chief of Personnel</strong></td></tr><tr><td>Exceptional termination (firearm/alcohol)</td><td><strong>Police Commissioner</strong></td></tr><tr><td>Below Competent (≤2.5) or Extremely Competent (5.0) evaluation review</td><td><strong>Captain or above</strong></td></tr></tbody></table>
+
+<hr>
+
+<h2>Less Lethal Weapons — Quick Reference</h2>
+
+<table class="cheat-table"><thead><tr><th>Weapon</th><th>Application</th><th>Classification</th></tr></thead><tbody><tr><td><strong>O.C. Spray</strong></td><td>2 bursts, 1 sec each, min <strong>3 feet</strong>, aim at eyes</td><td>Force incident varies</td></tr><tr><td><strong>CEW Cartridge</strong></td><td>Lower center mass (front), below neck (back), <strong>5-sec</strong> cycle</td><td><strong>Level 1</strong></td></tr><tr><td><strong>CEW Drive Stun</strong></td><td>Direct contact, front electrodes</td><td><strong>Level 2</strong></td></tr><tr><td><strong>Tear Gas</strong></td><td>Borough commander approval, <strong>ESU only</strong></td><td>—</td></tr><tr><td><strong>Distraction Device</strong></td><td>Chief of Department approval, <strong>ESU only</strong></td><td>—</td></tr></tbody></table>
+
+<div class="callout-note"><strong>NOTE:</strong> NEVER use O.C., CEW, or impact weapons on passively resisting subjects
+<strong>NOTE:</strong> NEVER use CEW on rear-cuffed prisoner
+<strong>NOTE:</strong> CEW holster: Support side, opposite firearm — no cross-draw</div>
+
+<hr>
+
+<h2>EDP Key Rules</h2>
+
+<table class="cheat-table"><thead><tr><th>Rule</th></tr></thead><tbody><tr><td>Zone of safety: minimum <strong>20 feet</strong></td></tr><tr><td><strong>NEVER</strong> transport EDP to police facility</td></tr><tr><td>Spit hood: <strong>ESU only</strong> applies and removes</td></tr><tr><td>Cancel ESU: <strong>Sergeant or above</strong> only</td></tr><tr><td>Contained + armed + no immediate threat → <strong>NO action</strong> without CO/duty captain</td></tr><tr><td>CIT-trained members as contact officers</td></tr><tr><td>Firearms control: establish <strong>immediately</strong></td></tr><tr><td>EDP order of responders: <strong>EMT → Doctor → Paramedic</strong></td></tr></tbody></table>
+
+<hr>
+
+<h2>Retirement Quick Reference</h2>
+
+<table class="cheat-table"><thead><tr><th>Item</th><th>Tier 2</th><th>Tier 3</th></tr></thead><tbody><tr><td>PPF advance notice</td><td><strong>30 days</strong></td><td>No notice required</td></tr><tr><td>Mandatory retirement</td><td>Eve of <strong>63rd</strong> birthday</td><td>Eve of <strong>62nd</strong> birthday</td></tr><tr><td>Retired ID/LEOSA timing</td><td>At discontinuance</td><td><strong>30 days</strong> after (unless 30 days advance to PPF)</td></tr></tbody></table>
+
+<div class="callout-note"><strong>NOTE:</strong> Terminal Leave = 1 month per 10 years + 3 days/year beyond 20 + 1 day per 4 months
+<strong>NOTE:</strong> LEOSA = 20+ years or LOD injury, qualified within 12 months, good standing
+<strong>Memory Aid — TIER 2 vs TIER 3 RETIREMENT:</strong> Tier 2 = <strong>63</strong>rd birthday (higher age, "2" has <strong>3</strong> digits); Tier 3 = <strong>62</strong>nd birthday (lower age, "3" has <strong>2</strong> digits)
+<strong>Memory Aid — TIER 2 vs TIER 3 PPF NOTICE:</strong> Tier 2 = 30 days advance ("Two = Takes Time"). Tier 3 = No notice required ("Three = Free").
+<strong>Memory Aid — TERMINAL LEAVE MATH:</strong> 1 month per 10 years + 3 days per year beyond 20 + 1 day per 4 months partial year. Example: 23 years = 2 months (20 years) + 9 days (3 × 3) = 2 months + 9 days.
+<strong>Memory Aid — FIREARMS UPON RESIGNATION:</strong> Deliver to <strong>borough Property Clerk's Office ONLY</strong>. LEOSA holders don't deliver firearms.</div>
+
+<hr>
+
+<h2>Intoxicated UMOS — Key Steps</h2>
+
+1. Direct member to remain at location
+2. Prepare <strong>PD469-150 IMMEDIATELY</strong> (both supervisor AND CO/XO/duty captain)
+3. Remove firearms (A.G. 318-13)
+4. Modified assignment or suspend
+5. <strong>Mandated</strong> contact to Counseling Services Unit
+6. Notify <strong>IAB Command Center</strong> — obtain log number
+7. 8 copies of Typed Letterhead to 8 recipients
+
+<div class="callout-note"><strong>NOTE:</strong> Firearm + alcohol = TERMINATION | Motor vehicle + serious injury + alcohol = TERMINATION</div>
+
+<hr>
+
+<h2>Interrogation Rights (Garrity)</h2>
+
+<table class="cheat-table"><thead><tr><th>Member Gets</th><th>Member Must</th></tr></thead><tbody><tr><td>PD339-121 before questioning</td><td>Answer questions on official duties</td></tr><tr><td>Counsel (serious violation)</td><td>Refusal = <strong>suspension</strong></td></tr><tr><td>BWC review of own footage</td><td>—</td></tr><tr><td>Line org representative present</td><td>—</td></tr><tr><td>Statements protected from criminal use</td><td>Statements usable for Dept charges</td></tr></tbody></table>
+
+<hr>
+
+<h2>Key Numbers</h2>
+
+<table class="cheat-table"><thead><tr><th>Number</th><th>Meaning</th></tr></thead><tbody><tr><td><strong>1:10</strong></td><td>Bleach to water ratio for blood spills</td></tr><tr><td><strong>20 feet</strong></td><td>EDP zone of safety</td></tr><tr><td><strong>3 feet</strong></td><td>O.C. spray minimum distance</td></tr><tr><td><strong>5 seconds</strong></td><td>CEW standard cycle</td></tr><tr><td><strong>15 seconds</strong></td><td>CEW risk threshold</td></tr><tr><td><strong>2 hours</strong></td><td>Vehicle checkpoint max; AWOL residence response</td></tr><tr><td><strong>4 hours</strong></td><td>AWOL IAB/CO/Ops/Boro notification</td></tr><tr><td><strong>.08</strong></td><td>PBT alcohol threshold</td></tr><tr><td><strong>$100</strong></td><td>Uniform reimbursement — direct vs through channels</td></tr><tr><td><strong>$75</strong></td><td>Max watch reimbursement</td></tr><tr><td><strong>5 years</strong></td><td>Resisting Recidivist lookback</td></tr><tr><td><strong>1 report</strong></td><td>T.R.I. Incident Report per incident (regardless of MOS/subjects)</td></tr><tr><td><strong>32°F</strong></td><td>Below this temp, 4 cold weather items authorized; 2 MANDATORY with Duty Jacket</td></tr><tr><td><strong>10-16-22</strong></td><td>Probationary PO evaluation months</td></tr></tbody></table>
+
+<hr>
+
+<h2>MEMORIZATION TABLE — PERF Score Ranges</h2>
+
+<table class="cheat-table"><thead><tr><th>Rating</th><th>Score Range</th><th>Memory Aid</th></tr></thead><tbody><tr><td><strong>Exceptional</strong></td><td><strong>90–100</strong></td><td>One "E" — highest</td></tr><tr><td><strong>Exceeds</strong></td><td><strong>77–89</strong></td><td>Two "E"s</td></tr><tr><td><strong>Meets</strong></td><td><strong>68–76</strong></td><td>Middle of scale</td></tr><tr><td><strong>Needs Improvement</strong></td><td><strong>60–67</strong></td><td>"N" = Next lowest</td></tr><tr><td><strong>Unsatisfactory</strong></td><td><strong>59 or below</strong></td><td>"U" = Underperforming</td></tr></tbody></table>
+
+<hr>
+
+<h2>MEMORIZATION TABLE — Probationary Schedules</h2>
+
+<table class="cheat-table"><thead><tr><th>Member Type</th><th>Evaluation Months</th><th>Memory Aid</th></tr></thead><tbody><tr><td>Probationary POs</td><td><strong>10th, 16th, 22nd</strong></td><td>P-O = <strong>10-16-22</strong> — three dates, three outcomes</td></tr><tr><td>Probationary Sgt/LT</td><td><strong>4th, 10th</strong> (+ 16th if extended)</td><td>Promoted supervisors = shorter initial schedule</td></tr><tr><td>Probationary Captain</td><td><strong>4th, 10th, 16th</strong></td><td>Highest rank = longest schedule</td></tr></tbody></table>
+
+<div class="callout-note"><strong>NOTE:</strong> Probation for newly promoted: 12 months, extendable up to 6 more (request after 6th month with 4th month eval)</div>
+
+<hr>
+
+<h2>MEMORIZATION TABLE — RATER'S CHECKLIST</h2>
+
+<div class="callout-memory"><strong>Memory Aid — RATER'S CHECKLIST:</strong> <strong>C.P.I. + R.S.C.C. + C.C.L. + S.F.</strong> — <strong>C</strong>ompliments/<strong>C</strong>ommendations, <strong>P</strong>erformance (recognition), <strong>I</strong>ncident/<strong>C</strong>PI record, <strong>R</strong>ecognitions, <strong>S</strong>ick record, <strong>C</strong>CRB record, <strong>C</strong>ommand Discipline Log, <strong>S</strong>upervisor Feedback Form. <em>(Add <strong>F</strong>orce Record update at step 7.)</em></div>
+
+<hr>
+
+<h2>MEMORIZATION TABLE — Patrol Guide Conflicts (20 Known)</h2>
+
+<table class="cheat-table"><thead><tr><th>#</th><th>Conflict</th><th>Procedures</th><th>Answer</th></tr></thead><tbody><tr><td>1</td><td>Lt/Sgt goes <strong>direct</strong> vs <strong>10-02 FIRST</strong> to mobilization</td><td>213-03 vs 213-05</td><td>213-05 = 10-02 First; 213-03 = go direct</td></tr><tr><td>2</td><td>Child care: <strong>relative OR friend</strong> vs <strong>relative only</strong></td><td>215-01 vs 215-02</td><td>215-01 = friend OK; 215-02 = relative only</td></tr><tr><td>3</td><td>Air Operations Branch under <strong>Operations</strong> vs <strong>Logistics</strong></td><td>220-09 vs 220-11</td><td>220-11 = Logistics; not in 220-09</td></tr><tr><td>4</td><td>Off-duty alcohol in uniform: A.G. <strong>304-06</strong> vs <strong>304-13</strong></td><td>304-06 vs 304-13</td><td>Know both — mourning band NOT rank-specific; flag rules ARE</td></tr><tr><td>5</td><td>Intel/Investigations: truly <strong>optional</strong> vs misleading label</td><td>220-01 vs 220-13</td><td>ALL General Staff positions are optional — Intel not unique</td></tr><tr><td>6</td><td>OATH summons: <strong>CJRA</strong> = personally observed only; <strong>non-CJRA</strong> = informed by OK</td><td>209-03 vs 209-12</td><td>CJRA must be personally observed</td></tr><tr><td>7</td><td>Crime Scene: <strong>UMOS</strong> uses barrier tape vs <strong>Patrol Supervisor</strong> uses barrier tape</td><td>212-04 vs 212-05</td><td>212-04 = UMOS; 212-05 = Patrol Supervisor</td></tr><tr><td>8</td><td>D.O. accepts civil process <strong>regardless</strong> vs <strong>PRAA condition</strong></td><td>202-18 vs 211-21</td><td>Know both versions</td></tr><tr><td>9</td><td>Borough accepts/rejects property: <strong>PTR Acceptance Document</strong> vs <strong>no document</strong></td><td>218-04 vs 218-03</td><td>218-04 = Acceptance doc; 218-03 = no mention</td></tr><tr><td>10</td><td>PBT given by <strong>UMOS</strong> vs <strong>Patrol Supervisor</strong> (same trigger: SPI + STV)</td><td>217-01 vs 217-06</td><td>217-06 = Patrol Supervisor responsible</td></tr><tr><td>11</td><td>Eviction warrant: <strong>Mon-Fri 0800-1700</strong> vs Search warrant: <strong>0600-2100 Mon-Fri</strong></td><td>214-02 vs 214-01</td><td>Know both timeframes</td></tr><tr><td>12</td><td>Bomb Squad request: <strong>Sergeant</strong> (HazMat 212-37) vs <strong>UMOS</strong> (Exploding Currency 218-37)</td><td>212-37 vs 218-37</td><td>Know who in each procedure</td></tr><tr><td>13</td><td>Lawyer as <strong>Interviewer</strong> (210-01) vs <strong>Visitor</strong> (210-02, hospital)</td><td>210-01 vs 210-02</td><td>Know both lists</td></tr><tr><td>14</td><td>Off-duty incident: <strong>no notification</strong> (208-37) vs <strong>notify D.O.</strong> (212-32)</td><td>208-37 vs 212-32</td><td>Both rules exist</td></tr><tr><td>15</td><td>Supervisory contact for residence AWOL: <strong>supervisor sent</strong> vs <strong>local PD</strong> (out-of-city)</td><td>324 key-terms</td><td>City = supervisor; out-of-city = ICCU notifies local PD</td></tr><tr><td>16</td><td>Housing <strong>added by I.O.</strong> in 2020 to 5 steps of 209-12 — PG still says "Patrol or Transit"</td><td>209-12 IO vs printed PG</td><td>Exam likely uses PG language</td></tr><tr><td>17</td><td><strong>Probationary POs</strong>: 3 evaluation dates (10-16-22) vs <strong>annual</strong> (permanent members)</td><td>331-01 vs 331-02</td><td>Sergeants must track both timelines</td></tr><tr><td>18</td><td>Force Investigation Division vs IAB vs Immediate Supervisor — Level 4 = FID, Level 3 = IAB</td><td>200-02</td><td>Level 4 = FID; Level 3 = IAB; Level 1-2 = Immediate Supervisor</td></tr><tr><td>19</td><td><strong>Below Competent</strong> or <strong>Extremely Competent</strong> evaluation: reviewer must be captain or above</td><td>331-01</td><td>Both conditions (not just the bad rating) require captain+</td></tr><tr><td>20</td><td>ESU <strong>applies AND removes</strong> spit hood — only ESU can do both</td><td>212-03</td><td>ESU only for both apply and remove</td></tr></tbody></table>
+
+<hr>
+
+<h2>MEMORIZATION TABLE — Role Comparisons</h2>
+
+<h3>D.O. vs P/S vs LPC (Patrol)</h3>
+
+<table class="cheat-table"><thead><tr><th>Role</th><th>Reports To</th><th>Key Distinction</th></tr></thead><tbody><tr><td><strong>Desk Officer (D.O.)</strong></td><td>C.O./X.O.</td><td>Runs Precinct desk; PRAA condition for civil process; confers with <strong>C.E.O.</strong> on trends</td></tr><tr><td><strong>Patrol Supervisor (P/S)</strong></td><td>D.O. (typically)</td><td>Field supervision; <strong>WEBS</strong> runs = immediate response</td></tr><tr><td><strong>Lieutenant Platoon Commander (LPC)</strong></td><td>C.O./X.O.</td><td>Overall platoon commander; CO/XO/duty captain performs LPC duties if unavailable</td></tr></tbody></table>
+
+<div class="callout-memory"><strong>Memory Aid — CAT PAC (D.O. Direct Reports):</strong> <strong>C</strong>lerk | <strong>A</strong>PO (Arrest Process Officer) | <strong>T</strong>elephone Switchboard Operator | <strong>P</strong>atrol Wagon Operator | <strong>A</strong>ttendant | <strong>C</strong>ommunity Guide</div>
+
+<div class="callout-memory"><strong>Memory Aid — C.E.O. (D.O. Conferrals):</strong> <strong>C</strong>ommanding Officer | <strong>E</strong>xecutive Officer | <strong>O</strong>perations Coordinator</div>
+
+<div class="callout-memory"><strong>Memory Aid — WEBS (Immediate Patrol Supervisor Response):</strong> <strong>W</strong>eapon | <strong>E</strong>mergency | <strong>B</strong>urglary | <strong>S</strong>erious crime</div>
+
+<h3>Borough Operations vs Administration</h3>
+
+<table class="cheat-table"><thead><tr><th>Operations</th><th>Administration</th></tr></thead><tbody><tr><td><strong>O</strong>utward-facing</td><td><strong>A</strong>gency-internal</td></tr><tr><td><strong>P</strong>atrol/crime/<strong>S</strong>treet work</td><td><strong>D</strong>ocuments/<strong>I</strong>nternal/<strong>M</strong>onitoring</td></tr><tr><td>Crime control, QOL, traffic, graffiti</td><td>Discipline, personnel, scheduling, budget, property</td></tr></tbody></table>
+
+<div class="callout-memory"><strong>Memory Aid — OPS vs ADMIN:</strong> Think: Ops = field/visible; Admin = desk/records</div>
+
+<div class="callout-memory"><strong>Memory Aid — 9 CRIME CATEGORIES:</strong> <strong>S.R.A.B.L.V.D.F.O.</strong> — <strong>S</strong>ex crimes | <strong>R</strong>obberies | <strong>A</strong>ssaults | <strong>B</strong>urglaries | <strong>L</strong>arcenies | <strong>V</strong>ehicle theft | <strong>D</strong>omestic violence | <strong>F</strong>irearms/weapons | <strong>O</strong>ther emerging</div>
+
+<div class="callout-memory"><strong>Memory Aid — B.C. SCHEDULE:</strong> <strong>S</strong>emi-annual = <strong>S</strong>taff briefings (IAB, CAB, QAS, OEEO, Personnel Orders) | <strong>A</strong>nnual = <strong>A</strong>nnual CPP audit | <strong>Q</strong>uarterly = <strong>Q</strong>uality meetings</div>
+
+<div class="callout-memory"><strong>Memory Aid — CORRECTIONAL FACILITY VISIT:</strong> <strong>7 days</strong> notice → notify <strong>I</strong>AB → notify <strong>C</strong>ommand Center → forward to <strong>D</strong>eputy Commissioner IAB → file in <strong>P</strong>ersonal folder = <strong>7-I-C-D-P</strong></div>
+
+<div class="callout-memory"><strong>Memory Aid — PERSONAL FOLDER PURGE (J1 and J7):</strong> <strong>January 1 / July 1</strong>. Reports purged if >6 months old: <strong>O</strong>fficer Profile, <strong>F</strong>INEST sick messages, <strong>S</strong>ick Report Return = <strong>OFS = Old Files Shred</strong></div>
+
+<div class="callout-memory"><strong>Memory Aid — EXCHANGE OF TOUR (S.S.S.F.F.C.):</strong> <strong>S</strong>ame rank | <strong>S</strong>ame command | <strong>S</strong>ame FLSA cycle | <strong>F</strong>it for duty (no Admin Sick) | <strong>F</strong>ive days advance notice | <strong>C</strong>annot be two consecutive tours</div>
+
+<h3>Key Patrol Guide References</h3>
+
+<table class="cheat-table"><thead><tr><th>Topic</th><th>Procedure</th></tr></thead><tbody><tr><td>Force Investigation Division</td><td>P.G. 200-02</td></tr><tr><td>Immediate Supervisor</td><td>P.G. 200-02</td></tr><tr><td>Desk Officer duties</td><td>P.G. 202-18</td></tr><tr><td>WEBS runs</td><td>P.G. 202-19</td></tr><tr><td>Mobilization — go direct</td><td>P.G. 213-03</td></tr><tr><td>Duties at Disorder — 10-02 first</td><td>P.G. 213-05</td></tr><tr><td>Aided cases</td><td>P.G. 216-01</td></tr><tr><td>Dead body</td><td>P.G. 216-04</td></tr><tr><td>Vehicle collisions</td><td>P.G. 217 series</td></tr><tr><td>Property/Evidence</td><td>P.G. 218 series</td></tr><tr><td>CIMS/Modular</td><td>P.G. 220-01</td></tr><tr><td>Incident priorities (LSIR)</td><td>P.G. 220-05</td></tr><tr><td>Sector vs Group</td><td>P.G. 220-09</td></tr><tr><td>Civilian LODI</td><td>A.G. 330-03</td></tr><tr><td>Evaluations</td><td>A.G. 331 series</td></tr><tr><td>Retirement tiers</td><td>A.G. 329 series</td></tr><tr><td>Disciplinary system</td><td>A.G. 318 series</td></tr><tr><td>Correctional facility visit</td><td>A.G. 305-17</td></tr><tr><td>Off-duty employment</td><td>A.G. 332 series</td></tr><tr><td>Borough Command</td><td>A.G. 303 series</td></tr><tr><td>Uniforms/Equipment</td><td>A.G. 305 series</td></tr></tbody></table>
+
+<hr>
+
+<h2>NEW MEMORY AIDS — The Key Integration</h2>
+
+<div class="callout-memory"><strong>Memory Aid — CHILD-ERS (Aided Case Categories):</strong> <strong>C</strong>hild (runaway/abandoned/destitute/abused/neglected) | <strong>H</strong>omeless | <strong>I</strong>njured | <strong>L</strong>ost | <strong>D</strong>OA | <strong>E</strong>DP | <strong>R</strong>equires care (adult/child due to arrest/97H/death of parent/guardian) | <strong>S</strong>ick</div>
+
+<div class="callout-memory"><strong>Memory Aid — I C no P.A.I.N. (Routine Sick — NO Aided Report):</strong> <strong>I</strong>dentified and <strong>C</strong>onscious, no <strong>P</strong>olice service needed, no dependent <strong>A</strong>dults or uncared-for children, no <strong>I</strong>nvestigation needed, no <strong>N</strong>otifications required</div>
+
+<div class="callout-memory"><strong>Memory Aid — TED the M.D. from D.C. (Who May Disturb a Dead Body):</strong> <strong>T</strong>echnician (Highway collision) | <strong>E</strong>SU (subway/train tracks) | <strong>D</strong>octor/Paramedic/EMT | <strong>M</strong>edical examiner (or assistant) | <strong>D</strong>istrict attorney (or assistant) | <strong>C</strong>rime Scene Unit. <em>Caution civilians not to disturb evidence.</em></div>
+
+<div class="callout-memory"><strong>Memory Aid — CHASED FIT DOM (NOT Ro-Tow):</strong> <strong>C</strong>rime (Dept. Tow) | <strong>H</strong>ighway (Authorized or Dept. Tow) | <strong>A</strong>rrest made (except photo release) | <strong>S</strong>afeguard (Aided/Collision) | <strong>E</strong>vidence (Dept. Tow) | <strong>D</strong>etermine True Owner → <strong>F</strong>orfeiture | <strong>I</strong>nvestigation | <strong>T</strong>ruck (large) | <strong>D</strong>erelict (Sanitation) | <strong>O</strong>wner on scene AND recovered prior to police | <strong>M</strong>oped</div>
+
+<div class="callout-memory"><strong>Memory Aid — FRUITS (D.O. Notifies Ops AND Borough — Fire):</strong> Forced entry by FD | Relocation of tenants | Unusual fire | Injury/death | Three alarms+ | Suspicious fire</div>
+
+<div class="callout-memory"><strong>Memory Aid — DRAMAS (Domestic Violence Arrest Offenses):</strong> <strong>D</strong>is Con (incl. acts not in public) | <strong>R</strong>eckless Endangerment | <strong>A</strong>ggravated Harassment 2nd, Harassment 1st/2nd | <strong>M</strong>enacing 2nd/3rd | <strong>A</strong>ssault 2nd/3rd (or Attempts) | <strong>S</strong>trangulation 1st/2nd, Criminal Obstruction of Breathing/Blood Circulation, Stalking all 4 degrees</div>
+
+<div class="callout-memory"><strong>Memory Aid — C GIF CUSS (Domestic Violence Related Crimes):</strong> <strong>C</strong>riminal Mischief (all degrees) | <strong>G</strong>rand Larceny 3rd/4th | <strong>I</strong>dentity Theft 1st/2nd/3rd | <strong>F</strong>orcible Touching | <strong>C</strong>oercion 2nd (subdivisions 1/2/3) | <strong>U</strong>nlawful Dissemination/Publication of Intimate Image (PL 245.15) | <strong>S</strong>exual Misconduct | <strong>S</strong>exual Abuse 3rd AND Sexual Abuse 2nd sub 1</div>
+
+<div class="callout-memory"><strong>Memory Aid — MAR BAR MAK + Gun (Juvenile Offender — 14/15 Year Olds):</strong> Murder 1st/2nd | Assault 1st | Robbery 1st/2nd | Burglary 1st | Arson 1st | Rape 1st | Manslaughter 1st | <strong>K</strong>idnapping 1st/2nd | + <strong>Gun</strong> (Firearms — Serious Physical Injury)</div>
+
+<div class="callout-memory"><strong>Memory Aid — A FAVOR (Unarmed Off Duty):</strong> <strong>A</strong> = Alcohol likely to be consumed | <strong>F</strong> = Family or Supreme Court Matrimonial | <strong>A</strong> = Advisable not to carry | <strong>V</strong> = Vacation | <strong>O</strong> = Off-Duty Employment | <strong>R</strong> = Risk of Loss or Theft</div>
+
+<div class="callout-memory"><strong>Memory Aid — BELT LAYOUT (Support Side 1-5, Strong Side 6-10):</strong> Support: <strong>M</strong>agazine | <strong>C</strong>EW | <strong>R</strong>adio | <strong>O</strong>C spray | <strong>F</strong>lashlight. Strong: <strong>T</strong>ourniquet | <strong>B</strong>aton | <strong>F</strong>irearm | handcuff <strong>K</strong>ey | hand<strong>C</strong>uffs</div>
+
+<div class="callout-memory"><strong>Memory Aid — THE 32 CLUB (Below 32°F):</strong> <strong>MANDATORY with Duty Jacket:</strong> Balaclava + Winter Knit Hat. <strong>Optional (no jacket required):</strong> Winter Hat + Earmuffs</div>
+
+<div class="callout-memory"><strong>Memory Aid — BREAST BAR ORDER:</strong> <strong>TOP:</strong> American Flag | <strong>BOTTOM:</strong> Firearms Proficiency | Everything else in between</div>
+
+<div class="callout-memory"><strong>Memory Aid — GUNS/DRUGS/DNA/CRIM (Lab Delivery Transparent Bags):</strong> <strong>G</strong>uns | <strong>D</strong>rugs | <strong>D</strong>NA | <strong>C</strong>riminalistics</div>
+
+<div class="callout-memory"><strong>Memory Aid — MODULAR (CIMS Design):</strong> The Incident Commander can run an operation with 1-2 people OR open any combination of staff positions as needed</div>
+
+<div class="callout-memory"><strong>Memory Aid — LSIR (Incident Management Priorities — Order):</strong> <strong>L</strong>ife Safety → <strong>S</strong>ite Management → <strong>I</strong>nvestigative → <strong>R</strong>ecovery/Restoration</div>
+
+<div class="callout-memory"><strong>Memory Aid — Sectors vs Groups:</strong> <strong>S</strong>ectors = <strong>S</strong>patially (geographic) | <strong>G</strong>roups = <strong>G</strong>iven function (functional)</div>
+
+<div class="callout-memory"><strong>Memory Aid — Planning Units (RSDD):</strong> <strong>R</strong>esources | <strong>S</strong>ituation | <strong>D</strong>emobilization | <strong>D</strong>ocumentation</div>
+
+<div class="callout-memory"><strong>Memory Aid — Service Branch (CMF):</strong> <strong>C</strong>ommunications | <strong>M</strong>edical | <strong>F</strong>ood</div>
+
+<div class="callout-memory"><strong>Memory Aid — Support Branch (SFG):</strong> <strong>S</strong>upply | <strong>F</strong>acilities | <strong>G</strong>round Support</div>
+
+<div class="callout-memory"><strong>Memory Aid — Finance/Admin Units (TPCC):</strong> <strong>T</strong>ime | <strong>P</strong>rocurement | <strong>C</strong>laims | <strong>C</strong>ost</div>
+
+<div class="callout-memory"><strong>Memory Aid — Intel Section:</strong> Only General Staff section that can have <strong>Groups but no Branches and no Units</strong></div>
+
+<div class="callout-memory"><strong>Memory Aid — M.V.V. (NYPD Guiding Statements):</strong> <strong>M</strong>ission = what we do | <strong>V</strong>ision = where we're going | <strong>V</strong>alues = who we are</div>
+
+<div class="callout-memory"><strong>Memory Aid — Four Values = P.I.V.L.:</strong> <strong>P</strong>rotect/impartially enforce | <strong>I</strong>ntegrity (higher standard) | <strong>V</strong>alue human life/courtesy | <strong>L</strong>aw (fight crime/prevention)</div>
+
+<div class="callout-memory"><strong>Memory Aid — V-F-B (Alternate Mobilization Parks):</strong> <strong>V</strong>an Cortlandt (Pct <strong>50</strong>) | <strong>F</strong>lushing Meadow (Pct <strong>110</strong>) | <strong>B</strong>aisley Pond (Pct <strong>113</strong>) = Upstate | North of LIE | South of LIE</div>
+
+<div class="callout-memory"><strong>Memory Aid — ACR vs PCR (Prisoner Medical):</strong> <strong>A</strong> = <strong>A</strong>mbulance → <strong>ACR</strong> | <strong>P</strong> = <strong>P</strong>olice/other → <strong>PCR</strong>. Both numbers come from the ambulance attendant</div>
+
+<div class="callout-memory"><strong>Memory Aid — SPI + STV = PBT:</strong> <strong>S</strong>erious <strong>P</strong>hysical <strong>I</strong>njury + <strong>S</strong>erious <strong>T</strong>raffic <strong>V</strong>iolation = <strong>P</strong>ortable <strong>B</strong>reath <strong>T</strong>est</div>
+
+<div class="callout-memory"><strong>Memory Aid — 7-24-NOTIFY (Civilian Injury):</strong> <strong>7</strong> days to report injury | <strong>24</strong> hours to forward copies | <strong>Notify immediately</strong> (or 0900 next business day if after hours)</div>
+
+<div class="callout-memory"><strong>Memory Aid — FIVE FORMS for Civilian Injury (S-T-A-W-T):</strong> <strong>WCS-110</strong> (Employee Statement) | <strong>WCS-100</strong> (Supervisor Report) | <strong>WCS-120</strong> (Witness Statement) | <strong>DP2002</strong> (Employee Option) | <strong>Time Usage 49</strong> (Workers Comp)</div>
+
+<div class="callout-memory"><strong>Memory Aid — NEVER Outside the City:</strong> Only 2 things a member CAN do outside NYC but CANNOT do in NYC: <strong>Street Vendor</strong> and <strong>Locksmith</strong></div>
+
+<div class="callout-memory"><strong>Memory Aid — AWOL 2 vs 4 HOURS:</strong> <strong>2</strong> hours = <strong>T</strong>elephone and <strong>T</strong>ower (residence response — <strong>T</strong>he <strong>D</strong>.<strong>O</strong>.'s <strong>T</strong>eam sends a <strong>S</strong>upervisor). <strong>4</strong> hours = <strong>I</strong>AB, <strong>C</strong>.<strong>O</strong>., <strong>O</strong>ps, <strong>B</strong>oro — <strong>ICOB</strong> = <strong>I</strong>AB, <strong>C</strong>.<strong>O</strong>., <strong>O</strong>ps, <strong>B</strong>oro</div>
+
+<div class="callout-memory"><strong>Memory Aid — ENTIRE TOUR AWOL:</strong> <strong>C</strong>hief <strong>O</strong>f <strong>D</strong>epartment <strong>P</strong>ermission required = <strong>C.O.D.P.</strong> = <strong>C</strong>hief's <strong>O</strong>rder <strong>D</strong>aily <strong>P</strong>ermission. Or: <strong>NDWC</strong> = <strong>N</strong>o <strong>D</strong>uty <strong>W</strong>ithout <strong>C</strong>hief</div>
+
+<div class="callout-memory"><strong>Memory Aid — RATER'S CHECKLIST (C.P.I. + R.S.C.C. + C.C.L. + S.F.):</strong> <strong>C</strong>ompliments/<strong>C</strong>ommendations | <strong>P</strong>erformance (recognition) | <strong>I</strong>ncident/<strong>C</strong>PI record | <strong>R</strong>ecognitions | <strong>S</strong>ick record | <strong>C</strong>CRB record | <strong>C</strong>ommand Discipline Log | <strong>S</strong>upervisor Feedback Form | <em>(Add <strong>F</strong>orce Record at step 7)</em></div>
+
+</div>
 </body>
 </html>
