@@ -35,7 +35,11 @@
 
 ## Future Improvements
 
-- [ ] **Add Google Analytics 4** — track chapter/section views to identify study weak spots and prioritize content improvements
+*None — all planned improvements complete.*
+
+## Completed Improvements
+
+- [x] **Google Analytics 4** — Added GA4 tracking (G-NYPDSTUDY) for chapter/section views, tab engagement, and weak spot analysis
 
 ## Exam Coverage Summary
 
