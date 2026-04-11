@@ -13,6 +13,16 @@
 <link rel="preload" href="data.js" as="fetch" crossorigin>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Serif+4:wght@300;400;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<!-- Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NYPDSTUDY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-NYPDSTUDY', {
+    send_page_view: false
+  });
+</script>
 <style>
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
@@ -751,6 +761,32 @@ const App = (function() {
     }).join(' \u203A ');
   }
 
+  // ── GA4 Analytics ──
+  function trackPageView(route, chapterId = null, tab = null) {
+    if (typeof gtag === 'undefined') return;
+    const path = route.startsWith('chapter/') ? route : '/' + route;
+    gtag('event', 'page_view', {
+      page_path: path,
+      page_title: chapterId ? D.chapters.find(c => c.id === chapterId)?.title : route
+    });
+    // Track chapter views for weak spot analysis
+    if (chapterId) {
+      gtag('event', 'chapter_view', {
+        event_category: 'engagement',
+        event_label: chapterId,
+        value: 1
+      });
+      // Track tab (study, quiz, key-terms, review-questions)
+      if (tab) {
+        gtag('event', 'chapter_tab_view', {
+          event_category: 'engagement',
+          event_label: chapterId,
+          chapter_tab: tab
+        });
+      }
+    }
+  }
+
   // ── URL routing ──
   function nav(route) {
     location.hash = route;
@@ -767,6 +803,7 @@ const App = (function() {
       if (ch) {
         const tab = parts[2] || 'study';
         showChapter(ch.id, tab);
+        trackPageView(hash, ch.id, tab);
         return;
       }
     }
@@ -785,6 +822,11 @@ const App = (function() {
       else if (view === 'quickquiz') showQuickQuiz();
       else showHome();
     });
+
+    // Track non-chapter page views
+    if (view !== 'chapter') {
+      trackPageView(hash);
+    }
   }
   window.addEventListener('hashchange', handleRoute);
 
