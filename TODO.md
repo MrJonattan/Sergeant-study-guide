@@ -34,6 +34,10 @@
 | 303-04 | Borough Adjutant procedure not yet isolated from Admin Guide 1 | Low |
 | 320-05 | A.G. 320-05 (Administrative Guide) is a header/index procedure | None |
 
+## Future Improvements
+
+- [ ] **Add Google Analytics 4** — track chapter/section views to identify study weak spots and prioritize content improvements
+
 ## Exam Coverage Summary
 
 | Metric | Count |
