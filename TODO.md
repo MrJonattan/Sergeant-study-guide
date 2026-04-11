@@ -1,6 +1,6 @@
 # Study Guide Completion Checklist
 
-> **Status:** ~98% complete as of 2026-04-10
+> **Status:** 100% complete as of 2026-04-11
 > **Goal:** Comprehensive NYPD Sergeant Promotional Exam study guide covering all testable material
 
 ---
@@ -26,13 +26,12 @@
 - [x] Verify all 112 See Also: cross-references (all valid)
 - [x] Swap source PDFs to updated OCR'd versions
 - [x] Expand chapters 320, 331, 332 with AG procedures (14 new section files across 3 chapters)
+- [x] Verify A.G. 303-04 Borough Adjutant — already complete in section-303-borough-command.md
+- [x] Verify A.G. 320 — confirmed only 3 procedures exist (320-01 through 320-03), all complete
 
 ## Remaining Minor Gaps
 
-| Chapter | Issue | Priority |
-|---------|-------|----------|
-| 303-04 | Borough Adjutant procedure not yet isolated from Admin Guide 1 | Low |
-| 320-05 | A.G. 320-05 (Administrative Guide) is a header/index procedure | None |
+*None — all content gaps filled.*
 
 ## Future Improvements
 
