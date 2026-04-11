@@ -10,7 +10,7 @@
 > **Priority:** Work in progress on these untapped sources
 
 - [ ] **Ingest The Key lesson PDFs** — 24 lesson PDFs at `~/Documents/The Key Preseason Sgt Study Guide/` with mnemonics, test notes, question patterns
-- [ ] **Process standalone NYPD-Sergeant-Study-Guide.pdf** — 2.6MB exam resource at `~/Documents/`
+- [x] **Process standalone NYPD-Sergeant-Study-Guide.pdf** — 160 MC questions extracted, appended to 9 chapter review files; 35 essay-style preserved in build/standalone-sg-questions.json
 - [ ] **Fill thin 300-series chapters** — 303, 320, 324, 331, 332 use AG PDFs from `~/Documents/NYPD PG/AG PDFs/`
 
 ## Ingest DOCX Study Guides
