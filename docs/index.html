@@ -10,7 +10,7 @@
 <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect fill='%23000' width='180' height='180' rx='40'/><text y='125' x='25' font-size='100' fill='white' font-family='serif' font-weight='bold'>SG</text></svg>">
 <title>NYPD Sergeant Exam Study Guide</title>
 <link rel="manifest" href="manifest.json">
-<link rel="preload" href="data.js?v=20260412" as="fetch" crossorigin>
+<link rel="preload" href="data.js?v=202604121500" as="fetch" crossorigin>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Serif+4:wght@300;400;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
@@ -593,39 +593,43 @@ html.dark .mnemonic-box .mnemonic-label { color: #66bb6a; }
 .procedure-content { display: none; padding: 0.5rem 0.75rem 0.75rem; }
 .procedure-group.open .procedure-content { display: block; }
 .flashcard-item {
-  border: 1px solid var(--border); border-radius: 6px;
+  border: 2px solid var(--border); border-radius: 8px;
   margin: 0.5rem 0; cursor: pointer; perspective: 600px;
-  min-height: 120px;
+  min-height: 140px; background: var(--bg);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
+.flashcard-item:hover { box-shadow: 0 4px 8px rgba(0,0,0,0.15); }
 .flashcard-inner {
-  width: 100%; min-height: 120px; position: relative;
+  width: 100%; min-height: 140px; position: relative;
   transition: transform 0.4s; transform-style: preserve-3d;
 }
 .flashcard-item.flipped .flashcard-inner { transform: rotateY(180deg); }
 .flashcard-front, .flashcard-back {
-  padding: 1rem; backface-visibility: hidden;
+  padding: 1.2rem; backface-visibility: hidden;
   display: flex; flex-direction: column; justify-content: center;
+  border-radius: 8px;
 }
 .flashcard-front { background: var(--bg); }
 .flashcard-back {
   position: absolute; inset: 0; transform: rotateY(180deg);
-  background: var(--fg); color: var(--bg);
+  background: #1a1a2e; color: #fff;
 }
 .flashcard-label {
-  font-family: var(--font-mono); font-size: 0.55rem;
+  font-family: var(--font-mono); font-size: 0.6rem;
   letter-spacing: 0.1em; text-transform: uppercase;
-  opacity: 0.6; margin-bottom: 0.4rem;
+  font-weight: 700; margin-bottom: 0.5rem;
 }
-.flashcard-text { font-weight: 600; font-size: 0.95rem; line-height: 1.4; }
-.flashcard-meta { font-size: 0.7rem; opacity: 0.5; margin-top: 0.5rem; font-family: var(--font-mono); }
-.flashcard-answer { font-size: 0.9rem; line-height: 1.5; }
-.flashcard-proc { font-family: var(--font-mono); font-size: 0.65rem; opacity: 0.6; margin-top: 0.5rem; }
-.flashcard-keyterm { border-left: 4px solid #2e7d32; }
-.flashcard-sergeant { border-left: 4px solid #c4a000; }
-.flashcard-note { border-left: 4px solid #1565c0; }
-html.dark .flashcard-keyterm { background: #0e1a0e; }
-html.dark .flashcard-sergeant { background: #1c1a0e; }
-html.dark .flashcard-note { background: #0e131a; }
+.flashcard-text { font-weight: 600; font-size: 1rem; line-height: 1.5; }
+.flashcard-meta { font-size: 0.7rem; opacity: 0.6; margin-top: 0.5rem; font-family: var(--font-mono); }
+.flashcard-answer { font-size: 0.95rem; line-height: 1.6; color: #fff; }
+.flashcard-proc { font-family: var(--font-mono); font-size: 0.7rem; opacity: 0.8; margin-top: 0.5rem; color: #9ca3af; }
+.flashcard-keyterm { border-left: 6px solid #16a34a; }
+.flashcard-sergeant { border-left: 6px solid #ca8a04; }
+.flashcard-note { border-left: 6px solid #2563eb; }
+.count-badge.keyterm { background: #16a34a; border-color: #15803d; color: #fff; }
+.count-badge.sergeant { background: #ca8a04; border-color: #a16207; color: #fff; }
+.count-badge.note { background: #2563eb; border-color: #1d4ed8; color: #fff; }
+html.dark .flashcard-item { background: var(--bg-muted); }
 .note-procedure.open .note-proc-content { display: block; }
 .note-proc-content { display: none; padding: 0.5rem 0.75rem 0.75rem; }
 .note-item {
@@ -1754,15 +1758,18 @@ const App = (function() {
         <span><strong>${filteredCards}</strong> shown</span>
       </div>
 
-      <div class="flashcard-legend" style="display:flex;gap:1rem;margin-bottom:1rem;font-size:0.85rem;">
+      <div class="flashcard-legend" style="display:flex;gap:1rem;margin-bottom:1rem;font-size:0.85rem;flex-wrap:wrap;">
         <span style="display:inline-flex;align-items:center;gap:0.5rem;">
-          <span style="width:12px;height:12px;background:#e8f5e9;border:1px solid #2e7d32;border-radius:3px;"></span> Key Terms
+          <span style="width:14px;height:14px;background:#16a34a;border:2px solid #15803d;border-radius:3px;"></span>
+          <span style="font-weight:600;">📖 Key Terms</span>
         </span>
         <span style="display:inline-flex;align-items:center;gap:0.5rem;">
-          <span style="width:12px;height:12px;background:#fffde6;border:1px solid #c4a000;border-radius:3px;"></span> Sergeant Focus
+          <span style="width:14px;height:14px;background:#ca8a04;border:2px solid #a16207;border-radius:3px;"></span>
+          <span style="font-weight:600;">★ Sergeant Focus</span>
         </span>
         <span style="display:inline-flex;align-items:center;gap:0.5rem;">
-          <span style="width:12px;height:12px;background:#e3f2fd;border:1px solid #1565c0;border-radius:3px;"></span> Notes
+          <span style="width:14px;height:14px;background:#2563eb;border:2px solid #1d4ed8;border-radius:3px;"></span>
+          <span style="font-weight:600;">📝 Notes</span>
         </span>
       </div>
     </div>
@@ -2230,6 +2237,7 @@ const App = (function() {
     exportData, importData, clearData, saveGoal,
     qqAnswer, showView: nav,
     filterNotes, filterByChapter, clearFilter, setNotesGroup, toggleNoteGroup, copyNote, exportNotes,
+    setFlashcardFilter, setFlashcardSearch, toggleFlashcardGroup, flipFlashcard, downloadAnki,
   };
 })();
 </script>
