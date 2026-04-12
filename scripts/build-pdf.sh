@@ -55,20 +55,29 @@ for chapter in "${CHAPTERS[@]}"; do
 
   # Add README (chapter overview) with internal navigation removed
   if [ -f "$chapter_dir/README.md" ]; then
-    # Remove "## Study Files", "## Chapter Contents", "## Study Tips" sections, and strip .md file links
-    sed -E '/^## Study Files$/,/^## /{ /^## Study Files$/d; /^## /!d; }' "$chapter_dir/README.md" | \
-    sed -E '/^## Chapter Contents$/,/^## |^$/{ /^## Chapter Contents$/d; /^## /!d; }' | \
-    sed -E '/^## Study Tips$/,/^## /{ /^## Study Tips$/d; /^## /!d; }' | \
+    # Remove internal navigation sections using awk, then strip .md file links
+    awk '
+      /^## Study Files$/ { skip=1; next }
+      /^## Study Guide Files$/ { skip=1; next }
+      /^## Chapter Contents$/ { skip=1; next }
+      /^## Study Tips$/ { skip=1; next }
+      /^## Study Content$/ { skip=1; next }
+      /^## / && skip { skip=0 }
+      !skip { print }
+    ' "$chapter_dir/README.md" | \
+    sed -E 's/`section-[^`]+\.md`//g' | \
+    sed -E 's/`key-terms\.md`//g' | \
+    sed -E 's/`review-questions\.md`//g' | \
     sed -E 's/\[([^]]*)\.md\]\([^)]*\.md\)/\1/g' >> "$COMBINED"
     echo "" >> "$COMBINED"
     echo "---" >> "$COMBINED"
     echo "" >> "$COMBINED"
   fi
 
-  # Add section files (sorted)
+  # Add section files (sorted), stripping .md file references
   for section_file in "$chapter_dir"/section-*.md; do
     if [ -f "$section_file" ]; then
-      cat "$section_file" >> "$COMBINED"
+      sed -E 's/`?section-[^` ]+\.md`?//g; s/`?key-terms\.md`?//g; s/`?review-questions\.md`?//g' "$section_file" >> "$COMBINED"
       echo "" >> "$COMBINED"
       echo "---" >> "$COMBINED"
       echo "" >> "$COMBINED"

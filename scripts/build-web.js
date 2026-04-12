@@ -129,9 +129,14 @@ function cleanReadme(md) {
   // Remove internal navigation sections that list .md file links
   return md
     .replace(/## Study Files\n[\s\S]*?(?=\n## )/g, '')
+    .replace(/## Study Guide Files\n[\s\S]*?(?=\n## )/g, '')
     .replace(/## Chapter Contents\n[\s\S]*?(?=\n## |\n---|\n$)/g, '')
     .replace(/## Study Tips\n[\s\S]*?(?=\n## )/g, '')
+    .replace(/## Study Content\n[\s\S]*?(?=\n## )/g, '')
     .replace(/\[([^\]]+)\]\([^)]*\.md\)/g, '$1')
+    .replace(/`?section-[\w-]+\.md`?/g, '')
+    .replace(/`?key-terms\.md`?/g, '')
+    .replace(/`?review-questions\.md`?/g, '')
     .replace(/\n{3,}/g, '\n\n')
     .trim();
 }
