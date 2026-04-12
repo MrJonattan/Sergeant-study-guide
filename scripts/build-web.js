@@ -141,6 +141,67 @@ function cleanReadme(md) {
     .trim();
 }
 
+function extractNotes(sections, chapterId) {
+  const notes = [];
+
+  for (const section of sections) {
+    const content = section.content || section;
+    const filename = section.filename || '';
+
+    // Extract procedure number from filename (e.g., section-210-03-general.md -> 210-03)
+    const procMatch = filename.match(/section-(\d+-\d+)/);
+    // If no procedure number in filename, use chapter ID as fallback (e.g., "207-complaints" -> "Ch. 207")
+    const procNum = procMatch ? `P.G. ${procMatch[1]}` : `Ch. ${chapterId.split('-')[0]}`;
+
+    // Pattern 1: Blockquote NOTE - > **NOTE:** or > **Note:** or > NOTE
+    const blockquoteRe = /^>\s+\*\*(?:NOTE|Note):\*\*\s*(.+)/gm;
+    let match;
+    while ((match = blockquoteRe.exec(content)) !== null) {
+      notes.push({
+        procedure: procNum,
+        filename,
+        text: match[1].trim()
+      });
+    }
+
+    // Pattern 2: Bold inline NOTE - **NOTE:** or **Note:** not in blockquote
+    const inlineRe = /(?<!^>\s+)\*\*(?:NOTE|Note):\*\*\s*([^\n]+)/g;
+    while ((match = inlineRe.exec(content)) !== null) {
+      // Skip if this is actually in a blockquote (check context)
+      const beforeMatch = content.substring(Math.max(0, match.index - 20), match.index);
+      if (!beforeMatch.trim().endsWith('>')) {
+        notes.push({
+          procedure: procNum,
+          filename,
+          text: match[1].trim()
+        });
+      }
+    }
+
+    // Pattern 3: NOTE header followed by content
+    const headerRe = /^##+\s*NOTE\s*\n+(.+)/gm;
+    while ((match = headerRe.exec(content)) !== null) {
+      notes.push({
+        procedure: procNum,
+        filename,
+        text: match[1].trim()
+      });
+    }
+
+    // Pattern 4: Plain NOTE at start of line (not in bold, not blockquote)
+    const plainRe = /^(?!>\s)(?:\*\*)?NOTE(?:\*\*)?:\s*(.+)/gm;
+    while ((match = plainRe.exec(content)) !== null) {
+      notes.push({
+        procedure: procNum,
+        filename,
+        text: match[1].trim()
+      });
+    }
+  }
+
+  return notes;
+}
+
 const SERGEANT_CATEGORIES = [
   { id: 'prisoner-mgmt',      label: 'Prisoner Management',          chapters: ['210-prisoners'] },
   { id: 'arrest-processing', label: 'Arrest Processing',             chapters: ['208-arrests'] },
@@ -185,6 +246,9 @@ for (const id of CHAPTER_ORDER) {
     });
   });
 
+  // Extract NOTE markers per chapter
+  const notes = extractNotes(sections, id);
+
   const titleM = readme.match(/^#\s+.*?—\s+(.*)/m);
   const sectionNum = id.split('-')[0];
   chapters.push({
@@ -193,7 +257,8 @@ for (const id of CHAPTER_ORDER) {
     readme, sections, keyTerms,
     reviewQuestions: reviewRaw,
     questions: parseReviewQuestions(reviewRaw),
-    sergeantFocus
+    sergeantFocus,
+    notes
   });
 }
 
@@ -201,11 +266,24 @@ const cheatSheet = readFile(path.join(PROJECT, 'build', 'quick-reference-cheat-s
 const examRaw = readFile(path.join(PROJECT, 'build', 'master-practice-exam.md')) || '';
 const examQuestions = parsePracticeExam(examRaw);
 
+// Flatten all notes with chapter reference
+const allNotes = [];
+chapters.forEach(ch => {
+  (ch.notes || []).forEach(note => {
+    allNotes.push({
+      ...note,
+      chapterId: ch.id,
+      chapterTitle: ch.title
+    });
+  });
+});
+
 const data = {
   chapters,
   cheatSheet,
   examQuestions,
-  totalQuestions: chapters.reduce((s, c) => s + c.questions.length, 0)
+  totalQuestions: chapters.reduce((s, c) => s + c.questions.length, 0),
+  notes: allNotes
 };
 
 fs.mkdirSync(OUTPUT_DIR, { recursive: true });
@@ -216,6 +294,7 @@ fs.writeFileSync(
 console.log(`Built ${chapters.length} chapters, ${data.totalQuestions} chapter quiz questions, ${examQuestions.length} exam questions`);
 const totalSF = chapters.reduce((s,c) => s + (c.sergeantFocus||[]).length, 0);
 console.log(`Sergeant Focus callouts: ${totalSF}`);
+console.log(`NOTE markers extracted: ${allNotes.length}`);
 if (chapters.length < CHAPTER_ORDER.length) {
   const built = new Set(chapters.map(c => c.id));
   const missing = CHAPTER_ORDER.filter(id => !built.has(id));

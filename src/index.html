@@ -556,6 +556,34 @@ html.dark .mnemonic-box .mnemonic-label { color: #66bb6a; }
   display: flex; align-items: center; justify-content: center;
   font-size: 0.7rem; font-weight: 700; padding: 0 0.3rem;
 }
+/* Notes view */
+.notes-list { display: flex; flex-direction: column; gap: 0.75rem; }
+.note-procedure { border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
+.note-proc-header {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 0.9rem 1.1rem; background: var(--bg-alt); cursor: pointer;
+  font-weight: 600; font-size: 0.95rem; font-family: var(--font-mono);
+}
+.note-proc-header::after { content: '\25B2'; font-size: 0.65rem; transition: transform 0.2s; opacity: 0.5; }
+.note-procedure.open .note-proc-header::after { transform: rotate(180deg); }
+.note-procedure.open .note-proc-content { display: block; }
+.note-proc-content { display: none; padding: 0.5rem 0.75rem 0.75rem; }
+.note-item {
+  border-left: 3px solid var(--accent);
+  background: var(--bg-alt);
+  padding: 0.75rem 1rem;
+  margin: 0.6rem 0;
+  border-radius: 0 4px 4px 0;
+}
+.note-text { font-size: 0.9rem; line-height: 1.5; margin-bottom: 0.4rem; }
+.note-source { font-size: 0.75rem; font-family: var(--font-mono); opacity: 0.5; }
+.note-proc-num { color: var(--accent); }
+.note-count {
+  background: var(--fg); color: var(--bg);
+  border-radius: 50%; min-width: 1.5rem; height: 1.5rem;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.7rem; font-weight: 700; padding: 0 0.3rem;
+}
 .cheat-sheet h2 { font-size: 1.2rem; }
 .cheat-sheet table { font-size: 0.88rem; }
 </style>
@@ -579,6 +607,7 @@ html.dark .mnemonic-box .mnemonic-label { color: #66bb6a; }
       <button class="nav-item" data-view="exam" onclick="App.nav('exam')">Practice Exam</button>
       <button class="nav-item" data-view="weak" onclick="App.nav('weak')">Weak Areas</button>
       <button class="nav-item" data-view="sergeant" onclick="App.nav('sergeant')">Sergeant Focus</button>
+      <button class="nav-item" data-view="notes" onclick="App.nav('notes')">Notes</button>
     </div>
     <div class="nav-section" id="nav-chapters"><div class="nav-section-title">Chapters</div></div>
   </nav>
@@ -820,6 +849,7 @@ const App = (function() {
       else if (view === 'exam') showExam();
       else if (view === 'weak') showWeakAreas();
       else if (view === 'sergeant') showSergeantFocus();
+      else if (view === 'notes') showNotes();
       else if (view === 'settings') showSettings();
       else if (view === 'quickquiz') showQuickQuiz();
       else showHome();
@@ -1414,6 +1444,82 @@ const App = (function() {
     content.innerHTML = html;
   }
 
+  // ── Notes View ──
+  function showNotes() {
+    tabBar.innerHTML = '';
+    setBreadcrumbs({ label: 'Dashboard', action: "App.nav('home')" }, { label: 'Notes' });
+    const allNotes = D.notes || [];
+
+    // Group notes by procedure
+    const notesByProc = {};
+    allNotes.forEach(n => {
+      const key = n.procedure;
+      if (!notesByProc[key]) notesByProc[key] = [];
+      notesByProc[key].push(n);
+    });
+
+    let html = `<div class="view-header">
+      <h2>Procedure Notes</h2>
+      <p>Official NOTE markers from Patrol Guide and Administrative Guide procedures</p>
+      <div class="notes-search-bar" style="margin-top:1rem;display:flex;gap:0.5rem;">
+        <input type="text" id="notes-filter" placeholder="Filter by procedure or keyword..."
+          style="flex:1;padding:0.5rem 0.75rem;border:1px solid var(--border);border-radius:4px;background:var(--card);color:var(--fg);"
+          oninput="App.filterNotes(this.value)">
+        <button class="btn" onclick="App.exportNotes()">Export</button>
+      </div>
+    </div>
+    <div class="notes-stats" style="display:flex;gap:1rem;margin:1rem 0;font-family:var(--font-mono);font-size:0.85rem;opacity:0.7;">
+      <span>Total: ${allNotes.length} notes</span>
+      <span>Procedures: ${Object.keys(notesByProc).length}</span>
+    </div>
+    <div class="notes-list" id="notes-list">`;
+
+    const sortedProcs = Object.keys(notesByProc).sort();
+    sortedProcs.forEach(proc => {
+      const procNotes = notesByProc[proc];
+      html += `<div class="note-procedure" data-proc="${proc}">
+        <div class="note-proc-header" onclick="this.parentElement.classList.toggle('open')">
+          <span class="note-proc-num">${proc}</span>
+          <span class="note-count">${procNotes.length}</span>
+        </div>
+        <div class="note-proc-content">`;
+      procNotes.forEach(n => {
+        html += `<div class="note-item">
+          <div class="note-text">${n.text}</div>
+          <div class="note-source">Source: ${n.filename}</div>
+        </div>`;
+      });
+      html += `</div></div>`;
+    });
+
+    html += `</div>`;
+    content.innerHTML = html;
+  }
+
+  function filterNotes(query) {
+    const filter = (query || '').toLowerCase();
+    const items = document.querySelectorAll('.note-procedure');
+    items.forEach(item => {
+      const proc = item.dataset.proc;
+      const text = item.textContent.toLowerCase();
+      item.style.display = (proc.toLowerCase().includes(filter) || text.includes(filter)) ? '' : 'none';
+    });
+  }
+
+  function exportNotes() {
+    const data = D.notes || [];
+    const csv = 'Procedure,Filename,Note Text\n' + data.map(n =>
+      `"${n.procedure}","${n.filename}","${(n.text||'').replace(/"/g,'""')}"`
+    ).join('\n');
+    const blob = new Blob([csv], {type: 'text/csv'});
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'nypd-study-notes.csv';
+    a.click();
+    URL.revokeObjectURL(url);
+  }
+
   // ── Practice Exam ──
   let examState = { started: false, answers: {}, startTime: null, timerInterval: null, submitted: false, questions: [] };
 
@@ -1754,6 +1860,7 @@ const App = (function() {
     startExam, examAns, submitExam, newExam, shuffleFlashcards,
     exportData, importData, clearData, saveGoal,
     qqAnswer, showView: nav,
+    filterNotes, exportNotes,
   };
 })();
 </script>
