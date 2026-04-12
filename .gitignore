@@ -6,3 +6,6 @@ __pycache__/
 # Generated files (rebuild with npm run build)
 build/
 progress/
+
+# Web app runtime data (not source)
+build/data.js

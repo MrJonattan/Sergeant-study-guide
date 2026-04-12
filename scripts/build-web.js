@@ -262,8 +262,9 @@ for (const id of CHAPTER_ORDER) {
   });
 }
 
-const cheatSheet = readFile(path.join(PROJECT, 'docs', 'quick-reference-cheat-sheet.md')) || '';
-const examRaw = readFile(path.join(PROJECT, 'build', 'master-practice-exam.md')) || '';
+// Static assets live in assets/ (committed to git)
+const cheatSheet = readFile(path.join(PROJECT, 'assets', 'quick-reference-cheat-sheet.md')) || '';
+const examRaw = readFile(path.join(PROJECT, 'assets', 'master-practice-exam.md')) || '';
 const examQuestions = parsePracticeExam(examRaw);
 
 // Flatten all notes with chapter reference

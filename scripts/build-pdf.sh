@@ -40,7 +40,10 @@ CHAPTERS=(
   "332-employee-rights"
 )
 
+# Output combined markdown to assets/ for web app consumption
 COMBINED="$OUTPUT_DIR/study-guide-combined.md"
+ASSETS_DIR="$PROJECT_DIR/assets"
+mkdir -p "$ASSETS_DIR"
 
 echo "# NYPD Sergeant Promotional Exam — Study Guide" > "$COMBINED"
 echo "" >> "$COMBINED"
@@ -118,13 +121,13 @@ echo "HTML output: $OUTPUT_DIR/study-guide.html"
 echo ""
 echo "To create PDF: Open study-guide.html in your browser and use Print → Save as PDF"
 
-# Also build cheat sheet and practice exam as HTML
-pandoc "$OUTPUT_DIR/quick-reference-cheat-sheet.md" \
+# Also build cheat sheet and practice exam as HTML (source files in assets/)
+pandoc "$ASSETS_DIR/quick-reference-cheat-sheet.md" \
   --standalone \
   --metadata title="NYPD Sergeant Exam — Quick Reference Cheat Sheet" \
   -o "$OUTPUT_DIR/quick-reference-cheat-sheet.html"
 
-pandoc "$OUTPUT_DIR/master-practice-exam.md" \
+pandoc "$ASSETS_DIR/master-practice-exam.md" \
   --standalone \
   --toc \
   --metadata title="NYPD Sergeant Exam — Master Practice Exam (120 Questions)" \
