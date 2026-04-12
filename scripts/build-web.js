@@ -262,7 +262,7 @@ for (const id of CHAPTER_ORDER) {
   });
 }
 
-const cheatSheet = readFile(path.join(PROJECT, 'build', 'quick-reference-cheat-sheet.md')) || '';
+const cheatSheet = readFile(path.join(PROJECT, 'docs', 'quick-reference-cheat-sheet.md')) || '';
 const examRaw = readFile(path.join(PROJECT, 'build', 'master-practice-exam.md')) || '';
 const examQuestions = parsePracticeExam(examRaw);
 
