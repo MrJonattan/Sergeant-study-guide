@@ -31,7 +31,7 @@ This section covers the foundational procedures for mobilization, emergency resp
 
 ## P.G. 213-03 — Rapid Mobilization
 
-> **Note:** Full exam-focused content for this procedure is now available in the dedicated file: **section-213-rapid-mobilization.md**. The summary below highlights the most critical points.
+> **Note:** Full exam-focused content for this procedure is covered in the Rapid Mobilization section. The summary below highlights the most critical points.
 
 ### Known Information
 - Establishes procedures for rapidly assembling personnel during emergencies
@@ -43,7 +43,7 @@ This section covers the foundational procedures for mobilization, emergency resp
 
 > **PG Conflict:** PG 213-03 says Lt/Sgt should "go direct" to the mobilization point. PG 213-05 says Lt/Sgt should "10-02 FIRST," then go. On test day, if the question references 213-05 (Duties at a Disorder), the answer is 10-02 First.
 
-> **See Also:** section-213-rapid-mobilization.md — Full procedure with role-by-role duties, bureau exceptions, and supplementary restraint kit details.
+> **See Also:** Rapid Mobilization section — Full procedure with role-by-role duties, bureau exceptions, and supplementary restraint kit details.
 
 ---
 
@@ -60,7 +60,7 @@ This section covers the foundational procedures for mobilization, emergency resp
 
 ## P.G. 213-05 — Duties at a Disorder
 
-> **Note:** Full exam-focused content for this procedure is now available in the dedicated file: **section-213-duties-at-disorder.md**. The summary below highlights the most critical points.
+> **Note:** Full exam-focused content for this procedure is covered in the Duties at a Disorder section. The summary below highlights the most critical points.
 
 ### Known Information
 - Outlines specific duties of members of service responding to unusual disorders
@@ -74,7 +74,7 @@ This section covers the foundational procedures for mobilization, emergency resp
 
 > **Exam Alert:** Sergeants respond to the stationhouse (10-02) first under PG 213-05, form a squad of 8 officers, and report to the mobilization point in a van. While enroute, only the Sergeant and van operator have radios turned on.
 
-> **See Also:** section-213-duties-at-disorder.md — Full procedure with deployment plans, team assignments, lieutenant/sergeant duties, and mobilization level details.
+> **See Also:** Duties at a Disorder section — Full procedure with deployment plans, team assignments, lieutenant/sergeant duties, and mobilization level details.
 
 ---
 
@@ -135,9 +135,9 @@ This section covers the foundational procedures for mobilization, emergency resp
 |-----------|-------|--------|-------------|
 | 213-01 | Command Post Operations | Cross-reference only | Framework for command post setup |
 | 213-02 | Emergency Incidents | Cross-reference only | Emergency response protocols |
-| 213-03 | Rapid Mobilization | **Full content** (see dedicated file) | Role-by-role duties, bureau exceptions, restraint kits |
+| 213-03 | Rapid Mobilization | **Full content** (see Rapid Mobilization section) | Role-by-role duties, bureau exceptions, restraint kits |
 | 213-04 | Mobilization Readiness Levels | Cross-reference only | Tiered alert system |
-| 213-05 | Duties at a Disorder | **Full content** (see dedicated file) | Deployment, team assignments, mobilization levels |
+| 213-05 | Duties at a Disorder | **Full content** (see Duties at a Disorder section) | Deployment, team assignments, mobilization levels |
 | 213-07 | Unusual Disorder Maps | Cross-reference only | Map preparation and use |
 | 213-08 | Unusual Disorder Plan | Cross-reference only | Overall disorder response plan |
 | 213-09 | Unusual Disorder Kits | **Full content** | Kit contents, storage, inspections |

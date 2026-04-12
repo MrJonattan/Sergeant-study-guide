@@ -478,6 +478,27 @@ html.dark .mnemonic-box .mnemonic-label { color: #66bb6a; }
 /* ── Keyboard hint ── */
 .kbd-hint { position: fixed; bottom: 1.5rem; right: 1.5rem; font-family: var(--font-mono); font-size: 0.6rem; opacity: 0.3; z-index: 10; }
 
+/* ── Shortcuts modal ── */
+#shortcuts-modal { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.6); z-index: 400; justify-content: center; align-items: center; }
+#shortcuts-modal.visible { display: flex; }
+.shortcuts-box { background: var(--bg); border: var(--rule); padding: 2rem; max-width: 500px; width: 90%; max-height: 80vh; overflow-y: auto; }
+.shortcuts-box h2 { font-family: var(--font-display); font-size: 1.4rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: var(--rule); }
+.shortcuts-grid { display: grid; grid-template-columns: auto 1fr; gap: 0.5rem 1rem; font-size: 0.9rem; }
+.shortcut-key { font-family: var(--font-mono); background: var(--bg-muted); padding: 0.2rem 0.5rem; border: var(--rule-thin); border-radius: 3px; font-size: 0.8rem; }
+.shortcut-desc { color: var(--fg); }
+.shortcuts-close { margin-top: 1.5rem; text-align: right; }
+
+/* ── Continue button ── */
+.continue-btn {
+  display: inline-flex; align-items: center; gap: 0.5rem;
+  font-family: var(--font-mono); font-size: 0.75rem; letter-spacing: 0.1em;
+  text-transform: uppercase; padding: 0.75rem 1.5rem;
+  border: var(--rule); background: var(--fg); color: var(--bg);
+  cursor: pointer; transition: background 0.1s, color 0.1s;
+  margin: 1rem 0;
+}
+.continue-btn:hover { background: var(--bg); color: var(--fg); }
+
 /* ── Responsive ── */
 @media (max-width: 768px) {
   #sidebar { transform: translateX(-100%); }
@@ -588,7 +609,21 @@ html.dark .mnemonic-box .mnemonic-label { color: #66bb6a; }
   </div></div>
 </div>
 
-<div class="kbd-hint">Ctrl+K search &middot; 1-4 answer &middot; N/P chapter</div>
+<div class="kbd-hint">Ctrl+K search &middot; 1-4 answer &middot; N/P chapter &middot; ? shortcuts</div>
+
+<div id="shortcuts-modal"><div class="shortcuts-box">
+  <h2>Keyboard Shortcuts</h2>
+  <div class="shortcuts-grid">
+    <span class="shortcut-key">Ctrl+K</span><span class="shortcut-desc">Open search</span>
+    <span class="shortcut-key">/</span><span class="shortcut-desc">Open search</span>
+    <span class="shortcut-key">Esc</span><span class="shortcut-desc">Close search / Go home</span>
+    <span class="shortcut-key">1-4</span><span class="shortcut-desc">Select answer A-D</span>
+    <span class="shortcut-key">N</span><span class="shortcut-desc">Next chapter</span>
+    <span class="shortcut-key">P</span><span class="shortcut-desc">Previous chapter</span>
+    <span class="shortcut-key">?</span><span class="shortcut-desc">Show this help</span>
+  </div>
+  <div class="shortcuts-close"><button class="btn" onclick="App.closeShortcuts()">Close</button></div>
+</div></div>
 
 <script src="data.js"></script>
 <script>
@@ -702,6 +737,10 @@ const App = (function() {
     document.documentElement.style.setProperty('--font-scale', prefs.fontScale);
     const btn = document.getElementById('dark-toggle');
     if (btn) btn.textContent = prefs.dark ? 'LIGHT' : 'DARK';
+  }
+  // Auto-detect system dark mode preference
+  if (!localStorage.getItem('nypd_prefs') && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    prefs.dark = true;
   }
   applyPrefs();
 
@@ -1035,6 +1074,8 @@ const App = (function() {
         const ch = D.chapters.find(c => c.id === id);
         return ch ? `<div class="recent-chip" onclick="App.nav('chapter/${id}')">${ch.sectionNum} ${ch.title}</div>` : '';
       }).join('')}</div>` : ''}
+
+      ${recentChapters.length > 0 ? `<button class="continue-btn" onclick="App.nav('chapter/'+recentChapters[0])">\u25B6 Continue: ${D.chapters.find(c => c.id === recentChapters[0])?.sectionNum} ${D.chapters.find(c => c.id === recentChapters[0])?.title}</button>` : ''}
 
       <div style="margin:1.5rem 0;">
         <button class="btn primary" onclick="App.nav('quickquiz')">Quick Quiz \u2014 10 Random Questions</button>
@@ -1671,7 +1712,8 @@ const App = (function() {
   document.addEventListener('keydown', function(e) {
     if(e.target.tagName==='INPUT'||e.target.tagName==='TEXTAREA'||e.target.tagName==='SELECT'){if(e.key==='Escape'){closeSearch();e.preventDefault();}return;}
     if((e.ctrlKey&&e.key==='k')||(e.key==='/'&&!e.ctrlKey&&!e.metaKey)){e.preventDefault();openSearch();return;}
-    if(e.key==='Escape'){if(document.getElementById('search-overlay').classList.contains('visible'))closeSearch();else nav('home');return;}
+    if(e.key==='Escape'){if(document.getElementById('search-overlay').classList.contains('visible'))closeSearch();else if(document.getElementById('shortcuts-modal').classList.contains('visible'))closeShortcuts();else nav('home');return;}
+    if(e.key==='?'){e.preventDefault();openShortcuts();return;}
     if(['1','2','3','4'].includes(e.key)){
       const letters=['A','B','C','D'];const letter=letters[parseInt(e.key)-1];
       const cards=document.querySelectorAll('.question-card');
@@ -1681,6 +1723,8 @@ const App = (function() {
     if(e.key==='n'||e.key==='N'){navChapter(1);return;}
     if(e.key==='p'||e.key==='P'){navChapter(-1);return;}
   });
+  function openShortcuts() { document.getElementById('shortcuts-modal').classList.add('visible'); }
+  function closeShortcuts() { document.getElementById('shortcuts-modal').classList.remove('visible'); }
   function navChapter(dir) {
     if(!currentChapter){if(dir>0)nav('chapter/'+D.chapters[0].id);return;}
     const idx=D.chapters.indexOf(currentChapter);const next=idx+dir;
@@ -1704,6 +1748,7 @@ const App = (function() {
 
   return {
     nav, toggleSidebar, toggleDark, adjustFont, resetFont, openSearch, closeSearch, goResult,
+    openShortcuts, closeShortcuts,
     showChapter: (id) => nav('chapter/'+id), setTab,
     answer, resetQuiz, setQF, toggleShuffle, toggleBM, toggleRead,
     startExam, examAns, submitExam, newExam, shuffleFlashcards,
