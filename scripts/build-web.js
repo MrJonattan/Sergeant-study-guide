@@ -126,9 +126,10 @@ function parsePracticeExam(md) {
 }
 
 function cleanReadme(md) {
-  // Remove "Chapter Contents" sections that list .md file links
+  // Remove internal navigation sections that list .md file links
   return md
     .replace(/## Chapter Contents\n[\s\S]*?(?=\n## |\n---|\n$)/g, '')
+    .replace(/## Study Files\n[\s\S]*?(?=\n## )/g, '')
     .replace(/\[([^\]]+)\]\([^)]*\.md\)/g, '$1')
     .replace(/\n{3,}/g, '\n\n')
     .trim();
