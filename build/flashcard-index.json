@@ -1,0 +1,254 @@
+[
+  {
+    "procedure": "P.G. 200",
+    "guide": "P.G.",
+    "chapter": "General",
+    "keyTerms": 13,
+    "notes": 0,
+    "sergeantFocus": 0,
+    "total": 13
+  },
+  {
+    "procedure": "P.G. 202",
+    "guide": "P.G.",
+    "chapter": "Duties & Responsibilities",
+    "keyTerms": 48,
+    "notes": 0,
+    "sergeantFocus": 0,
+    "total": 48
+  },
+  {
+    "procedure": "P.G. 207",
+    "guide": "P.G.",
+    "chapter": "Complaints",
+    "keyTerms": 70,
+    "notes": 1,
+    "sergeantFocus": 7,
+    "total": 78
+  },
+  {
+    "procedure": "P.G. 208",
+    "guide": "P.G.",
+    "chapter": "Arrests",
+    "keyTerms": 82,
+    "notes": 2,
+    "sergeantFocus": 19,
+    "total": 103
+  },
+  {
+    "procedure": "P.G. 209",
+    "guide": "P.G.",
+    "chapter": "Summonses",
+    "keyTerms": 81,
+    "notes": 1,
+    "sergeantFocus": 10,
+    "total": 92
+  },
+  {
+    "procedure": "P.G. 210",
+    "guide": "P.G.",
+    "chapter": "Prisoners",
+    "keyTerms": 77,
+    "notes": 1,
+    "sergeantFocus": 16,
+    "total": 94
+  },
+  {
+    "procedure": "P.G. 211",
+    "guide": "P.G.",
+    "chapter": "Court & Agency Appearances",
+    "keyTerms": 32,
+    "notes": 4,
+    "sergeantFocus": 17,
+    "total": 53
+  },
+  {
+    "procedure": "P.G. 212",
+    "guide": "P.G.",
+    "chapter": "Command Operations",
+    "keyTerms": 87,
+    "notes": 0,
+    "sergeantFocus": 27,
+    "total": 114
+  },
+  {
+    "procedure": "P.G. 213",
+    "guide": "P.G.",
+    "chapter": "Mobilization/Emergency Incidents",
+    "keyTerms": 53,
+    "notes": 11,
+    "sergeantFocus": 8,
+    "total": 72
+  },
+  {
+    "procedure": "P.G. 214",
+    "guide": "P.G.",
+    "chapter": "Quality of Life Matters",
+    "keyTerms": 75,
+    "notes": 0,
+    "sergeantFocus": 21,
+    "total": 96
+  },
+  {
+    "procedure": "P.G. 215",
+    "guide": "P.G.",
+    "chapter": "Juvenile Matters",
+    "keyTerms": 68,
+    "notes": 2,
+    "sergeantFocus": 12,
+    "total": 82
+  },
+  {
+    "procedure": "P.G. 216",
+    "guide": "P.G.",
+    "chapter": "Aided Cases",
+    "keyTerms": 105,
+    "notes": 2,
+    "sergeantFocus": 10,
+    "total": 117
+  },
+  {
+    "procedure": "P.G. 217",
+    "guide": "P.G.",
+    "chapter": "Vehicle Collisions",
+    "keyTerms": 113,
+    "notes": 0,
+    "sergeantFocus": 8,
+    "total": 121
+  },
+  {
+    "procedure": "P.G. 218",
+    "guide": "P.G.",
+    "chapter": "Property: General",
+    "keyTerms": 146,
+    "notes": 0,
+    "sergeantFocus": 9,
+    "total": 155
+  },
+  {
+    "procedure": "P.G. 219",
+    "guide": "P.G.",
+    "chapter": "Department Property",
+    "keyTerms": 101,
+    "notes": 0,
+    "sergeantFocus": 7,
+    "total": 108
+  },
+  {
+    "procedure": "P.G. 220",
+    "guide": "P.G.",
+    "chapter": "Citywide Incident Management",
+    "keyTerms": 105,
+    "notes": 0,
+    "sergeantFocus": 2,
+    "total": 107
+  },
+  {
+    "procedure": "P.G. 221",
+    "guide": "P.G.",
+    "chapter": "Tactical Operations",
+    "keyTerms": 61,
+    "notes": 0,
+    "sergeantFocus": 7,
+    "total": 68
+  },
+  {
+    "procedure": "A.G. 303",
+    "guide": "A.G.",
+    "chapter": "Duties & Responsibilities",
+    "keyTerms": 16,
+    "notes": 1,
+    "sergeantFocus": 0,
+    "total": 17
+  },
+  {
+    "procedure": "A.G. 304",
+    "guide": "A.G.",
+    "chapter": "General Regulations",
+    "keyTerms": 41,
+    "notes": 1,
+    "sergeantFocus": 6,
+    "total": 48
+  },
+  {
+    "procedure": "A.G. 305",
+    "guide": "A.G.",
+    "chapter": "Uniforms and Equipment",
+    "keyTerms": 55,
+    "notes": 0,
+    "sergeantFocus": 6,
+    "total": 61
+  },
+  {
+    "procedure": "A.G. 318",
+    "guide": "A.G.",
+    "chapter": "Disciplinary Matters",
+    "keyTerms": 67,
+    "notes": 0,
+    "sergeantFocus": 2,
+    "total": 69
+  },
+  {
+    "procedure": "A.G. 319",
+    "guide": "A.G.",
+    "chapter": "Civilian Personnel",
+    "keyTerms": 12,
+    "notes": 0,
+    "sergeantFocus": 1,
+    "total": 13
+  },
+  {
+    "procedure": "A.G. 320",
+    "guide": "A.G.",
+    "chapter": "Personnel Matters — General",
+    "keyTerms": 39,
+    "notes": 6,
+    "sergeantFocus": 0,
+    "total": 45
+  },
+  {
+    "procedure": "A.G. 324",
+    "guide": "A.G.",
+    "chapter": "Leave, Payroll & Timekeeping",
+    "keyTerms": 21,
+    "notes": 0,
+    "sergeantFocus": 0,
+    "total": 21
+  },
+  {
+    "procedure": "A.G. 329",
+    "guide": "A.G.",
+    "chapter": "Career Development",
+    "keyTerms": 22,
+    "notes": 0,
+    "sergeantFocus": 1,
+    "total": 23
+  },
+  {
+    "procedure": "A.G. 330",
+    "guide": "A.G.",
+    "chapter": "Medical, Health and Wellness",
+    "keyTerms": 58,
+    "notes": 0,
+    "sergeantFocus": 3,
+    "total": 61
+  },
+  {
+    "procedure": "A.G. 331",
+    "guide": "A.G.",
+    "chapter": "Evaluations",
+    "keyTerms": 55,
+    "notes": 9,
+    "sergeantFocus": 0,
+    "total": 64
+  },
+  {
+    "procedure": "A.G. 332",
+    "guide": "A.G.",
+    "chapter": "Employee Rights & Responsibilities",
+    "keyTerms": 56,
+    "notes": 15,
+    "sergeantFocus": 0,
+    "total": 71
+  }
+]
