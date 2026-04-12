@@ -8,6 +8,9 @@
     "build:web": "node scripts/build-web.js && cp build/data.js docs/data.js",
     "build:pdf": "bash scripts/build-pdf.sh",
     "test": "node scripts/validate-data.js",
-    "deploy": "npm run build:web && cp src/index.html src/manifest.json src/sw.js docs/ && git add docs/ && echo 'Ready to commit: git commit -am \"Deploy update\" && git push'"
+    "deploy": "npm run build:web && cp src/index.html src/manifest.json src/sw.js docs/ && git add docs/ && echo 'Ready to commit: git commit -am \"Deploy update\" && git push'",
+    "export:anki": "node scripts/export-anki.js",
+    "schedule": "node scripts/generate-study-schedule.js",
+    "study": "npm run export:anki && npm run schedule && open build/study-schedule.md"
   }
 }
