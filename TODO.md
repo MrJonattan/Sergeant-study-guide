@@ -1,6 +1,6 @@
 # Study Guide Completion Checklist
 
-> **Status:** 100% complete as of 2026-04-11
+> **Status:** 100% complete as of 2026-04-12
 > **Goal:** Comprehensive NYPD Sergeant Promotional Exam study guide covering all testable material
 
 ---
@@ -37,6 +37,29 @@
 
 *None — all planned improvements complete.*
 
+## Study Proficiency Tools (Added 2026-04-12)
+
+- [x] Anki flashcard export system (scripts/export-anki.js)
+  - [x] 525 chapter questions → anki-chapter-questions.csv
+  - [x] 140 master exam questions → anki-master-exam.csv
+  - [x] 1,759 key terms → anki-key-terms.csv
+  - [x] 199 Sergeant Focus callouts → anki-sergeant-focus.csv
+  - [x] 56 notes → anki-notes.csv
+  - [x] 2,014 consolidated cards → anki-flashcards-consolidated.csv (PG/AG organized)
+  - [x] flashcard-index.json (28 procedures indexed)
+- [x] Study schedule generator (scripts/generate-study-schedule.js)
+  - [x] 12-week plan with priority-based ordering
+  - [x] Built-in review weeks and practice exams
+  - [x] Daily study template
+- [x] Flashcards view in web app
+  - [x] Browse by P.G. / A.G. procedure number
+  - [x] Filter: All | Patrol Guide | Admin Guide
+  - [x] Search across all flashcards
+  - [x] Flip cards for answers
+  - [x] Color-coded: Key Terms (green), Sergeant Focus (gold), Notes (blue)
+- [x] STUDY-GUIDE.md — Comprehensive study workflow documentation
+- [x] npm scripts: `export:anki`, `schedule`, `study`
+
 ## Exam Coverage Summary
 
 | Metric | Count |
@@ -49,3 +72,10 @@
 | Memory Aids (mnemonics) | 99+ |
 | Prior Test scenarios | 39 |
 | PG Conflicts documented | 20 |
+| **Flashcards (total)** | **4,693** |
+| ─ Key terms | 1,759 |
+| ─ Chapter questions | 525 |
+| ─ Master exam | 140 |
+| ─ Sergeant Focus | 199 |
+| ─ Notes | 56 |
+| ─ Consolidated (PG/AG) | 2,014 |
