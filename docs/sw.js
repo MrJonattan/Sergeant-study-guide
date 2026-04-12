@@ -1,4 +1,4 @@
-const CACHE_NAME = 'nypd-sgt-v2';
+const CACHE_NAME = 'nypd-sgt-v3-notes';
 const ASSETS = ['./index.html', './data.js', './manifest.json'];
 
 self.addEventListener('install', e => {
