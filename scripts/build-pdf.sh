@@ -53,11 +53,13 @@ for chapter in "${CHAPTERS[@]}"; do
     continue
   fi
 
-  # Add README (chapter overview) with internal navigation sections removed
+  # Add README (chapter overview) with internal navigation removed
   if [ -f "$chapter_dir/README.md" ]; then
-    # Remove "## Study Files" and "## Chapter Contents" sections (internal navigation)
+    # Remove "## Study Files", "## Chapter Contents", "## Study Tips" sections, and strip .md file links
     sed -E '/^## Study Files$/,/^## /{ /^## Study Files$/d; /^## /!d; }' "$chapter_dir/README.md" | \
-    sed -E '/^## Chapter Contents$/,/^## |^$/{ /^## Chapter Contents$/d; /^## /!d; }' >> "$COMBINED"
+    sed -E '/^## Chapter Contents$/,/^## |^$/{ /^## Chapter Contents$/d; /^## /!d; }' | \
+    sed -E '/^## Study Tips$/,/^## /{ /^## Study Tips$/d; /^## /!d; }' | \
+    sed -E 's/\[([^]]*)\.md\]\([^)]*\.md\)/\1/g' >> "$COMBINED"
     echo "" >> "$COMBINED"
     echo "---" >> "$COMBINED"
     echo "" >> "$COMBINED"
