@@ -208,7 +208,7 @@ A prisoner is considered **high risk** based on ANY of the following:
 | Meal periods | 0500-0600, 1200-1300, 1800-1900 |
 | Prohibited | **NO hot liquids** (coffee, tea, hot chocolate) |
 
-*(See P.G. 210-06 in section-210-medical-meals.md for full meal procedures.)*
+*(See P.G. 210-06 for full meal procedures.)*
 
 ---
 
