@@ -25,29 +25,29 @@ After studying this chapter, you should be able to:
 
 ## Procedure Index
 
-| Procedure | Title | Status |
+| Procedure | Title | Coverage |
 |-----------|-------|--------|
-| P.G. 215-01 | Children/Minors Requiring Care and/or Shelter | Cross-reference only |
-| P.G. 215-02 | Lost Child | Full text |
-| P.G. 215-03 | Emergency Removals or Investigations and Reporting of Abused, Neglected or Maltreated Children | Cross-reference only |
-| P.G. 215-04 | Family Court Warrant/Remand Order for Juvenile | Cross-reference only |
-| P.G. 215-05 | Runaway Children | Full text |
-| P.G. 215-07 | Truants | Cross-reference only |
-| P.G. 215-08 | On-Line Juvenile Report System | Cross-reference only |
-| P.G. 215-09 | Offense by Juvenile Under 18 (Not JO/AO) | Full text |
-| P.G. 215-10 | Arrest of Juvenile Offender/Adolescent Offender | Cross-reference only |
-| P.G. 215-11 | Arrest of Juvenile Unlawfully in Certain Licensed Premises | Full text |
-| P.G. 215-12 | Personal Recognizance — Juvenile Delinquent | Cross-reference only |
-| P.G. 215-13 | Handcuffing/Restraining Students in Schools | Cross-reference only |
-| P.G. 215-14 | Child Advocacy Referrals | Full text |
-| P.G. 215-16 | Reporting School-Related Criminal Incidents | Cross-reference only |
-| P.G. 215-17 | Police Actions at DOE Schools | Full text |
-| P.G. 215-18 | Search Protocols for School Safety Agents | Full text |
-| P.G. 215-22 | Requests for Assistance from ACS Child Protection Specialists | Full text |
-| P.G. 215-23 | Court Processing of Juvenile Offenders/Adolescent Offenders on Weekends/Holidays | Cross-reference only |
-| P.G. 215-27 | School-Related Threats | Full text |
-| P.G. 215-28 | Use of Child Car Seats | Full text |
-| P.G. 215-29 | Electronic Recording of Custodial Interrogations of Juveniles | Cross-reference only |
+| P.G. 215-01 | Children/Minors Requiring Care and/or Shelter | covered in section files |
+| P.G. 215-02 | Lost Child | covered in section-215-lost-runaway-children.md |
+| P.G. 215-03 | Emergency Removals | covered in section-215-child-protection.md |
+| P.G. 215-04 | Family Court Warrant/Remand | covered in section files |
+| P.G. 215-05 | Runaway Children | covered in section-215-lost-runaway-children.md |
+| P.G. 215-07 | Truants | covered in section-215-school-related.md |
+| P.G. 215-08 | On-Line Juvenile Report | covered in section files |
+| P.G. 215-09 | Offense by Juvenile Under 18 | covered in section-215-juvenile-delinquency.md |
+| P.G. 215-10 | Arrest of JO/AO | covered in section-215-juvenile-delinquency.md |
+| P.G. 215-11 | Arrest in Licensed Premises | covered in section-215-juvenile-delinquency.md |
+| P.G. 215-12 | Personal Recognizance | covered in section-215-juvenile-delinquency.md |
+| P.G. 215-13 | Handcuffing in Schools | covered in section-215-school-related.md |
+| P.G. 215-14 | Child Advocacy Referrals | covered in section-215-child-protection.md |
+| P.G. 215-16 | Reporting School Incidents | covered in section-215-school-related.md |
+| P.G. 215-17 | Police Actions at Schools | covered in section-215-school-related.md |
+| P.G. 215-18 | Search Protocols SSA | covered in section-215-school-related.md |
+| P.G. 215-22 | ACS CPS Assistance | covered in section-215-child-protection.md |
+| P.G. 215-23 | JO/AO Weekend Processing | covered in section-215-juvenile-delinquency.md |
+| P.G. 215-27 | School-Related Threats | covered in section-215-school-related.md |
+| P.G. 215-28 | Child Car Seats | covered in section-215-child-protection.md |
+| P.G. 215-29 | Electronic Recording | covered in section-215-juvenile-delinquency.md |
 
 ## Sergeant Focus Areas
 

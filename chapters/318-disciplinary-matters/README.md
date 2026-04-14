@@ -30,9 +30,9 @@
 | A.G. 318-11 | Interrogation of Members of the Service | completed |
 | A.G. 318-12 | Sealing of "B" CDs | completed |
 | A.G. 318-14 | Citywide CD System | completed |
-| A.G. 318-06 | (Suspension of UMOS — 49 distribution covered) | blocked |
-| A.G. 318-07 | (Suspension of CMOS — 49 distribution covered) | blocked |
-| A.G. 318-08 | (Cause for Modified — Captain's procedure) | blocked |
+| A.G. 318-06 | Suspension of UMOS | completed (covered in 318-10 file) |
+| A.G. 318-07 | Suspension of CMOS | completed (covered in 318-10 file) |
+| A.G. 318-08 | Cause for Modified Assignment | completed (covered in 318-10 file) |
 
 ## Chapter Files
 
@@ -42,7 +42,7 @@
 | `section-318-issuance-cds.md` | A.G. 318-02: CD process from initiation through adjudication, three election options, Review Panel, transfer rules, IAB-originated CDs, day-type distinctions |
 | `section-318-cause-for-suspension.md` | A.G. 318-05: Must vs. authorized to suspend, A DOG CAR mnemonic, G.D.A.S.S. clubs, Sgt vs. TM/SSDD authority, re-suspension |
 | `section-318-mos-arrested.md` | A.G. 318-09: MOS arrested in-city vs. outside city, notification chains, Ranking Officer investigation, 30-day reporting, court appearance updates |
-| `section-318-unfit-for-duty.md` | A.G. 318-10: Unfit for duty procedures, 49 distribution comparison table across 318-06/07/08/10 |
+| `section-318-unfit-for-duty.md` | A.G. 318-10: Unfit for duty procedures, 49 distribution comparison table across 318-06/07/08/10; also covers 318-06 (Suspend UMOS), 318-07 (Suspend CMOS), 318-08 (Modified) distribution rules |
 | `section-318-removal-firearms-intoxicated.md` | A.G. 318-10: PD469-150 preparation, investigation standard, firearms removal, report distribution (8 copies), mandatory counseling referral |
 | `section-318-citywide-cd-system.md` | A.G. 318-14: Database entry deadlines, access management, record removal/destruction timeframes, sealing of "B" CDs |
 | `section-318-interrogation-mos.md` | A.G. 318-11: PD339-121, counsel rights, BWC viewing, prohibited tactics, Garrity warning, tape/transcript deadlines, member obligations |
