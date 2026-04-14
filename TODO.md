@@ -1,6 +1,6 @@
 # Study Guide Completion Checklist
 
-> **Status:** 100% complete as of 2026-04-12
+> **Status:** 100% complete as of 2026-04-14
 > **Goal:** Comprehensive NYPD Sergeant Promotional Exam study guide covering all testable material
 
 ---
@@ -28,10 +28,11 @@
 - [x] Expand chapters 320, 331, 332 with AG procedures (14 new section files across 3 chapters)
 - [x] Verify A.G. 303-04 Borough Adjutant — already complete in section-303-borough-command.md
 - [x] Verify A.G. 320 — confirmed only 3 procedures exist (320-01 through 320-03), all complete
-- [x] Extract and add P.G. 221-15 Vehicle Pursuits from source PDF (2026-04-12)
-- [x] Extract and add A.G. 304-10 False/Misleading Statements (2026-04-12)
-- [x] Extract and add A.G. 304-13 Parades/Funerals (2026-04-12)
-- [x] Extract and add A.G. 304-14 Gifts & Compensation (2026-04-12)
+- [x] Extract and add P.G. 221-15 Vehicle Pursuits from source PDF (2026-04-14)
+- [x] Extract and add A.G. 304-10 False/Misleading Statements (2026-04-14)
+- [x] Extract and add A.G. 304-13 Parades/Funerals (2026-04-14)
+- [x] Extract and add A.G. 304-14 Gifts & Compensation (2026-04-14)
+- [x] README status tables fixed for chapters 215, 221, 318 (2026-04-14)
 
 ## Remaining Minor Gaps
 
@@ -71,7 +72,7 @@
 | Total chapters | 28 |
 | Chapter review questions | 729 |
 | Master exam questions | 140 |
-| Sergeant Focus callouts | 199 |
+| Sergeant Focus callouts | 202 |
 | The Key lesson PDFs converted | 24 |
 | Memory Aids (mnemonics) | 99+ |
 | Prior Test scenarios | 39 |
@@ -80,6 +81,6 @@
 | ─ Key terms | 1,759 |
 | ─ Chapter questions | 525 |
 | ─ Master exam | 140 |
-| ─ Sergeant Focus | 199 |
+| ─ Sergeant Focus | 202 |
 | ─ Notes | 56 |
 | ─ Consolidated (PG/AG) | 2,014 |
