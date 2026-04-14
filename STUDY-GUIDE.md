@@ -1,6 +1,6 @@
 # NYPD Sergeant Exam — Proficient Study Guide
 
-> **Generated:** 2026-04-12 | **Version:** 2.0
+> **Generated:** 2026-04-14 | **Version:** 2.1
 
 This guide shows you how to study **more proficiently** using all available tools and features.
 
@@ -31,9 +31,9 @@ open docs/index.html
 | **Chapter Questions** | 569 | Web app Quiz mode |
 | **Master Exam Questions** | 140 | Web app Exam mode |
 | **Key Terms** | 1,759 | Anki export |
-| **Sergeant Focus Callouts** | 199 | Web app + Anki |
+| **Sergeant Focus Callouts** | 202 | Web app + Anki |
 | **Notes (Critical Details)** | 56 | Web app + Anki |
-| **Total Flashcards** | 2,679 | `build/anki-*.csv` |
+| **Total Flashcards** | 4,693+ | `build/anki-*.csv` |
 
 ---
 
@@ -115,7 +115,7 @@ Open: `docs/index.html`
 - **Score History** — Track improvement over time
 
 ### Sergeant Focus
-- **199 supervisor-specific callouts**
+- **202 supervisor-specific callouts**
 - Organized by 15 job categories:
   - Prisoner Management
   - Arrest Processing
@@ -164,7 +164,7 @@ Open: `docs/index.html`
 | `anki-chapter-questions.csv` | 525 | Chapter quiz practice |
 | `anki-master-exam.csv` | 140 | Full exam simulation |
 | `anki-key-terms.csv` | 1,759 | Vocabulary memorization |
-| `anki-sergeant-focus.csv` | 199 | Supervisor duties |
+| `anki-sergeant-focus.csv` | 202 | Supervisor duties |
 | `anki-notes.csv` | 56 | Critical details |
 
 ### Import to Anki
