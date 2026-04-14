@@ -1,4 +1,4 @@
-const CACHE_NAME = 'nypd-sgt-v5-flashcards';
+const CACHE_NAME = 'nypd-sgt-v6-pg221-15';
 const ASSETS = ['./index.html', './data.js', './manifest.json'];
 
 self.addEventListener('install', e => {
