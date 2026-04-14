@@ -173,11 +173,11 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 
 ## Sergeant Focus
 
-> **★ SERGEANT FOCUS:** As a supervisor, you must **respond to the scene** when feasible and **actively monitor** the pursuit via radio. You have the **authority and responsibility** to direct termination if the danger to the public outweighs the benefit of apprehension.
+> **Sergeant Focus:** As a supervisor, you must **respond to the scene** when feasible and **actively monitor** the pursuit via radio. You have the **authority and responsibility** to direct termination if the danger to the public outweighs the benefit of apprehension.
 
-> **★ SERGEANT FOCUS:** Know the **prohibited tactics** — Forcible stopping and roadblocks are **NEVER authorized** during a vehicle pursuit. Officers may confuse these with permissible tactics like traffic control or PIM (which is only allowed on **stationary** vehicles).
+> **Sergeant Focus:** Know the **prohibited tactics** — Forcible stopping and roadblocks are **NEVER authorized** during a vehicle pursuit. Officers may confuse these with permissible tactics like traffic control or PIM (which is only allowed on **stationary** vehicles).
 
-> **★ SERGEANT FOCUS:** **Reckless Driving (VTL § 1212)** is explicitly defined as a **non-violent misdemeanor** — pursuits for this offense alone are **NOT authorized**. This is heavily tested.
+> **Sergeant Focus:** **Reckless Driving (VTL § 1212)** is explicitly defined as a **non-violent misdemeanor** — pursuits for this offense alone are **NOT authorized**. This is heavily tested.
 
 ---
 
