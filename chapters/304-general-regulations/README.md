@@ -15,6 +15,9 @@
 - Identify prohibited conduct categories, political restrictions, and relationship restrictions
 - Know personal appearance standards, locker sticker rules, and 8-Point Cap requirements
 - Understand facial hair policy exceptions and religious head covering accommodations
+- Know the three types of prohibited statements: false, misleading, and inaccurate
+- Understand gift acceptance rules, pre-approval requirements, and reporting thresholds
+- Know uniform wear rules for parades, funerals, and law enforcement events
 
 ## Procedures
 
@@ -27,9 +30,9 @@
 | A.G. 304-07 | Personal Appearance | completed |
 | A.G. 304-08 | Facial Hair Policy | completed |
 | A.G. 304-09 | Religious Head Covering | completed |
-| A.G. 304-10 | Making False Statements | not_started |
-| A.G. 304-13 | Attendance at Parades, Funerals, Other | not_started |
-| A.G. 304-14 | Acceptance of Gifts & Other Compensation | not_started |
+| A.G. 304-10 | Making False Statements | completed |
+| A.G. 304-13 | Attendance at Parades, Funerals, Other | completed |
+| A.G. 304-14 | Acceptance of Gifts & Other Compensation | completed |
 | A.G. 325-35 | Department Computer Use Policy | completed |
 
 ## Chapter Files
@@ -42,7 +45,10 @@
 | `section-304-prohibited-conduct.md` | A.G. 304-06: General prohibitions, relationships, political restrictions, Community Board rules, off-duty restrictions, operational rules |
 | `section-304-personal-appearance.md` | A.G. 304-07/08/09: Appearance standards, 8-Point Cap, locker stickers, hair/jewelry/tattoo rules, facial hair policy, religious head covering |
 | `section-304-computer-use-policy.md` | A.G. 325-35: Department computer use policy, monitoring notice, prohibited uses |
-| `key-terms.md` | Definitions, disciplinary consequences, counseling protections, courtesies, compliance, prohibited conduct, appearance terms |
+| `section-304-10-false-statements.md` | A.G. 304-10: False/misleading/inaccurate statements, material facts, impeding investigations, separation penalties |
+| `section-304-13-parades-funerals.md` | A.G. 304-13: Uniform wear rules, alcohol/firearms restrictions, event monitoring, out-of-state permissions |
+| `section-304-14-gifts-compensation.md` | A.G. 304-14: Gift acceptance policy, pre-approval requirements, Commissioner vs. CO determinations, IAB reporting |
+| `key-terms.md` | Definitions, disciplinary consequences, counseling protections, courtesies, compliance, prohibited conduct, appearance terms, statements, gifts, events |
 | `review-questions.md` | 16 multiple-choice questions covering all AG 304 sections |
 
 ## Sergeant Focus Areas

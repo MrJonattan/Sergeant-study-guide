@@ -28,6 +28,10 @@
 - [x] Expand chapters 320, 331, 332 with AG procedures (14 new section files across 3 chapters)
 - [x] Verify A.G. 303-04 Borough Adjutant — already complete in section-303-borough-command.md
 - [x] Verify A.G. 320 — confirmed only 3 procedures exist (320-01 through 320-03), all complete
+- [x] Extract and add P.G. 221-15 Vehicle Pursuits from source PDF (2026-04-12)
+- [x] Extract and add A.G. 304-10 False/Misleading Statements (2026-04-12)
+- [x] Extract and add A.G. 304-13 Parades/Funerals (2026-04-12)
+- [x] Extract and add A.G. 304-14 Gifts & Compensation (2026-04-12)
 
 ## Remaining Minor Gaps
 
