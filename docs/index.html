@@ -1512,12 +1512,13 @@ const App = (function() {
   }
 
   // ── Notes View ──
-  let notesViewState = { groupBy: 'procedure', expanded: [] };
+  let notesViewState = { groupBy: 'procedure', expanded: [], showStudyNotes: true };
 
   function showNotes() {
     tabBar.innerHTML = '';
     setBreadcrumbs({ label: 'Dashboard', action: "App.nav('home')" }, { label: 'Notes' });
     const allNotes = D.notes || [];
+    const studyNotes = D.studyNotes || '';
 
     // Group notes by procedure or by chapter
     const grouped = {};
@@ -1531,10 +1532,21 @@ const App = (function() {
     const topics = [...new Set(allNotes.map(n => n.chapterTitle))].sort();
 
     let html = `<div class="view-header">
-      <h2>Procedure Notes</h2>
-      <p>Official NOTE markers from Patrol Guide and Administrative Guide procedures</p>
+      <h2>Notes & Study Guide</h2>
+      <p>Curated high-yield exam notes + procedure NOTE markers</p>
 
       <div class="notes-toolbar" style="margin-top:1rem;display:flex;gap:0.5rem;flex-wrap:wrap;align-items:center;">
+        <button class="btn" onclick="App.toggleNotesView('study')" style="padding:0.5rem 1rem;border-radius:4px;background:${notesViewState.showStudyNotes ? 'var(--accent)' : 'var(--card)'};color:${notesViewState.showStudyNotes ? 'var(--bg)' : 'var(--fg)'};border:1px solid var(--border);">📚 Study Notes</button>
+        <button class="btn" onclick="App.toggleNotesView('procedure')" style="padding:0.5rem 1rem;border-radius:4px;background:${!notesViewState.showStudyNotes ? 'var(--accent)' : 'var(--card)'};color:${!notesViewState.showStudyNotes ? 'var(--bg)' : 'var(--fg)'};border:1px solid var(--border);">📋 Procedure Notes (${allNotes.length})</button>
+      </div>
+    </div>`;
+
+    if (notesViewState.showStudyNotes && studyNotes) {
+      html += `<div class="study-notes-content" style="padding:1.5rem;">
+        ${renderMd(studyNotes)}
+      </div>`;
+    } else {
+      html += `<div class="notes-toolbar" style="margin-top:1rem;display:flex;gap:0.5rem;flex-wrap:wrap;align-items:center;">
         <input type="text" id="notes-filter" placeholder="Search notes..."
           style="flex:1;min-width:200px;padding:0.5rem 0.75rem;border:1px solid var(--border);border-radius:4px;background:var(--card);color:var(--fg);"
           oninput="App.filterNotes(this.value)">
@@ -1557,7 +1569,6 @@ const App = (function() {
         <button class="chip" onclick="App.clearFilter()" style="padding:0.25rem 0.75rem;border:1px solid var(--accent);border-radius:999px;background:var(--accent);color:var(--bg);cursor:pointer;font-size:0.75rem;font-weight:600;">Clear</button>
       </div>
     </div>
-
     <div class="notes-list" id="notes-list">`;
 
     const sortedKeys = Object.keys(grouped).sort();
@@ -1613,6 +1624,15 @@ const App = (function() {
   function setNotesGroup(mode) {
     notesViewState.groupBy = mode;
     notesViewState.expanded = [];
+    showNotes();
+  }
+
+  function toggleNotesView(mode) {
+    if (mode === 'study') {
+      notesViewState.showStudyNotes = true;
+    } else {
+      notesViewState.showStudyNotes = false;
+    }
     showNotes();
   }
 
@@ -2236,7 +2256,7 @@ const App = (function() {
     startExam, examAns, submitExam, newExam, shuffleFlashcards,
     exportData, importData, clearData, saveGoal,
     qqAnswer, showView: nav,
-    filterNotes, filterByChapter, clearFilter, setNotesGroup, toggleNoteGroup, copyNote, exportNotes,
+    filterNotes, filterByChapter, clearFilter, setNotesGroup, toggleNotesView, toggleNoteGroup, copyNote, exportNotes,
     setFlashcardFilter, setFlashcardSearch, toggleFlashcardGroup, flipFlashcard, downloadAnki,
   };
 })();

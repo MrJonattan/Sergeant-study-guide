@@ -265,6 +265,7 @@ for (const id of CHAPTER_ORDER) {
 // Static assets live in assets/ (committed to git)
 const cheatSheet = readFile(path.join(PROJECT, 'assets', 'quick-reference-cheat-sheet.md')) || '';
 const examRaw = readFile(path.join(PROJECT, 'assets', 'master-practice-exam.md')) || '';
+const studyNotesRaw = readFile(path.join(PROJECT, 'assets', 'study-notes.md')) || '';
 const examQuestions = parsePracticeExam(examRaw);
 
 // Flatten all notes with chapter reference
@@ -284,7 +285,8 @@ const data = {
   cheatSheet,
   examQuestions,
   totalQuestions: chapters.reduce((s, c) => s + c.questions.length, 0),
-  notes: allNotes
+  notes: allNotes,
+  studyNotes: studyNotesRaw
 };
 
 fs.mkdirSync(OUTPUT_DIR, { recursive: true });
