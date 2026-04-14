@@ -30,7 +30,7 @@
 | P.G. 221-10 | Use and Issuance of Shotguns/Long Guns/Automatic Weapons | completed |
 | P.G. 221-11 | Guidelines and Approval Process for Distraction Devices | completed |
 | P.G. 221-13 | Mentally Ill or Emotionally Disturbed Persons | completed |
-| P.G. 221-15 | Vehicle Pursuits | not_started (not in OCR) |
+| P.G. 221-15 | Vehicle Pursuits | completed |
 | P.G. 221-16 | Vehicle Checkpoints | completed |
 | P.G. 221-18 | Use of Department Canine Teams | completed |
 | P.G. 221-21 | School Safety Agent — Victim of an Offense While Performing Duty | completed |
@@ -46,6 +46,7 @@
 | `section-221-firearms-custody-death.md` | 221-04, 221-05, 221-23: Firearms discharge investigation, death in custody, alcohol testing |
 | `section-221-less-lethal.md` | 221-07, 221-08, 221-09: O.C. pepper spray, CEW (TASER 7), tear gas |
 | `section-221-special-weapons.md` | 221-10, 221-11: Shotguns/long guns/automatic weapons, distraction devices |
+| `section-221-15-pursuits.md` | 221-15: Vehicle pursuits, initiation criteria, prohibited tactics, termination rules, post-pursuit requirements |
 | `section-221-edp-tactical.md` | 221-06, 221-13, 221-16, 221-18, 221-21, 221-22: MOS subjected to force, EDP, vehicle checkpoints, canine teams, school safety/TEA |
 | `key-terms.md` | Comprehensive definitions, force levels, approval authorities, timeframes, forms |
 | `review-questions.md` | 25 multiple-choice questions covering all major tactical operations concepts |
