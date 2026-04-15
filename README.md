@@ -35,11 +35,11 @@ This project converts the NYPD's 1,600-page Patrol Guide into a structured, sear
 | Metric | Count |
 |--------|-------|
 | Chapters | 28 (PG sections 200-332) |
-| Section files | 135 |
-| Chapter review questions | 564 |
-| Master practice exam questions | 120 (with explanations) |
+| Section files | 171 |
+| Chapter review questions | 569 |
+| Master practice exam questions | 140 (with explanations) |
 | Exam callouts (alerts, mnemonics, prior test notes) | 1,331 |
-| Combined study guide | 38,220 lines |
+| Combined study guide | 49,038 lines |
 | Key terms files | 28 |
 
 ---
