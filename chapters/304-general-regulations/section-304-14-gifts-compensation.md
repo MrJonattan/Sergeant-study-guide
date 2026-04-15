@@ -1,16 +1,14 @@
-# A.G. 304-14 — Guidelines for Acceptance of Gifts and Other Compensation by Members of the Service
+# Section 304 — Acceptance of Gifts and Other Compensation
 
-> **Date Effective:** 06/10/21 | **Last Revision:** I.O. 41 | **Page:** 1 of 2
+## A.G. 304-14: Guidelines for Acceptance of Gifts and Other Compensation by Members of the Service
 
----
+**Date Effective:** 06/10/21 | **Last Revision:** I.O. 41 | **Pages:** 2
 
-## Purpose
+### Purpose
 
 To provide guidance to members of the service relating to acceptance of gifts and other compensation.
 
----
-
-## Policy
+### Policy
 
 **Members of the service may not accept any reward, gratuity, gift or other compensation for any service performed as a result of or in conjunction with their duties as public servants.**
 
@@ -21,10 +19,6 @@ All exceptions must be in accordance with:
 This policy applies **regardless of whether the service was performed while said members were on or off duty**.
 
 **Members shall not solicit any gift, gratuity, loan, present, fee or reward for personal gain.**
-
----
-
-## Scope
 
 ### Permitted Gifts (Tokens of Appreciation)
 
@@ -39,18 +33,22 @@ It is **not unethical or illegal** to accept gifts commonly offered as tokens of
 - **Cash rewards**
 - **Personal gifts** (e.g., wristwatches, etc.)
 
----
+> **Exam Alert:** **Permitted vs. prohibited** — Plaques/pen sets = OK. Cash/wristwatches = prohibited. Know the difference.
 
-## Procedure
+> **Exam Alert:** **Policy applies on or off duty** — The gift policy applies regardless of whether service was performed on or off duty.
 
-### MEMBER CONCERNED
+### Procedure
+
+**MEMBER CONCERNED**
 
 | Step | Action |
 |------|--------|
 | 1 | Comply with Department regulations relating to **financial restrictions and prohibited acts/prohibited interests** |
 | 2 | **Notify commanding officer PRIOR to acceptance of gift** |
 
-### COMMANDING OFFICER CONCERNED
+> **Sergeant Focus:** Members must notify commanding officer **PRIOR to acceptance** — not after. Pre-approval is required.
+
+**COMMANDING OFFICER CONCERNED**
 
 | Step | Action |
 |------|--------|
@@ -59,18 +57,18 @@ It is **not unethical or illegal** to accept gifts commonly offered as tokens of
 
 > **NOTE:** Commanding officers are responsible to ensure command copies of Board of Ethics rulings are maintained in Command Reference Library as required by **A.G. 325-18**.
 
----
+> **Exam Alert:** **Board of Ethics** — All exceptions must comply with Chapter 68 of NYC Charter and Board of Ethics rulings.
 
-## Gift Determination Flow
+### Gift Determination Flow
 
-### IF GIFT IS A REWARD OR PRESENT FOR POLICE SERVICE RENDERED IN DISCHARGE OF OFFICIAL DUTY:
+**IF GIFT IS A REWARD OR PRESENT FOR POLICE SERVICE RENDERED IN DISCHARGE OF OFFICIAL DUTY:**
 
 | Step | Action |
 |------|--------|
 | 4 | Commanding officer prepares **report on Typed Letterhead to the Police Commissioner** |
 | 5 | Police Commissioner conducts **review and final determination** regarding acceptability |
 
-### IF GIFT IS OFFERED BY A PERSON/FIRM WHICH IS, OR INTENDS TO ENGAGE IN BUSINESS DEALING WITH THE CITY OF NEW YORK:
+**IF GIFT IS OFFERED BY A PERSON/FIRM WHICH IS, OR INTENDS TO ENGAGE IN BUSINESS DEALING WITH THE CITY OF NEW YORK:**
 
 | Step | Action |
 |------|--------|
@@ -79,40 +77,20 @@ It is **not unethical or illegal** to accept gifts commonly offered as tokens of
 | | a. Request ruling by **Board of Ethics** if circumstances are peculiar and not reflected in current rulings |
 | 8 | Prepare **report to Deputy Commissioner, Internal Affairs, through channels** for any member who receives **two or more gifts** within a calendar year |
 
----
+> **Sergeant Focus:** Know the **two-track process**: (1) Reward for police service = Police Commissioner decides, (2) Gift from city business dealer = Commanding Officer decides after reviewing City Charter § 2604(B)(5).
 
-## Sergeant Focus
+> **Sergeant Focus:** **Two or more gifts** in a calendar year = report to **Deputy Commissioner, Internal Affairs** regardless of value or source.
 
-> **★ SERGEANT FOCUS:** Know the **two-track process**: (1) Reward for police service = Police Commissioner decides, (2) Gift from city business dealer = Commanding Officer decides after reviewing City Charter § 2604(B)(5).
+> **Exam Alert:** **Multiple gifts** — Two or more gifts in a calendar year triggers IAB report, regardless of value or source.
 
-> **★ SERGEANT FOCUS:** Members must notify commanding officer **PRIOR to acceptance** — not after. Pre-approval is required.
-
-> **★ SERGEANT FOCUS:** **Two or more gifts** in a calendar year = report to **Deputy Commissioner, Internal Affairs** regardless of value or source.
-
----
-
-## Exam Alerts
-
-> **⚠️ EXAM ALERT:** **Permitted vs. prohibited** — Plaques/pen sets = OK. Cash/wristwatches = prohibited. Know the difference.
-
-> **⚠️ EXAM ALERT:** **Policy applies on or off duty** — The gift policy applies regardless of whether service was performed on or off duty.
-
-> **⚠️ EXAM ALERT:** **Board of Ethics** — All exceptions must comply with Chapter 68 of NYC Charter and Board of Ethics rulings.
-
-> **⚠️ EXAM ALERT:** **Multiple gifts** — Two or more gifts in a calendar year triggers IAB report, regardless of value or source.
-
----
-
-## Memory Aids
-
-> **🧠 MEMORY AID — GIFTS:**
+> **Memory Aid — GIFTS:**
 > - **G**enerally prohibited (rewards, gratuities, compensation)
 > - **I**n writing to Commissioner (for service rewards)
 > - **F**inal determination = Police Commissioner or CO (depends on source)
 > - **T**okens of appreciation OK (plaques, pen sets)
 > - **S**olicit = prohibited
 
-> **🧠 MEMORY AID — NO CASH:**
+> **Memory Aid — NO CASH:**
 > - **N**otify CO prior to acceptance
 > - **O**n or off duty = policy applies
 > - **C**ash rewards = forbidden
@@ -120,18 +98,10 @@ It is **not unethical or illegal** to accept gifts commonly offered as tokens of
 > - **S**ource matters (city dealer = CO reviews Charter)
 > - **H**onor two-gift rule (report to IAB)
 
----
-
-## Related Procedures
+### See Also
 
 | Procedure | Title |
 |-----------|-------|
 | A.G. 325-18 | Command Reference Library |
 | NYC Charter § 68 | Conflicts of Interest |
 | NYC Charter § 2604(B)(5) | Business Dealings with City |
-
----
-
-## Review Questions
-
-*See review-questions.md for practice questions on this procedure.*

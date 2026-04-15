@@ -1,16 +1,14 @@
-# A.G. 304-10 — False or Misleading Statements
+# Section 304 — False or Misleading Statements
 
-> **Date Effective:** 08/26/21 | **Last Revision:** I.O. 78 | **Page:** 1 of 2
+## A.G. 304-10: False or Misleading Statements
 
----
+**Date Effective:** 08/26/21 | **Last Revision:** I.O. 78 | **Pages:** 2
 
-## Purpose
+### Purpose
 
 To provide clear guidelines regarding written and verbal statements made by members of the service during an official investigation.
 
----
-
-## Definitions
+### Definitions
 
 | Term | Definition |
 |------|------------|
@@ -20,24 +18,26 @@ To provide clear guidelines regarding written and verbal statements made by memb
 | **Material Fact** | A significant fact that a reasonable person would recognize as relevant to the subject matter, including foreseeable consequences or establishment of elements. Suppression or alteration would result in a different decision. |
 | **Impeding** | Making false, misleading, and/or inaccurate statements, or engaging in an impeding action (e.g., failing to produce records as directed). |
 
----
-
-## Prohibited Conduct
+### Prohibited Conduct
 
 1. **Intentionally making a false official statement**
 2. **Intentionally making a misleading official statement**
 3. **Making, or causing to be made, an inaccurate official statement**
 4. **Impeding an investigation**
 
----
+> **Exam Alert:** The distinction between **false** (intentional), **misleading** (intent to misdirect), and **inaccurate** (grossly negligent, no intent to deceive) statements is frequently tested. Know the definitions.
 
-## Additional Data
+> **Exam Alert:** **Retraction exception** — A false statement retracted and corrected **during the same session** may not result in false statement charges. Know this timing requirement.
+
+> **Exam Alert:** **Material fact** = significant fact affecting determination. **Immaterial/clerical errors** = not misconduct if minor and without willful intent.
 
 ### Separation from Department
 
 **Intentionally making a false official statement regarding a material matter will result in separation from the Department, absent extraordinary circumstances.**
 
 > **NOTE:** Extraordinary circumstances will be determined by the **Police Commissioner** on a case-by-case basis.
+
+> **Exam Alert:** **Extraordinary circumstances** for avoiding separation on false statement charges can **only** be determined by the **Police Commissioner** on a case-by-case basis. This is heavily tested.
 
 ### Scope of Application
 
@@ -67,42 +67,14 @@ When a member is afforded an opportunity to recollect with the benefit of credib
 - The member does not intend to deceive
 - The error lacks willful intent and is not grossly negligent
 
-### Member Obligation
-
-**Members of the service have an obligation to review documents before signing or otherwise verifying their accuracy.**
-
----
-
-## Sergeant Focus
-
-> **★ SERGEANT FOCUS:** Know the **three types of prohibited statements**: (1) False — intentional untruth, (2) Misleading — intended to misdirect/omit material facts, (3) Inaccurate — grossly negligent incorrect information. The **discipline differs** — false statements result in separation absent extraordinary circumstances.
-
-> **★ SERGEANT FOCUS:** **Extraordinary circumstances** for avoiding separation on false statement charges can **only** be determined by the **Police Commissioner** on a case-by-case basis. This is heavily tested.
-
-> **★ SERGEANT FOCUS:** Members must **review documents before signing**. Claiming "I didn't read it" is not a defense to an inaccurate statement charge.
-
----
-
-## Exam Alerts
-
-> **⚠️ EXAM ALERT:** The distinction between **false** (intentional), **misleading** (intent to misdirect), and **inaccurate** (grossly negligent, no intent to deceive) statements is frequently tested. Know the definitions.
-
-> **⚠️ EXAM ALERT:** **Retraction exception** — A false statement retracted and corrected **during the same session** may not result in false statement charges. Know this timing requirement.
-
-> **⚠️ EXAM ALERT:** **Material fact** = significant fact affecting determination. **Immaterial/clerical errors** = not misconduct if minor and without willful intent.
-
----
-
-## Memory Aids
-
-> **🧠 MEMORY AID — FALSE:**
+> **Memory Aid — FALSE:**
 > - **F**act intentionally untrue
 > - **A**bsent extraordinary circumstances = separation
 > - **L**ie under oath or official
 > - **S**igned without reading = inaccurate
 > - **E**xtraordinary circumstances = Police Commissioner only
 
-> **🧠 MEMORY AID — MATERIAL:**
+> **Memory Aid — MATERIAL:**
 > - **M**atters to the outcome
 > - **A**ffects determination
 > - **T**rivial details excluded
@@ -112,9 +84,17 @@ When a member is afforded an opportunity to recollect with the benefit of credib
 > - **A**lteration changes result
 > - **L**ists consequences
 
----
+### Member Obligation
 
-## Related Procedures
+**Members of the service have an obligation to review documents before signing or otherwise verifying their accuracy.**
+
+> **Sergeant Focus:** Know the **three types of prohibited statements**: (1) False — intentional untruth, (2) Misleading — intended to misdirect/omit material facts, (3) Inaccurate — grossly negligent incorrect information. The **discipline differs** — false statements result in separation absent extraordinary circumstances.
+
+> **Sergeant Focus:** **Extraordinary circumstances** for avoiding separation on false statement charges can **only** be determined by the **Police Commissioner** on a case-by-case basis. This is heavily tested.
+
+> **Sergeant Focus:** Members must **review documents before signing**. Claiming "I didn't read it" is not a defense to an inaccurate statement charge.
+
+### See Also
 
 | Procedure | Title |
 |-----------|-------|
@@ -123,9 +103,3 @@ When a member is afforded an opportunity to recollect with the benefit of credib
 | P.G. 211-14 | Investigations by Civilian Complaint Review Board |
 | A.G. 305-07 | Firearms – General Regulations |
 | A.G. 325-18 | Command Reference Library |
-
----
-
-## Review Questions
-
-*See review-questions.md for practice questions on this procedure.*

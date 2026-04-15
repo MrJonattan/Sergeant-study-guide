@@ -1,4 +1,4 @@
-# P.G. 200-02 — Mission, Vision, and Values of the New York City Police Department
+# Section 200 — Mission, Vision, and Values of the New York City Police Department
 
 > **Date Effective:** 10/24/25 | **Last Revision:** R.O. 107 | **Page:** 1 of 1
 

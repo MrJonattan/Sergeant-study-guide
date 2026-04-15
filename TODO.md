@@ -9,11 +9,11 @@
 
 - [x] All 200-series chapters built from Patrol Guide (PG 200–221)
 - [x] All 300-series chapters enriched with exam content
-- [x] The Key integration — all 29 chapters enriched (999 Exam Alerts, 99 Memory Aids, 39 Prior Tests, 20 PG Conflicts)
+- [x] The Key integration — all 29 chapters enriched (1,009 Exam Alerts, 83 Memory Aids, 37 Prior Tests, 19 PG Conflicts, 113 See Also)
 - [x] All 24 The Key lesson PDFs converted to markdown (`build/the-key/`)
 - [x] Missing review-questions.md created for 319, 324, 329
 - [x] Missing key-terms.md created for 319, 324, 329
-- [x] 729 chapter review questions + 140 master exam questions
+- [x] 569 chapter review questions + 140 master exam questions
 - [x] Cheat sheet rebuilt with all 25+ new mnemonics, 20 PG conflicts, role comparisons, PERF/probationary tables
 - [x] Master exam expanded with 20 Prior Test scenario questions (121-140)
 - [x] Web app PWA with offline support (docs/index.html, docs/data.js)
@@ -22,7 +22,7 @@
 - [x] All HTML output files deployed to docs/ (cheat sheet, master exam, study guide)
 - [x] Process standalone NYPD-Sergeant-Study-Guide.pdf (160 MC questions + 35 essay)
 - [x] Expand chapters 303 and 324 with missing AG procedures (303-06 through 303-10, 324-01 through 324-06)
-- [x] Add Sergeant Focus view to web app (compiled supervisor job-aid, 199 callouts across 15 categories)
+- [x] Add Sergeant Focus view to web app (compiled supervisor job-aid, 202 callouts across 15 categories)
 - [x] Verify all 112 See Also: cross-references (all valid)
 - [x] Swap source PDFs to updated OCR'd versions
 - [x] Expand chapters 320, 331, 332 with AG procedures (14 new section files across 3 chapters)
@@ -70,13 +70,13 @@
 | Metric | Count |
 |--------|-------|
 | Total chapters | 28 |
-| Chapter review questions | 729 |
+| Chapter review questions | 569 |
 | Master exam questions | 140 |
 | Sergeant Focus callouts | 202 |
 | The Key lesson PDFs converted | 24 |
-| Memory Aids (mnemonics) | 99+ |
-| Prior Test scenarios | 39 |
-| PG Conflicts documented | 20 |
+| Memory Aids (mnemonics) | 83 |
+| Prior Test scenarios | 37 |
+| PG Conflicts documented | 19 |
 | **Flashcards (total)** | **4,693** |
 | ─ Key terms | 1,759 |
 | ─ Chapter questions | 525 |

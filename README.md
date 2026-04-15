@@ -43,7 +43,8 @@ This project converts the NYPD's 1,600-page Patrol Guide into a structured, sear
 | Section files | 171 |
 | Chapter review questions | 569 |
 | Master practice exam questions | 140 (with explanations) |
-| Exam callouts (alerts, mnemonics, prior test notes) | 1,331 |
+| Exam callouts (alerts, mnemonics, prior test notes, see also) | 1,261 |
+| Sergeant Focus callouts | 202 |
 | Combined study guide | 49,038 lines |
 | Key terms files | 28 |
 
@@ -103,7 +104,7 @@ All study content was derived from these official sources:
 
 | PG Section | Topic | Sections | Questions | Enriched |
 |------------|-------|----------|-----------|----------|
-| 200 | General | 1 | 5 | - |
+| 200 | General | 1 | 10 | - |
 | 202 | Duties & Responsibilities | 2 | 22 | Yes |
 | 207 | Complaints | 6 | 28 | Yes |
 | 208 | Arrests | 9 | 32 | Yes |
@@ -119,23 +120,23 @@ All study content was derived from these official sources:
 | 218 | Property General | 6 | 31 | Yes |
 | 219 | Department Property | 5 | 27 | Yes |
 | 220 | Citywide Incident Mgmt | 6 | 35 | Yes |
-| 221 | Tactical Operations | 6 | 25 | Yes |
+| 221 | Tactical Operations | 7 | 25 | Yes |
 
 ### 300-Series — Personnel & Administration (11 chapters)
 
 | PG Section | Topic | Sections | Questions | Enriched |
 |------------|-------|----------|-----------|----------|
-| 303 | Duties & Responsibilities (Admin) | 1 | 10 | - |
-| 304 | General Regulations | 6 | 16 | Yes |
+| 303 | Duties & Responsibilities (Admin) | 2 | 10 | - |
+| 304 | General Regulations | 9 | 16 | Yes |
 | 305 | Uniforms & Equipment | 7 | 17 | Yes |
 | 318 | Disciplinary Matters | 8 | 20 | Yes |
 | 319 | Civilian Personnel | 1 | 4 | Yes |
-| 320 | Personnel Matters | 1 | 10 | - |
-| 324 | Leave, Payroll & Timekeeping | 1 | 7 | - |
+| 320 | Personnel Matters | 4 | 10 | - |
+| 324 | Leave, Payroll & Timekeeping | 6 | 7 | - |
 | 329 | Career Development | 1 | 12 | - |
 | 330 | Medical, Health & Wellness | 7 | 25 | Yes |
-| 331 | Evaluations | 1 | 12 | - |
-| 332 | Employee Rights | 4 | 12 | Yes |
+| 331 | Evaluations | 9 | 12 | - |
+| 332 | Employee Rights | 19 | 12 | Yes |
 
 **"Enriched"** = Content enhanced with The Key exam callouts, mnemonics, and prior test references.
 
@@ -203,12 +204,11 @@ The Key Police Promotional School's 24-lesson preseason course was integrated ac
 
 See [TODO.md](TODO.md) for the full checklist. Major remaining items:
 
-- **3 empty chapters** (303, 320, 331) — Need content extracted from Patrol Guide
-- **3 thin chapters** (319, 324, 329) — Only 1 section each, need expansion
+- **27 raw OCR sections** (chapters 320, 331, 332) — Need cleanup and enrichment (OCR artifacts, no callouts)
+- **2 thin chapters** (319, 329) — Only 1 section each, need expansion
 - **12 Administrative Guide PDFs** — Not yet ingested (firearms regs, fitness for duty, etc.)
 - **8 DOCX study guides** — External exam prep materials not yet incorporated
 - **Expand practice exam** — Currently 140 questions, target 200+
-- **Update cheat sheet** — Missing all Key mnemonics and PG conflict summary
 
 ---
 
