@@ -148,9 +148,9 @@
     "guide": "P.G.",
     "chapter": "Tactical Operations",
     "keyTerms": 61,
-    "notes": 0,
-    "sergeantFocus": 7,
-    "total": 68
+    "notes": 1,
+    "sergeantFocus": 10,
+    "total": 72
   },
   {
     "procedure": "A.G. 303",
@@ -166,9 +166,9 @@
     "guide": "A.G.",
     "chapter": "General Regulations",
     "keyTerms": 41,
-    "notes": 1,
-    "sergeantFocus": 6,
-    "total": 48
+    "notes": 3,
+    "sergeantFocus": 15,
+    "total": 59
   },
   {
     "procedure": "A.G. 305",
@@ -202,8 +202,8 @@
     "guide": "A.G.",
     "chapter": "Personnel Matters — General",
     "keyTerms": 39,
-    "notes": 6,
-    "sergeantFocus": 0,
+    "notes": 4,
+    "sergeantFocus": 2,
     "total": 45
   },
   {
@@ -239,16 +239,16 @@
     "chapter": "Evaluations",
     "keyTerms": 55,
     "notes": 9,
-    "sergeantFocus": 0,
-    "total": 64
+    "sergeantFocus": 13,
+    "total": 77
   },
   {
     "procedure": "A.G. 332",
     "guide": "A.G.",
     "chapter": "Employee Rights & Responsibilities",
     "keyTerms": 56,
-    "notes": 15,
-    "sergeantFocus": 0,
-    "total": 71
+    "notes": 5,
+    "sergeantFocus": 43,
+    "total": 104
   }
 ]

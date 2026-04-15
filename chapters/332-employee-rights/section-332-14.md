@@ -1,140 +1,85 @@
-# Section 332 — INVESTIGATION OF INCIDENTS OF RETALIATION
+# Section 332 — Investigation of Incidents of Retaliation
 
-## A.G. 332-14
+## A.G. 332-14: Investigation of Incidents of Retaliation
 
-DATE EFFECTIVE:
+### Purpose
 
-LAST REVISION:
+To provide guidelines in accordance with the provisions of the **Whistleblowers Law** for the investigation of allegations of retaliation made by members of the service who have voluntarily reported misconduct or corruption.
 
-PAGE:
+### Definitions
 
-03/17/25
+**Whistleblowers Law** — An Administrative Code provision which encourages City employees to report improper conduct (i.e., corruption, criminal activity, conflict of interest, gross mismanagement, or abuse of authority) within their respective agencies. This law protects City employees who report such wrongdoing from any form of retaliation, including:
 
-R.O. 12
+- Dismissal, demotion, suspension, disciplinary action
+- Negative performance evaluation
+- Any action resulting in loss of staff, office space, equipment, or other benefit
+- Failure to appoint or promote
+- Any transfer or assignment (or failure to transfer or assign) against the wishes of the affected employee
 
-1 of 2
+### Policy
 
-## PURPOSE
+The Department has the responsibility to encourage members to come forward and voluntarily provide information regarding misconduct and corruption. Inherent in this responsibility is the ability to protect those members from retaliation.
 
-To provide guidelines in accordance with the provisions of the Whistleblowers Law for the investigation of allegations of retaliation made by members of the service who have voluntarily reported misconduct or corruption.
+**IT IS THE POLICY OF THIS DEPARTMENT THAT RETALIATION AGAINST ANY MEMBER OF THE SERVICE FOR VOLUNTARILY PROVIDING INFORMATION REGARDING MISCONDUCT AND CORRUPTION WILL NOT BE TOLERATED.**
 
-WHISTLEBLOWERS LAW An Administrative Code provision which encourages City employees to report improper conduct, i.e., corruption, criminal activity, conflict of interest, gross mismanagement or abuse of authority, within their respective agencies. This law protects City employees who report such wrongdoing from any form of retaliation, i.e., dismissal, demotion, suspension, disciplinary action, negative performance evaluation, any action resulting in loss of staff, office space or equipment or other benefit, failure to appoint, failure to promote, or any transfer or assignment or failure to transfer or assign against the wishes of the affected employee.
+> **Exam Alert:** The Department's policy is absolute: retaliation for voluntarily reporting misconduct or corruption will NOT be tolerated. Know this policy statement — it has appeared on prior exams.
 
-The Department has the responsibility to encourage members to come forward and voluntarily provide information regarding misconduct and corruption. Inherent in this responsibility is the ability to protect those members from retaliation. IT IS THE POLICY OF THIS DEPARTMENT THAT RETALIATION AGAINST ANY MEMBER OF THE SERVICE FOR VOLUNTARILY PROVIDING INFORMATION REGARDING MISCONDUCT ANDCORRUPTIONWILLNOTBETOLERATED.
+### Procedure
 
-When a member of the service believes they are the victim of retaliation for voluntarily providing information regarding misconduct or corruption.
+When a member of the service believes they are the victim of retaliation for voluntarily providing information regarding misconduct or corruption:
 
-1. Notify Internal Affairs Bureau Command Center.
+#### Member of the Service
 
-2.
+1. Notify **Internal Affairs Bureau Command Center**
 
-3.
+#### Unit Receiving Notification
 
-4.
+2. Notify **Internal Affairs Bureau** and forward all pertinent information
+   - a. Make reasonable efforts to protect the **anonymity and confidentiality** of the employee making the allegation
 
-Notify Internal Affairs Bureau and forward all pertinent information.
+#### Member Concerned, IAB Command Center
 
-- a. Make reasonable efforts to protect the anonymity and confidentiality of the employee making the allegation.
+3. Record pertinent information and assign a **log number**
+4. Have an **immediate preliminary investigation** conducted to obtain all available facts and evidence
+   - a. Indicate results in log
 
-Record pertinent information and assign a log number.
+#### Note — EEO-Related Retaliation
 
-Have an immediate preliminary investigation conducted to obtain all available facts and evidence.
+Members of the service should comply with the provisions of **A.G. 332-01, "Employment Discrimination"** to lodge a complaint of retaliation regarding an equal employment opportunity issue. Allegations of retaliation involving EEO issues (employment discrimination, sexual harassment, etc.) **MUST** be referred to the **Office of Equal Employment Opportunity** for investigation.
 
-- a. Indicate results in log.
+> **Exam Alert:** Retaliation for reporting misconduct/corruption goes to **IAB**. Retaliation for **EEO matters** goes to **OEEO** under A.G. 332-01. Know which entity handles which type of retaliation — this is a frequent exam distinction.
 
-Members of the service should comply with the provisions of A.G. 332-01, 'Employment Discrimination,' to lodge a complaint of retaliation regarding an equal employment opportunity issue. Allegations of retaliation involving equal employment opportunity issues (employment discrimination, sexual harassment, etc.) MUST be referred to the Office of Equal Employment Opportunity for investigation.
+> **Sergeant Focus:** As a supervisor, if a member reports retaliation, you must understand the distinction: misconduct/corruption retaliation is investigated by IAB; EEO-related retaliation is investigated by OEEO. Direct the member accordingly.
 
-a.
+#### IAB Investigative Group
 
-a.
+5. Evaluate each complaint to determine whether the case may fall within the purview of the **Whistleblowers Law**
+6. Refer cases requiring further investigation concerning violations of the Whistleblowers Law to either the **Internal Affairs Bureau** or **Office of Equal Employment Opportunity**, as applicable
 
-## MEMBEROF THE SERVICE
+Only the **Internal Affairs Bureau** or the **Office of Equal Employment Opportunity** are authorized to conduct investigations involving allegations of retaliation against any member of the service for voluntarily having provided information regarding misconduct or corruption. Allegations which do not violate the Whistleblowers Law will be referred to the appropriate investigative unit concerned for additional action.
 
-## UNIT RECEIVING NOTIFICATION
+> **Exam Alert:** Only IAB or OEEO are authorized to investigate retaliation allegations under the Whistleblowers Law. Other investigative units may only handle allegations that do NOT violate the Whistleblowers Law.
 
-## MEMBER CONCERNED, IAB COMMAND CENTER
+7. Forward report through channels upon completion of investigation
 
-## NOTE
-
-NOTE
-
-IAB
-
-GROUP
-
-NOTE
-
-DATA
-
-equal employment opportunity, as appicable.
-
-Only the Internal Affairs Bureau or the Office of Equal Employment Opportunity ar
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-14              | 03/17/25          | R.O. 12          | 2 of 2  |
-
-## INTERNAL AFFAIRS BUREAU
-
-NOTE
-
-DEPUTY
-
-COMMISSIONER,
-
-INTERNAL
-
-## IAB INVESTIGATIVE GROUP
-
-5. Evaluate each complaint to determine whether the case may fall within the purview of the Whistleblowers Law.
-6. Refer cases requiring further investigation concerning violations of the Whistleblowers Law to either the Internal Affairs Bureau or Office of Equal Employment Opportunity, as applicable.
-
-Only the Internal Affairs Bureau or the Office of Equal Employment Opportunity are authorized to conduct investigations involving allegations of retaliation against any member of the service for voluntarily having provided information regarding misconduct or corruption. Allegations which do not violate the Whistleblowers Law will be referred to the appropriate investigative unit concerned for additional action.
-
-7. Forward report through channels upon completion of investigation.
-
-Chaplains Unit, Police Officers Providing Peer Assistance [POPPA], etc.) are available t
-
-NOTE
+#### Note — OEEO Confidentiality
 
 Due to the need to maintain the confidentiality of investigations to the extent possible, the Office of Equal Employment Opportunity will not be required to forward reports of employment discrimination retaliation. These reports will remain on file at the Office of Equal Employment Opportunity until such time that disclosure thereof is necessary.
 
-## DEPUTY COMMISSIONER, INTERNAL AFFAIRS
+#### Deputy Commissioner, Internal Affairs
 
-8. Forward report and recommendations to the Police Commissioner.
+8. Forward report and recommendations to the **Police Commissioner**
 
-## ADDITIONAL DATA
+### Additional Data
 
-Members of the service are reminded that resources (i.e., Employee Assistance Unit, Chaplains Unit, Police Officers Providing Peer Assistance [POPPA], etc.) are available to provide help in addressing a personal or professional problem.
+Members of the service are reminded that resources are available to provide help in addressing a personal or professional problem:
 
-To obtain additional resources, information and guidance, members can refer to the Personnel Bureau's Department Intranet homepage. Once on the homepage, members are directed to click on the 'Employee Assistance' folder in the 'Documents' Section.
+- **Employee Assistance Unit**
+- **Chaplains Unit**
+- **Police Officers Providing Peer Assistance (POPPA)**
 
-<!-- image -->
+To obtain additional resources, information, and guidance, members can refer to the Personnel Bureau's Department Intranet homepage. Once on the homepage, members are directed to click on the **"Employee Assistance"** folder in the **"Documents"** section.
 
-PROCEDURE
+> **Sergeant Focus:** Know the available resources for members experiencing retaliation or related stress. As a supervisor, you should be prepared to direct members to the Employee Assistance Unit, Chaplains Unit, or POPPA. This is both a leadership and exam topic.
 
-GRIEVANT
-
-PROCEDURE
-
-## GRIEVANT
-
-through Deputy Chiet.
-
-DEFINITIONS
-
-<!-- image -->
-
-## PURPOSE
-
-d.
-
-## DEFINITIONS
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employee Rights/Responsibilities
+> **See Also:** A.G. 332-01 — Employment Discrimination/Retaliation (for EEO-related retaliation)

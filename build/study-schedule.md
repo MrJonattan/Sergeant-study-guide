@@ -1,6 +1,6 @@
 # NYPD Sergeant Exam — Study Schedule
 
-**Generated:** 2026-04-12
+**Generated:** 2026-04-14
 **Weekly Commitment:** 8 hours
 **Total Chapters:** 28
 
@@ -16,7 +16,7 @@
 ---
 
 ## Week 1: HIGH PRIORITY
-**Dates:** 4/12/2026 — 4/18/2026
+**Dates:** 4/14/2026 — 4/20/2026
 **Time Commitment:** 9 hours
 
 ### Chapters:
@@ -30,7 +30,7 @@
 ---
 
 ## Week 2: HIGH PRIORITY
-**Dates:** 4/19/2026 — 4/25/2026
+**Dates:** 4/21/2026 — 4/27/2026
 **Time Commitment:** 8 hours
 
 ### Chapters:
@@ -44,7 +44,7 @@
 ---
 
 ## Week 3: HIGH PRIORITY
-**Dates:** 4/26/2026 — 5/2/2026
+**Dates:** 4/28/2026 — 5/4/2026
 **Time Commitment:** 7.5 hours
 
 ### Chapters:
@@ -58,7 +58,7 @@
 ---
 
 ## Week 4: HIGH PRIORITY
-**Dates:** 5/3/2026 — 5/9/2026
+**Dates:** 5/5/2026 — 5/11/2026
 **Time Commitment:** 6.5 hours
 
 ### Chapters:
@@ -72,7 +72,7 @@
 ---
 
 ## Week 5: HIGH PRIORITY
-**Dates:** 5/10/2026 — 5/16/2026
+**Dates:** 5/12/2026 — 5/18/2026
 **Time Commitment:** 6.5 hours
 
 ### Chapters:
@@ -86,7 +86,7 @@
 ---
 
 ## Week 6: Standard
-**Dates:** 5/17/2026 — 5/23/2026
+**Dates:** 5/19/2026 — 5/25/2026
 **Time Commitment:** 6.5 hours
 
 ### Chapters:
@@ -100,7 +100,7 @@
 ---
 
 ## Week 7: Standard
-**Dates:** 5/24/2026 — 5/30/2026
+**Dates:** 5/26/2026 — 6/1/2026
 **Time Commitment:** 6 hours
 
 ### Chapters:
@@ -114,7 +114,7 @@
 ---
 
 ## Week 8: Standard
-**Dates:** 5/31/2026 — 6/6/2026
+**Dates:** 6/2/2026 — 6/8/2026
 **Time Commitment:** 5 hours
 
 ### Chapters:
@@ -128,7 +128,7 @@
 ---
 
 ## Week 9: Standard
-**Dates:** 6/7/2026 — 6/13/2026
+**Dates:** 6/9/2026 — 6/15/2026
 **Time Commitment:** 4.5 hours
 
 ### Chapters:
@@ -142,7 +142,7 @@
 ---
 
 ## Week 10: Review & Catch-up
-**Dates:** 6/14/2026 — 6/20/2026
+**Dates:** 6/16/2026 — 6/22/2026
 **Time Commitment:** 1 hours
 
 ### Chapters:
@@ -154,7 +154,7 @@
 ---
 
 ## Week 11: FULL PRACTICE EXAM
-**Dates:** 6/21/2026 — 6/27/2026
+**Dates:** 6/23/2026 — 6/29/2026
 **Time Commitment:** 8 hours
 
 ### Review Plan:
@@ -166,7 +166,7 @@
 ---
 
 ## Week 12: WEAK AREAS REVIEW
-**Dates:** 6/28/2026 — 7/4/2026
+**Dates:** 6/30/2026 — 7/6/2026
 **Time Commitment:** 8 hours
 
 ### Review Plan:
