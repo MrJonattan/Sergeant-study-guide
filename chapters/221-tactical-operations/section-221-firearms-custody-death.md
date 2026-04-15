@@ -40,6 +40,8 @@ Does NOT include discharges during:
 | Internal Affairs Bureau Command Center |
 | Precinct detective squad |
 
+> **Exam Alert:** If a UMOS discharges a firearm **outside of New York City**, the Operations Unit must be notified within **6 hours** of the discharge. The member must also notify local police authorities immediately.
+
 ### Chain of Response
 
 | Who | Action |
