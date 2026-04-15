@@ -1,14 +1,14 @@
-# P.G. 221-15 — Vehicle Pursuits
+# Section 221 — Vehicle Pursuits
 
-> **Date Effective:** 10/30/25 | **Last Revision:** R.O. 114 | **Page:** 1 of 8
+## P.G. 221-15: Vehicle Pursuits
 
----
+**Date Effective:** 10/30/25 | **Last Revision:** R.O. 114 | **Pages:** 8
 
-## Purpose
+### Purpose
 
 To determine the necessity of initiating a vehicle pursuit and the method to be employed in conducting such a pursuit.
 
-## Scope
+### Scope
 
 **Vehicle pursuits are NOT authorized** when the most serious offense committed, or suspected of being committed, is a:
 - Traffic infraction
@@ -17,9 +17,7 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 
 > **NOTE:** Reckless Driving (VTL § 1212) constitutes a **non-violent misdemeanor** and **cannot** be the basis for a vehicle pursuit.
 
----
-
-## Definitions
+### Definitions
 
 | Term | Definition |
 |------|------------|
@@ -33,11 +31,9 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | **Roadblock** | **PROHIBITED** — Vehicle/barrier intentionally placed to encourage stop. |
 | **Traffic Control** | **PERMISSIBLE** — Techniques to slow pursuit, induce voluntary stop, minimize risk. May direct to preferred path (less populated, StarChase, Aviation). |
 
----
+### Procedure: Before Initiating Pursuit
 
-## Procedure: Before Initiating Pursuit
-
-### UNIFORMED MEMBER / PRIMARY VEHICLE
+**UNIFORMED MEMBER / PRIMARY VEHICLE**
 
 1. **Initiate vehicle stop** (when feasible)
 2. **Determine necessity** by considering:
@@ -58,11 +54,24 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
    - Vehicle description
    - Occupant information
 
----
+> **Memory Aid — P.U.R.S.U.I.T.:**
+> - **P**opulation density
+> - **U**rgency of offense
+> - **R**oad/weather conditions
+> - **S**peed of pursuit
+> - **U**nit capabilities
+> - **I**dentity known?
+> - **T**raffic conditions
 
-## Procedure: During Pursuit
+> **Memory Aid — NO STOP:**
+> - **N**on-violent misdemeanor = No pursuit
+> - **O**ffense must justify risk
+> - **S**top if danger > benefit
+> - **T**raffic control OK, roadblock prohibited
 
-### PRIMARY VEHICLE
+### Procedure: During Pursuit
+
+**PRIMARY VEHICLE**
 
 | Step | Action |
 |------|--------|
@@ -71,7 +80,7 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | 3 | **Terminate if**: Danger to public outweighs benefit of apprehension |
 | 4 | Notify dispatcher of **any change** in circumstances |
 
-### SECONDARY VEHICLE
+**SECONDARY VEHICLE**
 
 | Step | Action |
 |------|--------|
@@ -80,7 +89,7 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | 3 | Assist with communication and coordination |
 | 4 | Be prepared to become primary if needed |
 
-### SUPERVISOR
+**SUPERVISOR**
 
 | Step | Action |
 |------|--------|
@@ -91,7 +100,13 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | 5 | Coordinate additional resources (Aviation, StarChase, Highway) |
 | 6 | **Notify Duty Captain** of ongoing pursuit |
 
-### DUTY CAPTAIN
+> **Sergeant Focus:** As a supervisor, you must **respond to the scene** when feasible and **actively monitor** the pursuit via radio. You have the **authority and responsibility** to direct termination if the danger to the public outweighs the benefit of apprehension.
+
+> **Sergeant Focus:** Know the **prohibited tactics** — Forcible stopping and roadblocks are **NEVER authorized** during a vehicle pursuit. Officers may confuse these with permissible tactics like traffic control or PIM (which is only allowed on **stationary** vehicles).
+
+> **Sergeant Focus:** **Reckless Driving (VTL § 1212)** is explicitly defined as a **non-violent misdemeanor** — pursuits for this offense alone are **NOT authorized**. This is heavily tested.
+
+**DUTY CAPTAIN**
 
 | Step | Action |
 |------|--------|
@@ -100,11 +115,9 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | 3 | **Authorize/deauthorize** continuation based on risk assessment |
 | 4 | Ensure proper documentation |
 
----
+### Pursuit Termination
 
-## Pursuit Termination
-
-### When to Terminate
+**When to Terminate**
 
 | Factor | Consideration |
 |--------|---------------|
@@ -116,42 +129,40 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | **Operator identity known** | Can apprehend later = terminate |
 | **Length of pursuit** | Extended pursuit = increasing risk |
 
-### How to Terminate
+**How to Terminate**
 
 1. **Deactivate emergency signaling devices**
 2. **Notify radio dispatcher** — "Terminating pursuit"
 3. **Resume patrol** (do not follow unless normal traffic)
 4. **Document** all actions taken
 
----
-
-## Prohibited Tactics
+### Prohibited Tactics
 
 | Tactic | Status | Notes |
 |--------|--------|-------|
-| **Forcible Stopping** (ramming, PIM, pinning) | ❌ PROHIBITED | During vehicle pursuit |
-| **Roadblock** | ❌ PROHIBITED | During vehicle pursuit |
-| **Firearms discharge** | ❌ PROHIBITED | From moving vehicle |
-| **Two-wheeled motorcycle pursuit** | ⚠️ Limited | Must disengage when marked RMP joins |
-| **Unmarked RMP pursuit** | ⚠️ Limited | Must disengage when marked RMP joins |
-| **Department van pursuit** | ⚠️ Limited | Must disengage when another Dept vehicle joins |
+| **Forcible Stopping** (ramming, PIM, pinning) | PROHIBITED | During vehicle pursuit |
+| **Roadblock** | PROHIBITED | During vehicle pursuit |
+| **Firearms discharge** | PROHIBITED | From moving vehicle |
+| **Two-wheeled motorcycle pursuit** | Limited | Must disengage when marked RMP joins |
+| **Unmarked RMP pursuit** | Limited | Must disengage when marked RMP joins |
+| **Department van pursuit** | Limited | Must disengage when any other Dept vehicle joins |
 
----
+> **Exam Alert:** The distinction between **permissible traffic control** vs. **prohibited roadblock** is tested. Traffic control **slows/redirects**; roadblock **blocks all escape**.
 
-## Permissible Tactics
+> **Exam Alert:** **Unmarked RMPs and motorcycles** must disengage when a **marked RMP** joins. Department vans must disengage when **any other Department vehicle** joins.
+
+### Permissible Tactics
 
 | Tactic | Status | Notes |
 |--------|--------|-------|
-| **Traffic control** | ✅ ALLOWED | Slow down, redirect to safer area |
-| **StarChase** | ✅ ALLOWED | GPS tagging system |
-| **Aviation Unit** | ✅ ALLOWED | Monitor and broadcast (non-emergency) |
-| **Precision Immobilization** | ✅ ALLOWED | **Only** when pursuit has ended and suspect is stationary |
+| **Traffic control** | ALLOWED | Slow down, redirect to safer area |
+| **StarChase** | ALLOWED | GPS tagging system |
+| **Aviation Unit** | ALLOWED | Monitor and broadcast (non-emergency) |
+| **Precision Immobilization** | ALLOWED | **Only** when pursuit has ended and suspect is stationary |
 
----
+### Post-Pursuit Requirements
 
-## Post-Pursuit Requirements
-
-### UNIFORMED MEMBER
+**UNIFORMED MEMBER**
 
 | Action | Deadline |
 |--------|----------|
@@ -160,7 +171,7 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | **Safeguard BWC footage** | Immediately |
 | **Do not view BWC** if injury/death | Await IAB/FID |
 
-### SUPERVISOR
+**SUPERVISOR**
 
 | Action | Deadline |
 |--------|----------|
@@ -169,61 +180,16 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | **Notify FID** if death/serious injury | Immediately |
 | Conduct **preliminary investigation** | Within 48 hours |
 
----
+> **Exam Alert:** **BWC rules** — If injury or death occurs, supervisor **DO NOT VIEW** footage. Safeguard and await IAB/FID.
 
-## Sergeant Focus
+> **Exam Alert:** **Extraordinary circumstances** for false statements (A.G. 304-10) — Only the **Police Commissioner** can determine on a case-by-case basis.
 
-> **Sergeant Focus:** As a supervisor, you must **respond to the scene** when feasible and **actively monitor** the pursuit via radio. You have the **authority and responsibility** to direct termination if the danger to the public outweighs the benefit of apprehension.
-
-> **Sergeant Focus:** Know the **prohibited tactics** — Forcible stopping and roadblocks are **NEVER authorized** during a vehicle pursuit. Officers may confuse these with permissible tactics like traffic control or PIM (which is only allowed on **stationary** vehicles).
-
-> **Sergeant Focus:** **Reckless Driving (VTL § 1212)** is explicitly defined as a **non-violent misdemeanor** — pursuits for this offense alone are **NOT authorized**. This is heavily tested.
-
----
-
-## Exam Alerts
-
-> **⚠️ EXAM ALERT:** The distinction between **permissible traffic control** vs. **prohibited roadblock** is tested. Traffic control **slows/redirects**; roadblock **blocks all escape**.
-
-> **⚠️ EXAM ALERT:** **Unmarked RMPs and motorcycles** must disengage when a **marked RMP** joins. Department vans must disengage when **any other Department vehicle** joins.
-
-> **⚠️ EXAM ALERT:** **BWC rules** — If injury or death occurs, supervisor **DO NOT VIEW** footage. Safeguard and await IAB/FID.
-
-> **⚠️ EXAM ALERT:** **Extraordinary circumstances** for false statements (A.G. 304-10) — Only the **Police Commissioner** can determine on a case-by-case basis.
-
----
-
-## Memory Aids
-
-> **🧠 MEMORY AID — P.U.R.S.U.I.T.:**
-> - **P**opulation density
-> - **U**rgency of offense
-> - **R**oad/weather conditions
-> - **S**peed of pursuit
-> - **U**nit capabilities
-> - **I**dentity known?
-> - **T**raffic conditions
-
-> **🧠 MEMORY AID — NO STOP:**
-> - **N**on-violent misdemeanor = No pursuit
-> - **O**ffense must justify risk
-> - **S**top if danger > benefit
-> - **T**raffic control OK, roadblock prohibited
-
----
-
-## Related Procedures
+### See Also
 
 | Procedure | Title |
 |-----------|-------|
 | P.G. 221-01 | Force Guidelines |
 | P.G. 221-02 | Use of Force |
-| P.G. 221-03 | Reporting Force Incidents |
-| A.G. 304-10 | False or Misleading Statements |
+| P.G. 221-03 | Reporting and Investigation of Force Incidents |
 | P.G. 218-48 | Vehicle Seizure |
-
----
-
-## Review Questions
-
-*See review-questions.md for practice questions on this procedure.*
+| A.G. 304-10 | False or Misleading Statements |

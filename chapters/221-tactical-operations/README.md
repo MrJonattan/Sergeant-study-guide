@@ -28,14 +28,16 @@
 | P.G. 221-08 | Use of Conducted Electrical Weapons (CEW) | completed |
 | P.G. 221-09 | Use of Tear Gas | completed |
 | P.G. 221-10 | Use and Issuance of Shotguns/Long Guns/Automatic Weapons | completed |
-| P.G. 221-11 | Guidelines and Approval Process for Distraction Devices | completed |
+| P.G. 221-11 | Guidelines and Approval Process Pertaining to the Use of Distraction Devices | completed |
 | P.G. 221-13 | Mentally Ill or Emotionally Disturbed Persons | completed |
 | P.G. 221-15 | Vehicle Pursuits | completed |
 | P.G. 221-16 | Vehicle Checkpoints | completed |
 | P.G. 221-18 | Use of Department Canine Teams | completed |
 | P.G. 221-21 | School Safety Agent — Victim of an Offense While Performing Duty | completed |
 | P.G. 221-22 | Traffic Enforcement Agent Victim of an Offense While Performing Duty | completed |
-| P.G. 221-23 | Alcohol Testing for UMOS Involved in Firearms Discharges | completed |
+| P.G. 221-23 | Alcohol Testing for UMOS Involved in Firearms Discharges Resulting in Injury, Death, or Likelihood of Injury or Death | completed |
+
+> **Note:** Procedure numbers not listed above (221-12, 221-14, 221-17, 221-19, 221-20) are not covered in the public Patrol Guide. P.G. 221-14 (Hostage/Barricaded) is referenced in the EDP section but its content is not included.
 
 ## Chapter Files
 
