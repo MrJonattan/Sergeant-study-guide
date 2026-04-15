@@ -1,4 +1,4 @@
-# P.G. 208-24 — Identification Lineups/Showups
+# Section 208 — Identification Lineups/Showups
 
 > **Date Issued:** 06/23/20 | **Date Effective:** 06/23/20 | **Pages:** 1–3
 

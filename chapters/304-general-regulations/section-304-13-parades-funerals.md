@@ -1,16 +1,14 @@
-# A.G. 304-13 — Attendance at Parades, Funerals, Memorial Services and Other Department or Law Enforcement Events
+# Section 304 — Attendance at Parades, Funerals, and Department Events
 
-> **Date Effective:** 06/24/21 | **Last Revision:** I.O. 56 | **Page:** 1 of 2
+## A.G. 304-13: Attendance at Parades, Funerals, Memorial Services and Other Department or Law Enforcement Events
 
----
+**Date Effective:** 06/24/21 | **Last Revision:** I.O. 56 | **Pages:** 2
 
-## Purpose
+### Purpose
 
 To inform all members of the service of guidelines to be complied with when attending or taking part in parades, funerals, memorial services, and other Department-oriented or law enforcement events.
 
----
-
-## Scope
+### Scope
 
 All members of the service are **strictly accountable** for their conduct at all times, whether on or off duty, inside or outside New York City. Conduct which brings discredit to the Department or violates law will result in appropriate disciplinary measures.
 
@@ -19,18 +17,18 @@ All members are subject to:
 - Other Department regulations
 - All local, state, and federal laws
 
----
+> **Sergeant Focus:** **Supervisory responsibilities are never abrogated** — ranking officers must take affirmative action when observing corruption or misconduct, including **immediate IAB notification**. This applies whether on or off duty, inside or outside NYC.
 
-## Procedure
+### Procedure
 
-### ALL MEMBERS
+**ALL MEMBERS**
 
 | Requirement | Details |
 |-------------|---------|
 | **Corruption reporting** | ALL members must report corruption or misconduct whether on or off duty, inside or outside NYC. **Ranking officers' supervisory responsibilities are never abrogated.** |
 | **IAB notification** | Ranking uniformed members must take affirmative action and **immediately notify Internal Affairs Bureau** when observing corruption or misconduct. |
 
-### ON-DUTY MEMBERS
+**ON-DUTY MEMBERS**
 
 | Requirement | Details |
 |-------------|---------|
@@ -38,7 +36,9 @@ All members are subject to:
 | **No meal period** | Not granted meal period for event attendance |
 | **No lost time** | Not granted lost time until returning to assigned command |
 
-### OFF-DUTY UNIFORM ATTIRE
+> **Exam Alert:** **On-duty members** return to command immediately after event — **no meal period, no lost time** until back at command.
+
+**OFF-DUTY UNIFORM ATTIRE**
 
 | Requirement | Details |
 |-------------|---------|
@@ -48,7 +48,11 @@ All members are subject to:
 | **Social events** | Cannot wear uniform to parties, dinners, fundraisers without **commanding officer or designee permission** |
 | **After-event socials** | Includes social events that take place after parade, funeral, etc. ends |
 
-### ALCOHOL AND FIREARMS
+> **Exam Alert:** **Uniform outside NYC** = advance permission from **Police Commissioner, First Deputy Commissioner, or Chief of Department** (not commanding officer).
+
+> **Sergeant Focus:** Know the **uniform permission hierarchy**: (1) Outside NYC = Police Commissioner/First Deputy/Chief of Department, (2) Social events = Commanding Officer or designee.
+
+**ALCOHOL AND FIREARMS**
 
 | Requirement | Details |
 |-------------|---------|
@@ -57,47 +61,27 @@ All members are subject to:
 | **Firearms discretion** | Off-duty members to be **unarmed at own discretion** when alcoholic beverages are consumed (A.G. 305-07) |
 | **Authorized weapons only** | Only regulation service pistol, authorized off-duty pistol/revolver, or authorized special weapons |
 
-### MONITORING
+> **Exam Alert:** **Alcohol + uniform = prohibited** whether on or off duty. Cannot allow alcohol in Department facilities/vehicles except on duty.
+
+**MONITORING**
 
 | Requirement | Details |
 |-------------|---------|
 | **Overhead command** | All Department-oriented and law enforcement events will be monitored by ranking officers from overhead commands |
 | **IAB monitoring** | In selected cases, **Internal Affairs Bureau** will conduct monitoring (as directed by Police Commissioner, First Deputy Commissioner, or Chief of Department) |
 
-### OUT-OF-STATE FIREARMS
+> **Exam Alert:** **Monitoring responsibility** — overhead command ranking officers monitor all events. IAB monitors in selected cases as directed.
+
+**OUT-OF-STATE FIREARMS**
 
 | Requirement | Details |
 |-------------|---------|
 | **Permission required** | May **not** carry firearms out-of-state for parade, funeral, memorial, or other event **without permission** from Police Commissioner, First Deputy Commissioner, or Chief of Department |
 | **State law irrelevant** | Applies **even when** event takes place in a state which allows police officers from other jurisdictions to carry weapons |
 
----
+> **Sergeant Focus:** **Out-of-state firearms** require permission from Police Commissioner/First Deputy/Chief of Department **even if** the state allows out-of-jurisdiction officers to carry. State law does not override Department policy.
 
-## Sergeant Focus
-
-> **★ SERGEANT FOCUS:** **Supervisory responsibilities are never abrogated** — ranking officers must take affirmative action when observing corruption or misconduct, including **immediate IAB notification**. This applies whether on or off duty, inside or outside NYC.
-
-> **★ SERGEANT FOCUS:** Know the **uniform permission hierarchy**: (1) Outside NYC = Police Commissioner/First Deputy/Chief of Department, (2) Social events = Commanding Officer or designee.
-
-> **★ SERGEANT FOCUS:** **Out-of-state firearms** require permission from Police Commissioner/First Deputy/Chief of Department **even if** the state allows out-of-jurisdiction officers to carry. State law does not override Department policy.
-
----
-
-## Exam Alerts
-
-> **⚠️ EXAM ALERT:** **On-duty members** return to command immediately after event — **no meal period, no lost time** until back at command.
-
-> **⚠️ EXAM ALERT:** **Uniform outside NYC** = advance permission from **Police Commissioner, First Deputy Commissioner, or Chief of Department** (not commanding officer).
-
-> **⚠️ EXAM ALERT:** **Alcohol + uniform = prohibited** whether on or off duty. Cannot allow alcohol in Department facilities/vehicles except on duty.
-
-> **⚠️ EXAM ALERT:** **Monitoring responsibility** — overhead command ranking officers monitor all events. IAB monitors in selected cases as directed.
-
----
-
-## Memory Aids
-
-> **🧠 MEMORY AID — UNIFORM:**
+> **Memory Aid — UNIFORM:**
 > - **U**nder advance permission (outside NYC)
 > - **N**o social events without CO permission
 > - **I**mmediately change after event
@@ -105,7 +89,7 @@ All members are subject to:
 > - **O**n-duty = return to command, no meal/lost time
 > - **R**anking officers report corruption immediately
 
-> **🧠 MEMORY AID — NO DRINK:**
+> **Memory Aid — NO DRINK:**
 > - **N**o alcohol in uniform (on or off duty)
 > - **O**nly on duty = alcohol in facilities/vehicles
 > - **D**iscretion to be unarmed when alcohol present
@@ -114,18 +98,10 @@ All members are subject to:
 > - **N**ever abrogate supervisory duty
 > - **K**now who grants permission
 
----
-
-## Related Procedures
+### See Also
 
 | Procedure | Title |
 |-----------|-------|
 | P.G. 203-06 | Performance On Duty - Prohibited Conduct |
 | A.G. 305-07 | Firearms – General Regulations |
 | A.G. 325-18 | Command Reference Library |
-
----
-
-## Review Questions
-
-*See review-questions.md for practice questions on this procedure.*
