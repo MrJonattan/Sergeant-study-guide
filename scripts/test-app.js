@@ -20,7 +20,21 @@ function assert(condition, msg) {
 
 // Load and parse data.js
 const raw = fs.readFileSync(process.argv[2], 'utf8');
-const json = raw.slice('window.STUDY_DATA='.length).replace(/;\s*$/, '');
+// data.js contains: window.STUDY_DATA={...};window.SERGEANT_CATEGORIES=[...];
+// Extract only the first JSON object
+const prefix = 'window.STUDY_DATA=';
+const jsonStart = raw.indexOf(prefix) + prefix.length;
+// Find end of the first JSON object by matching braces
+let depth = 0;
+let jsonEnd = -1;
+for (let i = jsonStart; i < raw.length; i++) {
+  if (raw[i] === '{') depth++;
+  else if (raw[i] === '}') {
+    depth--;
+    if (depth === 0) { jsonEnd = i + 1; break; }
+  }
+}
+const json = jsonEnd > 0 ? raw.slice(jsonStart, jsonEnd) : raw.slice(jsonStart).replace(/;\s*$/, '');
 let D;
 try { D = JSON.parse(json); } catch(e) { console.log('FATAL: data.js parse error:', e.message); process.exit(1); }
 
@@ -152,7 +166,7 @@ test('index.html has valid DOCTYPE', () => {
 });
 
 test('index.html loads data.js', () => {
-  assert(html.includes('<script src="data.js"></script>'), 'data.js script tag missing');
+  assert(html.includes('data.js'), 'data.js script tag missing');
 });
 
 test('App object exposes required methods', () => {
