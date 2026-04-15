@@ -556,16 +556,6 @@ html.dark .mnemonic-box .mnemonic-label { color: #66bb6a; }
   display: flex; align-items: center; justify-content: center;
   font-size: 0.7rem; font-weight: 700; padding: 0 0.3rem;
 }
-/* Notes view */
-.notes-list { display: flex; flex-direction: column; gap: 0.75rem; }
-.note-procedure { border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
-.note-proc-header {
-  display: flex; justify-content: space-between; align-items: center;
-  padding: 0.9rem 1.1rem; background: var(--bg-alt); cursor: pointer;
-  font-weight: 600; font-size: 0.95rem; font-family: var(--font-mono);
-}
-.note-proc-header::after { content: '\25B2'; font-size: 0.65rem; transition: transform 0.2s; opacity: 0.5; }
-.note-procedure.open .note-proc-header::after { transform: rotate(180deg); }
 
 /* ── Flashcards View ── */
 .flashcard-list { display: flex; flex-direction: column; gap: 0.75rem; }
@@ -673,7 +663,6 @@ html.dark .flashcard-item { background: var(--bg-muted); }
       <div class="nav-section-title">Learn</div>
       <button class="nav-item" data-view="cheatsheet" onclick="App.nav('cheatsheet')">Cheat Sheet</button>
       <button class="nav-item" data-view="sergeant" onclick="App.nav('sergeant')">Sergeant Focus</button>
-      <button class="nav-item" data-view="notes" onclick="App.nav('notes')">Notes</button>
     </div>
     <div class="nav-section">
       <div class="nav-section-title">Practice</div>
@@ -926,7 +915,6 @@ const App = (function() {
       else if (view === 'exam') showExam();
       else if (view === 'weak') showWeakAreas();
       else if (view === 'sergeant') showSergeantFocus();
-      else if (view === 'notes') showNotes();
       else if (view === 'settings') showSettings();
       else if (view === 'quickquiz') showQuickQuiz();
       else showHome();
@@ -1521,128 +1509,6 @@ const App = (function() {
     content.innerHTML = html;
   }
 
-  // ── Notes View ──
-  let notesViewState = { groupBy: 'procedure', expanded: [] };
-
-  function showNotes() {
-    tabBar.innerHTML = '';
-    setBreadcrumbs({ label: 'Dashboard', action: "App.nav('home')" }, { label: 'Notes' });
-    const allNotes = D.notes || [];
-
-    // Group notes by procedure or by chapter
-    const grouped = {};
-    allNotes.forEach(n => {
-      const key = notesViewState.groupBy === 'chapter' ? n.chapterTitle : n.procedure;
-      if (!grouped[key]) grouped[key] = [];
-      grouped[key].push(n);
-    });
-
-    // Extract topics for filter chips
-    const topics = [...new Set(allNotes.map(n => n.chapterTitle))].sort();
-
-    let html = `<div class="view-header">
-      <h2>Procedure Notes</h2>
-      <p>Official NOTE markers from Patrol Guide and Administrative Guide procedures</p>
-
-      <div class="notes-toolbar" style="margin-top:1rem;display:flex;gap:0.5rem;flex-wrap:wrap;align-items:center;">
-        <input type="text" id="notes-filter" placeholder="Search notes..."
-          style="flex:1;min-width:200px;padding:0.5rem 0.75rem;border:1px solid var(--border);border-radius:4px;background:var(--card);color:var(--fg);"
-          oninput="App.filterNotes(this.value)">
-        <select onchange="App.setNotesGroup(this.value)" style="padding:0.5rem;border:1px solid var(--border);border-radius:4px;background:var(--card);color:var(--fg);">
-          <option value="procedure" ${notesViewState.groupBy==='procedure'}>Group by Procedure</option>
-          <option value="chapter" ${notesViewState.groupBy==='chapter'}>Group by Chapter</option>
-        </select>
-        <button class="btn" onclick="App.exportNotes('csv')">CSV</button>
-        <button class="btn" onclick="App.exportNotes('json')">JSON</button>
-      </div>
-
-      <div class="notes-stats" style="display:flex;gap:1rem;margin:1rem 0;font-family:var(--font-mono);font-size:0.85rem;opacity:0.7;flex-wrap:wrap;">
-        <span><strong>${allNotes.length}</strong> total notes</span>
-        <span><strong>${Object.keys(grouped).length}</strong> ${notesViewState.groupBy === 'procedure' ? 'procedures' : 'chapters'}</span>
-        <span><strong>${topics.length}</strong> chapters with notes</span>
-      </div>
-
-      <div class="topic-chips" style="display:flex;gap:0.5rem;flex-wrap:wrap;margin-bottom:1rem;">
-        ${topics.map(t => `<button class="chip" onclick="App.filterByChapter('${t}')" style="padding:0.25rem 0.75rem;border:1px solid var(--border);border-radius:999px;background:var(--bg-alt);color:var(--fg);cursor:pointer;font-size:0.75rem;">${t}</button>`).join('')}
-        <button class="chip" onclick="App.clearFilter()" style="padding:0.25rem 0.75rem;border:1px solid var(--accent);border-radius:999px;background:var(--accent);color:var(--bg);cursor:pointer;font-size:0.75rem;font-weight:600;">Clear</button>
-      </div>
-    </div>
-
-    <div class="notes-list" id="notes-list">`;
-
-    const sortedKeys = Object.keys(grouped).sort();
-    sortedKeys.forEach(key => {
-      const groupNotes = grouped[key];
-      const isOpen = notesViewState.expanded.includes(key);
-      html += `<div class="note-procedure ${isOpen ? 'open' : ''}" data-group="${key}">
-        <div class="note-proc-header" onclick="App.toggleNoteGroup('${key.replace(/'/g, "\\'")}')">
-          <span class="note-proc-num">${key}</span>
-          <span class="note-count">${groupNotes.length}</span>
-        </div>
-        <div class="note-proc-content">`;
-      groupNotes.forEach((n, idx) => {
-        html += `<div class="note-item" data-chapter="${n.chapterId}">
-          <div class="note-text">${n.text}</div>
-          <div class="note-meta" style="display:flex;justify-content:space-between;align-items:center;margin-top:0.5rem;">
-            <div class="note-source">Source: ${n.filename}</div>
-            <button class="icon-btn" onclick="App.copyNote('${n.text.replace(/'/g, "\\'").replace(/\n/g, ' ')}')" style="padding:0.25rem 0.5rem;font-size:0.7rem;">COPY</button>
-          </div>
-        </div>`;
-      });
-      html += `</div></div>`;
-    });
-
-    html += `</div>`;
-    content.innerHTML = html;
-  }
-
-  function filterNotes(query) {
-    const filter = (query || '').toLowerCase();
-    const items = document.querySelectorAll('.note-item');
-    items.forEach(item => {
-      const text = item.textContent.toLowerCase();
-      item.style.display = text.includes(filter) ? '' : 'none';
-    });
-  }
-
-  function filterByChapter(chapter) {
-    const filter = chapter.toLowerCase();
-    const items = document.querySelectorAll('.note-procedure');
-    items.forEach(item => {
-      const group = item.dataset.group;
-      const matches = group.toLowerCase().includes(filter);
-      item.style.display = matches ? '' : 'none';
-    });
-  }
-
-  function clearFilter() {
-    $('#notes-filter').value = '';
-    document.querySelectorAll('.note-procedure, .note-item').forEach(el => el.style.display = '');
-  }
-
-  function setNotesGroup(mode) {
-    notesViewState.groupBy = mode;
-    notesViewState.expanded = [];
-    showNotes();
-  }
-
-  function toggleNoteGroup(key) {
-    const idx = notesViewState.expanded.indexOf(key);
-    if (idx >= 0) notesViewState.expanded.splice(idx, 1);
-    else notesViewState.expanded.push(key);
-    showNotes();
-  }
-
-  function copyNote(text) {
-    navigator.clipboard.writeText(text).then(() => {
-      const btn = event.target;
-      const orig = btn.textContent;
-      btn.textContent = 'COPIED!';
-      btn.style.background = 'var(--accent)';
-      setTimeout(() => { btn.textContent = orig; btn.style.background = ''; }, 1500);
-    });
-  }
-
   // ═══════════════════════════
   // ── Flashcards View (PG/AG organized) ──
   // ═══════════════════════════
@@ -1695,19 +1561,6 @@ const App = (function() {
         });
       }
 
-      // Notes
-      for (const note of ch.notes || []) {
-        flashcards.push({
-          type: 'note',
-          front: `NOTE`,
-          back: note.text,
-          procedure: note.procedure,
-          guide: note.procedure.includes('A.G.') ? 'A.G.' : 'P.G.',
-          chapter: ch.title,
-          chapterId: ch.id,
-          filename: note.filename
-        });
-      }
     }
 
     // Group by procedure
@@ -1777,10 +1630,6 @@ const App = (function() {
           <span style="width:14px;height:14px;background:#ca8a04;border:2px solid #a16207;border-radius:3px;"></span>
           <span style="font-weight:600;">★ Sergeant Focus</span>
         </span>
-        <span style="display:inline-flex;align-items:center;gap:0.5rem;">
-          <span style="width:14px;height:14px;background:#2563eb;border:2px solid #1d4ed8;border-radius:3px;"></span>
-          <span style="font-weight:600;">📝 Notes</span>
-        </span>
       </div>
     </div>
 
@@ -1797,8 +1646,6 @@ const App = (function() {
       const isOpen = flashcardState.expanded.includes(proc);
       const keyTerms = procCards.filter(c => c.type === 'keyterm').length;
       const sergeant = procCards.filter(c => c.type === 'sergeant').length;
-      const notes = procCards.filter(c => c.type === 'note').length;
-
       html += `<div class="procedure-group ${isOpen ? 'open' : ''}" data-proc="${proc.replace(/"/g, '&quot;')}">
         <div class="procedure-header" onclick="App.toggleFlashcardGroup('${proc.replace(/'/g, "\\'")}')">
           <div class="procedure-info">
@@ -1808,7 +1655,6 @@ const App = (function() {
           <div class="procedure-counts">
             ${keyTerms > 0 ? `<span class="count-badge keyterm">${keyTerms} terms</span>` : ''}
             ${sergeant > 0 ? `<span class="count-badge sergeant">${sergeant} focus</span>` : ''}
-            ${notes > 0 ? `<span class="count-badge note">${notes} notes</span>` : ''}
             <span class="count-badge total">${procCards.length} cards</span>
           </div>
         </div>
@@ -1868,7 +1714,6 @@ const App = (function() {
       { name: 'anki-flashcards-consolidated.csv', label: 'All Flashcards' },
       { name: 'anki-key-terms.csv', label: 'Key Terms' },
       { name: 'anki-sergeant-focus.csv', label: 'Sergeant Focus' },
-      { name: 'anki-notes.csv', label: 'Notes' },
       { name: 'anki-chapter-questions.csv', label: 'Chapter Questions' },
       { name: 'anki-master-exam.csv', label: 'Master Exam' }
     ];
@@ -1879,31 +1724,6 @@ const App = (function() {
     html += `</div><p style="margin-top:1rem;font-size:0.85rem;opacity:0.7;">Note: Files are in the build/ folder. Import into Anki with "Allow HTML" enabled.</p></div>`;
     content.innerHTML = html;
     setBreadcrumbs({ label: 'Dashboard', action: "App.nav('home')" }, { label: 'Flashcards' }, { label: 'Download' });
-  }
-
-  function exportNotes(format) {
-    const data = D.notes || [];
-    if (format === 'json') {
-      const json = JSON.stringify(data, null, 2);
-      const blob = new Blob([json], {type: 'application/json'});
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = 'nypd-study-notes.json';
-      a.click();
-      URL.revokeObjectURL(url);
-    } else {
-      const csv = 'Procedure,Chapter,Filename,Note Text\n' + data.map(n =>
-        `"${n.procedure}","${n.chapterTitle}","${n.filename}","${(n.text||'').replace(/"/g,'""')}"`
-      ).join('\n');
-      const blob = new Blob([csv], {type: 'text/csv'});
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = 'nypd-study-notes.csv';
-      a.click();
-      URL.revokeObjectURL(url);
-    }
   }
 
   // ── Practice Exam ──
@@ -2246,7 +2066,6 @@ const App = (function() {
     startExam, examAns, submitExam, newExam, shuffleFlashcards,
     exportData, importData, clearData, saveGoal,
     qqAnswer, showView: nav,
-    filterNotes, filterByChapter, clearFilter, setNotesGroup, toggleNoteGroup, copyNote, exportNotes,
     setFlashcardFilter, setFlashcardSearch, toggleFlashcardGroup, flipFlashcard, downloadAnki,
   };
 })();

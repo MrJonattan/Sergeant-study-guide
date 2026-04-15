@@ -19017,29 +19017,29 @@ After studying this chapter, you should be able to:
 
 ## Procedure Index
 
-| Procedure | Title | Status |
+| Procedure | Title | Coverage |
 |-----------|-------|--------|
-| P.G. 215-01 | Children/Minors Requiring Care and/or Shelter | Cross-reference only |
-| P.G. 215-02 | Lost Child | Full text |
-| P.G. 215-03 | Emergency Removals or Investigations and Reporting of Abused, Neglected or Maltreated Children | Cross-reference only |
-| P.G. 215-04 | Family Court Warrant/Remand Order for Juvenile | Cross-reference only |
-| P.G. 215-05 | Runaway Children | Full text |
-| P.G. 215-07 | Truants | Cross-reference only |
-| P.G. 215-08 | On-Line Juvenile Report System | Cross-reference only |
-| P.G. 215-09 | Offense by Juvenile Under 18 (Not JO/AO) | Full text |
-| P.G. 215-10 | Arrest of Juvenile Offender/Adolescent Offender | Cross-reference only |
-| P.G. 215-11 | Arrest of Juvenile Unlawfully in Certain Licensed Premises | Full text |
-| P.G. 215-12 | Personal Recognizance — Juvenile Delinquent | Cross-reference only |
-| P.G. 215-13 | Handcuffing/Restraining Students in Schools | Cross-reference only |
-| P.G. 215-14 | Child Advocacy Referrals | Full text |
-| P.G. 215-16 | Reporting School-Related Criminal Incidents | Cross-reference only |
-| P.G. 215-17 | Police Actions at DOE Schools | Full text |
-| P.G. 215-18 | Search Protocols for School Safety Agents | Full text |
-| P.G. 215-22 | Requests for Assistance from ACS Child Protection Specialists | Full text |
-| P.G. 215-23 | Court Processing of Juvenile Offenders/Adolescent Offenders on Weekends/Holidays | Cross-reference only |
-| P.G. 215-27 | School-Related Threats | Full text |
-| P.G. 215-28 | Use of Child Car Seats | Full text |
-| P.G. 215-29 | Electronic Recording of Custodial Interrogations of Juveniles | Cross-reference only |
+| P.G. 215-01 | Children/Minors Requiring Care and/or Shelter | covered in section files |
+| P.G. 215-02 | Lost Child | covered in section-215-lost-runaway-children.md |
+| P.G. 215-03 | Emergency Removals | covered in section-215-child-protection.md |
+| P.G. 215-04 | Family Court Warrant/Remand | covered in section files |
+| P.G. 215-05 | Runaway Children | covered in section-215-lost-runaway-children.md |
+| P.G. 215-07 | Truants | covered in section-215-school-related.md |
+| P.G. 215-08 | On-Line Juvenile Report | covered in section files |
+| P.G. 215-09 | Offense by Juvenile Under 18 | covered in section-215-juvenile-delinquency.md |
+| P.G. 215-10 | Arrest of JO/AO | covered in section-215-juvenile-delinquency.md |
+| P.G. 215-11 | Arrest in Licensed Premises | covered in section-215-juvenile-delinquency.md |
+| P.G. 215-12 | Personal Recognizance | covered in section-215-juvenile-delinquency.md |
+| P.G. 215-13 | Handcuffing in Schools | covered in section-215-school-related.md |
+| P.G. 215-14 | Child Advocacy Referrals | covered in section-215-child-protection.md |
+| P.G. 215-16 | Reporting School Incidents | covered in section-215-school-related.md |
+| P.G. 215-17 | Police Actions at Schools | covered in section-215-school-related.md |
+| P.G. 215-18 | Search Protocols SSA | covered in section-215-school-related.md |
+| P.G. 215-22 | ACS CPS Assistance | covered in section-215-child-protection.md |
+| P.G. 215-23 | JO/AO Weekend Processing | covered in section-215-juvenile-delinquency.md |
+| P.G. 215-27 | School-Related Threats | covered in section-215-school-related.md |
+| P.G. 215-28 | Child Car Seats | covered in section-215-child-protection.md |
+| P.G. 215-29 | Electronic Recording | covered in section-215-juvenile-delinquency.md |
 
 ## Sergeant Focus Areas
 
@@ -31544,7 +31544,7 @@ NYCEM (NYC Emergency Management) has authority to designate the Liaison Officer.
 | P.G. 221-10 | Use and Issuance of Shotguns/Long Guns/Automatic Weapons | completed |
 | P.G. 221-11 | Guidelines and Approval Process for Distraction Devices | completed |
 | P.G. 221-13 | Mentally Ill or Emotionally Disturbed Persons | completed |
-| P.G. 221-15 | Vehicle Pursuits | not_started (not in OCR) |
+| P.G. 221-15 | Vehicle Pursuits | completed |
 | P.G. 221-16 | Vehicle Checkpoints | completed |
 | P.G. 221-18 | Use of Department Canine Teams | completed |
 | P.G. 221-21 | School Safety Agent — Victim of an Offense While Performing Duty | completed |
@@ -31560,6 +31560,7 @@ NYCEM (NYC Emergency Management) has authority to designate the Liaison Officer.
 |  | 221-04, 221-05, 221-23: Firearms discharge investigation, death in custody, alcohol testing |
 |  | 221-07, 221-08, 221-09: O.C. pepper spray, CEW (TASER 7), tear gas |
 |  | 221-10, 221-11: Shotguns/long guns/automatic weapons, distraction devices |
+|  | 221-15: Vehicle pursuits, initiation criteria, prohibited tactics, termination rules, post-pursuit requirements |
 |  | 221-06, 221-13, 221-16, 221-18, 221-21, 221-22: MOS subjected to force, EDP, vehicle checkpoints, canine teams, school safety/TEA |
 |  | Comprehensive definitions, force levels, approval authorities, timeframes, forms |
 |  | 25 multiple-choice questions covering all major tactical operations concepts |
@@ -31574,6 +31575,238 @@ NYCEM (NYC Emergency Management) has authority to designate the Liaison Officer.
 - **De-escalation**: Supervisor assumes command and coordinates de-escalation; consider whether non-compliance is inability vs. deliberate resistance
 - **Less lethal prohibitions**: Never use O.C. spray, CEW, or impact weapons on passively resisting subjects; never use CEW on rear-cuffed prisoner
 - **Post-force**: Ensure subject positioned for free breathing; inquire about medical needs; obtain medical attention for any injured person
+
+---
+
+# P.G. 221-15 — Vehicle Pursuits
+
+> **Date Effective:** 10/30/25 | **Last Revision:** R.O. 114 | **Page:** 1 of 8
+
+---
+
+## Purpose
+
+To determine the necessity of initiating a vehicle pursuit and the method to be employed in conducting such a pursuit.
+
+## Scope
+
+**Vehicle pursuits are NOT authorized** when the most serious offense committed, or suspected of being committed, is a:
+- Traffic infraction
+- Violation
+- **Non-violent misdemeanor**
+
+> **NOTE:** Reckless Driving (VTL § 1212) constitutes a **non-violent misdemeanor** and **cannot** be the basis for a vehicle pursuit.
+
+---
+
+## Definitions
+
+| Term | Definition |
+|------|------------|
+| **Authorized Emergency Vehicle** | Marked or unmarked Department RMP. Department vans must disengage when another Department vehicle joins. **Unmarked RMPs and two-wheeled motorcycles must disengage when a marked RMP joins.** |
+| **Vehicle Pursuit** | Any attempt by a uniformed member operating an authorized emergency vehicle to stop a subject who is **actively seeking to elude custody** while also operating a vehicle. Does not include Aviation Unit or monitoring techniques. |
+| **Vehicle Pursuit Termination** | Official ending — cease all pursuit activity, **deactivate emergency signaling devices**, notify radio dispatcher, resume patrol. |
+| **Non-Violent Misdemeanor** | Does not cause, threaten, or create substantial risk of physical injury or death. **Reckless Driving (VTL § 1212) = non-violent.** |
+| **Primary Vehicle** | Vehicle initiating and/or controlling pursuit. |
+| **Secondary Vehicle** | First additional authorized emergency vehicle assisting. |
+| **Forcible Stopping** | **PROHIBITED** — Deliberately bringing emergency vehicle into contact with pursued vehicle (ramming, PIM, pinning, etc.). |
+| **Roadblock** | **PROHIBITED** — Vehicle/barrier intentionally placed to encourage stop. |
+| **Traffic Control** | **PERMISSIBLE** — Techniques to slow pursuit, induce voluntary stop, minimize risk. May direct to preferred path (less populated, StarChase, Aviation). |
+
+---
+
+## Procedure: Before Initiating Pursuit
+
+### UNIFORMED MEMBER / PRIMARY VEHICLE
+
+1. **Initiate vehicle stop** (when feasible)
+2. **Determine necessity** by considering:
+   - **a.** Nature of offense(s)
+   - **b.** Time of day
+   - **c.** Weather conditions
+   - **d.** Location and population density (residential, commercial, schools, playgrounds)
+   - **e.** Traffic conditions
+   - **f.** Speed of pursuit
+   - **g.** Identity of operator (if known)
+   - **h.** Emergency signaling devices and siren
+   - **i.** Distance from pursuit origin
+   - **j.** Capabilities of Department vehicle
+
+3. **Notify radio dispatcher** immediately:
+   - Location and direction of travel
+   - Reason for pursuit (offense)
+   - Vehicle description
+   - Occupant information
+
+---
+
+## Procedure: During Pursuit
+
+### PRIMARY VEHICLE
+
+| Step | Action |
+|------|--------|
+| 1 | Maintain constant communication with dispatcher |
+| 2 | Continuously assess necessity to continue |
+| 3 | **Terminate if**: Danger to public outweighs benefit of apprehension |
+| 4 | Notify dispatcher of **any change** in circumstances |
+
+### SECONDARY VEHICLE
+
+| Step | Action |
+|------|--------|
+| 1 | Maintain **safe distance** from primary |
+| 2 | **Do not pass** primary unless directed |
+| 3 | Assist with communication and coordination |
+| 4 | Be prepared to become primary if needed |
+
+### SUPERVISOR
+
+| Step | Action |
+|------|--------|
+| 1 | **Respond to scene** when feasible |
+| 2 | **Monitor pursuit** via radio |
+| 3 | **Assess** whether pursuit should continue |
+| 4 | **Direct termination** if danger outweighs benefit |
+| 5 | Coordinate additional resources (Aviation, StarChase, Highway) |
+| 6 | **Notify Duty Captain** of ongoing pursuit |
+
+### DUTY CAPTAIN
+
+| Step | Action |
+|------|--------|
+| 1 | Monitor pursuit |
+| 2 | Coordinate cross-precinct resources |
+| 3 | **Authorize/deauthorize** continuation based on risk assessment |
+| 4 | Ensure proper documentation |
+
+---
+
+## Pursuit Termination
+
+### When to Terminate
+
+| Factor | Consideration |
+|--------|---------------|
+| **Offense severity** | Non-violent misdemeanor = terminate |
+| **Population density** | High density = higher risk |
+| **Traffic conditions** | Heavy traffic = higher risk |
+| **Weather/road conditions** | Adverse conditions = higher risk |
+| **Vehicle capabilities** | Department vehicle limitations |
+| **Operator identity known** | Can apprehend later = terminate |
+| **Length of pursuit** | Extended pursuit = increasing risk |
+
+### How to Terminate
+
+1. **Deactivate emergency signaling devices**
+2. **Notify radio dispatcher** — "Terminating pursuit"
+3. **Resume patrol** (do not follow unless normal traffic)
+4. **Document** all actions taken
+
+---
+
+## Prohibited Tactics
+
+| Tactic | Status | Notes |
+|--------|--------|-------|
+| **Forcible Stopping** (ramming, PIM, pinning) | ❌ PROHIBITED | During vehicle pursuit |
+| **Roadblock** | ❌ PROHIBITED | During vehicle pursuit |
+| **Firearms discharge** | ❌ PROHIBITED | From moving vehicle |
+| **Two-wheeled motorcycle pursuit** | ⚠️ Limited | Must disengage when marked RMP joins |
+| **Unmarked RMP pursuit** | ⚠️ Limited | Must disengage when marked RMP joins |
+| **Department van pursuit** | ⚠️ Limited | Must disengage when another Dept vehicle joins |
+
+---
+
+## Permissible Tactics
+
+| Tactic | Status | Notes |
+|--------|--------|-------|
+| **Traffic control** | ✅ ALLOWED | Slow down, redirect to safer area |
+| **StarChase** | ✅ ALLOWED | GPS tagging system |
+| **Aviation Unit** | ✅ ALLOWED | Monitor and broadcast (non-emergency) |
+| **Precision Immobilization** | ✅ ALLOWED | **Only** when pursuit has ended and suspect is stationary |
+
+---
+
+## Post-Pursuit Requirements
+
+### UNIFORMED MEMBER
+
+| Action | Deadline |
+|--------|----------|
+| Complete **Vehicle Pursuit Report** | Before end of tour |
+| Notify **Precinct Executive Officer** | Immediately |
+| **Safeguard BWC footage** | Immediately |
+| **Do not view BWC** if injury/death | Await IAB/FID |
+
+### SUPERVISOR
+
+| Action | Deadline |
+|--------|----------|
+| Review pursuit footage | Within 24 hours |
+| **Notify IAB** if force incident | Immediately |
+| **Notify FID** if death/serious injury | Immediately |
+| Conduct **preliminary investigation** | Within 48 hours |
+
+---
+
+## Sergeant Focus
+
+> **Sergeant Focus:** As a supervisor, you must **respond to the scene** when feasible and **actively monitor** the pursuit via radio. You have the **authority and responsibility** to direct termination if the danger to the public outweighs the benefit of apprehension.
+
+> **Sergeant Focus:** Know the **prohibited tactics** — Forcible stopping and roadblocks are **NEVER authorized** during a vehicle pursuit. Officers may confuse these with permissible tactics like traffic control or PIM (which is only allowed on **stationary** vehicles).
+
+> **Sergeant Focus:** **Reckless Driving (VTL § 1212)** is explicitly defined as a **non-violent misdemeanor** — pursuits for this offense alone are **NOT authorized**. This is heavily tested.
+
+---
+
+## Exam Alerts
+
+> **⚠️ EXAM ALERT:** The distinction between **permissible traffic control** vs. **prohibited roadblock** is tested. Traffic control **slows/redirects**; roadblock **blocks all escape**.
+
+> **⚠️ EXAM ALERT:** **Unmarked RMPs and motorcycles** must disengage when a **marked RMP** joins. Department vans must disengage when **any other Department vehicle** joins.
+
+> **⚠️ EXAM ALERT:** **BWC rules** — If injury or death occurs, supervisor **DO NOT VIEW** footage. Safeguard and await IAB/FID.
+
+> **⚠️ EXAM ALERT:** **Extraordinary circumstances** for false statements (A.G. 304-10) — Only the **Police Commissioner** can determine on a case-by-case basis.
+
+---
+
+## Memory Aids
+
+> **🧠 MEMORY AID — P.U.R.S.U.I.T.:**
+> - **P**opulation density
+> - **U**rgency of offense
+> - **R**oad/weather conditions
+> - **S**peed of pursuit
+> - **U**nit capabilities
+> - **I**dentity known?
+> - **T**raffic conditions
+
+> **🧠 MEMORY AID — NO STOP:**
+> - **N**on-violent misdemeanor = No pursuit
+> - **O**ffense must justify risk
+> - **S**top if danger > benefit
+> - **T**raffic control OK, roadblock prohibited
+
+---
+
+## Related Procedures
+
+| Procedure | Title |
+|-----------|-------|
+| P.G. 221-01 | Force Guidelines |
+| P.G. 221-02 | Use of Force |
+| P.G. 221-03 | Reporting Force Incidents |
+| A.G. 304-10 | False or Misleading Statements |
+| P.G. 218-48 | Vehicle Seizure |
+
+---
+
+## Review Questions
+
+*See  for practice questions on this procedure.*
 
 ---
 
@@ -33773,6 +34006,9 @@ Section 303 of the Administrative Guide defines the duties and responsibilities 
 - Identify prohibited conduct categories, political restrictions, and relationship restrictions
 - Know personal appearance standards, locker sticker rules, and 8-Point Cap requirements
 - Understand facial hair policy exceptions and religious head covering accommodations
+- Know the three types of prohibited statements: false, misleading, and inaccurate
+- Understand gift acceptance rules, pre-approval requirements, and reporting thresholds
+- Know uniform wear rules for parades, funerals, and law enforcement events
 
 ## Procedures
 
@@ -33785,9 +34021,9 @@ Section 303 of the Administrative Guide defines the duties and responsibilities 
 | A.G. 304-07 | Personal Appearance | completed |
 | A.G. 304-08 | Facial Hair Policy | completed |
 | A.G. 304-09 | Religious Head Covering | completed |
-| A.G. 304-10 | Making False Statements | not_started |
-| A.G. 304-13 | Attendance at Parades, Funerals, Other | not_started |
-| A.G. 304-14 | Acceptance of Gifts & Other Compensation | not_started |
+| A.G. 304-10 | Making False Statements | completed |
+| A.G. 304-13 | Attendance at Parades, Funerals, Other | completed |
+| A.G. 304-14 | Acceptance of Gifts & Other Compensation | completed |
 | A.G. 325-35 | Department Computer Use Policy | completed |
 
 ## Chapter Files
@@ -33800,7 +34036,10 @@ Section 303 of the Administrative Guide defines the duties and responsibilities 
 |  | A.G. 304-06: General prohibitions, relationships, political restrictions, Community Board rules, off-duty restrictions, operational rules |
 |  | A.G. 304-07/08/09: Appearance standards, 8-Point Cap, locker stickers, hair/jewelry/tattoo rules, facial hair policy, religious head covering |
 |  | A.G. 325-35: Department computer use policy, monitoring notice, prohibited uses |
-|  | Definitions, disciplinary consequences, counseling protections, courtesies, compliance, prohibited conduct, appearance terms |
+|  | A.G. 304-10: False/misleading/inaccurate statements, material facts, impeding investigations, separation penalties |
+|  | A.G. 304-13: Uniform wear rules, alcohol/firearms restrictions, event monitoring, out-of-state permissions |
+|  | A.G. 304-14: Gift acceptance policy, pre-approval requirements, Commissioner vs. CO determinations, IAB reporting |
+|  | Definitions, disciplinary consequences, counseling protections, courtesies, compliance, prohibited conduct, appearance terms, statements, gifts, events |
 |  | 16 multiple-choice questions covering all AG 304 sections |
 
 ## Sergeant Focus Areas
@@ -33819,6 +34058,414 @@ Section 303 of the Administrative Guide defines the duties and responsibilities 
 - **Locker stickers:** 2 outside (Police Don't Move, Proper Tactics Save Lives), 3 inside (Gun Safety, Seat Belt, Health and Wellness)
 - **Facial hair exemption:** Medical = 180 days only; religious and medical both require written approval
 - **RAPNET:** Reasonable Accommodation Photo Net — supervisors can query tax numbers
+
+---
+
+# A.G. 304-10 — False or Misleading Statements
+
+> **Date Effective:** 08/26/21 | **Last Revision:** I.O. 78 | **Page:** 1 of 2
+
+---
+
+## Purpose
+
+To provide clear guidelines regarding written and verbal statements made by members of the service during an official investigation.
+
+---
+
+## Definitions
+
+| Term | Definition |
+|------|------------|
+| **False Statement** | An intentional statement that a member of the service knows to be untrue, which is material to the outcome of an investigation, proceeding, or other matter. |
+| **Misleading Statement** | A statement intended to misdirect the fact finder and materially alter the narrative by: (a) intentionally omitting a material fact, (b) claiming "I do not remember" when a reasonable person would recall, or (c) altering a prior statement when confronted with independent evidence. |
+| **Inaccurate Statement** | A statement that a member knows or should know includes incorrect material information. No intent to deceive, but actions are grossly negligent. |
+| **Material Fact** | A significant fact that a reasonable person would recognize as relevant to the subject matter, including foreseeable consequences or establishment of elements. Suppression or alteration would result in a different decision. |
+| **Impeding** | Making false, misleading, and/or inaccurate statements, or engaging in an impeding action (e.g., failing to produce records as directed). |
+
+---
+
+## Prohibited Conduct
+
+1. **Intentionally making a false official statement**
+2. **Intentionally making a misleading official statement**
+3. **Making, or causing to be made, an inaccurate official statement**
+4. **Impeding an investigation**
+
+---
+
+## Additional Data
+
+### Separation from Department
+
+**Intentionally making a false official statement regarding a material matter will result in separation from the Department, absent extraordinary circumstances.**
+
+> **NOTE:** Extraordinary circumstances will be determined by the **Police Commissioner** on a case-by-case basis.
+
+### Scope of Application
+
+Statements subject to this procedure include:
+- Verbal statements made pursuant to statutory or procedural requirements
+- Statements under oath during civil, administrative, or criminal proceedings
+- Written statements in sworn documents (COMPLAINT REPORT [PD313-152], Domestic Incident Report [DCJS-3221], etc.)
+- Interviews pursuant to P.G. 206-13 (Department interrogation)
+- Interviews by Attorney General's Law Enforcement Misconduct Investigative Office (P.G. 211-09)
+- Interviews pursuant to P.G. 211-14 (CCRB investigations)
+
+### Retraction Exception
+
+If a member intentionally makes a false statement, but **retracts and substitutes a truthful statement during the same interview, deposition, or other session of oral testimony**, a charge of false statement may not be appropriate.
+
+### Recollection with Evidence
+
+When a member is afforded an opportunity to recollect with the benefit of credible evidence, and makes a statement consistent with the evidence, the prior statement will **not** be considered false. However, it may be considered:
+- Misleading statement
+- Inaccurate statement
+- Impeding the investigation (if further steps were required)
+
+### Mistakes Distinguished
+
+**Mere clerical errors** may not be considered inaccurate statements when:
+- The error is so minor it has little or no effect on overall intent
+- The member does not intend to deceive
+- The error lacks willful intent and is not grossly negligent
+
+### Member Obligation
+
+**Members of the service have an obligation to review documents before signing or otherwise verifying their accuracy.**
+
+---
+
+## Sergeant Focus
+
+> **★ SERGEANT FOCUS:** Know the **three types of prohibited statements**: (1) False — intentional untruth, (2) Misleading — intended to misdirect/omit material facts, (3) Inaccurate — grossly negligent incorrect information. The **discipline differs** — false statements result in separation absent extraordinary circumstances.
+
+> **★ SERGEANT FOCUS:** **Extraordinary circumstances** for avoiding separation on false statement charges can **only** be determined by the **Police Commissioner** on a case-by-case basis. This is heavily tested.
+
+> **★ SERGEANT FOCUS:** Members must **review documents before signing**. Claiming "I didn't read it" is not a defense to an inaccurate statement charge.
+
+---
+
+## Exam Alerts
+
+> **⚠️ EXAM ALERT:** The distinction between **false** (intentional), **misleading** (intent to misdirect), and **inaccurate** (grossly negligent, no intent to deceive) statements is frequently tested. Know the definitions.
+
+> **⚠️ EXAM ALERT:** **Retraction exception** — A false statement retracted and corrected **during the same session** may not result in false statement charges. Know this timing requirement.
+
+> **⚠️ EXAM ALERT:** **Material fact** = significant fact affecting determination. **Immaterial/clerical errors** = not misconduct if minor and without willful intent.
+
+---
+
+## Memory Aids
+
+> **🧠 MEMORY AID — FALSE:**
+> - **F**act intentionally untrue
+> - **A**bsent extraordinary circumstances = separation
+> - **L**ie under oath or official
+> - **S**igned without reading = inaccurate
+> - **E**xtraordinary circumstances = Police Commissioner only
+
+> **🧠 MEMORY AID — MATERIAL:**
+> - **M**atters to the outcome
+> - **A**ffects determination
+> - **T**rivial details excluded
+> - **E**ssential to the issue
+> - **R**easonable person standard
+> - **I**mportant, not technical
+> - **A**lteration changes result
+> - **L**ists consequences
+
+---
+
+## Related Procedures
+
+| Procedure | Title |
+|-----------|-------|
+| P.G. 206-13 | Interrogation of Members of the Service |
+| P.G. 211-09 | Appearances Before Governmental Agencies |
+| P.G. 211-14 | Investigations by Civilian Complaint Review Board |
+| A.G. 305-07 | Firearms – General Regulations |
+| A.G. 325-18 | Command Reference Library |
+
+---
+
+## Review Questions
+
+*See  for practice questions on this procedure.*
+
+---
+
+# A.G. 304-13 — Attendance at Parades, Funerals, Memorial Services and Other Department or Law Enforcement Events
+
+> **Date Effective:** 06/24/21 | **Last Revision:** I.O. 56 | **Page:** 1 of 2
+
+---
+
+## Purpose
+
+To inform all members of the service of guidelines to be complied with when attending or taking part in parades, funerals, memorial services, and other Department-oriented or law enforcement events.
+
+---
+
+## Scope
+
+All members of the service are **strictly accountable** for their conduct at all times, whether on or off duty, inside or outside New York City. Conduct which brings discredit to the Department or violates law will result in appropriate disciplinary measures.
+
+All members are subject to:
+- Patrol Guide provisions
+- Other Department regulations
+- All local, state, and federal laws
+
+---
+
+## Procedure
+
+### ALL MEMBERS
+
+| Requirement | Details |
+|-------------|---------|
+| **Corruption reporting** | ALL members must report corruption or misconduct whether on or off duty, inside or outside NYC. **Ranking officers' supervisory responsibilities are never abrogated.** |
+| **IAB notification** | Ranking uniformed members must take affirmative action and **immediately notify Internal Affairs Bureau** when observing corruption or misconduct. |
+
+### ON-DUTY MEMBERS
+
+| Requirement | Details |
+|-------------|---------|
+| **Return to command** | Return to command as soon as event ends |
+| **No meal period** | Not granted meal period for event attendance |
+| **No lost time** | Not granted lost time until returning to assigned command |
+
+### OFF-DUTY UNIFORM ATTIRE
+
+| Requirement | Details |
+|-------------|---------|
+| **Outside NYC** | Must receive permission **in advance** from **Police Commissioner, First Deputy Commissioner, or Chief of Department** |
+| **Duration** | Only wear uniform for duration of event |
+| **Change immediately** | Must change to civilian attire as soon as event ends |
+| **Social events** | Cannot wear uniform to parties, dinners, fundraisers without **commanding officer or designee permission** |
+| **After-event socials** | Includes social events that take place after parade, funeral, etc. ends |
+
+### ALCOHOL AND FIREARMS
+
+| Requirement | Details |
+|-------------|---------|
+| **Intoxicants in uniform** | **PROHIBITED** — P.G. 203-06 prohibits consumption when in uniform, whether on or off duty |
+| **Alcohol in facilities** | Cannot allow alcoholic beverages in Department facilities or vehicles except in performance of duty |
+| **Firearms discretion** | Off-duty members to be **unarmed at own discretion** when alcoholic beverages are consumed (A.G. 305-07) |
+| **Authorized weapons only** | Only regulation service pistol, authorized off-duty pistol/revolver, or authorized special weapons |
+
+### MONITORING
+
+| Requirement | Details |
+|-------------|---------|
+| **Overhead command** | All Department-oriented and law enforcement events will be monitored by ranking officers from overhead commands |
+| **IAB monitoring** | In selected cases, **Internal Affairs Bureau** will conduct monitoring (as directed by Police Commissioner, First Deputy Commissioner, or Chief of Department) |
+
+### OUT-OF-STATE FIREARMS
+
+| Requirement | Details |
+|-------------|---------|
+| **Permission required** | May **not** carry firearms out-of-state for parade, funeral, memorial, or other event **without permission** from Police Commissioner, First Deputy Commissioner, or Chief of Department |
+| **State law irrelevant** | Applies **even when** event takes place in a state which allows police officers from other jurisdictions to carry weapons |
+
+---
+
+## Sergeant Focus
+
+> **★ SERGEANT FOCUS:** **Supervisory responsibilities are never abrogated** — ranking officers must take affirmative action when observing corruption or misconduct, including **immediate IAB notification**. This applies whether on or off duty, inside or outside NYC.
+
+> **★ SERGEANT FOCUS:** Know the **uniform permission hierarchy**: (1) Outside NYC = Police Commissioner/First Deputy/Chief of Department, (2) Social events = Commanding Officer or designee.
+
+> **★ SERGEANT FOCUS:** **Out-of-state firearms** require permission from Police Commissioner/First Deputy/Chief of Department **even if** the state allows out-of-jurisdiction officers to carry. State law does not override Department policy.
+
+---
+
+## Exam Alerts
+
+> **⚠️ EXAM ALERT:** **On-duty members** return to command immediately after event — **no meal period, no lost time** until back at command.
+
+> **⚠️ EXAM ALERT:** **Uniform outside NYC** = advance permission from **Police Commissioner, First Deputy Commissioner, or Chief of Department** (not commanding officer).
+
+> **⚠️ EXAM ALERT:** **Alcohol + uniform = prohibited** whether on or off duty. Cannot allow alcohol in Department facilities/vehicles except on duty.
+
+> **⚠️ EXAM ALERT:** **Monitoring responsibility** — overhead command ranking officers monitor all events. IAB monitors in selected cases as directed.
+
+---
+
+## Memory Aids
+
+> **🧠 MEMORY AID — UNIFORM:**
+> - **U**nder advance permission (outside NYC)
+> - **N**o social events without CO permission
+> - **I**mmediately change after event
+> - **F**irearms require Commissioner permission out-of-state
+> - **O**n-duty = return to command, no meal/lost time
+> - **R**anking officers report corruption immediately
+
+> **🧠 MEMORY AID — NO DRINK:**
+> - **N**o alcohol in uniform (on or off duty)
+> - **O**nly on duty = alcohol in facilities/vehicles
+> - **D**iscretion to be unarmed when alcohol present
+> - **R**egulation weapons only
+> - **I**nternal Affairs monitors selected events
+> - **N**ever abrogate supervisory duty
+> - **K**now who grants permission
+
+---
+
+## Related Procedures
+
+| Procedure | Title |
+|-----------|-------|
+| P.G. 203-06 | Performance On Duty - Prohibited Conduct |
+| A.G. 305-07 | Firearms – General Regulations |
+| A.G. 325-18 | Command Reference Library |
+
+---
+
+## Review Questions
+
+*See  for practice questions on this procedure.*
+
+---
+
+# A.G. 304-14 — Guidelines for Acceptance of Gifts and Other Compensation by Members of the Service
+
+> **Date Effective:** 06/10/21 | **Last Revision:** I.O. 41 | **Page:** 1 of 2
+
+---
+
+## Purpose
+
+To provide guidance to members of the service relating to acceptance of gifts and other compensation.
+
+---
+
+## Policy
+
+**Members of the service may not accept any reward, gratuity, gift or other compensation for any service performed as a result of or in conjunction with their duties as public servants.**
+
+All exceptions must be in accordance with:
+- **Chapter 68 of the New York City Charter**
+- **Police Department Board of Ethics rulings**
+
+This policy applies **regardless of whether the service was performed while said members were on or off duty**.
+
+**Members shall not solicit any gift, gratuity, loan, present, fee or reward for personal gain.**
+
+---
+
+## Scope
+
+### Permitted Gifts (Tokens of Appreciation)
+
+It is **not unethical or illegal** to accept gifts commonly offered as tokens of appreciation:
+- Plaques
+- Pen and pencil sets
+- Similar items of nominal value
+
+### Prohibited Gifts
+
+**Strictly forbidden:**
+- **Cash rewards**
+- **Personal gifts** (e.g., wristwatches, etc.)
+
+---
+
+## Procedure
+
+### MEMBER CONCERNED
+
+| Step | Action |
+|------|--------|
+| 1 | Comply with Department regulations relating to **financial restrictions and prohibited acts/prohibited interests** |
+| 2 | **Notify commanding officer PRIOR to acceptance of gift** |
+
+### COMMANDING OFFICER CONCERNED
+
+| Step | Action |
+|------|--------|
+| 3 | **Review circumstances** regarding the offering of the gift |
+| | a. Review Department Board of Ethics rulings relating to acceptance of gifts |
+
+> **NOTE:** Commanding officers are responsible to ensure command copies of Board of Ethics rulings are maintained in Command Reference Library as required by **A.G. 325-18**.
+
+---
+
+## Gift Determination Flow
+
+### IF GIFT IS A REWARD OR PRESENT FOR POLICE SERVICE RENDERED IN DISCHARGE OF OFFICIAL DUTY:
+
+| Step | Action |
+|------|--------|
+| 4 | Commanding officer prepares **report on Typed Letterhead to the Police Commissioner** |
+| 5 | Police Commissioner conducts **review and final determination** regarding acceptability |
+
+### IF GIFT IS OFFERED BY A PERSON/FIRM WHICH IS, OR INTENDS TO ENGAGE IN BUSINESS DEALING WITH THE CITY OF NEW YORK:
+
+| Step | Action |
+|------|--------|
+| 6 | Review **City Charter, Section 2604(B)(5)** to ensure no conflict of interest |
+| 7 | **Make final determination** regarding propriety of accepting gift and notify member |
+| | a. Request ruling by **Board of Ethics** if circumstances are peculiar and not reflected in current rulings |
+| 8 | Prepare **report to Deputy Commissioner, Internal Affairs, through channels** for any member who receives **two or more gifts** within a calendar year |
+
+---
+
+## Sergeant Focus
+
+> **★ SERGEANT FOCUS:** Know the **two-track process**: (1) Reward for police service = Police Commissioner decides, (2) Gift from city business dealer = Commanding Officer decides after reviewing City Charter § 2604(B)(5).
+
+> **★ SERGEANT FOCUS:** Members must notify commanding officer **PRIOR to acceptance** — not after. Pre-approval is required.
+
+> **★ SERGEANT FOCUS:** **Two or more gifts** in a calendar year = report to **Deputy Commissioner, Internal Affairs** regardless of value or source.
+
+---
+
+## Exam Alerts
+
+> **⚠️ EXAM ALERT:** **Permitted vs. prohibited** — Plaques/pen sets = OK. Cash/wristwatches = prohibited. Know the difference.
+
+> **⚠️ EXAM ALERT:** **Policy applies on or off duty** — The gift policy applies regardless of whether service was performed on or off duty.
+
+> **⚠️ EXAM ALERT:** **Board of Ethics** — All exceptions must comply with Chapter 68 of NYC Charter and Board of Ethics rulings.
+
+> **⚠️ EXAM ALERT:** **Multiple gifts** — Two or more gifts in a calendar year triggers IAB report, regardless of value or source.
+
+---
+
+## Memory Aids
+
+> **🧠 MEMORY AID — GIFTS:**
+> - **G**enerally prohibited (rewards, gratuities, compensation)
+> - **I**n writing to Commissioner (for service rewards)
+> - **F**inal determination = Police Commissioner or CO (depends on source)
+> - **T**okens of appreciation OK (plaques, pen sets)
+> - **S**olicit = prohibited
+
+> **🧠 MEMORY AID — NO CASH:**
+> - **N**otify CO prior to acceptance
+> - **O**n or off duty = policy applies
+> - **C**ash rewards = forbidden
+> - **A**cceptable = plaques, pen sets
+> - **S**ource matters (city dealer = CO reviews Charter)
+> - **H**onor two-gift rule (report to IAB)
+
+---
+
+## Related Procedures
+
+| Procedure | Title |
+|-----------|-------|
+| A.G. 325-18 | Command Reference Library |
+| NYC Charter § 68 | Conflicts of Interest |
+| NYC Charter § 2604(B)(5) | Business Dealings with City |
+
+---
+
+## Review Questions
+
+*See  for practice questions on this procedure.*
 
 ---
 
@@ -35963,9 +36610,9 @@ A FAVOR: A = Alcohol likely consumed; F = Family or Supreme Court Matrimonial (d
 | A.G. 318-11 | Interrogation of Members of the Service | completed |
 | A.G. 318-12 | Sealing of "B" CDs | completed |
 | A.G. 318-14 | Citywide CD System | completed |
-| A.G. 318-06 | (Suspension of UMOS — 49 distribution covered) | blocked |
-| A.G. 318-07 | (Suspension of CMOS — 49 distribution covered) | blocked |
-| A.G. 318-08 | (Cause for Modified — Captain's procedure) | blocked |
+| A.G. 318-06 | Suspension of UMOS | completed (covered in 318-10 file) |
+| A.G. 318-07 | Suspension of CMOS | completed (covered in 318-10 file) |
+| A.G. 318-08 | Cause for Modified Assignment | completed (covered in 318-10 file) |
 
 ## Chapter Files
 
@@ -35975,7 +36622,7 @@ A FAVOR: A = Alcohol likely consumed; F = Family or Supreme Court Matrimonial (d
 |  | A.G. 318-02: CD process from initiation through adjudication, three election options, Review Panel, transfer rules, IAB-originated CDs, day-type distinctions |
 |  | A.G. 318-05: Must vs. authorized to suspend, A DOG CAR mnemonic, G.D.A.S.S. clubs, Sgt vs. TM/SSDD authority, re-suspension |
 |  | A.G. 318-09: MOS arrested in-city vs. outside city, notification chains, Ranking Officer investigation, 30-day reporting, court appearance updates |
-|  | A.G. 318-10: Unfit for duty procedures, 49 distribution comparison table across 318-06/07/08/10 |
+|  | A.G. 318-10: Unfit for duty procedures, 49 distribution comparison table across 318-06/07/08/10; also covers 318-06 (Suspend UMOS), 318-07 (Suspend CMOS), 318-08 (Modified) distribution rules |
 |  | A.G. 318-10: PD469-150 preparation, investigation standard, firearms removal, report distribution (8 copies), mandatory counseling referral |
 |  | A.G. 318-14: Database entry deadlines, access management, record removal/destruction timeframes, sealing of "B" CDs |
 |  | A.G. 318-11: PD339-121, counsel rights, BWC viewing, prohibited tactics, Garrity warning, tape/transcript deadlines, member obligations |

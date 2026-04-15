@@ -1,136 +1,82 @@
-# Section 331 — APPEAL OF EVALUATION - CIVILIAN MEMBER OF THE SERVICE
+# Section 331 — Appeal of Evaluation — Civilian Member of the Service
 
 ## A.G. 331-11
 
-| DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|-------------------|------------------|---------|
-| 05/03/24          | R.O. 24          | 1 of 2  |
+**Effective:** 05/03/24 | **Last Revision:** R.O. 24 | **Pages:** 1-2
 
-within thirty days of appeal notice.
-
-PURPOSE
+### Purpose
 
 To permit a civilian member of the service to appeal an evaluation.
 
-SCOPE
+### Scope
 
-This procedure does not apply to individuals who have not completed their probationary period or have served less than two years in a provisional status .
+This procedure does **not** apply to individuals who have not completed their probationary period or have served less than two years in a provisional status.
 
-PROCEDURE
+> **Exam Alert:** Probationary civilians and those with less than two years in provisional status are **excluded** from the appeal process. This is a commonly tested limitation.
+
+### Procedure
 
 When a civilian member wants to appeal a performance evaluation:
 
-RATER
+#### Rater
 
 1. Inform commanding officer.
 
-COMMANDING OFFICER
+#### Commanding Officer
 
-2. Schedule interview with members concerned (rater, reviewer and ratee), within thirty days of appeal notice.
+2. Schedule interview with members concerned (rater, reviewer and ratee), within **thirty days** of appeal notice.
+   - a. If the commanding officer is also the rater, the rater's immediate supervisor will schedule the interview and serve as the reviewer.
+   - b. If ratee performs below desirable standard, commanding officer **MUST** be reviewer.
 
-NOTE
+> **Exam Alert:** The interview must be scheduled within **30 days** of the appeal notice. If the CO is the rater, the rater's immediate supervisor steps in as reviewer. If the ratee is below standard, the CO MUST be the reviewer.
 
-NOTE
+3. Attempt to resolve appeal.
 
-of the written request for appeal to the respective bureau/borough personnel office a.
+#### Ratee
 
-If the commanding officer is also the rater, the rater's immediate supervisor will schedule the interview and serve as the reviewer. If ratee performs below desirable standard, commanding officer MUST be reviewer.
+4. If the matter is not resolved at command level, prepare **Typed Letterhead** to respective bureau/borough personnel officer requesting further appeal.
 
-C.
+> **Exam Alert:** The appeal must be in writing — **Typed Letterhead** is required for further appeal beyond the command level.
 
-d.
+#### Personnel Officer
 
-a.
+5. Convene review board.
+   - a. Appeal must be resolved within **thirty days** of receipt of request for appeal.
+   - b. Review board will prepare report in **triplicate** and forward copies to ratee, rater and **Performance Analysis Unit** for inclusion in member's personal folder.
 
-C.
-
-4.
-
-## 3. Attempt to resolve appeal.
-
-If the matter is not resolved after review by the commanding officer, upon the written request of the ratee to the respective bureau/borough personnel officer for further appeal, a review board will be empanelled at the borough or equivalent level. The respective bureau/borough personnel officer will be responsible for convening the review board. The review board must resolve the appeal within thirty days from receipt of the written request for appeal to the respective bureau/borough personnel officer. For Patrol Services Bureau personnel, the review board will consist of:
-
+For **Patrol Services Bureau** personnel, the review board will consist of:
 - a. Borough personnel officer
 - b. Borough adjutant
 - c. Borough Equal Employment Opportunity (EEO) liaison
-- d. Commanding officer from other than the command of the ratee.
+- d. Commanding officer from other than the command of the ratee
 
-For bureaus or divisions other than the above, the review board will consist of:
-
+For **bureaus or divisions other than Patrol Services Bureau**, the review board will consist of:
 - a. Personnel officer
 - b. Bureau executive officer
 - c. EEO liaison
-- d. Division commander from other than the command of the ratee.
+- d. Division commander from other than the command of the ratee
 
-RATEE
+> **Exam Alert:** Know the composition of the review board for Patrol Services Bureau vs. other bureaus. Both have four members, but the composition differs: borough adjutant vs. bureau executive officer, commanding officer vs. division commander.
 
-4. Prepare Typed Letterhead , to respective bureau/borough personnel officer requesting further appeal, if appeal is not resolved at the command level, and further review is desired.
+#### Ratee (continued)
 
-PERSONNEL OFFICER 5.
+6. Prepare **Typed Letterhead** to the Police Commissioner requesting final review if further appeal beyond the determination of the review board is desired.
 
-Convene review board.
+The **Police Commissioner**, or the Police Commissioner's designee, will make written notification of the final determination of ratee's appeal.
 
-- a. Appeal must be resolved within thirty days of receipt of request for appeal.
+> **Exam Alert:** The determination of the review board may be further appealed to the **Police Commissioner** (or designee) for a **final determination**. The Commissioner's decision is the end of the line.
 
-KULD
+### Grounds for Appeal
 
-RATEE
+A civilian member of the service has the right to appeal the contents, recommendations or overall rating of their performance evaluation, **ONLY** if cause for appeal stems from:
 
-NOTE
+- a. **Factual error**
+- b. **Rater's misinterpretation of instructions**
+- c. **Bias or prejudice** on the part of the rater
+- d. **Evaluation is based upon other than performance factors**
 
-ine aelerminalion of ine review ooara may ve Juriner appealea o ie rouc
+> **Exam Alert:** These four grounds (a-d) are the **only** valid causes for appeal. A member cannot appeal simply because they disagree with the rating. Know all four.
 
-Commissioner or the Police Commissioner's designee for a final determination.
+A civilian member of the service has the right to review comments and recommendations made by a reviewer; however, such comments and recommendations are **not cause for appeal**. Such a review is solely for the ratee's informational purposes.
 
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 331-11              | 05/03/24          | R.O. 24          | 2 of 2  |
-
-## PERSONNEL OFFICER (continued)
-
-NOTE
-
-RATEE
-
-## NOTE
-
-CITY
-
-- b. Review board will prepare report in triplicate and forward copies to ratee, rater and Performance Analysis Unit for inclusion in member's personal folder.
-
-The determination of the review board may be further appealed to the Police Commissioner or the Police Commissioner's designee for a final determination.
-
-Bias or prejudice on the part of the rater
-
-6. Prepare Typed Letterhead , to the Police Commissioner requesting final review if further appeal beyond the determination of the review board is desired.
-
-The Police Commissioner, or the Police Commissioner's designee, will make written notification of the final determination of ratee's appeal.
-
-A civilian member of the service has the right to appeal the contents, recommendations or overall rating of their performance evaluation, ONLY if cause for appeal stems from:
-
-DEBALENT
-
-- a. Factual error
-- b. Rater's misinterpretation of instructions
-- c. Bias or prejudice on the part of the rater
-- d. Evaluation is based upon other than performance factors.
-
-NEW
-
-<!-- image -->
-
-A civilian member of the service has the right to review comments and recommendations made by a reviewer; however, such comments and recommendations are not cause for appeal. Such a review is solely for the ratee's informational purposes.
-
-SCOPE
-
-harassment, and/or related retaliation made against Department employees an applicants.
-
-Federal,
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employee Rights/Responsibilities
+> **Sergeant Focus:** As a rater, your evaluation of civilian members can be appealed. Ensure your evaluations are fact-based and free from bias. Know the four valid grounds for appeal — if a civilian member claims one of these, the appeal process must be followed. The 30-day timeline for scheduling the interview and for the review board to resolve the appeal are hard deadlines.
