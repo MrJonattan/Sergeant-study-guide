@@ -666,14 +666,24 @@ html.dark .flashcard-item { background: var(--bg-muted); }
   <nav id="sidebar">
     <div id="sidebar-header"><h1>NYPD Sergeant<br>Study Guide</h1><p>Promotional Exam Prep</p></div>
     <div class="nav-section">
-      <div class="nav-section-title">Views</div>
+      <div class="nav-section-title">Overview</div>
       <button class="nav-item" data-view="home" onclick="App.nav('home')">Dashboard</button>
+    </div>
+    <div class="nav-section">
+      <div class="nav-section-title">Learn</div>
       <button class="nav-item" data-view="cheatsheet" onclick="App.nav('cheatsheet')">Cheat Sheet</button>
-      <button class="nav-item" data-view="flashcards" onclick="App.nav('flashcards')">Flashcards</button>
-      <button class="nav-item" data-view="exam" onclick="App.nav('exam')">Practice Exam</button>
-      <button class="nav-item" data-view="weak" onclick="App.nav('weak')">Weak Areas</button>
       <button class="nav-item" data-view="sergeant" onclick="App.nav('sergeant')">Sergeant Focus</button>
       <button class="nav-item" data-view="notes" onclick="App.nav('notes')">Notes</button>
+    </div>
+    <div class="nav-section">
+      <div class="nav-section-title">Practice</div>
+      <button class="nav-item" data-view="flashcards" onclick="App.nav('flashcards')">Flashcards</button>
+      <button class="nav-item" data-view="quickquiz" onclick="App.nav('quickquiz')">Quick Quiz</button>
+      <button class="nav-item" data-view="exam" onclick="App.nav('exam')">Practice Exam</button>
+    </div>
+    <div class="nav-section">
+      <div class="nav-section-title">Review</div>
+      <button class="nav-item" data-view="weak" onclick="App.nav('weak')">Weak Areas</button>
     </div>
     <div class="nav-section" id="nav-chapters"><div class="nav-section-title">Chapters</div></div>
   </nav>
@@ -698,9 +708,9 @@ html.dark .flashcard-item { background: var(--bg-muted); }
   <div id="bottom-nav"><div class="bnav-items">
     <button class="bnav-btn" onclick="App.nav('home')">HOME</button>
     <button class="bnav-btn" onclick="App.nav('cheatsheet')">CHEAT</button>
-    <button class="bnav-btn" onclick="App.nav('flashcards')">CARDS</button>
+    <button class="bnav-btn" onclick="App.nav('quickquiz')">QUIZ</button>
     <button class="bnav-btn" onclick="App.nav('exam')">EXAM</button>
-    <button class="bnav-btn" onclick="App.openSearch()">SEARCH</button>
+    <button class="bnav-btn" onclick="App.nav('weak')">REVIEW</button>
   </div></div>
 </div>
 
