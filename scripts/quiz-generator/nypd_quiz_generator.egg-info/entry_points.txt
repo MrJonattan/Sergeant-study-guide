@@ -1,0 +1,2 @@
+[console_scripts]
+nypd-quiz = cli.app:cli

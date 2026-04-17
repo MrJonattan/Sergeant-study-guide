@@ -11,3 +11,23 @@ build/data.js
 
 # Keep Anki exports
 !build/anki-*.csv
+
+# Python quiz generator
+scripts/quiz-generator/.venv/
+
+# Generated quiz questions (rebuild with nypd-quiz generate)
+build/generated-questions/
+
+# Flutter generated assets (rebuild with npm run build:flutter)
+mobile/assets/data/chapters/
+
+# Flutter build artifacts
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/pubspec.lock
+
+# Generated freezed/json_serializable code
+*.freezed.dart
+*.g.dart

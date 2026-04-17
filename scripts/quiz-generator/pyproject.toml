@@ -1,0 +1,25 @@
+[project]
+name = "nypd-quiz-generator"
+version = "0.1.0"
+description = "Generate NYPD Sergeant Promotional Exam questions from Patrol Guide content"
+requires-python = ">=3.11"
+dependencies = [
+    "click>=8.0",
+    "rich>=13.0",
+    "ollama>=0.4",
+    "anthropic>=0.40",
+    "tenacity>=8.0",
+]
+
+[project.scripts]
+nypd-quiz = "cli.app:cli"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--tb=short -q"
+
+[tool.setuptools.packages.find]
+include = ["cli*", "parsers*", "generators*", "models*", "writers*", "llm*"]
+
+[tool.ruff]
+line-length = 100

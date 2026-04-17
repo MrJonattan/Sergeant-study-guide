@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: nypd-quiz-generator
+Version: 0.1.0
+Summary: Generate NYPD Sergeant Promotional Exam questions from Patrol Guide content
+Requires-Python: >=3.11
+Requires-Dist: click>=8.0
+Requires-Dist: rich>=13.0
+Requires-Dist: ollama>=0.4
+Requires-Dist: anthropic>=0.40
+Requires-Dist: tenacity>=8.0
