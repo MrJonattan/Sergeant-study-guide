@@ -7,9 +7,13 @@
     "build": "npm run build:web && npm run build:pdf",
     "build:web": "node scripts/build-web.js && cp build/data.js docs/data.js",
     "build:pdf": "bash scripts/build-pdf.sh",
+    "build:flutter": "node scripts/convert-data-flutter.js",
     "test": "node scripts/validate-data.js",
     "deploy": "npm run build:web && cp src/index.html src/manifest.json src/sw.js docs/ && cp build/master-practice-exam.html build/quick-reference-cheat-sheet.html docs/ 2>/dev/null; git add docs/ && echo 'Ready to commit: git commit -am \"Deploy update\" && git push'",
     "export:anki": "node scripts/export-anki.js",
+    "generate-quiz": "cd scripts/quiz-generator && PYTHONPATH=. .venv/bin/python -m cli.app generate",
+    "generate-quiz:validate": "cd scripts/quiz-generator && PYTHONPATH=. .venv/bin/python -m cli.app validate",
+    "generate-quiz:dedup": "cd scripts/quiz-generator && PYTHONPATH=. .venv/bin/python -m cli.app dedup",
     "schedule": "node scripts/generate-study-schedule.js",
     "study": "npm run export:anki && npm run schedule && open build/study-schedule.md"
   }

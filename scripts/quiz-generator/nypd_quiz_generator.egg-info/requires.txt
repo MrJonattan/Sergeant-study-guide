@@ -1,0 +1,5 @@
+click>=8.0
+rich>=13.0
+ollama>=0.4
+anthropic>=0.40
+tenacity>=8.0
