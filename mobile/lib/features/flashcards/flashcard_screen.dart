@@ -53,7 +53,7 @@ class _SearchAndFilter extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(padding: const EdgeInsets.fromLTRB(16, 8, 16, 4), child: Column(children: [
-      TextField(value: searchQuery, onChanged: onSearchChanged,
+      TextField(controller: TextEditingController(text: searchQuery), onChanged: onSearchChanged,
         decoration: InputDecoration(hintText: 'Search flashcards...', prefixIcon: const Icon(Icons.search, size: 20),
           suffixIcon: searchQuery.isNotEmpty ? IconButton(icon: const Icon(Icons.clear, size: 20), onPressed: () => onSearchChanged('')) : null,
           isDense: true, contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8), border: OutlineInputBorder(borderRadius: BorderRadius.circular(12)))),

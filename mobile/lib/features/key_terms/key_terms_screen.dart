@@ -25,7 +25,7 @@ class _KeyTermsScreenState extends ConsumerState<KeyTermsScreen> {
       appBar: AppBar(
         title: _isSearching
             ? TextField(
-                value: _searchQuery,
+                controller: TextEditingController(text: _searchQuery),
                 onChanged: (value) => setState(() => _searchQuery = value),
                 autofocus: true,
                 decoration: const InputDecoration(

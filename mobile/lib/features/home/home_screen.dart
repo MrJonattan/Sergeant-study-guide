@@ -242,7 +242,7 @@ class _RecentChapters extends ConsumerWidget {
             leading: CircleAvatar(backgroundColor: AppTheme.primary.withValues(alpha: 0.1), child: Text(chapter.sectionNum, style: const TextStyle(fontSize: 11, fontWeight: FontWeight.bold))),
             title: Text(chapter.title, style: Theme.of(context).textTheme.bodyMedium?.copyWith(fontWeight: FontWeight.w500), maxLines: 1, overflow: TextOverflow.ellipsis),
             subtitle: Text('${chapter.questionCount} questions', style: Theme.of(context).textTheme.bodySmall),
-            trailing: progress != null ? Icon(progress.isCompleted ? Icons.check_circle : Icons.circle_outlined, size: 20, color: progress.isCompleted ? Colors.green : AppTheme.accent) : null,
+            trailing: Icon(progress.isCompleted ? Icons.check_circle : Icons.circle_outlined, size: 20, color: progress.isCompleted ? Colors.green : AppTheme.accent),
             onTap: () => context.push('/chapters/${chapter.id}'),
           ),
         );

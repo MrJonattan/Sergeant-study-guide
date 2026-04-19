@@ -6,9 +6,7 @@ import '../../config/constants.dart';
 import '../../config/theme.dart';
 import '../../data/models/chapter.dart';
 import '../../data/models/key_term.dart';
-import '../../data/models/question.dart';
 import '../../providers/chapter_provider.dart';
-import '../../providers/progress_provider.dart';
 import '../../providers/quiz_provider.dart';
 import '../../shared/widgets/markdown_renderer.dart';
 

@@ -155,7 +155,6 @@ class FlashcardNotifier extends StateNotifier<FlashcardReviewState> {
     if (card == null) return;
 
     try {
-      final current = _repository.getFlashcardState(card.cardId);
       final nextReview = DateTime.now(); // Due immediately
 
       final updated = models.FlashcardState(
