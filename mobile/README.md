@@ -1,17 +1,36 @@
-# nypd_study_guide
+# NYPD Sergeant Study Guide — Flutter App
 
-A new Flutter project.
+Cross-platform study app for the NYPD Sergeant Promotional Exam. Built with Flutter + Riverpod.
 
-## Getting Started
+See [../INSTRUCTIONS.md](../INSTRUCTIONS.md) for full setup and usage instructions.
 
-This project is a starting point for a Flutter application.
+## Quick Start
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+# 1. Generate study data (from project root)
+cd .. && npm run build:web && npm run build:flutter && cd mobile
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+# 2. Install dependencies
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 3. Generate model code
+flutter pub run build_runner build --delete-conflicting-outputs
+
+# 4. Run
+flutter run -d chrome    # Browser
+flutter run -d iphone     # iOS simulator (requires Xcode)
+flutter run -d android    # Android emulator (requires Android Studio)
+```
+
+## Features
+
+- 28 chapters with callout-enhanced study content
+- Per-chapter quizzes with haptic feedback
+- Full 140-question timed practice exam
+- 5-box Leitner spaced-repetition flashcards
+- Sergeant Focus callouts by category
+- Searchable key terms glossary
+- Weak areas analysis (below 70% accuracy)
+- Dark/light/system theme
+- Daily study reminders (push notifications)
+- Offline-first (all data bundled)
