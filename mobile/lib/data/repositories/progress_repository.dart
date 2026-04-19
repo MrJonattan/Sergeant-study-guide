@@ -81,7 +81,7 @@ class ProgressRepository {
           final progress = ChapterProgress.fromJson(
             jsonDecode(json) as Map<String, dynamic>,
           );
-          result[key as String] = progress;
+          result[key] = progress;
         }
       }
     } catch (e) {

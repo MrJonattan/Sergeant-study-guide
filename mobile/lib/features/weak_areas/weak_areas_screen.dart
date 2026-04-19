@@ -5,6 +5,7 @@ import 'package:go_router/go_router.dart';
 import '../../config/constants.dart';
 import '../../config/theme.dart';
 import '../../data/models/chapter.dart';
+import '../../data/models/study_progress.dart';
 import '../../providers/chapter_provider.dart';
 import '../../providers/progress_provider.dart';
 

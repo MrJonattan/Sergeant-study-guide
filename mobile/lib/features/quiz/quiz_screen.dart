@@ -122,7 +122,7 @@ class _AnswerOption extends StatelessWidget {
           const SizedBox(width: 12),
           Expanded(child: Text(text, style: Theme.of(context).textTheme.bodyMedium?.copyWith(color: answerSubmitted ? textColor : null))),
           if (icon != null) Icon(icon, size: 18, color: textColor),
-        ])));
+        ]))));
   }
 }
 
@@ -147,12 +147,12 @@ class _IdleView extends StatelessWidget {
   ])));
 }
 
-class _ResultsView extends StatelessWidget {
+class _ResultsView extends ConsumerWidget {
   final QuizState quizState;
   const _ResultsView({required this.quizState});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
     final isPassing = quizState.accuracyPercent >= AppConstants.passingScorePercent;
     return Center(child: Padding(padding: const EdgeInsets.all(32), child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
       Icon(isPassing ? Icons.emoji_events : Icons.refresh, size: 72, color: isPassing ? Colors.green : AppTheme.examAlert),
@@ -179,11 +179,11 @@ class _Row extends StatelessWidget {
   ]));
 }
 
-class _ErrorView extends StatelessWidget {
+class _ErrorView extends ConsumerWidget {
   final String message;
   const _ErrorView({required this.message});
   @override
-  Widget build(BuildContext context) => Center(child: Padding(padding: const EdgeInsets.all(32), child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+  Widget build(BuildContext context, WidgetRef ref) => Center(child: Padding(padding: const EdgeInsets.all(32), child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
     const Icon(Icons.error_outline, size: 64, color: AppTheme.examAlert),
     const SizedBox(height: 16), Text(message, style: Theme.of(context).textTheme.bodyLarge, textAlign: TextAlign.center),
     const SizedBox(height: 16), FilledButton(onPressed: () => ref.read(quizProvider.notifier).resetQuiz(), child: const Text('Try Again')),

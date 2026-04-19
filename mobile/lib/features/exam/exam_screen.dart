@@ -6,7 +6,6 @@ import 'package:go_router/go_router.dart';
 
 import '../../config/constants.dart';
 import '../../config/theme.dart';
-import '../../data/models/question.dart';
 import '../../providers/quiz_provider.dart';
 import '../../shared/utils/haptic_feedback.dart' as haptics;
 
@@ -189,12 +188,12 @@ class _BottomBar extends StatelessWidget {
   }
 }
 
-class _ExamResults extends StatelessWidget {
+class _ExamResults extends ConsumerWidget {
   final QuizState quizState; final String timeUsed;
   const _ExamResults({required this.quizState, required this.timeUsed});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
     final isPassing = quizState.accuracyPercent >= AppConstants.passingScorePercent;
     return Scaffold(appBar: AppBar(title: const Text('Exam Results')),
       body: Center(child: Padding(padding: const EdgeInsets.all(32), child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [

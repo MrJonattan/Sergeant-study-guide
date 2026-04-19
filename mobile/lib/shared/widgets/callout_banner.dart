@@ -50,7 +50,7 @@ const _calloutConfigs = <CalloutType, _CalloutConfig>{
     labelColor: Color(0xFF1B5E20),
   ),
   CalloutType.priorTest: _CalloutConfig(
-    icon: Icons.clipboard_outlined,
+    icon: Icons.content_paste_outlined,
     label: 'PRIOR TEST',
     borderColor: Color(0xFF1565C0),
     backgroundColor: Color(0xFFE3F2FD),
