@@ -24,10 +24,11 @@ Works offline on iPhone and Android (PWA). Add to home screen for a native app e
 ### For Developers
 
 7. [Project Structure](#project-structure)
-8. [Build System](#build-system)
-9. [Testing](#testing)
-10. [Deployment](#deployment)
-11. [How It Was Built](#how-it-was-built)
+8. [Commands Reference](#commands-reference)
+9. [Build System](#build-system)
+10. [Testing](#testing)
+11. [Deployment](#deployment)
+12. [How It Was Built](#how-it-was-built)
 
 ---
 
@@ -277,6 +278,14 @@ Chapters use the pattern `{PG-section}-{topic}`:
 
 ---
 
+## Commands Reference
+
+See [docs/COMMANDS.md](docs/COMMANDS.md) for the full command reference including:
+- Build commands (`build`, `build:web`, `build:pdf`, `build:flutter`)
+- Test & validate (`npm test`)
+- Deploy (`npm run deploy`)
+- Study tools (`export:anki`, `generate-quiz`, `schedule`, `study`)
+
 ## Build System
 
 ### Prerequisites
@@ -284,14 +293,12 @@ Chapters use the pattern `{PG-section}-{topic}`:
 - **Node.js** (v18+)
 - **Pandoc** (for PDF/HTML generation only)
 
-### Commands
+### Quick Start
 
 ```bash
-npm run build        # Generate all output (data.js + combined markdown + HTML)
-npm run build:web    # Generate data.js only (fast, for web app updates)
-npm run build:pdf    # Generate combined study guide + cheat sheet + exam HTML
-npm run test         # Run 23-test automated suite
-npm run deploy       # Copy build output to docs/ for GitHub Pages
+npm run build        # Generate all output
+npm run build:web    # Fast rebuild for web app (data.js only)
+npm test             # Run 23-test automated suite
 ```
 
 ### Build Pipeline
