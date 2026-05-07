@@ -955,7 +955,24 @@ const App = (function() {
   const mainEl = document.getElementById('main');
   if (mainEl) {
     mainEl.addEventListener('scroll', updateReadingProgress, { passive: true });
+    // DEBUG: log scroll properties
+    console.log('Main element found:', mainEl);
+    console.log('Main height:', mainEl.clientHeight);
+    console.log('Main scrollHeight:', mainEl.scrollHeight);
+    console.log('Main offsetHeight:', mainEl.offsetHeight);
   }
+
+  // DEBUG: log content properties after a short delay
+  setTimeout(() => {
+    const contentEl = document.getElementById('content');
+    if (contentEl) {
+      console.log('Content element found:', contentEl);
+      console.log('Content height:', contentEl.clientHeight);
+      console.log('Content scrollHeight:', contentEl.scrollHeight);
+      console.log('Content offsetHeight:', contentEl.offsetHeight);
+      console.log('Content computed styles:', getComputedStyle(contentEl).position, getComputedStyle(contentEl).top);
+    }
+  }, 1000);
 
   // ── Chapter jump dropdown ──
   function buildChapterJump() {
