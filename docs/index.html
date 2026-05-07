@@ -133,14 +133,12 @@ body {
 
 /* ── Main ── */
 #main {
-  flex: 1;
   margin-left: var(--sidebar-w);
   height: 100vh;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch; /* iOS smooth scrolling */
   position: relative; /* Ensure proper containing block */
-  display: flex;
-  flex-direction: column;
+  display: block;
 }
 
 /* ── Topbar ── */
@@ -202,8 +200,6 @@ body {
   opacity: 1;
   transition: opacity var(--transition);
   padding-bottom: 6rem; /* Clear bottom nav on mobile */
-  flex: 1 0 auto; /* Allow content to grow and scroll */
-  min-height: 0; /* Allow flex item to shrink below content size */
 }
 #content.fading { opacity: 0; }
 
