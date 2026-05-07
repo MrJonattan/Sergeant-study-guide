@@ -137,13 +137,15 @@ body {
   position: sticky; top: 0;
   background: var(--bg);
   border-bottom: var(--rule);
-  padding: 0.75rem 2rem;
+  padding: calc(0.75rem + env(safe-area-inset-top, 0)) 2rem 0.75rem;
   display: flex; align-items: center; gap: 0.75rem;
   z-index: 50; flex-wrap: wrap;
+  padding-top: max(0.75rem, env(safe-area-inset-top, 0.75rem));
 }
 #menu-toggle {
   display: none; background: none; border: var(--rule); color: var(--fg);
-  padding: 0.3rem 0.6rem; font-family: var(--font-mono); font-size: 0.8rem; cursor: pointer;
+  padding: 0.5rem 0.8rem; font-family: var(--font-mono); font-size: 0.8rem; cursor: pointer;
+  min-height: 44px; min-width: 44px;
 }
 #menu-toggle:hover { background: var(--fg); color: var(--bg); }
 .tab-bar { display: flex; gap: 0; }
@@ -197,15 +199,35 @@ body {
 #content tbody tr:nth-child(even) td { background: var(--bg-muted); }
 #content tr:hover td { background: var(--bg-hover); }
 
+/* ── Reading progress bar ── */
+#reading-progress {
+  position: fixed; top: 0; left: 0; height: 3px;
+  background: var(--fg); width: 0%; z-index: 1001;
+  transition: width 0.1s;
+}
+
 /* ── TOC (in-chapter) ── */
 .chapter-toc {
   border: var(--rule-thin); padding: 1rem 1.5rem; margin: 1.5rem 0;
   font-size: 0.85rem;
 }
+.chapter-toc.sticky {
+  position: sticky; top: 60px;
+  max-height: calc(100vh - 80px); overflow-y: auto;
+  background: var(--bg); z-index: 10;
+}
 .chapter-toc-title { font-family: var(--font-mono); font-size: 0.6rem; letter-spacing: 0.15em; text-transform: uppercase; opacity: 0.5; margin-bottom: 0.5rem; }
 .chapter-toc a { color: var(--fg); text-decoration: none; display: block; padding: 0.2rem 0; }
 .chapter-toc a:hover { text-decoration: underline; }
 .chapter-toc a.indent { padding-left: 1rem; font-size: 0.8rem; opacity: 0.7; }
+
+/* ── Progress ring ── */
+.progress-ring {
+  width: 20px; height: 20px;
+}
+.progress-ring-circle {
+  transition: stroke-dasharray 0.3s;
+}
 
 /* ── Callout boxes ── */
 .callout-base {
@@ -474,6 +496,15 @@ html.dark .mnemonic-box .mnemonic-label { color: #66bb6a; }
   min-height: 44px;
 }
 .bnav-btn.active { background: var(--bg); color: var(--fg); }
+.bnav-btn.icon-only { font-size: 1.2rem; }
+
+/* ── Chapter jump dropdown ── */
+#chapter-jump {
+  font-family: var(--font-mono); font-size: 0.65rem;
+  padding: 0.4rem 0.8rem; border: var(--rule-thin);
+  background: var(--bg); color: var(--fg);
+  cursor: pointer; min-height: 44px;
+}
 
 /* ── Keyboard hint ── */
 .kbd-hint { position: fixed; bottom: 1.5rem; right: 1.5rem; font-family: var(--font-mono); font-size: 0.6rem; opacity: 0.3; z-index: 10; }
@@ -646,6 +677,7 @@ html.dark .flashcard-item { background: var(--bg-muted); }
 <body>
 
 <div id="app">
+  <div id="reading-progress"></div>
   <div id="overlay"></div>
   <div id="search-overlay"><div id="search-box">
     <input id="search-input" type="text" placeholder="Search chapters, terms, questions..." autocomplete="off">
@@ -681,6 +713,9 @@ html.dark .flashcard-item { background: var(--bg-muted); }
     <div id="topbar">
       <button id="menu-toggle" onclick="App.toggleSidebar()">MENU</button>
       <div class="tab-bar" id="tab-bar"></div>
+      <select id="chapter-jump" onchange="App.jumpToChapter(this.value)" style="display:none;">
+        <option value="">Jump to chapter...</option>
+      </select>
       <div class="topbar-spacer"></div>
       <div class="topbar-controls">
         <button class="icon-btn" onclick="App.openSearch()" title="Search (Ctrl+K)">SEARCH</button>
@@ -695,11 +730,11 @@ html.dark .flashcard-item { background: var(--bg-muted); }
   </div>
 
   <div id="bottom-nav"><div class="bnav-items">
-    <button class="bnav-btn" onclick="App.nav('home')">HOME</button>
-    <button class="bnav-btn" onclick="App.nav('cheatsheet')">CHEAT</button>
-    <button class="bnav-btn" onclick="App.nav('quickquiz')">QUIZ</button>
-    <button class="bnav-btn" onclick="App.nav('exam')">EXAM</button>
-    <button class="bnav-btn" onclick="App.nav('weak')">REVIEW</button>
+    <button class="bnav-btn" onclick="App.nav('home')" title="Home">HOME</button>
+    <button class="bnav-btn" onclick="App.nav('cheatsheet')" title="Cheat Sheet">CHEAT</button>
+    <button class="bnav-btn icon-only" onclick="App.openSearch()" title="Search">&#128269;</button>
+    <button class="bnav-btn" onclick="App.nav('quickquiz')" title="Quick Quiz">QUIZ</button>
+    <button class="bnav-btn" onclick="App.nav('exam')" title="Practice Exam">EXAM</button>
   </div></div>
 </div>
 
@@ -837,6 +872,8 @@ const App = (function() {
     prefs.dark = true;
   }
   applyPrefs();
+  buildChapterJump();
+  initSwipeGestures();
 
   // ── Nav build ──
   function buildNav() {
@@ -846,7 +883,9 @@ const App = (function() {
       btn.className = 'nav-item'; btn.dataset.id = ch.id;
       const mc = ch.questions.filter(q => q.type === 'mc').length;
       const isRead = chaptersRead[ch.id];
-      btn.innerHTML = `<span class="ch-check ${isRead?'done':''}">${isRead?'\u2713':'\u25CB'}</span><span class="nav-num">${ch.sectionNum}</span><span class="nav-title">${ch.title}</span>${mc?`<span class="q-badge">${mc}Q</span>`:''}`;
+      const pct = getChapterProgress(ch.id);
+      const progressIcon = pct > 0 ? progressRingSvg(pct) : `<span class="ch-check ${isRead?'done':''}">${isRead?'\u2713':'\u25CB'}</span>`;
+      btn.innerHTML = `${progressIcon}<span class="nav-num">${ch.sectionNum}</span><span class="nav-title">${ch.title}</span>${mc?`<span class="q-badge">${mc}Q</span>`:''}`;
       btn.onclick = () => { nav('chapter/' + ch.id); closeMobile(); };
       navEl.appendChild(btn);
     });
@@ -868,6 +907,94 @@ const App = (function() {
 
   function adjustFont(d) { prefs.fontScale = Math.max(0.75, Math.min(1.5, prefs.fontScale + d * 0.1)); save('nypd_prefs', prefs); applyPrefs(); }
   function toggleDark() { prefs.dark = !prefs.dark; save('nypd_prefs', prefs); applyPrefs(); }
+
+  // ── Reading progress bar ──
+  let tickingProgress = false;
+  function updateReadingProgress() {
+    if (!tickingProgress) {
+      window.requestAnimationFrame(() => {
+        const el = document.getElementById('reading-progress');
+        if (!el) return;
+        const scrollTop = window.scrollY;
+        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+        const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+        el.style.width = progress + '%';
+        tickingProgress = false;
+      });
+      tickingProgress = true;
+    }
+  }
+  window.addEventListener('scroll', updateReadingProgress, { passive: true });
+
+  // ── Chapter jump dropdown ──
+  function buildChapterJump() {
+    const select = document.getElementById('chapter-jump');
+    if (!select) return;
+    select.innerHTML = '<option value="">Jump to chapter...</option>' +
+      D.chapters.map(ch => `<option value="${ch.id}">${ch.sectionNum} — ${ch.title}</option>`).join('');
+  }
+  function jumpToChapter(id) {
+    if (id) { nav('chapter/' + id); document.getElementById('chapter-jump').value = ''; }
+  }
+
+  // ── Progress ring SVG ──
+  function progressRingSvg(pct) {
+    const r = 8, c = 2 * Math.PI * r, dash = (pct / 100) * c;
+    const color = pct >= 80 ? '#2e7d32' : pct >= 50 ? '#c4a000' : '#999';
+    return `<svg class="progress-ring" viewBox="0 0 20 20"><circle cx="10" cy="10" r="${r}" fill="none" stroke="var(--bg-selected)" stroke-width="2"/><circle class="progress-ring-circle" cx="10" cy="10" r="${r}" fill="none" stroke="${color}" stroke-width="2" stroke-dasharray="${dash} ${c - dash}" stroke-linecap="round" transform="rotate(-90 10 10)"/></svg>`;
+  }
+  function getChapterProgress(chId) {
+    const s = progress[`quiz_${chId}`];
+    if (!s?.answers) return 0;
+    const a = Object.values(s.answers);
+    const t = a.length, c = a.filter(x => x.correct).length;
+    return t > 0 ? Math.round(c / t * 100) : 0;
+  }
+
+  // ── Swipe gestures ──
+  let touchStartX = 0, touchStartY = 0;
+  function initSwipeGestures() {
+    content.addEventListener('touchstart', e => {
+      touchStartX = e.touches[0].clientX;
+      touchStartY = e.touches[0].clientY;
+    }, { passive: true });
+    content.addEventListener('touchend', e => {
+      if (!currentChapter) return;
+      const diffX = touchStartX - e.changedTouches[0].clientX;
+      const diffY = touchStartY - e.changedTouches[0].clientY;
+      if (Math.abs(diffX) > 50 && Math.abs(diffX) > Math.abs(diffY)) {
+        const idx = D.chapters.indexOf(currentChapter);
+        if (diffX > 0 && idx < D.chapters.length - 1) nav('chapter/' + D.chapters[idx + 1].id);
+        else if (diffX < 0 && idx > 0) nav('chapter/' + D.chapters[idx - 1].id);
+      }
+    }, { passive: true });
+  }
+
+  // ── Context-aware bottom nav ──
+  function showContextBottomNav(prevCh, nextCh) {
+    const bottomNav = document.getElementById('bottom-nav');
+    if (!bottomNav) return;
+    bottomNav.innerHTML = `<div class="bnav-items">
+      <button class="bnav-btn" onclick="App.nav('chapter/${prevCh?.id || ''})" ${!prevCh?'disabled':''}>&#8592; PREV</button>
+      <button class="bnav-btn" onclick="App.scrollToTOC()">&#8679; CONTENTS</button>
+      <button class="bnav-btn" onclick="App.nav('chapter/${nextCh?.id || ''})" ${!nextCh?'disabled':''}>NEXT &#8594;</button>
+    </div>`;
+  }
+  function restoreStandardBottomNav() {
+    const bottomNav = document.getElementById('bottom-nav');
+    if (!bottomNav) return;
+    bottomNav.innerHTML = `<div class="bnav-items">
+      <button class="bnav-btn" onclick="App.nav('home')" title="Home">HOME</button>
+      <button class="bnav-btn" onclick="App.nav('cheatsheet')" title="Cheat Sheet">CHEAT</button>
+      <button class="bnav-btn icon-only" onclick="App.openSearch()" title="Search">&#128269;</button>
+      <button class="bnav-btn" onclick="App.nav('quickquiz')" title="Quick Quiz">QUIZ</button>
+      <button class="bnav-btn" onclick="App.nav('exam')" title="Practice Exam">EXAM</button>
+    </div>`;
+  }
+  function scrollToTOC() {
+    const toc = document.querySelector('.chapter-toc.sticky');
+    if (toc) toc.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
 
   // ── Transitions ──
   function fadeIn(renderFn) {
@@ -906,6 +1033,10 @@ const App = (function() {
     currentChapter = null;
     currentView = view;
     setActiveNav(null, view);
+    // Hide chapter jump and restore standard bottom nav
+    const jumpSelect = document.getElementById('chapter-jump');
+    if (jumpSelect) jumpSelect.style.display = 'none';
+    restoreStandardBottomNav();
 
     fadeIn(() => {
       scrollTop();
@@ -1230,6 +1361,12 @@ const App = (function() {
     setActiveNav(id);
     addRecent(id);
     startTimeTrack(id);
+    // Show chapter jump dropdown in chapter view
+    const jumpSelect = document.getElementById('chapter-jump');
+    if (jumpSelect) {
+      jumpSelect.style.display = currentView === 'chapter' ? 'block' : 'none';
+      jumpSelect.value = id;
+    }
 
     const mc = currentChapter.questions.filter(q => q.type === 'mc');
     const open = currentChapter.questions.filter(q => q.type === 'open');
@@ -1281,12 +1418,16 @@ const App = (function() {
       let md = ch.readme + '\n\n---\n\n';
       ch.sections.forEach(s => { md += s.content + '\n\n---\n\n'; });
       const toc = buildChapterTOC(md);
+      // Make TOC sticky if present
+      const tocWithSticky = toc ? toc.replace('class="chapter-toc"', 'class="chapter-toc sticky"') : '';
       content.innerHTML = `
         <div style="display:flex;align-items:center;gap:1rem;margin-bottom:1.5rem;">
           <button class="btn ${isRead?'primary':''}" onclick="App.toggleRead('${ch.id}')">${isRead?'\u2713 MARKED AS READ':'MARK AS READ'}</button>
           ${timeTrack[ch.id]?`<span style="font-family:var(--font-mono);font-size:0.65rem;opacity:0.4;">${formatTime(timeTrack[ch.id])} spent</span>`:''}
         </div>
-        ${mnemHtml}${toc}${renderMd(md)}${xrefHtml}${navBottom}`;
+        ${mnemHtml}${tocWithSticky}${renderMd(md)}${xrefHtml}${navBottom}`;
+      // Show context-aware bottom nav for chapter navigation
+      showContextBottomNav(prevCh, nextCh);
     } else if (currentTab === 'terms') {
       content.innerHTML = renderMd(ch.keyTerms) + xrefHtml + navBottom;
     } else if (currentTab === 'flash') {

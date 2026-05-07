@@ -31,6 +31,10 @@ Section 303 of the Administrative Guide defines the duties and responsibilities 
 | A.G. 303-08 | Borough Counterterrorism Coordinator | extended | completed |
 | A.G. 303-09 | Patrol Borough Traffic Safety Coordinator | extended | completed |
 | A.G. 303-10 | Borough Auxiliary Police Coordinator | extended | completed |
+| A.G. 303-14 | Crime Analysis Sergeant | extended | completed |
+| A.G. 303-15 | Crime Prevention Officer | extended | completed |
+| A.G. 303-17 | Digital Communications Officer | extended | completed |
+| A.G. 303-20 | Community Ambassador | extended | completed |
 
 ## Priority Topics for Sergeant Exam
 

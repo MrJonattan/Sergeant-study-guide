@@ -74,3 +74,36 @@ All source PDFs have been converted to markdown using Docling. Extracted content
 2. Compare extracted markdown with existing chapter content for accuracy
 3. Update any procedures that have been revised since initial chapter creation
 4. Integrate any missing callouts or exam alerts from The Key materials
+
+---
+
+## May 2026 Source Update (2026-05-07)
+
+New source PDFs converted and integrated:
+
+| File | Sections | Document Key | Status |
+|------|----------|--------------|--------|
+| `public-pguide1.pdf` | 200, 202, 207, 208, 209 | `0f17e5688516ff87e71aaa67e568ace5` | Converted & Integrated |
+| `public-pguide2.pdf` | 210, 211, 212, 213 | `35a2a596b8eac6f28b934e9a066dca25` | Converted & Integrated |
+| `public-pguide3.pdf` | 214, 215, 216, 217 | `050da21c66575fd566be0ac0cd4759af` | Converted & Integrated |
+| `public-pguide4.pdf` | 218-221, 303-332 | `ded27aa12b593da7e7e798ccf2457852` | Converted & Integrated |
+| `public-adminguide1.pdf` | 303 (Borough Command) | `c4efbe2b93a4df80a5b8d9ae40e73c88` | Converted & Integrated |
+| `public-adminguide2.pdf` | 320 (Personnel Matters) | `0b24a2c15fd767be74f6246e935757b9` | Converted & Integrated |
+| `TOC.pdf` | Table of Contents | `a25eee4d7a5dcb77d4dc23e9221bf9bc` | Converted |
+
+### Procedures Updated (2025-2026 Dates)
+
+| Procedure | Title | New Date | Chapter |
+|-----------|-------|----------|---------|
+| P.G. 202-06 | Administrative Quality of Life Officer | 05/05/26 | 202 |
+| A.G. 303-14 | Crime Analysis Sergeant | 04/23/26 | 303 |
+| A.G. 303-15 | Crime Prevention Officer | 02/02/26 | 303 |
+| A.G. 303-17 | Digital Communications Officer | 02/02/26 | 303 |
+| A.G. 303-20 | Community Ambassador | 10/24/25 | 303 |
+| A.G. 303-09 | Patrol Borough Traffic Safety Coordinator | 10/24/25 | 303 |
+| P.G. 218-01 | Invoicing Property - General | 06/26/25 | 218 |
+| P.G. 218-02 | Return of Property/Vehicles | 06/02/25 | 218 |
+| P.G. 218-12 | Safeguarding Vehicles in Custody | 07/25/25 | 218 |
+| A.G. 320-03 | Maintenance/Transfer of Personal Records | 08/12/25 | 320 |
+| A.G. 324-01 | Vacation Policy | 10/20/25 | 324 |
+| A.G. 324-02 | Working During Vacation | 05/08/23 | 324 |

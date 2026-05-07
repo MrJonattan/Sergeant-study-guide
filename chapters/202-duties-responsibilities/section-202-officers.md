@@ -83,16 +83,48 @@ This is a high-priority area for sergeants. NST teams may NOT deploy without a s
 
 ---
 
-## P.G. 202-06: Administrative Quality of Life Officer
+## P.G. 202-06: Administrative Quality of Life Officer (05/05/26)
 
 **Key Duties:**
-- Process quality-of-life summonses and related administrative paperwork
-- Maintain accurate records of summons activity within the command
-- Coordinate with the Quality of Life Sergeant on enforcement priorities
-- Ensure proper documentation and filing of all QOL-related materials
+- Report to Quality of Life Team Sergeant
+- Perform duty in uniform
+- Assist QOL Team Sergeant by preparing statistical reports under guidance of Chief of Department's Office
+- Maintain master file of contact information for key community members/groups
+- Advise team members on traffic related issues and concerns
+- Review and analyze all Police Crash Reports (MV-104P); note deficiencies and bring to training sergeant's attention
+- Duplicate and forward collision reports daily to Highway Unit for collisions on limited access highways
+- Duplicate and forward collision reports to other agencies (DMV, TLC, etc.) when necessary
+- Fax copy of all "crossover" collision reports to Corporation Counsel and Highway District
+  - **Crossover collision:** Motor vehicle collision on surface road/highway where vehicle strikes/crosses median (jersey barrier, guard rail, divider, fence, etc.) separating opposing traffic
+- Analyze and process TRAFFIC INTELLIGENCE REPORTS (PD178-150)
+- Forward TRAFFIC INTELLIGENCE REPORTS that cannot be addressed at precinct level to Patrol Borough Traffic Safety Coordinator
+- Identify collision-prone locations and determine contributing factors
+- Survey all collision-prone locations and determine contributing factors
+- Recommend necessary engineering, enforcement, and education strategies for collision reduction
+- Forward enforcement information (days/hours collisions occurring, contributing factors) to other units (SRG, Highway Units, Citywide Traffic Task Force)
+- Maintain liaison with DOT regarding engineering recommendations
+- Issue appropriate summonses at collision-prone locations
+- Count, record by category (red lights, improper turn, etc.), and process relevant summonses
+- Enter Moving summons info into FORMS using "Paper" option daily
+- Maintain and update precinct Traffic Safety Plan and Emergency Plans "A," "B," and "C"
+- Evaluate and monitor precinct Pedestrian Safety Program
+- Attend patrol borough traffic safety meetings
+- Compile statistical data for Traffic Stat meetings; attend with executive officer when precinct scheduled
+- Attend community council and Safety Board meetings to discuss traffic safety (as directed by CO)
+- Coordinate activities with Community Affairs Officer to reduce collisions involving children
+- Coordinate traffic-related training with training sergeant
+- Prepare and/or forward all traffic-related reports
+- Review HIGHWAY CONDITION RECORD (PD311-151) for conditions requiring agency notification
+- Prepare MISSING TRAFFIC CONTROL DEVICE REPORT (PD620-150) and forward to appropriate DOT Borough Commissioner
+- Maintain and update precinct traffic safety bulletin board
+- Serve on Precinct Vehicle Pursuit and Collision Safety Review Board
+- Review summonses for moving violations and violations returnable to Criminal Court/OATH
+  - Identify summonses issued to TLC-licensed vehicles/owners
+  - Reproduce 2 photocopies, enter sequential number from "Report of Violation" log
+  - Forward 1 photocopy to TLC; file remaining copy in "Report of Violation" log
 
 **Sergeant Relevance:**
-Supervisors should verify that QOL paperwork is accurate and timely. This role supports the command's overall quality-of-life enforcement strategy, which is coordinated at the supervisor level by the QOL Sergeant (P.G. 202-39).
+This is a critical administrative role supporting the command's traffic safety program. The Administrative QOL Officer must NOT be used as backfill for other assignments without CO authorization. Key exam points: crossover collision definition, FORMS entry requirements, Traffic Safety Plan maintenance, and the prohibition on using this officer for unrelated duties. Supervisors should verify summonses are processed correctly and TLC notifications are made.
 
 ---
 
