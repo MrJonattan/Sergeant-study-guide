@@ -195,6 +195,7 @@ body {
 
 /* ── Content ── */
 #content {
+  display: block;
   padding: 2.5rem;
   max-width: 900px;
   width: 100%;
@@ -202,6 +203,7 @@ body {
   transition: opacity var(--transition);
   padding-bottom: 6rem; /* Clear bottom nav on mobile */
   flex: 1 0 auto; /* Allow content to grow and scroll */
+  min-height: 0; /* Allow flex item to shrink below content size */
 }
 #content.fading { opacity: 0; }
 
