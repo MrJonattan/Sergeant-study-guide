@@ -138,6 +138,7 @@ body {
   height: 100vh;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch; /* iOS smooth scrolling */
+  position: relative; /* Ensure proper containing block */
 }
 
 /* ── Topbar ── */
@@ -936,7 +937,11 @@ const App = (function() {
       tickingProgress = true;
     }
   }
-  document.getElementById('main').addEventListener('scroll', updateReadingProgress, { passive: true });
+  // Scroll event listener for reading progress
+  const mainEl = document.getElementById('main');
+  if (mainEl) {
+    mainEl.addEventListener('scroll', updateReadingProgress, { passive: true });
+  }
 
   // ── Chapter jump dropdown ──
   function buildChapterJump() {
