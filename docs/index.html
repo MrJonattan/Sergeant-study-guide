@@ -51,6 +51,8 @@ body {
   background: var(--bg);
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
+  height: 100vh;
+  overflow: hidden;
 }
 
 /* ── Layout ── */
@@ -130,7 +132,13 @@ body {
 .nav-item .ch-check.done { opacity: 1; }
 
 /* ── Main ── */
-#main { flex: 1; margin-left: var(--sidebar-w); min-height: 100vh; }
+#main {
+  flex: 1;
+  margin-left: var(--sidebar-w);
+  height: 100vh;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch; /* iOS smooth scrolling */
+}
 
 /* ── Topbar ── */
 #topbar {
