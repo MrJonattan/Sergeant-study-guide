@@ -923,16 +923,17 @@ const App = (function() {
       window.requestAnimationFrame(() => {
         const el = document.getElementById('reading-progress');
         if (!el) return;
-        const scrollTop = window.scrollY;
-        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-        const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+        const main = document.getElementById('main');
+        const scrollTop = main.scrollTop;
+        const scrollHeight = main.scrollHeight - main.clientHeight;
+        const progress = scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0;
         el.style.width = progress + '%';
         tickingProgress = false;
       });
       tickingProgress = true;
     }
   }
-  window.addEventListener('scroll', updateReadingProgress, { passive: true });
+  document.getElementById('main').addEventListener('scroll', updateReadingProgress, { passive: true });
 
   // ── Chapter jump dropdown ──
   function buildChapterJump() {
@@ -1009,7 +1010,10 @@ const App = (function() {
     content.classList.add('fading');
     setTimeout(() => { renderFn(); content.classList.remove('fading'); }, 120);
   }
-  function scrollTop() { window.scrollTo({ top: 0, behavior: 'instant' }); }
+  function scrollTop() {
+    const main = document.getElementById('main');
+    if (main) main.scrollTo({ top: 0, behavior: 'instant' });
+  }
 
   // ── Breadcrumbs ──
   function setBreadcrumbs(...parts) {
