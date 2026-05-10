@@ -2761,7 +2761,7 @@ const App = (function() {
 
   // ── Service Worker & PWA ──
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('sw.js').catch(() => {});
+    //navigator.serviceWorker.register('sw.js').catch(() => {});
   }
   let deferredPrompt = null;
   window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferredPrompt = e; });
