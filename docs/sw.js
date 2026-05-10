@@ -1,37 +1,18 @@
-const CACHE_NAME = 'nypd-sgt-v8';
-const ASSETS = ['./index.html', './data.js', './manifest.json'];
-
-self.addEventListener('install', e => {
-  e.waitUntil(caches.open(CACHE_NAME).then(c => c.addAll(ASSETS)));
-  self.skipWaiting();
-});
-
+// Cache-busted service worker - forces reload
+const CACHE = 'nypd-v20260510-final';
+self.addEventListener('install', e => { self.skipWaiting(); });
 self.addEventListener('activate', e => {
   e.waitUntil(
-    caches.keys().then(keys =>
-      Promise.all(keys.filter(k => k !== CACHE_NAME).map(k => caches.delete(k)))
-    )
+    caches.keys().then(names => Promise.all(names.filter(n => n !== CACHE).map(n => caches.delete(n))))
+      .then(() => self.clients.claim())
   );
-  self.clients.claim();
 });
-
 self.addEventListener('fetch', e => {
-  // Network-first for HTML, cache-first for data
-  if (e.request.url.includes('data.js')) {
-    e.respondWith(
-      caches.match(e.request).then(r => r || fetch(e.request).then(res => {
-        const clone = res.clone();
-        caches.open(CACHE_NAME).then(c => c.put(e.request, clone));
-        return res;
-      }))
-    );
-  } else {
-    e.respondWith(
-      fetch(e.request).then(res => {
-        const clone = res.clone();
-        caches.open(CACHE_NAME).then(c => c.put(e.request, clone));
-        return res;
-      }).catch(() => caches.match(e.request))
-    );
-  }
+  e.respondWith(
+    fetch(e.request).then(r => {
+      const c = r.clone();
+      caches.open(CACHE).then(cache => cache.put(e.request, c));
+      return r;
+    }).catch(() => caches.match(e.request))
+  );
 });
