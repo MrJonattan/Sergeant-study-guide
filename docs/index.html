@@ -848,6 +848,7 @@ html.dark .flashcard-item { background: var(--bg-muted); }
   border: var(--rule-thin); border-radius: 4px; font-size: 0.9rem;
 }
 .testme-nav { display: flex; gap: 1rem; margin-top: 1rem; }
+</style>
 </head>
 <body>
 
@@ -2761,7 +2762,7 @@ const App = (function() {
 
   // ── Service Worker & PWA ──
   if ('serviceWorker' in navigator) {
-    //navigator.serviceWorker.register('sw.js').catch(() => {});
+    navigator.serviceWorker.register('sw.js').catch(() => {});
   }
   let deferredPrompt = null;
   window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferredPrompt = e; });
@@ -2770,7 +2771,11 @@ const App = (function() {
   window.addEventListener('beforeunload', () => { startTimeTrack(null); });
 
   // ── Init ──
-  handleRoute();
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', handleRoute);
+  } else {
+    handleRoute();
+  }
 
   return {
     nav, toggleSidebar, toggleDark, adjustFont, resetFont, openSearch, closeSearch, goResult,
