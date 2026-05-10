@@ -181,6 +181,12 @@ body {
   cursor: pointer; transition: background 0.1s, color 0.1s; line-height: 1;
 }
 .icon-btn:hover { background: var(--fg); color: var(--bg); }
+.icon-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+
+/* ── Print button ── */
+#print-btn {
+  display: none;
+}
 
 /* ── Breadcrumbs ── */
 #breadcrumbs {
@@ -218,6 +224,18 @@ body {
 #content td { padding: 0.6rem 0.9rem; border-bottom: var(--rule-muted); vertical-align: top; line-height: 1.5; }
 #content tbody tr:nth-child(even) td { background: var(--bg-muted); }
 #content tr:hover td { background: var(--bg-hover); }
+
+/* ── Procedure reference links ── */
+.proc-ref {
+  font-family: var(--font-mono); font-size: 0.8em;
+  color: var(--fg); text-decoration: underline;
+  text-decoration-style: dotted; text-decoration-color: var(--fg-muted);
+  cursor: pointer; white-space: nowrap;
+}
+.proc-ref:hover {
+  background: var(--bg-selected);
+  text-decoration-style: solid;
+}
 
 /* ── Reading progress bar ── */
 #reading-progress {
@@ -753,7 +771,83 @@ html.dark .flashcard-item { background: var(--bg-muted); }
 .topic-chips .chip:hover { border-color: var(--accent); }
 .cheat-sheet h2 { font-size: 1.2rem; }
 .cheat-sheet table { font-size: 0.88rem; }
-</style>
+
+/* ── Print styles ── */
+@media print {
+  #sidebar, #topbar, #bottom-nav, #overlay, #search-overlay, #confetti-canvas,
+  .chapter-nav-bottom, .chapter-toc-backtotop, .kbd-hint, #shortcuts-modal {
+    display: none !important;
+  }
+  #main { margin-left: 0 !important; }
+  #content { padding: 0 !important; max-width: none !important; }
+  #app { height: auto !important; overflow: visible !important; }
+  body { overflow: visible !important; }
+  h2 { page-break-before: always; }
+  h1 { page-break-after: avoid; }
+  .callout-sergeant, .callout-exam, .callout-memory { break-inside: avoid; }
+}
+
+/* ── Notes panel ── */
+.notes-panel {
+  border: var(--rule-thin); margin: 1.5rem 0; padding: 1rem;
+  background: var(--bg-muted); border-radius: 4px;
+}
+.notes-header {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 0.75rem; font-family: var(--font-mono); font-size: 0.6rem;
+  letter-spacing: 0.15em; text-transform: uppercase;
+}
+.notes-textarea {
+  width: 100%; min-height: 100px; padding: 0.5rem;
+  font-family: var(--font-body); font-size: 0.9rem;
+  border: var(--rule-thin); border-radius: 3px;
+  background: var(--bg); color: var(--fg);
+  resize: vertical;
+}
+.notes-saved {
+  font-family: var(--font-mono); font-size: 0.55rem; opacity: 0.5;
+  margin-top: 0.5rem; text-align: right;
+}
+
+/* ── Timer widget ── */
+.timer-widget {
+  border: var(--rule-thin); margin: 1.5rem 0; padding: 1rem;
+  background: var(--bg-muted); border-radius: 4px;
+  display: flex; align-items: center; gap: 1rem;
+}
+.timer-display {
+  font-family: var(--font-mono); font-size: 2rem; font-weight: 700;
+  min-width: 100px; text-align: center;
+}
+.timer-controls { display: flex; gap: 0.5rem; }
+.timer-status {
+  font-family: var(--font-mono); font-size: 0.6rem;
+  text-transform: uppercase; opacity: 0.6;
+}
+
+/* ── Test Me mode ── */
+.testme-card {
+  max-width: 600px; margin: 2rem auto; padding: 2rem;
+  border: var(--rule-thin); border-radius: 8px;
+  background: var(--bg-muted);
+}
+.testme-question { font-size: 1.1rem; margin-bottom: 1.5rem; }
+.testme-options button {
+  display: block; width: 100%; padding: 0.75rem 1rem;
+  margin-bottom: 0.5rem; border: var(--rule-thin);
+  background: var(--bg); color: var(--fg);
+  font-family: var(--font-body); font-size: 0.95rem;
+  text-align: left; cursor: pointer; border-radius: 4px;
+  transition: background 0.15s;
+}
+.testme-options button:hover { background: var(--bg-hover); }
+.testme-options button.correct { background: #4caf50; color: white; border-color: #2e7d32; }
+.testme-options button.incorrect { background: #f44336; color: white; border-color: #c62828; }
+.testme-explanation {
+  margin-top: 1rem; padding: 1rem; background: var(--bg);
+  border: var(--rule-thin); border-radius: 4px; font-size: 0.9rem;
+}
+.testme-nav { display: flex; gap: 1rem; margin-top: 1rem; }
 </head>
 <body>
 
@@ -799,6 +893,7 @@ html.dark .flashcard-item { background: var(--bg-muted); }
       </select>
       <div class="topbar-spacer"></div>
       <div class="topbar-controls">
+        <button class="icon-btn" id="print-btn" onclick="App.printChapter()" title="Print chapter">PRINT</button>
         <button class="icon-btn" onclick="App.openSearch()" title="Search (Ctrl+K)">SEARCH</button>
         <button class="icon-btn" onclick="App.adjustFont(-1)">A-</button>
         <button class="icon-btn" onclick="App.adjustFont(1)">A+</button>
@@ -888,7 +983,7 @@ const App = (function() {
 
   // ── Persistent state ──
   let progress = JSON.parse(localStorage.getItem('nypd_progress') || '{}');
-  let prefs = JSON.parse(localStorage.getItem('nypd_prefs') || '{"dark":false,"fontScale":1,"dailyGoal":20}');
+  let prefs = JSON.parse(localStorage.getItem('nypd_prefs') || '{"dark":false,"fontScale":1,"dailyGoal":20,"autoDark":true}');
   let examHistory = JSON.parse(localStorage.getItem('nypd_exam_history') || '[]');
   if (!Array.isArray(examHistory)) examHistory = [];
   let bookmarks = JSON.parse(localStorage.getItem('nypd_bookmarks') || '{}');
@@ -897,6 +992,8 @@ const App = (function() {
   let recentChapters = JSON.parse(localStorage.getItem('nypd_recent') || '[]');
   if (!Array.isArray(recentChapters)) recentChapters = [];
   let timeTrack = JSON.parse(localStorage.getItem('nypd_time') || '{}');
+  let chapterNotes = JSON.parse(localStorage.getItem('nypd_notes') || '{}');
+  let timerState = { active: false, startTime: 0, elapsed: 0, interval: null, mode: 'focus' };
 
   function save(k, v) { localStorage.setItem(k, JSON.stringify(v)); }
   function saveAll() {
@@ -904,6 +1001,7 @@ const App = (function() {
     save('nypd_exam_history', examHistory); save('nypd_bookmarks', bookmarks);
     save('nypd_chapters_read', chaptersRead); save('nypd_study_log', studyLog);
     save('nypd_recent', recentChapters); save('nypd_time', timeTrack);
+    save('nypd_notes', chapterNotes);
   }
 
   // ── View state ──
@@ -955,6 +1053,8 @@ const App = (function() {
   applyPrefs();
   buildChapterJump();
   initSwipeGestures();
+  initAutoDarkMode();
+  restoreTimerState();
 
   // ── Nav build ──
   function buildNav() {
@@ -1154,6 +1254,8 @@ const App = (function() {
       else if (view === 'sergeant') showSergeantFocus();
       else if (view === 'settings') showSettings();
       else if (view === 'quickquiz') showQuickQuiz();
+      else if (view === 'testme-setup') showTestMeSetup();
+      else if (view === 'testme') renderTestMe();
       else showHome();
     });
   }
@@ -1234,6 +1336,18 @@ const App = (function() {
         const items = block.trim().split('\n').map(l=>`<li>${l.replace(/^- /,'')}</li>`).join('');
         return `<ul>${items}</ul>`;
       })
+      // Procedure cross-reference links (P.G. 210-01, A.G. 303-05, etc.)
+      .replace(/\b(P\.?G\.?\s+|A\.?G\.?\s+)?(\d{3})-(\d{1,2})\b/gi, (match, prefix, section, proc) => {
+        const type = prefix && prefix.trim().toUpperCase().startsWith('A') ? 'A.G.' : 'P.G.';
+        const sectionNum = section.padStart(3, '0');
+        const chapterId = `${sectionNum}-${type === 'A.G.' ? '' : ''}`;
+        // Find matching chapter
+        const ch = D.chapters.find(c => c.sectionNum === sectionNum);
+        if (ch) {
+          return `<a href="#" onclick="event.preventDefault(); App.nav('chapter/${ch.id}')" class="proc-ref">${type} ${sectionNum}-${proc}</a>`;
+        }
+        return `<span class="proc-ref">${match}</span>`;
+      })
       .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
       .replace(/<details>\s*\n?\s*<summary>(.*?)<\/summary>/g, '</p><details><summary>$1</summary><div>')
       .replace(/<\/details>/g, '</div></details><p>')
@@ -1287,7 +1401,7 @@ const App = (function() {
       html += `<div class="chapter-toc-section">`;
       html += `<div class="chapter-toc-section-title">${sec.num}.0 ${sec.title}${isDone ? ' ✓' : ''}</div>`;
       html += `<a href="#${sec.id}" onclick="event.preventDefault(); document.getElementById('${sec.id}')?.scrollIntoView({behavior:'smooth'}); highlightTOC(this);">`;
-      html += `<span class="chapter-toc-num">${sec.num}.0</span>${sec.text}`;
+      html += `<span class="chapter-toc-num">${sec.num}.0</span>${sec.title}`;
       html += `</a>`;
       sec.items.forEach((item, itemIdx) => {
         const itemNum = `${sec.num}.${itemIdx + 1}`;
@@ -1346,10 +1460,217 @@ const App = (function() {
       chProgress.sections.push(sectionIndex);
       progress[key] = chProgress;
       save('nypd_progress', progress);
-      // Re-render TOC to show checkmark
       setTimeout(() => renderChapterTab(), 500);
     }
   }
+
+  // ── Print Chapter ──
+  function printChapter() {
+    if (!currentChapter) return;
+    window.print();
+  }
+
+  // ── Auto Dark Mode ──
+  function initAutoDarkMode() {
+    if (!prefs.autoDark) return;
+    const checkDarkMode = () => {
+      const hour = new Date().getHours();
+      const shouldDark = hour >= 18 || hour < 6; // 6 PM to 6 AM
+      if (shouldDark !== prefs.dark) {
+        prefs.dark = shouldDark;
+        save('nypd_prefs', prefs);
+        applyPrefs();
+      }
+    };
+    checkDarkMode();
+    setInterval(checkDarkMode, 60000); // Check every minute
+  }
+
+  // ── Progress Export/Import ──
+  function exportProgress() {
+    const data = { progress, chaptersRead, examHistory, studyLog, timeTrack, chapterNotes, bookmarks, exportedAt: new Date().toISOString() };
+    const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `nypd-study-backup-${new Date().toISOString().slice(0,10)}.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+  }
+
+  function importProgress(file) {
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      try {
+        const data = JSON.parse(e.target.result);
+        if (data.progress) progress = data.progress;
+        if (data.chaptersRead) chaptersRead = data.chaptersRead;
+        if (data.examHistory) examHistory = data.examHistory;
+        if (data.studyLog) studyLog = data.studyLog;
+        if (data.timeTrack) timeTrack = data.timeTrack;
+        if (data.chapterNotes) chapterNotes = data.chapterNotes;
+        if (data.bookmarks) bookmarks = data.bookmarks;
+        saveAll();
+        buildNav();
+        alert('Progress imported successfully!');
+      } catch (err) {
+        alert('Invalid backup file: ' + err.message);
+      }
+    };
+    reader.readAsText(file);
+  }
+
+  // ── Chapter Notes ──
+  function getChapterNotes(chId) { return chapterNotes[chId] || ''; }
+  function saveChapterNotes(chId, text) {
+    if (text.trim()) chapterNotes[chId] = text;
+    else delete chapterNotes[chId];
+    save('nypd_notes', chapterNotes);
+  }
+  function renderNotesPanel(chId) {
+    const notes = getChapterNotes(chId);
+    return `<div class="notes-panel">
+      <div class="notes-header">
+        <span>My Notes</span>
+        <button class="icon-btn" onclick="App.saveNotes('${chId}')">SAVE</button>
+      </div>
+      <textarea class="notes-textarea" id="notes-text" placeholder="Add personal notes, mnemonics, or reminders...">${notes}</textarea>
+      <div class="notes-saved">${notes ? 'Last saved: ' + new Date().toLocaleString() : 'No notes yet'}</div>
+    </div>`;
+  }
+  function saveNotes(chId) {
+    const text = $('#notes-text')?.value || '';
+    saveChapterNotes(chId, text);
+    renderChapterTab();
+  }
+
+  // ── Study Timer (Pomodoro) ──
+  function renderTimerWidget() {
+    const mins = Math.floor(timerState.elapsed / 60);
+    const secs = timerState.elapsed % 60;
+    const display = timerState.active
+      ? `${String(25 - mins).padStart(2,'0')}:${String(60 - secs).padStart(2,'0')}`
+      : `${String(mins).padStart(2,'0')}:${String(secs).padStart(2,'0')}`;
+    return `<div class="timer-widget">
+      <div class="timer-display">${display}</div>
+      <div class="timer-controls">
+        ${timerState.active
+          ? `<button class="icon-btn" onclick="App.timerPause()">PAUSE</button>`
+          : `<button class="icon-btn" onclick="App.timerStart()">START</button>`
+        }
+        <button class="icon-btn" onclick="App.timerReset()">RESET</button>
+      </div>
+      <div class="timer-status">${timerState.mode === 'focus' ? 'Focus Time' : 'Break Time'}</div>
+    </div>`;
+  }
+  function timerStart() {
+    if (timerState.active) return;
+    timerState.active = true;
+    timerState.startTime = Date.now();
+    timerState.interval = setInterval(() => {
+      timerState.elapsed++;
+      if (timerState.elapsed >= 25 * 60) {
+        timerPause();
+        timerState.mode = 'break';
+        alert('25 minutes complete! Take a 5-minute break.');
+      }
+      if (currentChapter) {
+        const chTime = timeTrack[currentChapter.id] || 0;
+        timeTrack[currentChapter.id] = chTime + 1;
+        save('nypd_time', timeTrack);
+      }
+      renderTimerWidget();
+    }, 1000);
+    saveTimerState();
+  }
+  function timerPause() {
+    if (!timerState.active) return;
+    clearInterval(timerState.interval);
+    timerState.active = false;
+    saveTimerState();
+  }
+  function timerReset() {
+    timerPause();
+    timerState.elapsed = 0;
+    timerState.mode = 'focus';
+    saveTimerState();
+  }
+  function saveTimerState() {
+    localStorage.setItem('nypd_timer', JSON.stringify(timerState));
+  }
+  function restoreTimerState() {
+    const saved = JSON.parse(localStorage.getItem('nypd_timer') || '{}');
+    if (saved.elapsed) timerState.elapsed = saved.elapsed || 0;
+  }
+
+  // ── Test Me Mode ──
+  let testMeState = { pool: [], current: 0, answered: false };
+  function startTestMe(chapterIds) {
+    testMeState.pool = [];
+    chapterIds.forEach(id => {
+      const ch = D.chapters.find(c => c.id === id);
+      if (ch) ch.questions.filter(q => q.type === 'mc').forEach(q => {
+        testMeState.pool.push({ ...q, chId: id, chTitle: ch.title });
+      });
+    });
+    shuffle(testMeState.pool);
+    testMeState.current = 0;
+    testMeState.answered = false;
+    renderTestMe();
+  }
+  function renderTestMe() {
+    if (testMeState.pool.length === 0) {
+      content.innerHTML = `<div class="testme-card"><h1>Test Me Mode</h1><p>No questions loaded. Select chapters first.</p><button class="btn" onclick="App.nav('testme-setup')">SELECT CHAPTERS</button></div>`;
+      return;
+    }
+    const q = testMeState.pool[testMeState.current];
+    const ch = D.chapters.find(c => c.id === q.chId);
+    content.innerHTML = `<div class="testme-card">
+      <div style="font-family:var(--font-mono);font-size:0.6rem;opacity:0.5;margin-bottom:0.5rem;">${ch.sectionNum} — ${ch.title} &middot; Question ${testMeState.current + 1} of ${testMeState.pool.length}</div>
+      <div class="testme-question">${q.text}</div>
+      <div class="testme-options">
+        ${q.options.map((opt, i) => `<button onclick="App.testMeAnswer('${String.fromCharCode(65+i)}', '${q.answer}', this)">${String.fromCharCode(65+i)}) ${opt}</button>`).join('')}
+      </div>
+      <div id="testme-feedback" style="display:none"></div>
+      <div class="testme-nav">
+        <button class="btn" onclick="App.testMeSkip()">SKIP</button>
+        <button class="btn" onclick="App.testMeNext()" style="margin-left:auto">NEXT</button>
+      </div>
+    </div>`;
+  }
+  function testMeAnswer(selected, correct, btn) {
+    if (testMeState.answered) return;
+    testMeState.answered = true;
+    const isCorrect = selected === correct;
+    btn.classList.add(isCorrect ? 'correct' : 'incorrect');
+    const q = testMeState.pool[testMeState.current];
+    $('#testme-feedback').style.display = 'block';
+    $('#testme-feedback').innerHTML = `<div class="testme-explanation"><strong>${isCorrect ? '✓ Correct!' : '✗ Incorrect'}</strong><br>${q.explanation}</div>`;
+  }
+  function testMeSkip() { testMeState.current++; if (testMeState.current >= testMeState.pool.length) testMeState.current = 0; testMeState.answered = false; renderTestMe(); }
+  function testMeNext() { testMeState.current++; if (testMeState.current >= testMeState.pool.length) { alert('All questions reviewed!'); testMeState.current = 0; } testMeState.answered = false; renderTestMe(); }
+
+  // ── Keyboard Navigation ──
+  document.addEventListener('keydown', (e) => {
+    // Ignore if typing in input/textarea
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+    // Ctrl+P: Print chapter
+    if (e.ctrlKey && e.key === 'p') { e.preventDefault(); App.printChapter(); return; }
+
+    // Ctrl+M: Mark as read
+    if (e.ctrlKey && e.key === 'm') { e.preventDefault(); if (currentChapter) App.toggleRead(currentChapter.id); return; }
+
+    // Ctrl+B: Export backup
+    if (e.ctrlKey && e.key === 'b') { e.preventDefault(); App.exportProgress(); return; }
+
+    // N/P: Next/Previous chapter
+    if (e.key === 'n' || e.key === 'N') { e.preventDefault(); nextChapter(); return; }
+    if (e.key === 'p' || e.key === 'P') { e.preventDefault(); prevChapter(); return; }
+
+    // T: Toggle timer
+    if (e.key === 't' || e.key === 'T') { e.preventDefault(); if (timerState.active) App.timerPause(); else App.timerStart(); return; }
+  });
 
   // ── Helpers ──
   function shuffle(a) { const b=[...a]; for(let i=b.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[b[i],b[j]]=[b[j],b[i]];} return b; }
@@ -1630,12 +1951,14 @@ const App = (function() {
       ch.sections.forEach((s, idx) => {
         contentHtml += renderMd(s.content + '\n\n---\n\n', idx);
       });
+      // Show print button in chapter view
+      document.getElementById('print-btn').style.display = 'block';
       content.innerHTML = `
         <div style="display:flex;align-items:center;gap:1rem;margin-bottom:1.5rem;">
           <button class="btn ${isRead?'primary':''}" onclick="App.toggleRead('${ch.id}')">${isRead?'\u2713 MARKED AS READ':'MARK AS READ'}</button>
           ${timeTrack[ch.id]?`<span style="font-family:var(--font-mono);font-size:0.65rem;opacity:0.4;">${formatTime(timeTrack[ch.id])} spent</span>`:''}
         </div>
-        ${mnemHtml}${tocWithSticky}${contentHtml}${xrefHtml}${navBottom}`;
+        ${renderTimerWidget()}${mnemHtml}${tocWithSticky}${contentHtml}${renderNotesPanel(ch.id)}${xrefHtml}${navBottom}`;
       // Initialize TOC scroll spy
       setTimeout(() => initTOCScrollSpy(), 100);
       // Show context-aware bottom nav for chapter navigation
@@ -1783,6 +2106,7 @@ const App = (function() {
   function showQuickQuiz() {
     tabBar.innerHTML = '';
     setBreadcrumbs({ label: 'Dashboard', action: "App.nav('home')" }, { label: 'Quick Quiz' });
+    document.getElementById('print-btn').style.display = 'none';
     const pool = [];
     D.chapters.forEach(ch => ch.questions.filter(q=>q.type==='mc').forEach(q => pool.push({...q, chId: ch.id, chNum: ch.sectionNum})));
     const qs = shuffle(pool).slice(0, 10).map((q,i) => ({...q, number: i+1, _orig: q.number}));
@@ -1804,6 +2128,32 @@ const App = (function() {
       `).join('')}</div>`;
 
     window._qqState = { qs, answers: {} };
+  }
+
+  function showTestMeSetup() {
+    tabBar.innerHTML = '';
+    setBreadcrumbs({ label: 'Dashboard', action: "App.nav('home')" }, { label: 'Test Me' });
+    document.getElementById('print-btn').style.display = 'none';
+    content.innerHTML = `
+      <h1>Test Me Mode</h1>
+      <p style="margin:1rem 0;">Select chapters to include in your rapid-fire quiz session. Questions will be shown one at a time with instant feedback.</p>
+      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:0.75rem;margin:1.5rem 0;">
+        ${D.chapters.map(ch => {
+          const mc = ch.questions.filter(q=>q.type==='mc').length;
+          return `<label class="chapter-toggle" style="display:flex;align-items:center;gap:0.5rem;padding:0.75rem;border:var(--rule-thin);border-radius:4px;cursor:pointer;">
+            <input type="checkbox" value="${ch.id}" ${mc>0?'checked':''}> ${ch.sectionNum} ${ch.title} (${mc}Q)
+          </label>`;
+        }).join('')}
+      </div>
+      <button class="btn primary" onclick="App.startTestMeFromSetup()">START TEST ME</button>
+    `;
+  }
+  function startTestMeFromSetup() {
+    const sel = $$('input[type=checkbox]:checked');
+    if (sel.length === 0) { alert('Select at least one chapter'); return; }
+    const ids = sel.map(s => s.value);
+    startTestMe(ids);
+    currentView = 'testme';
   }
 
   function qqAnswer(num, letter) {
@@ -2254,6 +2604,7 @@ const App = (function() {
   function showSettings() {
     tabBar.innerHTML = '';
     setBreadcrumbs({ label: 'Dashboard', action: "App.nav('home')" }, { label: 'Settings' });
+    document.getElementById('print-btn').style.display = 'none';
     content.innerHTML = `
       <h1>Settings</h1><hr>
       <h3>Appearance</h3>
@@ -2262,6 +2613,7 @@ const App = (function() {
         <button class="btn" onclick="App.adjustFont(-1)">A- Smaller</button>
         <button class="btn" onclick="App.adjustFont(1)">A+ Larger</button>
         <button class="btn" onclick="App.resetFont()">Reset Font</button>
+        <button class="btn" onclick="App.toggleAutoDark()">${prefs.autoDark?'Auto Dark: ON':'Auto Dark: OFF'}</button>
       </div>
       <h3>Daily Goal</h3>
       <div style="display:flex;gap:1rem;align-items:center;margin:1rem 0;">
@@ -2269,11 +2621,15 @@ const App = (function() {
         <span style="font-family:var(--font-mono);font-size:0.7rem;">questions per day</span>
         <button class="btn" onclick="App.saveGoal()">Save</button>
       </div><hr>
+      <h3>Study Tools</h3>
+      <div style="display:flex;gap:1rem;margin:1rem 0;flex-wrap:wrap;">
+        <button class="btn" onclick="App.nav('testme-setup')">Test Me Mode</button>
+      </div><hr>
       <h3>Data</h3>
       <div style="display:flex;gap:1rem;margin:1rem 0;flex-wrap:wrap;">
-        <button class="btn" onclick="App.exportData()">Export Progress</button>
+        <button class="btn" onclick="App.exportProgress()">Export Progress</button>
         <button class="btn" onclick="document.getElementById('imp-f').click()">Import Progress</button>
-        <input type="file" id="imp-f" accept=".json" style="display:none" onchange="App.importData(this)">
+        <input type="file" id="imp-f" accept=".json" style="display:none" onchange="App.importProgress(this)">
         <button class="btn" onclick="App.clearData()">Clear All Data</button>
       </div><hr>
       <h3>Keyboard Shortcuts</h3>
@@ -2282,6 +2638,10 @@ const App = (function() {
         <tr><td><code>1 2 3 4</code></td><td>Select answer A/B/C/D</td></tr>
         <tr><td><code>N</code></td><td>Next chapter</td></tr>
         <tr><td><code>P</code></td><td>Previous chapter</td></tr>
+        <tr><td><code>Ctrl+P</code></td><td>Print chapter</td></tr>
+        <tr><td><code>Ctrl+M</code></td><td>Mark as read</td></tr>
+        <tr><td><code>Ctrl+B</code></td><td>Export backup</td></tr>
+        <tr><td><code>T</code></td><td>Start/Pause timer</td></tr>
         <tr><td><code>Esc</code></td><td>Close search / Dashboard</td></tr>
       </tbody></table><hr>
       <h3>Statistics</h3>
@@ -2299,6 +2659,7 @@ const App = (function() {
   }
 
   function resetFont() { prefs.fontScale=1; save('nypd_prefs',prefs); applyPrefs(); }
+  function toggleAutoDark() { prefs.autoDark = !prefs.autoDark; save('nypd_prefs', prefs); showSettings(); }
   function saveGoal() { prefs.dailyGoal=parseInt(document.getElementById('goal-input')?.value||'20'); save('nypd_prefs',prefs); showSettings(); }
   function exportData() {
     const d={progress,prefs,examHistory,bookmarks,chaptersRead,studyLog,timeTrack,recentChapters,exportDate:new Date().toISOString()};
