@@ -293,3 +293,176 @@ The referral **cannot** be made anonymously. The correct procedure is:
 (P.G. 214-35)
 
 </details>
+
+---
+
+## Question 23
+A location has had 3 unnecessary alarms in a 3-month period. What action is taken, and when can police response be reinstated?
+
+<details><summary>Answer</summary>
+
+The location is classified as a **chronic abuser**. A **TERMINATION NOTICE (PD310-121)** is served. Police response can be reinstated after a minimum of **48 hours** from service of the notice. The CO may also require an alarm system or premises security survey before reinstatement. (P.G. 214-08)
+
+</details>
+
+---
+
+## Question 24
+How long must a vehicle alarm sound before MOS can take enforcement action, and how is the violation time recorded?
+
+<details><summary>Answer</summary>
+
+MOS can take action after the vehicle alarm has been audible for **3 minutes**. The time of violation recorded on the OATH summons is the **end** of the 3-minute observation period. The mail-in fine is $280 and the maximum penalty is $2,100. (P.G. 214-24)
+
+</details>
+
+---
+
+## Question 25
+Can MOS deactivate a building alarm that has been sounding for 20 minutes?
+
+<details><summary>Answer</summary>
+
+**No.** MOS are **NOT permitted** to deactivate **building alarms**. For building alarms that continue for **15 or more minutes**, MOS may issue a summons. However, MOS **may** attempt to deactivate **vehicle alarms** (within the first 10 minutes, without intentionally damaging the vehicle). (P.G. 214-25)
+
+</details>
+
+---
+
+## Question 26
+A person has lived in an apartment for 25 days without a lease. The landlord changes the locks while they are at work. Is this an unlawful eviction under P.G. 214-12?
+
+<details><summary>Answer</summary>
+
+**No.** The law applies to tenants who have occupied the unit for **30 or more consecutive days**. At 25 days, the person does not meet the occupancy threshold, even without a lease. This would be a civil matter, not an unlawful eviction under the Patrol Guide. (P.G. 214-12)
+
+</details>
+
+---
+
+## Question 27
+What are the return date requirements for unlawful eviction summonses?
+
+<details><summary>Answer</summary>
+
+All return dates must be at least **21 days** out:
+- **Manhattan/Bronx:** Tuesday
+- **Brooklyn/Queens:** Thursday
+- **Staten Island:** First Wednesday of the month
+
+(P.G. 214-12)
+
+</details>
+
+---
+
+## Question 28
+A dog bites a postal carrier and runs into the residence. The owner refuses entry. What actions are authorized?
+
+<details><summary>Answer</summary>
+
+The **DANGEROUS ANIMAL/BITE REPORT (PD311-152)** must be prepared. The **desk officer** must notify the **Department of Health and Mental Hygiene by phone**. If the animal poses an **imminent physical injury** threat and there is **no opportunity to retreat**, a firearm may be used. Otherwise, ESU should be requested to capture the animal. The animal is **NEVER** placed in the trunk of a Department vehicle. (P.G. 214-33)
+
+</details>
+
+---
+
+## Question 29
+What defines a "Chronic 311 Condition" and what triggers an immediate response?
+
+<details><summary>Answer</summary>
+
+- **Chronic 311 Condition:** **5 or more** requests in a **28-day period** for the same condition at the same location
+- **Immediate response trigger:** **5 or more** calls within an **8-hour period**
+
+When an immediate response is triggered, the desk officer must manually refresh the 311 system at least every hour, and the CO directs daily callbacks (minimum 2 attempts per caller). (P.G. 214-35)
+
+</details>
+
+---
+
+## Question 30
+A nightclub has refused to attend community nightlife meetings. Is this sufficient grounds for a C.U.R.E. operation?
+
+<details><summary>Answer</summary>
+
+**No.** Refusal to attend nightlife meetings is specifically listed as **NOT sufficient grounds** for a C.U.R.E. operation. Other insufficient grounds include: property crimes beyond the establishment's control, and crimes where security acted properly. Valid grounds include complaint reports, summonses, arrests, 911/311 calls, general disorder, aided cases from intoxication/overdose, and a documented pattern of problems. (P.G. 214-39)
+
+</details>
+
+---
+
+## Question 31
+What is the required lead time for serving a C.U.R.E. NOTICE, and who must approve the operation?
+
+<details><summary>Answer</summary>
+
+The **C.U.R.E. NOTICE (PD635-121)** must be served at least **30 days** prior to the operation. The **Chief of Patrol** must approve or disapprove through written endorsement. The operation is coordinated by the **Legal Bureau's Civil Enforcement Unit** and overseen by the **Mayor's Office of Nightlife**. (P.G. 214-39)
+
+</details>
+
+---
+
+## Question 32
+During a lawful eviction, the city marshal asks MOS to help break down the door. What should the sergeant direct?
+
+<details><summary>Answer</summary>
+
+The sergeant should direct that MOS will **NOT assist** in breaking the door or damaging property. The police role is to **preserve peace and protect life/property ONLY**. Execution of the warrant is the **sole responsibility** of the city marshal/sheriff. The marshal must force entry in the **least disruptive way**. (P.G. 214-13)
+
+</details>
+
+---
+
+## Question 33
+A derelict vehicle with NY plates is found. It is not needed as evidence. What is the process for plate removal?
+
+<details><summary>Answer</summary>
+
+1. Remove the registration plates
+2. Prepare the **REGISTRATION PLATE REMOVAL NOTICE (PD571-120)**
+3. Notify the **Stolen Property Inquiry Unit** (required in ALL cases)
+4. Notify the owner to pick up plates within **5 days**
+5. If unclaimed after 5 days: forward plates and typed letterhead to **DMV**
+6. Desk officer assigns a check **5 days later** to verify if vehicle is still present
+7. If still there: notify the **Department of Sanitation** for removal
+
+(P.G. 214-29)
+
+</details>
+
+---
+
+## Question 34
+MOS discover potentially obscene material at a bookstore. What is the correct chain of action?
+
+<details><summary>Answer</summary>
+
+MOS must **NOT** take enforcement action. They must **immediately notify the patrol supervisor**. The patrol supervisor must:
+1. Respond to the scene
+2. Determine if the material meets legal criteria
+3. Make an Activity Log entry
+4. **Consult the Legal Bureau**
+
+**No enforcement** is permitted without specific direction from the Legal Bureau. The critical distinction is between PL Article 235 (requires judicial determination) and PL 245.11 (Class A misdemeanor allowing summary enforcement). (P.G. 214-11)
+
+</details>
+
+---
+
+## Question 35
+What types of disputes are NOT eligible for the Mediation Referral Program?
+
+<details><summary>Answer</summary>
+
+**NOT eligible:**
+- Criminal conduct
+- Unlawful evictions
+- Intimate partners or family members
+- Child abuse or neglect
+- Parties with an Order of Protection between them
+- Any dispute involving threat of violence or criminal allegations
+
+The program uses **REFERRAL TO MEDIATION (PD613-181)** with serial number in **YYYY-XXX-NNNN** format. The **Special Ops Lt** conducts a weekly inspection of the precinct mediation file. (P.G. 214-40)
+
+</details>

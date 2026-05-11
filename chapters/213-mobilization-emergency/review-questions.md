@@ -241,3 +241,119 @@ Before enforcement action at a First Amendment activity:
 Individual arrests for criminal conduct may still be made by any supervisor without these prerequisites. (P.G. 213-20)
 
 </details>
+
+---
+
+## Question 21
+During a special event, the Incident Commander determines that additional resources are needed. For a multi-borough event, who serves as the Incident Commander?
+
+<details><summary>Answer</summary>
+
+For a special event that spans **multiple patrol boroughs**, the **Chief of Patrol** serves as the Incident Commander. For multi-command events within a single borough, it is the **Patrol Borough Commander**. For single-command events, it is the **Precinct Commanding Officer**. (P.G. 213-15)
+
+</details>
+
+---
+
+## Question 22
+What is the minimum number of days before a special event that the Traffic Management Center must be notified?
+
+<details><summary>Answer</summary>
+
+The Traffic Management Center must be notified at least **7 days** prior to the event. For unscheduled events, notification must be made as soon as practicable, and the Operations Unit must also be notified. (P.G. 213-17)
+
+</details>
+
+---
+
+## Question 23
+At a First Amendment activity, a sergeant observes protesters blocking traffic. Can the sergeant order mass arrests to clear the roadway?
+
+<details><summary>Answer</summary>
+
+**No.** Only a **Senior Executive (deputy chief or higher)** or a **designee (captain or above)** can order mass arrests at First Amendment activities. A sergeant cannot order mass arrests. However, the sergeant may order **individual arrests** for criminal conduct (such as disorderly conduct) without higher approval. (P.G. 213-20)
+
+</details>
+
+---
+
+## Question 24
+How often must the Unusual Disorder Kit be inspected, and who is responsible for the inspection?
+
+<details><summary>Answer</summary>
+
+The Unusual Disorder Kit requires **semiannual inspection** in **January** and **July**. The **patrol supervisor** is responsible for ensuring the kit is inspected and all contents are accounted for. (P.G. 213-09)
+
+</details>
+
+---
+
+## Question 25
+What is the maximum number of prisoners that can be assigned to a single arresting officer during mass arrest processing?
+
+<details><summary>Answer</summary>
+
+An arresting officer can be assigned no more than **5 prisoners** during mass arrest processing. An arrest supervisor can be assigned no more than **4 arresting officers** to supervise. (P.G. 213-06)
+
+</details>
+
+---
+
+## Question 26
+A prisoner has been in processing at the MAPC for 90 minutes without food. Is this a violation of procedure?
+
+<details><summary>Answer</summary>
+
+**Yes.** Prisoners must be provided food if held **more than 2 hours** at the MAPC. At 90 minutes, food is not yet required, but the sergeant should monitor the time to ensure food is provided before the 2-hour mark is reached. (P.G. 213-06)
+
+</details>
+
+---
+
+## Question 27
+What color hat does an NLG legal observer wear, and are they permitted through police lines?
+
+<details><summary>Answer</summary>
+
+**NLG (National Lawyers Guild)** legal observers wear **bright green hats**. **NYCLU** legal observers wear **blue hats/vests**. Both must be permitted **free access through police lines**. (P.G. 213-20)
+
+</details>
+
+---
+
+## Question 28
+What is the current citywide security alert level for New York City?
+
+<details><summary>Answer</summary>
+
+NYC is maintained at **ORANGE (High)**, which is the fourth of five levels. Changes to the alert level are communicated via **FINEST Message**. (P.G. 213-18)
+
+</details>
+
+---
+
+## Question 29
+List the five citywide security alert levels from lowest to highest.
+
+<details><summary>Answer</summary>
+
+1. **GREEN** — Low
+2. **BLUE** — Guarded
+3. **YELLOW** — Elevated
+4. **ORANGE** — High
+5. **RED** — Severe
+
+(P.G. 213-18)
+
+</details>
+
+---
+
+## Question 30
+What is the barrier exclusion distance from a parade route on through streets?
+
+<details><summary>Answer</summary>
+
+**100 feet** exclusion from the parade route on through streets, and **25 feet** on the parade route from corners. Barrier configuration must NOT unreasonably restrict pedestrian access. (P.G. 213-15)
+
+</details>

@@ -203,3 +203,241 @@ The desk officer assigns a sergeant and clerical member of the service to open t
 Operations Unit notifies: Communications Section (FINEST Message), Internal Affairs Bureau, Payroll Section, Police Pension Fund, and Human Resources Division. The union representative is not on this notification list. (A.G. 329-07)
 
 </details>
+
+---
+
+**13. A Departmental Recognition Committee must be composed of:**
+
+- A) 3 ranking officers and 2 nonsupervisory officers
+- B) 2 ranking officers (one as chairperson) and 3 nonsupervisory officers
+- C) 5 ranking officers
+- D) 4 nonsupervisory officers and 1 ranking officer
+
+<details><summary>Answer</summary>
+
+**B) 2 ranking officers (one as chairperson) and 3 nonsupervisory officers**
+
+Departmental Recognition Committees are composed of five uniformed members: two ranking officers (one designated as chairperson) and three nonsupervisory officers (which may include a precinct detective squad member). (A.G. 329-03)
+
+</details>
+
+---
+
+**14. When multiple members are involved in the same incident, how many DEPARTMENTAL RECOGNITION REQUEST forms are required?**
+
+- A) One form listing all members
+- B) One form per member
+- C) One form per rank
+- D) One form for up to 3 members
+
+<details><summary>Answer</summary>
+
+**B) One form per member**
+
+A separate DEPARTMENTAL RECOGNITION REQUEST (PD439-162) must be prepared for each member of the service involved, even if they were part of the same incident. (A.G. 329-03)
+
+</details>
+
+---
+
+**15. When multiple members are involved in the same incident, the precinct/command serial number assigned should be:**
+
+- A) Different for each member
+- B) The same for all members
+- C) Sequential numbers for each member
+- D) Assigned only to the ranking officer
+
+<details><summary>Answer</summary>
+
+**B) The same for all members**
+
+If more than one member of the service is involved in the same incident, the same precinct/command serial number will be used for all requests. (A.G. 329-03)
+
+</details>
+
+---
+
+**16. Who is responsible for conducting the investigation of a Departmental Recognition Request?**
+
+- A) The precinct commander
+- B) The operations coordinator
+- C) A ranking officer assigned by the operations coordinator
+- D) The Recognition Committee chairperson
+
+<details><summary>Answer</summary>
+
+**C) A ranking officer assigned by the operations coordinator**
+
+The operations coordinator assigns the request to a ranking officer for investigation. The ranking officer conducts the investigation including checking records, interviewing members and witnesses, and obtaining signed statements. (A.G. 329-03)
+
+</details>
+
+---
+
+**17. Which of the following is NOT part of the ranking officer's investigation of a recognition request?**
+
+- A) Checking Department records
+- B) Interviewing the patrol supervisor
+- C) Obtaining signed statements from witnesses
+- D) Making the final approval decision
+
+<details><summary>Answer</summary>
+
+**D) Making the final approval decision**
+
+The ranking officer conducts the investigation but does NOT make the final approval. The investigation includes: checking records, interviewing members (including patrol supervisor), interviewing witnesses, obtaining signed statements, and attaching all forms. The commanding officer makes the final approval. (A.G. 329-03)
+
+</details>
+
+---
+
+**18. To be eligible for Integrity Review Board recognition, the uniformed member must:**
+
+- A) Have effected any felony arrest
+- B) Have been offered/accepted a bribe AND effected the arrest or charged the defendant with bribery
+- C) Have witnessed another officer accepting a bribe
+- D) Have made 10 or more integrity-related arrests in a year
+
+<details><summary>Answer</summary>
+
+**B) Have been offered/accepted a bribe AND effected the arrest or charged the defendant with bribery**
+
+To receive recognition from the Integrity Review Board, the uniformed member must be the individual who was offered/accepted the bribe AND either effected the arrest for bribery or charged the defendant with the additional crime of bribery. (A.G. 329-03)
+
+</details>
+
+---
+
+**19. When the arresting officer is NOT the member offered the bribe, what is required?**
+
+- A) A separate recognition form
+- B) An ARREST REPORT SUPPLEMENT delineating the circumstances
+- C) Approval from the Chief of Department
+- D) The arresting officer cannot receive recognition
+
+<details><summary>Answer</summary>
+
+**B) An ARREST REPORT SUPPLEMENT delineating the circumstances**
+
+When the arresting officer is not the uniformed member offered the bribe, an ARREST REPORT SUPPLEMENT must be prepared delineating the circumstances surrounding the additional charge of bribery. (A.G. 329-03)
+
+</details>
+
+---
+
+**20. A retiring member must complete the pistol license application:**
+
+- A) Within 30 days after retirement
+- B) Prior to their last tour of duty
+- C) On their last tour of duty
+- D) After obtaining the Certificate of Service
+
+<details><summary>Answer</summary>
+
+**B) Prior to their last tour of duty**
+
+A uniformed member desiring a pistol license must complete the application prior to their last tour of duty. This includes preparing PD643-041, obtaining photographs, and getting fingerprints processed. (A.G. 329-08)
+
+</details>
+
+---
+
+**21. How many photographs are required for a NYC resident retiring member's pistol license application?**
+
+- A) 2
+- B) 3
+- C) 4
+- D) 6
+
+<details><summary>Answer</summary>
+
+**B) 3**
+
+NYC residents require 3 head-type photographs (1½ inch square). Non-residents require 4 photographs. Photos must be taken within 30 days of application. (A.G. 329-08)
+
+</details>
+
+---
+
+**22. Where must a retiring member report for fingerprint processing?**
+
+- A) The borough Property Clerk
+- B) The Payroll/Pension Section
+- C) Identification Unit, Police Headquarters
+- D) The precinct of occurrence
+
+<details><summary>Answer</summary>
+
+**C) Identification Unit, Police Headquarters**
+
+The retiring member must report to the Identification Unit, Police Headquarters with fingerprints for processing. Forms used include PD423-144, NYS O13 OOIN card, and FBI FD258. (A.G. 329-08)
+
+</details>
+
+---
+
+**23. The Certificate of Service with medical endorsement is obtained from:**
+
+- A) The Identification Unit
+- B) The Payroll/Pension Section
+- C) The Police Pension Fund
+- D) The Operations Coordinator
+
+<details><summary>Answer</summary>
+
+**B) The Payroll/Pension Section**
+
+The retiring member reports to the Payroll/Pension Section to obtain the Certificate of Service with medical endorsement. Non-residents need an additional copy for their local police authority. (A.G. 329-08)
+
+</details>
+
+---
+
+**24. When requesting personnel transfers, the commanding officer must confer with:**
+
+- A) The Chief of Personnel
+- B) Personnel Orders Division
+- C) The borough commander
+- D) The Civilian Employee Services Unit
+
+<details><summary>Answer</summary>
+
+**B) Personnel Orders Division**
+
+The commanding officer must confer with Personnel Orders Division and document the results under "Results of Conferral" on the REQUEST FOR PERSONNEL (PD406-040) form. (A.G. 329-09)
+
+</details>
+
+---
+
+**25. Which form is used for Central Personnel Index Background Requests?**
+
+- A) PD406-040
+- B) PD439-162
+- C) PD449-160
+- D) PD643-041
+
+<details><summary>Answer</summary>
+
+**C) PD449-160**
+
+CENTRAL PERSONNEL INDEX BACKGROUND REQUEST (PD449-160) is prepared and distributed as indicated on the form to obtain background information on members being considered for specialized assignments. (A.G. 329-09)
+
+</details>
+
+---
+
+**26. What must be attached to the REQUEST FOR PERSONNEL (PD406-040)?**
+
+- A) The member's training records
+- B) The member's last performance evaluation
+- C) A copy of the member's precinct assignment history
+- D) The Recognition Committee recommendation
+
+<details><summary>Answer</summary>
+
+**B) The member's last performance evaluation**
+
+The commanding officer must obtain a copy of the member's last performance evaluation and attach it to the REQUEST FOR PERSONNEL form. (A.G. 329-09)
+
+</details>
