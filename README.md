@@ -205,10 +205,9 @@ The Key Police Promotional School's 24-lesson preseason course was integrated ac
 
 See [TODO.md](TODO.md) for the full checklist. Major remaining items:
 
-- **27 raw OCR sections** (chapters 320, 331, 332) — Need cleanup and enrichment (OCR artifacts, no callouts)
-- **2 thin chapters** (319, 329) — Only 1 section each, need expansion
-- **12 Administrative Guide PDFs** — Not yet ingested (firearms regs, fitness for duty, etc.)
-- **8 DOCX study guides** — External exam prep materials not yet incorporated
+- **2 thin chapters** (319 Civilian Personnel, 329 Career Development) — Only 1 section each, need expansion from source PDFs
+- **12 Administrative Guide PDFs** — Not yet ingested as dedicated sections (firearms regs, fitness for duty, uniform damage, etc.)
+- **8 DOCX study guides** in `~/Documents/Sergeant Study Guide/` — External exam prep materials not yet incorporated
 - **Expand practice exam** — Currently 140 questions, target 200+
 
 ---
