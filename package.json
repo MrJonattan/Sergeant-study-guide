@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "build": "pnpm run build:core && pnpm run build:web:bundle && pnpm run build:pdf",
-    "build:core": "pnpm run --filter @nypd-sergeant/core build",
+    "build:core": "pnpm run --filter @nypd-sergeant/core build && cp build/data.json mobile/assets/data/study_data.json && cp -r chapters mobile/assets/data/",
     "build:web:bundle": "node scripts/build-web.js && cp build/data.js docs/data.js",
     "build:web:dev": "pnpm run --filter @nypd-sergeant/web dev",
     "build:web": "pnpm run build:core && cp build/data.js apps/web/public/data.js && pnpm run --filter @nypd-sergeant/web build",
