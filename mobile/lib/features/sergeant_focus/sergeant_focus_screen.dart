@@ -122,7 +122,7 @@ class _CategoryExpansionTile extends StatelessWidget {
             color: AppTheme.sergeant.withValues(alpha: 0.1),
             borderRadius: BorderRadius.circular(8),
           ),
-          child: Icon(
+          child: const Icon(
             Icons.star_rounded,
             color: AppTheme.sergeant,
             size: 20,
@@ -159,7 +159,7 @@ class _FocusItemTile extends StatelessWidget {
       padding: const EdgeInsets.all(12),
       decoration: BoxDecoration(
         color: AppTheme.sergeant.withValues(alpha: 0.05),
-        border: Border(
+        border: const Border(
           left: BorderSide(width: 4, color: AppTheme.sergeant),
         ),
         borderRadius: const BorderRadius.only(
@@ -174,7 +174,7 @@ class _FocusItemTile extends StatelessWidget {
             children: [
               const Icon(Icons.star_rounded, size: 14, color: AppTheme.sergeant),
               const SizedBox(width: 4),
-              Text(
+              const Text(
                 'SERGEANT FOCUS',
                 style: TextStyle(
                   fontSize: 10,

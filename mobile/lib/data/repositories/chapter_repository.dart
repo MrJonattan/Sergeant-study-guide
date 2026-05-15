@@ -7,7 +7,7 @@ import '../../config/constants.dart';
 
 class ChapterRepository {
   ChapterRepository._();
-  static final Instance = ChapterRepository._();
+  static final instance = ChapterRepository._();
 
   List<Chapter>? _cachedChapters;
 

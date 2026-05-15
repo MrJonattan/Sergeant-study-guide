@@ -5,7 +5,7 @@ import '../data/repositories/chapter_repository.dart';
 
 /// Provides the ChapterRepository singleton.
 final chapterRepositoryProvider = Provider<ChapterRepository>((ref) {
-  return ChapterRepository.Instance;
+  return ChapterRepository.instance;
 });
 
 /// Loads all chapters from assets. Caches the result.

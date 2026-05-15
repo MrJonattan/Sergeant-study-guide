@@ -1,0 +1,45 @@
+/* ─────────────────────────────────────────────
+   Themes - Dark Mode
+   ───────────────────────────────────────────── */
+
+/* Dark Theme */
+html.dark {
+  --fg: #e8e8e8;
+  --bg: #111111;
+  --bg-hover: #1a1a1a;
+  --bg-muted: #1e1e1e;
+  --bg-selected: #333;
+  --fg-muted: #888;
+
+  /* Callout Colors - Dark Mode */
+  --callout-exam-bg: #78350f;
+  --callout-exam-border: #fcd34d;
+  --callout-memory-bg: #065f46;
+  --callout-memory-border: #6ee7b7;
+  --callout-prior-bg: #1e3a8a;
+  --callout-prior-border: #93c5fd;
+  --callout-conflict-bg: #7f1d1d;
+  --callout-conflict-border: #fca5a5;
+  --callout-seealso-bg: #581c87;
+  --callout-seealso-border: #d8b4fe;
+  --callout-sergeant-bg: #f9fafb;
+  --callout-sergeant-fg: #1f2937;
+}
+
+/* High Contrast Mode (optional future enhancement) */
+html.high-contrast {
+  --fg: #000;
+  --bg: #fff;
+  --rule: 3px solid #000;
+}
+
+/* Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

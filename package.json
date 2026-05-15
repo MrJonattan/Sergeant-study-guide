@@ -2,19 +2,66 @@
   "name": "nypd-sergeant-study-guide",
   "version": "1.0.0",
   "description": "NYPD Sergeant Promotional Exam study guide with web app and PDF output",
+  "type": "module",
   "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
   "scripts": {
-    "build": "npm run build:web && npm run build:pdf",
-    "build:web": "node scripts/build-web.js && cp build/data.js docs/data.js",
+    "build": "pnpm run build:core && pnpm run build:web:bundle && pnpm run build:pdf",
+    "build:core": "pnpm run --filter @nypd-sergeant/core build",
+    "build:web:bundle": "node scripts/build-web.js && cp build/data.js docs/data.js",
+    "build:web:dev": "pnpm run --filter @nypd-sergeant/web dev",
+    "build:web": "pnpm run build:core && cp build/data.js apps/web/public/data.js && pnpm run --filter @nypd-sergeant/web build",
     "build:pdf": "bash scripts/build-pdf.sh",
     "build:flutter": "node scripts/convert-data-flutter.js",
     "test": "node scripts/validate-data.js",
-    "deploy": "npm run build:web && cp src/index.html src/manifest.json src/sw.js docs/ && cp build/master-practice-exam.html build/quick-reference-cheat-sheet.html docs/ 2>/dev/null; git add docs/ && echo 'Ready to commit: git commit -am \"Deploy update\" && git push'",
+    "test:unit": "node scripts/test-app.js build/data.js apps/web/dist/index.html",
+    "test:e2e": "playwright test",
+    "test:coverage": "node scripts/audit-coverage.js",
+    "test:all": "npm run test:unit && npm run test:e2e && npm run test:coverage",
+    "test:e2e:ui": "playwright test --ui",
+    "test:e2e:debug": "playwright test --debug",
+    "deploy": "pnpm run build:web && cp apps/web/dist/index.html apps/web/dist/manifest.json apps/web/dist/sw.js apps/web/dist/data.js docs/ && cp build/master-practice-exam.html build/quick-reference-cheat-sheet.html docs/ && rm -f docs/index.html.bak 2>/dev/null; git add docs/ && echo 'Ready to commit: git commit -am \"Deploy update\" && git push'",
     "export:anki": "node scripts/export-anki.js",
     "generate-quiz": "cd scripts/quiz-generator && PYTHONPATH=. .venv/bin/python -m cli.app generate",
     "generate-quiz:validate": "cd scripts/quiz-generator && PYTHONPATH=. .venv/bin/python -m cli.app validate",
     "generate-quiz:dedup": "cd scripts/quiz-generator && PYTHONPATH=. .venv/bin/python -m cli.app dedup",
     "schedule": "node scripts/generate-study-schedule.js",
-    "study": "npm run export:anki && npm run schedule && open build/study-schedule.md"
+    "study": "npm run export:anki && npm run schedule && open build/study-schedule.md",
+    "clean": "pnpm run --filter @nypd-sergeant/core clean && rm -rf build/*",
+    "typecheck": "pnpm run --filter @nypd-sergeant/core build",
+    "prepare": "husky",
+    "lint-staged": "lint-staged"
+  },
+  "lint-staged": {
+    "apps/web/src/**/*.ts": [
+      "eslint --fix",
+      "prettier --write"
+    ],
+    "apps/web/src/**/*.css": [
+      "prettier --write"
+    ],
+    "packages/**/src/**/*.ts": [
+      "eslint --fix",
+      "prettier --write"
+    ],
+    "*.json": [
+      "prettier --write"
+    ]
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@typescript-eslint/eslint-plugin": "^8.59.3",
+    "@typescript-eslint/parser": "^8.59.3",
+    "eslint": "^9.39.4",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^17.6.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^17.0.4",
+    "prettier": "^3.8.3",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.59.3"
   }
 }

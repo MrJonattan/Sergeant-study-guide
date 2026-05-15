@@ -206,5 +206,5 @@ class FlashcardNotifier extends StateNotifier<FlashcardReviewState> {
 
 final flashcardProvider =
     StateNotifierProvider<FlashcardNotifier, FlashcardReviewState>((ref) {
-  return FlashcardNotifier(ProgressRepository.Instance);
+  return FlashcardNotifier(ProgressRepository.instance);
 });

@@ -108,7 +108,14 @@ class _FlashcardCard extends StatelessWidget {
       Expanded(child: Padding(padding: const EdgeInsets.symmetric(horizontal: 24), child: Dismissible(
         key: ValueKey(card.cardId),
         direction: DismissDirection.horizontal,
-        confirmDismiss: (direction) async { if (direction == DismissDirection.endToStart) onSwipeIncorrect(); else onSwipeCorrect(); return false; },
+        confirmDismiss: (direction) async {
+          if (direction == DismissDirection.endToStart) {
+            onSwipeIncorrect();
+          } else {
+            onSwipeCorrect();
+          }
+          return false;
+        },
         onDismissed: (_) {},
         background: Container(alignment: Alignment.centerLeft, padding: const EdgeInsets.only(left: 24), decoration: BoxDecoration(color: Colors.green.withValues(alpha: 0.2), borderRadius: BorderRadius.circular(16)),
           child: const Column(mainAxisAlignment: MainAxisAlignment.center, children: [Icon(Icons.check_circle, color: Colors.green, size: 36), SizedBox(height: 4), Text('Correct', style: TextStyle(color: Colors.green, fontWeight: FontWeight.w600))])),

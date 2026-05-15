@@ -13,7 +13,7 @@ class ThemeNotifier extends StateNotifier<ThemeMode> {
   Future<void> _loadSavedTheme() async {
     try {
       final prefs = await SharedPreferences.getInstance();
-      final savedTheme = prefs.getString(AppConstants.settingsBoxName + '_theme');
+      final savedTheme = prefs.getString('${AppConstants.settingsBoxName}_theme');
 
       if (savedTheme != null) {
         state = _parseThemeMode(savedTheme);
@@ -58,7 +58,7 @@ class ThemeNotifier extends StateNotifier<ThemeMode> {
   Future<void> _saveTheme(String value) async {
     try {
       final prefs = await SharedPreferences.getInstance();
-      await prefs.setString(AppConstants.settingsBoxName + '_theme', value);
+      await prefs.setString('${AppConstants.settingsBoxName}_theme', value);
     } catch (e) {
       debugPrint('Failed to save theme preference: $e');
     }

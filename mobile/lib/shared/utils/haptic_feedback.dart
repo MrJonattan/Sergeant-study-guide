@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
 /// Utility class providing haptic feedback for study interactions.
@@ -10,8 +11,8 @@ class StudyHaptics {
   static Future<void> correctAnswer() async {
     try {
       await HapticFeedback.mediumImpact();
-    } catch (_) {
-      // Haptics unavailable on some platforms
+    } catch (e) {
+      debugPrint('Haptics: correctAnswer failed - $e');
     }
   }
 
@@ -20,8 +21,8 @@ class StudyHaptics {
     try {
       await HapticFeedback.heavyImpact();
       await HapticFeedback.vibrate();
-    } catch (_) {
-      // Haptics unavailable on some platforms
+    } catch (e) {
+      debugPrint('Haptics: incorrectAnswer failed - $e');
     }
   }
 
@@ -29,8 +30,8 @@ class StudyHaptics {
   static Future<void> cardFlip() async {
     try {
       await HapticFeedback.lightImpact();
-    } catch (_) {
-      // Haptics unavailable on some platforms
+    } catch (e) {
+      debugPrint('Haptics: cardFlip failed - $e');
     }
   }
 
@@ -38,8 +39,8 @@ class StudyHaptics {
   static Future<void> selection() async {
     try {
       await HapticFeedback.selectionClick();
-    } catch (_) {
-      // Haptics unavailable on some platforms
+    } catch (e) {
+      debugPrint('Haptics: selection failed - $e');
     }
   }
 
@@ -47,8 +48,8 @@ class StudyHaptics {
   static Future<void> heavyImpact() async {
     try {
       await HapticFeedback.heavyImpact();
-    } catch (_) {
-      // Haptics unavailable on some platforms
+    } catch (e) {
+      debugPrint('Haptics: heavyImpact failed - $e');
     }
   }
 }

@@ -99,7 +99,7 @@ class _ChapterListTile extends StatelessWidget {
                         ),
                         if (chapter.hasSergeantFocus) ...[
                           const SizedBox(width: 8),
-                          Icon(
+                          const Icon(
                             Icons.star_rounded,
                             size: 14,
                             color: AppTheme.sergeant,
@@ -151,7 +151,7 @@ class _SectionBadge extends StatelessWidget {
       child: Center(
         child: Text(
           sectionNum,
-          style: TextStyle(
+          style: const TextStyle(
             fontSize: 14,
             fontWeight: FontWeight.bold,
             color: AppTheme.primary,

@@ -71,8 +71,23 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
     );
   }
 
-  Future<void> _saveDailyGoal(int goal) async { try { final prefs = await SharedPreferences.getInstance(); await prefs.setInt(AppConstants.settingsBoxName + '_daily_goal', goal); } catch (_) {} }
-  Future<void> _saveFontSize(double size) async { try { final prefs = await SharedPreferences.getInstance(); await prefs.setDouble(AppConstants.settingsBoxName + '_font_size', size); } catch (_) {} }
+  Future<void> _saveDailyGoal(int goal) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setInt('${AppConstants.settingsBoxName}_daily_goal', goal);
+    } catch (e) {
+      debugPrint('Settings: Failed to save daily goal - $e');
+    }
+  }
+
+  Future<void> _saveFontSize(double size) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setDouble('${AppConstants.settingsBoxName}_font_size', size);
+    } catch (e) {
+      debugPrint('Settings: Failed to save font size - $e');
+    }
+  }
 
   void _showResetConfirm() => showDialog(context: context, builder: (ctx) => AlertDialog(
     title: const Text('Reset All Progress?'),

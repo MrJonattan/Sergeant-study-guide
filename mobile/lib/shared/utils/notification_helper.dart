@@ -128,11 +128,11 @@ class NotificationHelper {
   static Future<void> rescheduleIfEnabled() async {
     try {
       final prefs = await SharedPreferences.getInstance();
-      final enabled = prefs.getBool(AppConstants.settingsBoxName + '_reminder_enabled');
+      final enabled = prefs.getBool('${AppConstants.settingsBoxName}_reminder_enabled');
       if (enabled == null || !enabled) return;
 
-      final hour = prefs.getInt(AppConstants.settingsBoxName + '_reminder_hour');
-      final minute = prefs.getInt(AppConstants.settingsBoxName + '_reminder_minute');
+      final hour = prefs.getInt('${AppConstants.settingsBoxName}_reminder_hour');
+      final minute = prefs.getInt('${AppConstants.settingsBoxName}_reminder_minute');
 
       if (hour != null && minute != null) {
         await scheduleDailyReminder(hour: hour, minute: minute);
@@ -145,16 +145,16 @@ class NotificationHelper {
   /// Enables reminders and schedules at the given time.
   static Future<void> enableReminder({required int hour, required int minute}) async {
     final prefs = await SharedPreferences.getInstance();
-    await prefs.setBool(AppConstants.settingsBoxName + '_reminder_enabled', true);
-    await prefs.setInt(AppConstants.settingsBoxName + '_reminder_hour', hour);
-    await prefs.setInt(AppConstants.settingsBoxName + '_reminder_minute', minute);
+    await prefs.setBool('${AppConstants.settingsBoxName}_reminder_enabled', true);
+    await prefs.setInt('${AppConstants.settingsBoxName}_reminder_hour', hour);
+    await prefs.setInt('${AppConstants.settingsBoxName}_reminder_minute', minute);
     await scheduleDailyReminder(hour: hour, minute: minute);
   }
 
   /// Disables reminders entirely.
   static Future<void> disableReminder() async {
     final prefs = await SharedPreferences.getInstance();
-    await prefs.setBool(AppConstants.settingsBoxName + '_reminder_enabled', false);
+    await prefs.setBool('${AppConstants.settingsBoxName}_reminder_enabled', false);
     await cancelDailyReminder();
   }
 
@@ -162,8 +162,8 @@ class NotificationHelper {
   static Future<({int hour, int minute})?> getReminderTime() async {
     try {
       final prefs = await SharedPreferences.getInstance();
-      final hour = prefs.getInt(AppConstants.settingsBoxName + '_reminder_hour');
-      final minute = prefs.getInt(AppConstants.settingsBoxName + '_reminder_minute');
+      final hour = prefs.getInt('${AppConstants.settingsBoxName}_reminder_hour');
+      final minute = prefs.getInt('${AppConstants.settingsBoxName}_reminder_minute');
       if (hour != null && minute != null) {
         return (hour: hour, minute: minute);
       }
@@ -177,7 +177,8 @@ class NotificationHelper {
   static Future<bool> isReminderEnabled() async {
     try {
       final prefs = await SharedPreferences.getInstance();
-      return prefs.getBool(AppConstants.settingsBoxName + '_reminder_enabled') ?? false;
+      final enabled = prefs.getBool('${AppConstants.settingsBoxName}_reminder_enabled');
+      return enabled ?? false;
     } catch (e) {
       debugPrint('NotificationHelper: Failed to check reminder status - $e');
       return false;
@@ -189,8 +190,8 @@ class NotificationHelper {
   static Future<void> _saveReminderTime(int hour, int minute) async {
     try {
       final prefs = await SharedPreferences.getInstance();
-      await prefs.setInt(AppConstants.settingsBoxName + '_reminder_hour', hour);
-      await prefs.setInt(AppConstants.settingsBoxName + '_reminder_minute', minute);
+      await prefs.setInt('${AppConstants.settingsBoxName}_reminder_hour', hour);
+      await prefs.setInt('${AppConstants.settingsBoxName}_reminder_minute', minute);
     } catch (e) {
       debugPrint('NotificationHelper: Failed to save reminder time - $e');
     }
@@ -199,8 +200,8 @@ class NotificationHelper {
   static Future<void> _clearReminderTime() async {
     try {
       final prefs = await SharedPreferences.getInstance();
-      await prefs.remove(AppConstants.settingsBoxName + '_reminder_hour');
-      await prefs.remove(AppConstants.settingsBoxName + '_reminder_minute');
+      await prefs.remove('${AppConstants.settingsBoxName}_reminder_hour');
+      await prefs.remove('${AppConstants.settingsBoxName}_reminder_minute');
     } catch (e) {
       debugPrint('NotificationHelper: Failed to clear reminder time - $e');
     }

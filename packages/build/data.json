@@ -1,0 +1,133 @@
+{
+  "chapters": [],
+  "cheatSheet": "",
+  "examQuestions": [],
+  "totalQuestions": 0,
+  "sergeantCategories": [
+    {
+      "id": "prisoner-mgmt",
+      "label": "Prisoner Management",
+      "chapters": [
+        "210-prisoners"
+      ]
+    },
+    {
+      "id": "arrest-processing",
+      "label": "Arrest Processing",
+      "chapters": [
+        "208-arrests"
+      ]
+    },
+    {
+      "id": "supervisor-response",
+      "label": "Supervisor Response",
+      "chapters": [
+        "212-command-operations"
+      ]
+    },
+    {
+      "id": "documentation",
+      "label": "Documentation & Reports",
+      "chapters": [
+        "212-command-operations"
+      ]
+    },
+    {
+      "id": "property-evidence",
+      "label": "Property & Evidence",
+      "chapters": [
+        "218-property-general",
+        "219-department-property"
+      ]
+    },
+    {
+      "id": "court-legal",
+      "label": "Court & Legal",
+      "chapters": [
+        "211-court-appearances"
+      ]
+    },
+    {
+      "id": "use-of-force",
+      "label": "Use of Force",
+      "chapters": [
+        "221-tactical-operations"
+      ]
+    },
+    {
+      "id": "juvenile",
+      "label": "Juvenile Procedures",
+      "chapters": [
+        "215-juvenile-matters"
+      ]
+    },
+    {
+      "id": "personnel-leave",
+      "label": "Personnel & Leave",
+      "chapters": [
+        "319-civilian-personnel",
+        "324-leave-payroll-timekeeping",
+        "329-career-development"
+      ]
+    },
+    {
+      "id": "equipment-uniforms",
+      "label": "Equipment & Uniforms",
+      "chapters": [
+        "305-uniforms-equipment"
+      ]
+    },
+    {
+      "id": "command-ops",
+      "label": "Command Operations",
+      "chapters": [
+        "212-command-operations",
+        "220-citywide-incident-mgmt"
+      ]
+    },
+    {
+      "id": "qol-enforcement",
+      "label": "Quality of Life",
+      "chapters": [
+        "214-quality-of-life"
+      ]
+    },
+    {
+      "id": "mobilization",
+      "label": "Mobilization & Emergency",
+      "chapters": [
+        "213-mobilization-emergency"
+      ]
+    },
+    {
+      "id": "disciplinary",
+      "label": "Disciplinary Matters",
+      "chapters": [
+        "318-disciplinary-matters",
+        "332-employee-rights"
+      ]
+    },
+    {
+      "id": "complaints",
+      "label": "Complaints & Investigations",
+      "chapters": [
+        "207-complaints"
+      ]
+    },
+    {
+      "id": "medical-wellness",
+      "label": "Medical & Wellness",
+      "chapters": [
+        "330-medical-health-wellness"
+      ]
+    },
+    {
+      "id": "general-regulations",
+      "label": "General Regulations",
+      "chapters": [
+        "304-general-regulations"
+      ]
+    }
+  ],
+  "version": "20260513"
+}

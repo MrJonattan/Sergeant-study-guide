@@ -1,0 +1,16 @@
+{
+  "name": "@nypd-sergeant/state",
+  "version": "1.0.0",
+  "description": "Shared state management for NYPD Sergeant Study Guide",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "clean": "rm -rf dist"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.7.0"
+  }
+}

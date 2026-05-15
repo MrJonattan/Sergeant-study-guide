@@ -7,7 +7,7 @@ import '../data/repositories/progress_repository.dart';
 
 /// Provides the ProgressRepository singleton.
 final progressRepositoryProvider = Provider<ProgressRepository>((ref) {
-  return ProgressRepository.Instance;
+  return ProgressRepository.instance;
 });
 
 /// Current study streak (consecutive days with activity).

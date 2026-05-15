@@ -1,0 +1,340 @@
+/* ─────────────────────────────────────────────
+   Components - Callouts, Cards, Badges, etc.
+   ───────────────────────────────────────────── */
+
+/* ─────────────────────────────────────────────
+   Callouts (Exam Alert, Memory Aid, etc.)
+   ───────────────────────────────────────────── */
+
+.callout {
+  border-left: 4px solid;
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  background: var(--bg-muted);
+}
+
+.callout-exam {
+  background: var(--callout-exam-bg);
+  border-color: var(--callout-exam-border);
+}
+
+.callout-memory {
+  background: var(--callout-memory-bg);
+  border-color: var(--callout-memory-border);
+}
+
+.callout-prior {
+  background: var(--callout-prior-bg);
+  border-color: var(--callout-prior-border);
+}
+
+.callout-conflict {
+  background: var(--callout-conflict-bg);
+  border-color: var(--callout-conflict-border);
+}
+
+.callout-seealso {
+  background: var(--callout-seealso-bg);
+  border-color: var(--callout-seealso-border);
+}
+
+.callout-sergeant {
+  background: var(--callout-sergeant-bg);
+  border-color: var(--callout-sergeant-fg);
+  color: var(--callout-sergeant-fg);
+}
+
+.callout-title {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.5rem;
+}
+
+/* ─────────────────────────────────────────────
+   Cards
+   ───────────────────────────────────────────── */
+
+.card {
+  border: var(--rule-thin);
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 0.75rem 0;
+  background: var(--bg);
+  transition: box-shadow 0.2s ease;
+}
+
+.card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.card-body {
+  font-size: 0.95rem;
+}
+
+/* ─────────────────────────────────────────────
+   Badges
+   ───────────────────────────────────────────── */
+
+.badge {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  background: var(--bg-muted);
+  border: var(--rule-thin);
+}
+
+.badge-primary {
+  background: var(--fg);
+  color: var(--bg);
+}
+
+.badge-success {
+  background: var(--callout-memory-bg);
+  border-color: var(--callout-memory-border);
+}
+
+.badge-warning {
+  background: var(--callout-exam-bg);
+  border-color: var(--callout-exam-border);
+}
+
+.badge-danger {
+  background: var(--callout-conflict-bg);
+  border-color: var(--callout-conflict-border);
+}
+
+/* ─────────────────────────────────────────────
+   Progress Ring
+   ───────────────────────────────────────────── */
+
+.progress-ring {
+  display: inline-block;
+  width: 48px;
+  height: 48px;
+}
+
+.progress-ring__circle {
+  transition: stroke-dashoffset 0.35s;
+  transform: rotate(-90deg);
+  transform-origin: 50% 50%;
+}
+
+/* ─────────────────────────────────────────────
+   Quiz Options
+   ───────────────────────────────────────────── */
+
+.quiz-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.quiz-option {
+  display: flex;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  border: var(--rule-thin);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.quiz-option:hover {
+  background: var(--bg-muted);
+}
+
+.quiz-option.selected {
+  background: var(--fg);
+  color: var(--bg);
+}
+
+.quiz-option.correct {
+  background: var(--callout-memory-bg);
+  border-color: var(--callout-memory-border);
+}
+
+.quiz-option.incorrect {
+  background: var(--callout-conflict-bg);
+  border-color: var(--callout-conflict-border);
+}
+
+.quiz-option-letter {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  font-weight: 700;
+  min-width: 1.5rem;
+  margin-right: 0.75rem;
+}
+
+/* ─────────────────────────────────────────────
+   Flashcards
+   ───────────────────────────────────────────── */
+
+.flashcard {
+  perspective: 1000px;
+  width: 100%;
+  max-width: 500px;
+  height: 250px;
+  margin: 1rem auto;
+}
+
+.flashcard-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.flashcard.flipped .flashcard-inner {
+  transform: rotateY(180deg);
+}
+
+.flashcard-front,
+.flashcard-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border: var(--rule);
+  border-radius: 12px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: var(--bg);
+}
+
+.flashcard-back {
+  transform: rotateY(180deg);
+  background: var(--bg-muted);
+}
+
+.flashcard-label {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  opacity: 0.5;
+  margin-bottom: 0.5rem;
+}
+
+.flashcard-text {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* ─────────────────────────────────────────────
+   Details/Summary
+   ───────────────────────────────────────────── */
+
+details {
+  border: var(--rule-thin);
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  margin: 0.75rem 0;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 600;
+  padding: 0.25rem 0;
+}
+
+summary:hover {
+  text-decoration: underline;
+}
+
+details[open] summary {
+  margin-bottom: 0.5rem;
+  border-bottom: var(--rule-thin);
+  padding-bottom: 0.5rem;
+}
+
+/* ─────────────────────────────────────────────
+   Stats Grid
+   ───────────────────────────────────────────── */
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.stat-card {
+  text-align: center;
+  padding: 1rem;
+  border: var(--rule-thin);
+  border-radius: 8px;
+  background: var(--bg);
+}
+
+.stat-value {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 900;
+  color: var(--fg);
+}
+
+.stat-label {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  opacity: 0.6;
+  margin-top: 0.25rem;
+}
+
+/* ─────────────────────────────────────────────
+   Search Box
+   ───────────────────────────────────────────── */
+
+.search-box {
+  display: flex;
+  align-items: center;
+  border: var(--rule-thin);
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+  background: var(--bg);
+}
+
+.search-box input {
+  flex: 1;
+  border: none;
+  outline: none;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  background: transparent;
+  color: var(--fg);
+}
+
+.search-box input::placeholder {
+  opacity: 0.5;
+}
+
+.search-box kbd {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  background: var(--bg-muted);
+  padding: 0.15rem 0.4rem;
+  border-radius: 3px;
+  margin-left: 0.5rem;
+}

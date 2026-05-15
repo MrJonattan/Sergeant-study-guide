@@ -9,7 +9,7 @@ import '../../config/constants.dart';
 
 class ProgressRepository {
   ProgressRepository._();
-  static final Instance = ProgressRepository._();
+  static final instance = ProgressRepository._();
 
   static Box<String>? _progressBox;
   static Box<String>? _examHistoryBox;

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#000000">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Sgt Study">
+  <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect fill='%23000' width='180' height='180' rx='40'/><text y='125' x='25' font-size='100' fill='white' font-family='serif' font-weight='bold'>SG</text></svg>">
+  <title>NYPD Sergeant Exam Study Guide</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Serif+4:wght@300;400;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/base.css">
+  <link rel="stylesheet" href="styles/layout.css">
+  <link rel="stylesheet" href="styles/components.css">
+  <link rel="stylesheet" href="styles/themes.css">
+</head>
+<body>
+  <div id="app">
+    <aside id="sidebar">
+      <div id="sidebar-header">
+        <h1>Sergeant Exam</h1>
+        <p>Study Guide</p>
+      </div>
+      <nav id="nav-chapters" class="nav-section"></nav>
+      <nav id="nav-tools" class="nav-section"></nav>
+    </aside>
+    <main id="main">
+      <div id="topbar">
+        <button id="menu-toggle" aria-label="Toggle menu">☰</button>
+        <div id="breadcrumbs"></div>
+        <div class="topbar-spacer"></div>
+        <div class="topbar-controls">
+          <button class="icon-btn" id="font-decrease" aria-label="Decrease font">A-</button>
+          <button class="icon-btn" id="font-increase" aria-label="Increase font">A+</button>
+          <button class="icon-btn" id="theme-toggle" aria-label="Toggle dark mode">◑</button>
+        </div>
+      </div>
+      <div id="content"></div>
+    </main>
+  </div>
+  <script src="/data.js"></script>
+  <script type="module" src="main.js"></script>
+</body>
+</html>

@@ -230,7 +230,7 @@ class _KeyTermTile extends StatelessWidget {
               ),
               child: Text(
                 term.source,
-                style: TextStyle(
+                style: const TextStyle(
                   color: AppTheme.accent,
                   fontWeight: FontWeight.w600,
                   fontSize: 12,
