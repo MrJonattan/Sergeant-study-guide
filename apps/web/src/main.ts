@@ -16,6 +16,7 @@ import { renderFlashcards } from './views/flashcards';
 import { renderCheatSheet } from './views/cheat-sheet';
 import { renderSergeantFocus } from './views/sergeant-focus';
 import { renderWeakAreas } from './views/weak-areas';
+import { renderSearch } from './views/search';
 import { loadStudyData } from './utils/data-loader';
 
 // ─────────────────────────────────────────────
@@ -31,6 +32,7 @@ const routes = {
   cheatsheet: renderCheatSheet,
   sergeant: renderSergeantFocus,
   weak: renderWeakAreas,
+  search: renderSearch,
 };
 
 // ─────────────────────────────────────────────
@@ -110,10 +112,10 @@ export async function initApp() {
 
 function initKeyboardShortcuts() {
   document.addEventListener('keydown', e => {
-    // Ctrl+K or Cmd+K - Search (future enhancement)
+    // Ctrl+K or Cmd+K - Open search
     if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
       e.preventDefault();
-      // TODO: Open search
+      window.location.hash = 'search';
       return;
     }
 

@@ -5,13 +5,6 @@
 import { getStreak, getTotalStudyTime, getCompletedChapters } from '../state/progress';
 import { updateBreadcrumbs } from '../components/topbar';
 
-interface AppState {
-  data: {
-    chapters: Array<{ id: string; title: string; questions: unknown[] }>;
-    examQuestions: unknown[];
-  };
-}
-
 export function renderHome() {
   updateBreadcrumbs([{ label: 'Home' }]);
 
@@ -40,6 +33,12 @@ export function renderHome() {
         <div class="stat-value">⏱️ ${hours}h ${minutes}m</div>
         <div class="stat-label">Study Time</div>
       </div>
+    </div>
+
+    <div class="card search-quick-card" style="cursor: pointer;" data-navigate="search">
+      <div class="card-header">🔍 Search</div>
+      <div class="card-body">Find chapters, key terms, and questions</div>
+      <div class="search-shortcut-hint">Press Ctrl+K</div>
     </div>
 
     <h2>Quick Actions</h2>

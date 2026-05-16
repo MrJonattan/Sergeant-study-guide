@@ -1752,3 +1752,149 @@ details[open] summary {
   opacity: 0.7;
   margin-bottom: 1.5rem;
 }
+
+/* ─────────────────────────────────────────────
+   Search Styles
+   ───────────────────────────────────────────── */
+
+.search-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem 0 2rem;
+}
+
+.search-header {
+  margin-bottom: 1.5rem;
+}
+
+.search-header h1 {
+  font-family: var(--font-display);
+  font-size: 1.75rem;
+  margin-bottom: 0.25rem;
+}
+
+.search-subtitle {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  opacity: 0.7;
+}
+
+.search-box-wrapper {
+  margin-bottom: 1.5rem;
+}
+
+.search-stats {
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  background: var(--bg-muted);
+  border-radius: 6px;
+  border: var(--rule-thin);
+}
+
+#results-count {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.search-results {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.search-result-item {
+  border: var(--rule-thin);
+  border-radius: 8px;
+  padding: 1.25rem;
+  background: var(--bg);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.search-result-item:hover {
+  background: var(--bg-muted);
+  border-color: var(--fg);
+}
+
+.result-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.result-type-badge {
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  font-weight: 700;
+  padding: 0.2rem 0.5rem;
+  background: var(--bg-muted);
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.result-type-badge.chapter {
+  background: var(--callout-memory-bg);
+  color: var(--callout-memory-border);
+}
+
+.result-type-badge.section {
+  background: var(--bg-muted);
+}
+
+.result-type-badge.keyterm {
+  background: var(--callout-prior-bg);
+  color: var(--callout-prior-border);
+}
+
+.result-type-badge.question {
+  background: var(--callout-exam-bg);
+  color: var(--callout-exam-border);
+}
+
+.result-chapter {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  opacity: 0.7;
+}
+
+.result-title {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem 0;
+}
+
+.result-snippet {
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  opacity: 0.8;
+  margin: 0;
+}
+
+.result-snippet mark {
+  background: var(--warning);
+  color: var(--bg);
+  padding: 0.1rem 0.3rem;
+  border-radius: 2px;
+}
+
+/* Search quick card on home */
+.search-quick-card {
+  position: relative;
+}
+
+.search-shortcut-hint {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  padding: 0.2rem 0.5rem;
+  background: var(--bg-muted);
+  border-radius: 4px;
+  opacity: 0.7;
+}

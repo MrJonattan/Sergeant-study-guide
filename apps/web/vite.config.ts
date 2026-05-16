@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite';
 import { resolve } from 'path';
+import gzip from 'rollup-plugin-gzip';
 
 export default defineConfig({
   root: resolve(__dirname, 'src'),
@@ -21,6 +22,12 @@ export default defineConfig({
         main: resolve(__dirname, 'src/index.html'),
       },
     },
+    plugins: [
+      gzip({
+        include: /\.(js|css|html|json|svg)$/,
+        additionalFiles: [],
+      }),
+    ],
   },
   server: {
     port: 3000,
