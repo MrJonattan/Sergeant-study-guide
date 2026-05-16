@@ -47,11 +47,37 @@ export const appState = {
 // ─────────────────────────────────────────────
 
 export async function initApp() {
-  // Load data - try global first, then fetch as fallback
-  if (typeof window.STUDY_DATA !== 'undefined' && window.STUDY_DATA && window.STUDY_DATA.chapters) {
-    appState.data = window.STUDY_DATA;
-  } else {
-    // Fallback: fetch data.js and parse
+  // Wait for data to be available (either from global or fetch)
+  await new Promise<void>(resolve => {
+    if (
+      typeof window.STUDY_DATA !== 'undefined' &&
+      window.STUDY_DATA &&
+      window.STUDY_DATA.chapters
+    ) {
+      appState.data = window.STUDY_DATA;
+      resolve();
+    } else {
+      // Poll for global variable (in case data.js loads async)
+      let attempts = 0;
+      const checkData = setInterval(() => {
+        if (
+          typeof window.STUDY_DATA !== 'undefined' &&
+          window.STUDY_DATA &&
+          window.STUDY_DATA.chapters
+        ) {
+          appState.data = window.STUDY_DATA;
+          clearInterval(checkData);
+          resolve();
+        } else if (attempts++ > 50) {
+          clearInterval(checkData);
+          resolve(); // Give up and try fetch fallback
+        }
+      }, 100);
+    }
+  });
+
+  // Fallback: fetch data.js if global not available
+  if (!appState.data) {
     try {
       const response = await fetch('./data.js');
       const script = await response.text();
