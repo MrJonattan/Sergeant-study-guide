@@ -5,6 +5,13 @@ export default defineConfig({
   root: resolve(__dirname, 'src'),
   publicDir: resolve(__dirname, 'public'),
   base: './',
+  // Inject data.js before the main module script in head
+  transformIndexHtml(html) {
+    return html.replace(
+      '<script type="module" crossorigin src="./assets/',
+      '<script src="./data.js"></script>\n  <script type="module" crossorigin src="./assets/'
+    );
+  },
   build: {
     outDir: resolve(__dirname, 'dist'),
     emptyOutDir: true,
