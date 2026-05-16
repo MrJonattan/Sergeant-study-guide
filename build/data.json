@@ -290,12 +290,7 @@
         {
           "number": 9,
           "text": "What is the maximum number of NST members a single NST supervisor may supervise per tour?",
-          "options": [
-            "A) 3",
-            "B) 4",
-            "C) 5",
-            "D) 8"
-          ],
+          "options": ["A) 3", "B) 4", "C) 5", "D) 8"],
           "answer": "C",
           "answerFull": "C) Per P.G. 202-20, the NST supervisor shall supervise no more than 5 NST members per tour. Note that this is a separate limit from the 3-per-vehicle rule (P.G. 202-05), which limits the number of NST members including the supervisor in any single vehicle.",
           "explanation": "Per P.G. 202-20, the NST supervisor shall supervise no more than 5 NST members per tour. Note that this is a separate limit from the 3-per-vehicle rule (P.G. 202-05), which limits the number of NST members including the supervisor in any single vehicle.",
@@ -677,12 +672,7 @@
         {
           "number": 12,
           "text": "Reports related to bias motivated incidents must be submitted within what time frame?",
-          "options": [
-            "A) 48 hours",
-            "B) 5 days",
-            "C) 10 days",
-            "D) 30 days"
-          ],
+          "options": ["A) 48 hours", "B) 5 days", "C) 10 days", "D) 30 days"],
           "answer": "C",
           "answerFull": "C) Per P.G. 207-10, reports related to bias incidents are due within TEN (10) DAYS of the incident.",
           "explanation": "Per P.G. 207-10, reports related to bias incidents are due within TEN (10) DAYS of the incident.",
@@ -1077,12 +1067,7 @@
         {
           "number": 7,
           "text": "How many parts comprise the Miranda warnings as outlined in the Patrol Guide?",
-          "options": [
-            "A) Four",
-            "B) Five",
-            "C) Six",
-            "D) Seven"
-          ],
+          "options": ["A) Four", "B) Five", "C) Six", "D) Seven"],
           "answer": "C",
           "answerFull": "C) Per P.G. 208-09, Miranda warnings consist of SIX parts: (1) right to remain silent, (2) anything said may be used against you, (3) right to attorney before and during questioning, (4) attorney provided if cannot afford one, (5) right to remain silent until consulting attorney, (6) willing to answer questions.",
           "explanation": "Per P.G. 208-09, Miranda warnings consist of SIX parts: (1) right to remain silent, (2) anything said may be used against you, (3) right to attorney before and during questioning, (4) attorney provided if cannot afford one, (5) right to remain silent until consulting attorney, (6) willing to answer questions.",
@@ -1385,12 +1370,7 @@
         {
           "number": 29,
           "text": "Which mnemonic lists the personal crimes that qualify as family offenses?",
-          "options": [
-            "A) C GIF CUSS",
-            "B) DRAMAS",
-            "C) SAFETEA",
-            "D) CRIMES"
-          ],
+          "options": ["A) C GIF CUSS", "B) DRAMAS", "C) SAFETEA", "D) CRIMES"],
           "answer": "B",
           "answerFull": "B) Per P.G. 208-36, DRAMAS covers the personal family offenses: Dis Con, Reckless Endangerment, Aggravated Harassment 2nd/Harassment 1st or 2nd, Menacing 2nd or 3rd, Assault 2nd or 3rd (or Attempts), Strangulation 1st or 2nd/Criminal Obstruction of Breathing/Stalking all degrees. C GIF CUSS covers the property/sexual crimes.",
           "explanation": "Per P.G. 208-36, DRAMAS covers the personal family offenses: Dis Con, Reckless Endangerment, Aggravated Harassment 2nd/Harassment 1st or 2nd, Menacing 2nd or 3rd, Assault 2nd or 3rd (or Attempts), Strangulation 1st or 2nd/Criminal Obstruction of Breathing/Stalking all degrees. C GIF CUSS covers the property/sexual crimes.",
@@ -1681,12 +1661,7 @@
         {
           "number": 10,
           "text": "An officer removes the ignition key from an unattended vehicle. The owner does not return. After what period does the desk officer invoice the key to the Property Clerk?",
-          "options": [
-            "A) 24 hours",
-            "B) 48 hours",
-            "C) 72 hours",
-            "D) 7 days"
-          ],
+          "options": ["A) 24 hours", "B) 48 hours", "C) 72 hours", "D) 7 days"],
           "answer": "B",
           "answerFull": "B) Per P.G. 209-27, if the ignition key is not claimed within 48 hours, the desk officer invoices it to the Property Clerk. The ignition key is removed only after the vehicle has been unattended with the key in the ignition for more than 3 minutes.",
           "explanation": "Per P.G. 209-27, if the ignition key is not claimed within 48 hours, the desk officer invoices it to the Property Clerk. The ignition key is removed only after the vehicle has been unattended with the key in the ignition for more than 3 minutes.",
@@ -1807,12 +1782,7 @@
         {
           "number": 19,
           "text": "The ICO Ageing Report monitors summonses that have been distributed but not served for how many days?",
-          "options": [
-            "A) 30 days",
-            "B) 60 days",
-            "C) 90 days",
-            "D) 120 days"
-          ],
+          "options": ["A) 30 days", "B) 60 days", "C) 90 days", "D) 120 days"],
           "answer": "C",
           "answerFull": "C) Per P.G. 209-36, the ICO Ageing Report monitors summonses distributed but not served for **90 days**. If any UMOS appears on the ICO Ageing Report, the ICO must conduct an **IMMEDIATE investigation**. The exam commonly tests 30 days as a distractor.",
           "explanation": "Per P.G. 209-36, the ICO Ageing Report monitors summonses distributed but not served for **90 days**. If any UMOS appears on the ICO Ageing Report, the ICO must conduct an **IMMEDIATE investigation**. The exam commonly tests 30 days as a distractor.",
@@ -1933,12 +1903,7 @@
         {
           "number": 1,
           "text": "What is the maximum amount that may be spent per meal per prisoner?",
-          "options": [
-            "A) $1.50",
-            "B) $1.80",
-            "C) $2.00",
-            "D) $2.50"
-          ],
+          "options": ["A) $1.50", "B) $1.80", "C) $2.00", "D) $2.50"],
           "answer": "B",
           "answerFull": "B) Per P.G. 210-06, the maximum cost is **$1.80 per meal per prisoner**. The three meal periods are 0500-0600, 1200-1300, and 1800-1900. No hot liquids (coffee, tea, hot chocolate) are permitted.",
           "explanation": "Per P.G. 210-06, the maximum cost is **$1.80 per meal per prisoner**. The three meal periods are 0500-0600, 1200-1300, and 1800-1900. No hot liquids (coffee, tea, hot chocolate) are permitted.",
@@ -1961,12 +1926,7 @@
         {
           "number": 3,
           "text": "What is the standard maximum detention time for a prisoner in a holding pen?",
-          "options": [
-            "A) 1 hour",
-            "B) 2 hours",
-            "C) 3 hours",
-            "D) 4 hours"
-          ],
+          "options": ["A) 1 hour", "B) 2 hours", "C) 3 hours", "D) 4 hours"],
           "answer": "C",
           "answerFull": "C) Per P.G. 210-08, the standard maximum detention in a holding pen is **3 hours**. Extensions require desk officer or detective squad supervisor approval, and the extension must be recorded in the Command Log.",
           "explanation": "Per P.G. 210-08, the standard maximum detention in a holding pen is **3 hours**. Extensions require desk officer or detective squad supervisor approval, and the extension must be recorded in the Command Log.",
@@ -2199,12 +2159,7 @@
         {
           "number": 20,
           "text": "How many copies of the typed letterhead (49) report does the Commanding Officer forward to the Chief of Department for an unusual occurrence involving an adult prisoner?",
-          "options": [
-            "A) 1 copy",
-            "B) 2 copies",
-            "C) 3 copies",
-            "D) 4 copies"
-          ],
+          "options": ["A) 1 copy", "B) 2 copies", "C) 3 copies", "D) 4 copies"],
           "answer": "C",
           "answerFull": "C) Per P.G. 210-07, the number of copies sent to the Chief of Department varies: **3 for an adult prisoner**, 2 for a child in custody who is DOA, and 1 for a child in custody (not DOA). One additional copy goes to each: Chief of Patrol, Chief of IAB, Chief of Training, C.O. CJB, C.O. Performance Monitoring Unit, each intermediate command, and C.O. of UMOS if different.",
           "explanation": "Per P.G. 210-07, the number of copies sent to the Chief of Department varies: **3 for an adult prisoner**, 2 for a child in custody who is DOA, and 1 for a child in custody (not DOA). One additional copy goes to each: Chief of Patrol, Chief of IAB, Chief of Training, C.O. CJB, C.O. Performance Monitoring Unit, each intermediate command, and C.O. of UMOS if different.",
@@ -2869,12 +2824,7 @@
         {
           "number": 14,
           "text": "No-electioneering signs must be posted within how many feet of the poll site entrance?",
-          "options": [
-            "A) 50 feet",
-            "B) 75 feet",
-            "C) 100 feet",
-            "D) 200 feet"
-          ],
+          "options": ["A) 50 feet", "B) 75 feet", "C) 100 feet", "D) 200 feet"],
           "answer": "C",
           "answerFull": "C) Per P.G. 212-86, the Board of Elections must post no-electioneering signs within 100 feet of the poll site entrance.",
           "explanation": "Per P.G. 212-86, the Board of Elections must post no-electioneering signs within 100 feet of the poll site entrance.",
@@ -2911,12 +2861,7 @@
         {
           "number": 17,
           "text": "Firearms seized under an ERPO are retained for a minimum of how long?",
-          "options": [
-            "A) 6 months",
-            "B) 1 year",
-            "C) 2 years",
-            "D) 5 years"
-          ],
+          "options": ["A) 6 months", "B) 1 year", "C) 2 years", "D) 5 years"],
           "answer": "C",
           "answerFull": "C) Per P.G. 212-128, firearms are retained for a minimum of 2 years. No release is permitted without written authorization from CO, License Division (and CO, Medical Division if the subject is a MOS).",
           "explanation": "Per P.G. 212-128, firearms are retained for a minimum of 2 years. No release is permitted without written authorization from CO, License Division (and CO, Medical Division if the subject is a MOS).",
@@ -2953,12 +2898,7 @@
         {
           "number": 20,
           "text": "Within what timeframe can an AMBER Alert be cancelled by fax to NYS Police?",
-          "options": [
-            "A) 4 hours",
-            "B) 6 hours",
-            "C) 8 hours",
-            "D) 12 hours"
-          ],
+          "options": ["A) 4 hours", "B) 6 hours", "C) 8 hours", "D) 12 hours"],
           "answer": "C",
           "answerFull": "C) Per P.G. 212-99, cancellation within 8 hours is by fax to NYS Police. After 8 hours, cancellation is through DCPI media notification.",
           "explanation": "Per P.G. 212-99, cancellation within 8 hours is by fax to NYS Police. After 8 hours, cancellation is through DCPI media notification.",
@@ -3079,12 +3019,7 @@
         {
           "number": 29,
           "text": "At a post-explosion bomb scene, who removes injured persons to safe locations for medical treatment?",
-          "options": [
-            "A) EMS",
-            "B) FDNY",
-            "C) ESU",
-            "D) Responding UMOS"
-          ],
+          "options": ["A) EMS", "B) FDNY", "C) ESU", "D) Responding UMOS"],
           "answer": "C",
           "answerFull": "C) Per P.G. 212-40, the patrol supervisor/ranking officer directs **ESU** to remove injured to safe locations — not EMS. EMS administers medical treatment at the safe locations, but the physical removal is an ESU responsibility.",
           "explanation": "Per P.G. 212-40, the patrol supervisor/ranking officer directs **ESU** to remove injured to safe locations — not EMS. EMS administers medical treatment at the safe locations, but the physical removal is an ESU responsibility.",
@@ -4236,12 +4171,7 @@
         {
           "number": 11,
           "text": "Under P.G. 215-22, the radio code designated for \"Request for Assistance to ACS Child Protection Specialists\" is:",
-          "options": [
-            "A) 10-84",
-            "B) 10-13",
-            "C) 10-68A",
-            "D) 10-85"
-          ],
+          "options": ["A) 10-84", "B) 10-13", "C) 10-68A", "D) 10-85"],
           "answer": "C",
           "answerFull": "C) P.G. 215-22 — Radio code 10-68A has been created specifically for \"Request for Assistance to ACS Child Protection Specialists.\" When an ACS CPS appears at a police facility requesting assistance, the desk officer ensures a 10-68A code is dispatched.",
           "explanation": "P.G. 215-22 — Radio code 10-68A has been created specifically for \"Request for Assistance to ACS Child Protection Specialists.\" When an ACS CPS appears at a police facility requesting assistance, the desk officer ensures a 10-68A code is dispatched.",
@@ -5082,12 +5012,7 @@
         {
           "number": 10,
           "text": "According to P.G. 217-09, what is the D.A.R.P. disposition code for a vehicle collision where a D.A.R.P. tow was requested, the member waited 30 minutes, made a second request, and resumed patrol?",
-          "options": [
-            "A) 10-99T5",
-            "B) 10-99T7",
-            "C) 10-99T8",
-            "D) 10-99T9"
-          ],
+          "options": ["A) 10-99T5", "B) 10-99T7", "C) 10-99T8", "D) 10-99T9"],
           "answer": "D",
           "answerFull": "D) Code **10-99T9** indicates: D.A.R.P. requested, waited thirty minutes, made second request, resumed patrol.",
           "explanation": "Code **10-99T9** indicates: D.A.R.P. requested, waited thirty minutes, made second request, resumed patrol.",
@@ -5516,12 +5441,7 @@
         {
           "number": 8,
           "text": "A PROPERTY CLERK INVOICE being sent to the Police Laboratory will not exceed how many line items?",
-          "options": [
-            "A) 10",
-            "B) 15",
-            "C) 20",
-            "D) 25"
-          ],
+          "options": ["A) 10", "B) 15", "C) 20", "D) 25"],
           "answer": "C",
           "answerFull": "C) INVOICES sent or potentially sent to the Police Laboratory will not exceed twenty line items. (P.G. 218-01)",
           "explanation": "INVOICES sent or potentially sent to the Police Laboratory will not exceed twenty line items. (P.G. 218-01)",
@@ -5558,12 +5478,7 @@
         {
           "number": 11,
           "text": "Invoiced property categorized as Investigatory (non-vehicle) will be disposed of by the Property Clerk after what period if no retention request is submitted?",
-          "options": [
-            "A) 6 months",
-            "B) 1 year",
-            "C) 2 years",
-            "D) 15 days"
-          ],
+          "options": ["A) 6 months", "B) 1 year", "C) 2 years", "D) 15 days"],
           "answer": "B",
           "answerFull": "B) The Property Clerk will dispose of investigatory property (non-vehicle) after one year from the date of invoice if no retention request is submitted. Vehicles/boats are disposed of after 15 days. (P.G. 218-55)",
           "explanation": "The Property Clerk will dispose of investigatory property (non-vehicle) after one year from the date of invoice if no retention request is submitted. Vehicles/boats are disposed of after 15 days. (P.G. 218-55)",
@@ -5586,12 +5501,7 @@
         {
           "number": 13,
           "text": "Under P.G. 218-38, what is the minimum value of currency/negotiable instruments that requires notification to the Asset Forfeiture Unit for forfeiture processing?",
-          "options": [
-            "A) $500",
-            "B) $1,000",
-            "C) $5,000",
-            "D) $10,000"
-          ],
+          "options": ["A) $500", "B) $1,000", "C) $5,000", "D) $10,000"],
           "answer": "B",
           "answerFull": "B) Seized U.S. currency and/or negotiable instruments valued at $1,000 or more that are deemed forfeitable require notification to the Asset Forfeiture Unit (24/7). (P.G. 218-38)",
           "explanation": "Seized U.S. currency and/or negotiable instruments valued at $1,000 or more that are deemed forfeitable require notification to the Asset Forfeiture Unit (24/7). (P.G. 218-38)",
@@ -5614,12 +5524,7 @@
         {
           "number": 15,
           "text": "What is the maximum number of fireworks bags that should be transported in an RMP?",
-          "options": [
-            "A) 2 bags",
-            "B) 4 bags",
-            "C) 6 bags",
-            "D) 10 bags"
-          ],
+          "options": ["A) 2 bags", "B) 4 bags", "C) 6 bags", "D) 10 bags"],
           "answer": "B",
           "answerFull": "B) As a general rule, no more than four bags of fireworks should be transported in an RMP, placed in the rear seat away from heat/spark sources. (P.G. 218-53)",
           "explanation": "As a general rule, no more than four bags of fireworks should be transported in an RMP, placed in the rear seat away from heat/spark sources. (P.G. 218-53)",
@@ -5628,12 +5533,7 @@
         {
           "number": 16,
           "text": "A handgun license surrender investigation must be completed and forms forwarded to the License Division within how many days?",
-          "options": [
-            "A) 10 days",
-            "B) 15 days",
-            "C) 30 days",
-            "D) 60 days"
-          ],
+          "options": ["A) 10 days", "B) 15 days", "C) 30 days", "D) 60 days"],
           "answer": "C",
           "answerFull": "C) The investigation must be completed and all related forms forwarded to the License Division, through channels, within thirty days of date the HANDGUN SURRENDER NOTICE was received at command. (P.G. 218-45)",
           "explanation": "The investigation must be completed and all related forms forwarded to the License Division, through channels, within thirty days of date the HANDGUN SURRENDER NOTICE was received at command. (P.G. 218-45)",
@@ -5656,12 +5556,7 @@
         {
           "number": 18,
           "text": "When the desk officer receives a request for the return of investigatory evidence, the release must be authorized or denied within how many days?",
-          "options": [
-            "A) 5 days",
-            "B) 10 days",
-            "C) 15 days",
-            "D) 30 days"
-          ],
+          "options": ["A) 5 days", "B) 10 days", "C) 15 days", "D) 30 days"],
           "answer": "B",
           "answerFull": "B) The desk officer must authorize release no more than ten days after receipt of the request, if property is no longer required as evidence. If denied, claimant may request CO/designee review within 5 days. (P.G. 218-02)",
           "explanation": "The desk officer must authorize release no more than ten days after receipt of the request, if property is no longer required as evidence. If denied, claimant may request CO/designee review within 5 days. (P.G. 218-02)",
@@ -5670,12 +5565,7 @@
         {
           "number": 19,
           "text": "What is the removal fee when a licensed food vendor's vehicle, cart, or stand is removed by a Department vehicle?",
-          "options": [
-            "A) $20.00",
-            "B) $25.00",
-            "C) $50.00",
-            "D) $65.00"
-          ],
+          "options": ["A) $20.00", "B) $25.00", "C) $50.00", "D) $65.00"],
           "answer": "D",
           "answerFull": "D) The removal fee when property is removed by a Department vehicle is $65.00. If NOT removed by Department vehicle, the fee is $20.00. (P.G. 218-43)",
           "explanation": "The removal fee when property is removed by a Department vehicle is $65.00. If NOT removed by Department vehicle, the fee is $20.00. (P.G. 218-43)",
@@ -5936,12 +5826,7 @@
         {
           "number": 2,
           "text": "Which color fuel card is designated for the CRALO?",
-          "options": [
-            "A) Green",
-            "B) White",
-            "C) Yellow",
-            "D) Orange"
-          ],
+          "options": ["A) Green", "B) White", "C) Yellow", "D) Orange"],
           "answer": "C",
           "answerFull": "C) Card colors: Green = Master, Yellow = CRALO, Orange = Non-Fleet, Red = Private, White = Operator. (P.G. 219-11)",
           "explanation": "Card colors: Green = Master, Yellow = CRALO, Orange = Non-Fleet, Red = Private, White = Operator. (P.G. 219-11)",
@@ -6062,12 +5947,7 @@
         {
           "number": 11,
           "text": "Commands with a single fuel tank (heating and generator) must maintain the fuel level above what percentage?",
-          "options": [
-            "A) 25%",
-            "B) 50%",
-            "C) 75%",
-            "D) 90%"
-          ],
+          "options": ["A) 25%", "B) 50%", "C) 75%", "D) 90%"],
           "answer": "B",
           "answerFull": "B) Commands with a single fuel tank must maintain the level above 50%. Commands with two separate tanks are responsible only for the heating tank; Building Maintenance Section maintains the generator tank. (P.G. 219-28)",
           "explanation": "Commands with a single fuel tank must maintain the level above 50%. Commands with two separate tanks are responsible only for the heating tank; Building Maintenance Section maintains the generator tank. (P.G. 219-28)",
@@ -6730,12 +6610,7 @@
         {
           "number": 27,
           "text": "At a CBRN/HazMat incident involving suspected terrorism, which agency serves as the primary Incident Commander?",
-          "options": [
-            "A) FDNY",
-            "B) DEP",
-            "C) NYPD",
-            "D) NYCEM"
-          ],
+          "options": ["A) FDNY", "B) DEP", "C) NYPD", "D) NYCEM"],
           "answer": "C",
           "answerFull": "C) When a CBRN/HazMat incident involves actual or suspected crime or terrorism, NYPD serves as the sole Incident Commander (Single Command). NYPD remains primary IC until it is determined there is no criminal or terrorist activity, at which point command reverts to Unified Command. (P.G. 220-02)",
           "explanation": "When a CBRN/HazMat incident involves actual or suspected crime or terrorism, NYPD serves as the sole Incident Commander (Single Command). NYPD remains primary IC until it is determined there is no criminal or terrorist activity, at which point command reverts to Unified Command. (P.G. 220-02)",
@@ -6758,12 +6633,7 @@
         {
           "number": 29,
           "text": "At a structural collapse incident, which agency is the Primary Agency?",
-          "options": [
-            "A) NYPD",
-            "B) FDNY",
-            "C) DOB",
-            "D) DDC"
-          ],
+          "options": ["A) NYPD", "B) FDNY", "C) DOB", "D) DDC"],
           "answer": "B",
           "answerFull": "B) Structural Collapse is an FDNY Single Command incident. This question has been tested on the Sergeant exam. Other FDNY Single Command incidents include: Confined Space Rescue, Elevator Incident, Entrapment/Impalement, and Fire. (P.G. 220-02)",
           "explanation": "Structural Collapse is an FDNY Single Command incident. This question has been tested on the Sergeant exam. Other FDNY Single Command incidents include: Confined Space Rescue, Elevator Incident, Entrapment/Impalement, and Fire. (P.G. 220-02)",
@@ -6786,12 +6656,7 @@
         {
           "number": 31,
           "text": "In a CBRN/HazMat incident that starts as NYPD Single Command, which agency is responsible for setting Hot, Warm, and Cold zones?",
-          "options": [
-            "A) NYPD",
-            "B) FDNY",
-            "C) DEP",
-            "D) DOHMH"
-          ],
+          "options": ["A) NYPD", "B) FDNY", "C) DEP", "D) DOHMH"],
           "answer": "C",
           "answerFull": "C) In Single-CBRN incidents, the Operations Section is Unified. DEP is responsible for Chemical — setting Hot, Warm, and Cold zones, and directing the mitigation effort. FDNY handles Life Safety, Search & Rescue, and Mass Decontamination. DOHMH handles Biological/Radiological zone-setting. NYPD handles overall site management and crime/terrorism assessment. (P.G. 220-02)",
           "explanation": "In Single-CBRN incidents, the Operations Section is Unified. DEP is responsible for Chemical — setting Hot, Warm, and Cold zones, and directing the mitigation effort. FDNY handles Life Safety, Search & Rescue, and Mass Decontamination. DOHMH handles Biological/Radiological zone-setting. NYPD handles overall site management and crime/terrorism assessment. (P.G. 220-02)",
@@ -6920,12 +6785,7 @@
         {
           "number": 2,
           "text": "A CEW discharge in cartridge mode is classified as what level force incident?",
-          "options": [
-            "A) Level 1",
-            "B) Level 2",
-            "C) Level 3",
-            "D) Level 4"
-          ],
+          "options": ["A) Level 1", "B) Level 2", "C) Level 3", "D) Level 4"],
           "answer": "A",
           "answerFull": "A) CEW discharge in cartridge mode is a Level 1 force incident. CEW in drive stun mode is Level 2. (P.G. 221-03)",
           "explanation": "CEW discharge in cartridge mode is a Level 1 force incident. CEW in drive stun mode is Level 2. (P.G. 221-03)",
@@ -6990,12 +6850,7 @@
         {
           "number": 7,
           "text": "What is the recommended minimum \"zone of safety\" distance from an EDP?",
-          "options": [
-            "A) 10 feet",
-            "B) 15 feet",
-            "C) 20 feet",
-            "D) 25 feet"
-          ],
+          "options": ["A) 10 feet", "B) 15 feet", "C) 20 feet", "D) 25 feet"],
           "answer": "C",
           "answerFull": "C) A minimum distance of 20 feet is recommended for the zone of safety. The distance should be greater than the effective range of the weapon (other than a firearm). (P.G. 221-13)",
           "explanation": "A minimum distance of 20 feet is recommended for the zone of safety. The distance should be greater than the effective range of the weapon (other than a firearm). (P.G. 221-13)",
@@ -7116,12 +6971,7 @@
         {
           "number": 16,
           "text": "At the scene of a firearms discharge, the PBT alcohol test threshold is:",
-          "options": [
-            "A) .04",
-            "B) .05",
-            "C) .08",
-            "D) .10"
-          ],
+          "options": ["A) .04", "B) .05", "C) .08", "D) .10"],
           "answer": "C",
           "answerFull": "C) If the PBT reading is less than .08 and no indicia of intoxication, no further testing is required. At .08 or greater, an Intoxilyzer test at the IDTU facility is required. (P.G. 221-23)",
           "explanation": "If the PBT reading is less than .08 and no indicia of intoxication, no further testing is required. At .08 or greater, an Intoxilyzer test at the IDTU facility is required. (P.G. 221-23)",
@@ -7144,12 +6994,7 @@
         {
           "number": 18,
           "text": "Vehicle checkpoints should NOT exceed what duration at one location?",
-          "options": [
-            "A) 1 hour",
-            "B) 2 hours",
-            "C) 3 hours",
-            "D) 4 hours"
-          ],
+          "options": ["A) 1 hour", "B) 2 hours", "C) 3 hours", "D) 4 hours"],
           "answer": "B",
           "answerFull": "B) A vehicle checkpoint should not exceed two hours at one location, regardless of conditions. (P.G. 221-16)",
           "explanation": "A vehicle checkpoint should not exceed two hours at one location, regardless of conditions. (P.G. 221-16)",
@@ -7172,12 +7017,7 @@
         {
           "number": 20,
           "text": "When a UMOS discharges a firearm outside of New York City, the Operations Unit must be notified within:",
-          "options": [
-            "A) 1 hour",
-            "B) 6 hours",
-            "C) 12 hours",
-            "D) 24 hours"
-          ],
+          "options": ["A) 1 hour", "B) 6 hours", "C) 12 hours", "D) 24 hours"],
           "answer": "B",
           "answerFull": "B) If a firearm is discharged outside of NYC, the member must notify local police authorities immediately and the Operations Unit within 6 hours of discharge. (P.G. 221-04)",
           "explanation": "If a firearm is discharged outside of NYC, the member must notify local police authorities immediately and the Operations Unit within 6 hours of discharge. (P.G. 221-04)",
@@ -7392,12 +7232,7 @@
         {
           "number": 7,
           "text": "The Borough Operations Commander develops crime reduction strategies for how many specific crime categories?",
-          "options": [
-            "A) 5",
-            "B) 7",
-            "C) 9",
-            "D) 11"
-          ],
+          "options": ["A) 5", "B) 7", "C) 9", "D) 11"],
           "answer": "C",
           "answerFull": "C) Nine categories: sex crimes, robberies, assaults, burglaries, larcenies/thefts, vehicle theft, domestic violence, firearms violence, and other crimes/conditions as they emerge. (A.G. 303-05, duty #3)",
           "explanation": "Nine categories: sex crimes, robberies, assaults, burglaries, larcenies/thefts, vehicle theft, domestic violence, firearms violence, and other crimes/conditions as they emerge. (A.G. 303-05, duty #3)",
@@ -7651,12 +7486,7 @@
         {
           "number": 12,
           "text": "A breathalyzer result of what level or greater constitutes \"unfit for duty\"?",
-          "options": [
-            "A) .02",
-            "B) .04",
-            "C) .06",
-            "D) .08"
-          ],
+          "options": ["A) .02", "B) .04", "C) .06", "D) .08"],
           "answer": "B",
           "answerFull": "B) A breathalyzer result of .04 or greater means the member is unfit for duty. This is lower than the legal DWI limit of .08 — the Department holds members to a stricter standard. (A.G. 318-20, note after step 1)",
           "explanation": "A breathalyzer result of .04 or greater means the member is unfit for duty. This is lower than the legal DWI limit of .08 — the Department holds members to a stricter standard. (A.G. 318-20, note after step 1)",
@@ -7693,12 +7523,7 @@
         {
           "number": 15,
           "text": "A member is nominated to an elected office. How many days does the member have to decline before automatically vacating their Department position?",
-          "options": [
-            "A) 5 days",
-            "B) 10 days",
-            "C) 15 days",
-            "D) 30 days"
-          ],
+          "options": ["A) 5 days", "B) 10 days", "C) 15 days", "D) 30 days"],
           "answer": "B",
           "answerFull": "B) If a member accepts or is nominated to elected office, the MOS has 10 days to turn it down or automatically vacate their position with the Department. Exceptions include Community Board, Board of Education outside the city, or unpaid leave with the Mayor's permission. (A.G. 304-06)",
           "explanation": "If a member accepts or is nominated to elected office, the MOS has 10 days to turn it down or automatically vacate their position with the Department. Exceptions include Community Board, Board of Education outside the city, or unpaid leave with the Mayor's permission. (A.G. 304-06)",
@@ -7707,12 +7532,7 @@
         {
           "number": 16,
           "text": "The medical exemption for facial hair (Shaving Restriction Form) is valid for:",
-          "options": [
-            "A) 90 days",
-            "B) 120 days",
-            "C) 180 days",
-            "D) 1 year"
-          ],
+          "options": ["A) 90 days", "B) 120 days", "C) 180 days", "D) 1 year"],
           "answer": "C",
           "answerFull": "C) The medical exemption for facial hair is ONLY good for 180 days. Reevaluation is required to extend it. Members should schedule an appointment to renew the Shaving Restriction Form 1 month prior to expiration. (A.G. 304-08)",
           "explanation": "The medical exemption for facial hair is ONLY good for 180 days. Reevaluation is required to extend it. Members should schedule an appointment to renew the Shaving Restriction Form 1 month prior to expiration. (A.G. 304-08)",
@@ -7879,12 +7699,7 @@
         {
           "number": 5,
           "text": "A report for lost or damaged uniform must be filed within:",
-          "options": [
-            "A) 10 days",
-            "B) 30 days",
-            "C) 60 days",
-            "D) 90 days"
-          ],
+          "options": ["A) 10 days", "B) 30 days", "C) 60 days", "D) 90 days"],
           "answer": "B",
           "answerFull": "B) The report must be prepared on Typed Letterhead addressed to the Deputy Commissioner, Management and Budget, within 30 days from the date of incident. (A.G. 305-05)",
           "explanation": "The report must be prepared on Typed Letterhead addressed to the Deputy Commissioner, Management and Budget, within 30 days from the date of incident. (A.G. 305-05)",
@@ -7907,12 +7722,7 @@
         {
           "number": 7,
           "text": "The maximum reimbursement amount for a lost or damaged watch is:",
-          "options": [
-            "A) $50.00",
-            "B) $75.00",
-            "C) $100.00",
-            "D) $150.00"
-          ],
+          "options": ["A) $50.00", "B) $75.00", "C) $100.00", "D) $150.00"],
           "answer": "B",
           "answerFull": "B) A maximum of $75.00 has been established as a reasonable amount for watch reimbursement. Members are reminded they must be equipped with a serviceable watch while performing patrol duty. (A.G. 305-05)",
           "explanation": "A maximum of $75.00 has been established as a reasonable amount for watch reimbursement. Members are reminded they must be equipped with a serviceable watch while performing patrol duty. (A.G. 305-05)",
@@ -8229,12 +8039,7 @@
         {
           "number": 8,
           "text": "An interrogation conducted after CHARGES AND SPECIFICATIONS have been served must be completed at least how many days prior to the Department trial date?",
-          "options": [
-            "A) 5 days",
-            "B) 10 days",
-            "C) 15 days",
-            "D) 20 days"
-          ],
+          "options": ["A) 5 days", "B) 10 days", "C) 15 days", "D) 20 days"],
           "answer": "B",
           "answerFull": "B) An interrogation conducted after service of charges must be completed at least 10 days prior to the date of Department trial, except as directed by the Deputy Commissioner - Trials. (A.G. 318-11)",
           "explanation": "An interrogation conducted after service of charges must be completed at least 10 days prior to the date of Department trial, except as directed by the Deputy Commissioner - Trials. (A.G. 318-11)",
@@ -8299,12 +8104,7 @@
         {
           "number": 13,
           "text": "The maximum penalty for a Schedule \"A\" Command Discipline is:",
-          "options": [
-            "A) 3 days",
-            "B) 5 days",
-            "C) 10 days",
-            "D) 20 days"
-          ],
+          "options": ["A) 3 days", "B) 5 days", "C) 10 days", "D) 20 days"],
           "answer": "B",
           "answerFull": "B) The three types of CDs have different maximums: \"A\" = 5 days, \"B\" = 10 days, \"C\" = 20 days. \"C\" CDs are issued only by the Department Advocate. (A.G. 318-01)",
           "explanation": "The three types of CDs have different maximums: \"A\" = 5 days, \"B\" = 10 days, \"C\" = 20 days. \"C\" CDs are issued only by the Department Advocate. (A.G. 318-01)",
@@ -8491,12 +8291,7 @@
         {
           "number": 4,
           "text": "How many forms must the investigating supervisor ensure are prepared when a civilian member is injured on duty?",
-          "options": [
-            "A) 3",
-            "B) 4",
-            "C) 5",
-            "D) 6"
-          ],
+          "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
           "answer": "C",
           "answerFull": "C) Five forms: Employee Statement Form (FISA WCS-110), Supervisor's Report of Injury (FISA WCS-100), Witness Statement Form (FISA WCS-120), Employee Option Form (DP2002), and Time Usage 49. (A.G. 319-08)",
           "explanation": "Five forms: Employee Statement Form (FISA WCS-110), Supervisor's Report of Injury (FISA WCS-100), Witness Statement Form (FISA WCS-120), Employee Option Form (DP2002), and Time Usage 49. (A.G. 319-08)",
@@ -8547,12 +8342,7 @@
         {
           "number": 8,
           "text": "A supervisor must notify a member of leave deduction for unexcused lateness within:",
-          "options": [
-            "A) 24 hours",
-            "B) 48 hours",
-            "C) 2 days",
-            "D) 5 days"
-          ],
+          "options": ["A) 24 hours", "B) 48 hours", "C) 2 days", "D) 5 days"],
           "answer": "C",
           "answerFull": "C) The supervisor must have the member's immediate supervisor notify the member of the amount of leave deducted within 2 days of unexcused lateness. (A.G. 319-19)",
           "explanation": "The supervisor must have the member's immediate supervisor notify the member of the amount of leave deducted within 2 days of unexcused lateness. (A.G. 319-19)",
@@ -8677,12 +8467,7 @@
         {
           "number": 2,
           "text": "A uniformed member of the service requesting an exchange of tours must submit the EXCHANGE OF TOUR REQUEST to the operations coordinator at least how many days in advance?",
-          "options": [
-            "A) 3 days",
-            "B) 5 days",
-            "C) 7 days",
-            "D) 10 days"
-          ],
+          "options": ["A) 3 days", "B) 5 days", "C) 7 days", "D) 10 days"],
           "answer": "B",
           "answerFull": "B) The request must be submitted at least five days in advance. (A.G. 320-01, step #5)",
           "explanation": "The request must be submitted at least five days in advance. (A.G. 320-01, step #5)",
@@ -8733,12 +8518,7 @@
         {
           "number": 6,
           "text": "A member of the service intending to visit an inmate at a correctional facility while off-duty must forward a typed letterhead to the commanding officer at least how many days prior?",
-          "options": [
-            "A) 3 days",
-            "B) 5 days",
-            "C) 7 days",
-            "D) 14 days"
-          ],
+          "options": ["A) 3 days", "B) 5 days", "C) 7 days", "D) 14 days"],
           "answer": "C",
           "answerFull": "C) At least seven days prior to the intended visit. (A.G. 320-02, step #1)",
           "explanation": "At least seven days prior to the intended visit. (A.G. 320-02, step #1)",
@@ -8961,12 +8741,7 @@
         {
           "number": 9,
           "text": "How many consecutive days of sick leave require a doctor's certificate?",
-          "options": [
-            "A) 1 day",
-            "B) 2 days",
-            "C) 3 days",
-            "D) 5 days"
-          ],
+          "options": ["A) 1 day", "B) 2 days", "C) 3 days", "D) 5 days"],
           "answer": "C",
           "answerFull": "C) A doctor's certificate is required for sick leave of 3 or more consecutive days. The certificate must be submitted upon return to duty. (P.G. 324-03)",
           "explanation": "A doctor's certificate is required for sick leave of 3 or more consecutive days. The certificate must be submitted upon return to duty. (P.G. 324-03)",
@@ -9059,12 +8834,7 @@
         {
           "number": 16,
           "text": "A member's spouse dies. How many days of death leave are granted for an immediate family member?",
-          "options": [
-            "A) 3 days",
-            "B) 5 days",
-            "C) 7 days",
-            "D) 10 days"
-          ],
+          "options": ["A) 3 days", "B) 5 days", "C) 7 days", "D) 10 days"],
           "answer": "B",
           "answerFull": "B) Five days of death leave are granted for the death of an immediate family member (spouse, child, parent, sibling). The leave must be taken consecutively and begins on the day of death. (P.G. 324-13)",
           "explanation": "Five days of death leave are granted for the death of an immediate family member (spouse, child, parent, sibling). The leave must be taken consecutively and begins on the day of death. (P.G. 324-13)",
@@ -9288,12 +9058,7 @@
         {
           "number": 10,
           "text": "A UMOS wishing to retain a Department-issued service firearm (issued after 1/15/13) must obtain a NICS check within how many days prior to separation?",
-          "options": [
-            "A) 15 days",
-            "B) 30 days",
-            "C) 60 days",
-            "D) 90 days"
-          ],
+          "options": ["A) 15 days", "B) 30 days", "C) 60 days", "D) 90 days"],
           "answer": "B",
           "answerFull": "B) Members must obtain a NICS check through a Federal Firearms Licensee (FFL) no more than 30 days prior to separation from the Department. (A.G. 329-06)",
           "explanation": "Members must obtain a NICS check through a Federal Firearms Licensee (FFL) no more than 30 days prior to separation from the Department. (A.G. 329-06)",
@@ -9442,12 +9207,7 @@
         {
           "number": 21,
           "text": "How many photographs are required for a NYC resident retiring member's pistol license application?",
-          "options": [
-            "A) 2",
-            "B) 3",
-            "C) 4",
-            "D) 6"
-          ],
+          "options": ["A) 2", "B) 3", "C) 4", "D) 6"],
           "answer": "B",
           "answerFull": "B) NYC residents require 3 head-type photographs (1½ inch square). Non-residents require 4 photographs. Photos must be taken within 30 days of application. (A.G. 329-08)",
           "explanation": "NYC residents require 3 head-type photographs (1½ inch square). Non-residents require 4 photographs. Photos must be taken within 30 days of application. (A.G. 329-08)",
@@ -9756,12 +9516,7 @@
         {
           "number": 13,
           "text": "If a LOD designation cannot be made expeditiously, the ranking officer must forward a Typed Letterhead to Medical Division within:",
-          "options": [
-            "A) 30 days",
-            "B) 60 days",
-            "C) 90 days",
-            "D) 120 days"
-          ],
+          "options": ["A) 30 days", "B) 60 days", "C) 90 days", "D) 120 days"],
           "answer": "B",
           "answerFull": "B) When a LOD designation cannot be made expeditiously, a report on Typed Letterhead indicating reasons for the delay must be forwarded to Medical Division within 60 days. Subsequent reports are forwarded for each additional 60-day period. (A.G. 330-03)",
           "explanation": "When a LOD designation cannot be made expeditiously, a report on Typed Letterhead indicating reasons for the delay must be forwarded to Medical Division within 60 days. Subsequent reports are forwarded for each additional 60-day period. (A.G. 330-03)",
@@ -9770,12 +9525,7 @@
         {
           "number": 14,
           "text": "If an injury comes under the Federal Employees Compensation Act (FECA), the CO must forward documentation to Medical Division within:",
-          "options": [
-            "A) 30 days",
-            "B) 60 days",
-            "C) 90 days",
-            "D) 180 days"
-          ],
+          "options": ["A) 30 days", "B) 60 days", "C) 90 days", "D) 180 days"],
           "answer": "C",
           "answerFull": "C) If the injury comes under FECA, the member's CO will forward items (LOD Injury Report, witness statements, arrest history, criminal court complaint, firearms trace, completed DOL form BEC-721a) to Medical Division, Federal Compensation Liaison Officer, within 90 days of occurrence. (A.G. 330-03)",
           "explanation": "If the injury comes under FECA, the member's CO will forward items (LOD Injury Report, witness statements, arrest history, criminal court complaint, firearms trace, completed DOL form BEC-721a) to Medical Division, Federal Compensation Liaison Officer, within 90 days of occurrence. (A.G. 330-03)",
@@ -10354,12 +10104,7 @@
         {
           "number": 3,
           "text": "A sexual harassment complaint filed at the NYC level has a filing deadline of:",
-          "options": [
-            "A) 300 days",
-            "B) 1 year",
-            "C) 3 years",
-            "D) 5 years"
-          ],
+          "options": ["A) 300 days", "B) 1 year", "C) 3 years", "D) 5 years"],
           "answer": "C",
           "answerFull": "C) Sexual harassment complaints at the NYC level (NYPD or NYC Commission on Human Rights) have a 3-year filing deadline — longer than the standard 1-year deadline for other discrimination complaints. Federal is 300 days regardless. (A.G. 332-01)",
           "explanation": "Sexual harassment complaints at the NYC level (NYPD or NYC Commission on Human Rights) have a 3-year filing deadline — longer than the standard 1-year deadline for other discrimination complaints. Federal is 300 days regardless. (A.G. 332-01)",
@@ -10699,12 +10444,7 @@
     {
       "number": 3,
       "text": "A CEW discharge in cartridge mode is classified as what level force incident?",
-      "options": [
-        "A) Level 1",
-        "B) Level 2",
-        "C) Level 3",
-        "D) Level 4"
-      ],
+      "options": ["A) Level 1", "B) Level 2", "C) Level 3", "D) Level 4"],
       "answer": "A",
       "source": "P.G. 221-03",
       "explanation": "P.G. 221-03 classifies a CEW discharge in cartridge mode as a Level 1 force incident, requiring investigation by the immediate supervisor."
@@ -10738,12 +10478,7 @@
     {
       "number": 6,
       "text": "What is the recommended minimum \"zone of safety\" distance from an EDP?",
-      "options": [
-        "A) 10 feet",
-        "B) 15 feet",
-        "C) 20 feet",
-        "D) 25 feet"
-      ],
+      "options": ["A) 10 feet", "B) 15 feet", "C) 20 feet", "D) 25 feet"],
       "answer": "C",
       "source": "P.G. 221-13",
       "explanation": "P.G. 221-13 defines the zone of safety as greater than the effective range of any weapon other than a firearm, with a minimum of 20 feet."
@@ -10907,12 +10642,7 @@
     {
       "number": 19,
       "text": "Vehicle checkpoints should NOT exceed what duration at one location?",
-      "options": [
-        "A) 1 hour",
-        "B) 2 hours",
-        "C) 3 hours",
-        "D) 4 hours"
-      ],
+      "options": ["A) 1 hour", "B) 2 hours", "C) 3 hours", "D) 4 hours"],
       "answer": "B",
       "source": "P.G. 221-16",
       "explanation": "P.G. 221-16 specifies vehicle checkpoints should not exceed two hours at one location."
@@ -10972,12 +10702,7 @@
     {
       "number": 24,
       "text": "At the scene of a firearms discharge, the PBT alcohol test threshold is:",
-      "options": [
-        "A) .04",
-        "B) .05",
-        "C) .08",
-        "D) .10"
-      ],
+      "options": ["A) .04", "B) .05", "C) .08", "D) .10"],
       "answer": "C",
       "source": "P.G. 221-23",
       "explanation": "P.G. 221-23 establishes that a PBT reading of .08 or greater requires transport to the IDTU facility for an Intoxilyzer test."
@@ -11115,12 +10840,7 @@
     {
       "number": 35,
       "text": "A report for lost or damaged uniform must be filed within:",
-      "options": [
-        "A) 10 days",
-        "B) 30 days",
-        "C) 60 days",
-        "D) 90 days"
-      ],
+      "options": ["A) 10 days", "B) 30 days", "C) 60 days", "D) 90 days"],
       "answer": "B",
       "source": "A.G. 305-05",
       "explanation": "A.G. 305-05 requires a report for lost or damaged uniform to be submitted within 30 days of the incident."
@@ -11141,12 +10861,7 @@
     {
       "number": 37,
       "text": "The maximum reimbursement amount for a lost watch is:",
-      "options": [
-        "A) $50.00",
-        "B) $75.00",
-        "C) $100.00",
-        "D) $150.00"
-      ],
+      "options": ["A) $50.00", "B) $75.00", "C) $100.00", "D) $150.00"],
       "answer": "B",
       "source": "A.G. 305-05",
       "explanation": "A.G. 305-05 sets the maximum reimbursement for a lost watch at $75.00."
@@ -11193,12 +10908,7 @@
     {
       "number": 41,
       "text": "The Typed Letterhead report for an intoxicated UMOS is prepared in how many copies?",
-      "options": [
-        "A) Five",
-        "B) Six",
-        "C) Eight",
-        "D) Ten"
-      ],
+      "options": ["A) Five", "B) Six", "C) Eight", "D) Ten"],
       "answer": "C",
       "source": "A.G. 318-10",
       "explanation": "The Typed Letterhead report for an intoxicated UMOS is prepared in 8 copies addressed to the 1st Deputy Commissioner."
@@ -11258,12 +10968,7 @@
     {
       "number": 46,
       "text": "An interrogation after CHARGES AND SPECIFICATIONS must be completed at least how many days before trial?",
-      "options": [
-        "A) 5 days",
-        "B) 10 days",
-        "C) 15 days",
-        "D) 20 days"
-      ],
+      "options": ["A) 5 days", "B) 10 days", "C) 15 days", "D) 20 days"],
       "answer": "B",
       "source": "A.G. 318-11",
       "explanation": "A.G. 318-11 requires interrogation after CHARGES AND SPECIFICATIONS to be completed at least 10 days prior to the Department trial date."
@@ -11297,12 +11002,7 @@
     {
       "number": 49,
       "text": "A civilian member must report an on-duty injury no later than:",
-      "options": [
-        "A) 24 hours",
-        "B) 3 days",
-        "C) 7 days",
-        "D) 30 days"
-      ],
+      "options": ["A) 24 hours", "B) 3 days", "C) 7 days", "D) 30 days"],
       "answer": "C",
       "source": "A.G. 319-08",
       "explanation": "A.G. 319-08 requires a civilian member to report an on-duty injury no later than 7 days after the incident."
@@ -11570,12 +11270,7 @@
     {
       "number": 70,
       "text": "Under CIMS, the recommended span of control is:",
-      "options": [
-        "A) 1 to 3",
-        "B) 3 to 7",
-        "C) 5 to 10",
-        "D) 10 to 15"
-      ],
+      "options": ["A) 1 to 3", "B) 3 to 7", "C) 5 to 10", "D) 10 to 15"],
       "answer": "B",
       "source": "P.G. 220-01",
       "explanation": "P.G. 220-01 establishes the CIMS recommended span of control as 3 to 7 for general use."
@@ -11765,12 +11460,7 @@
     {
       "number": 85,
       "text": "When a UMOS discharges a firearm outside of NYC, the Operations Unit must be notified within:",
-      "options": [
-        "A) 1 hour",
-        "B) 6 hours",
-        "C) 12 hours",
-        "D) 24 hours"
-      ],
+      "options": ["A) 1 hour", "B) 6 hours", "C) 12 hours", "D) 24 hours"],
       "answer": "B",
       "source": "P.G. 221-04",
       "explanation": "P.G. 221-04 requires the Operations Unit to be notified within 6 hours when a UMOS discharges a firearm outside NYC."
@@ -11947,12 +11637,7 @@
     {
       "number": 99,
       "text": "How many forms must the investigating supervisor prepare when a civilian member is injured on duty?",
-      "options": [
-        "A) 3",
-        "B) 4",
-        "C) 5",
-        "D) 6"
-      ],
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
       "answer": "C",
       "source": "A.G. 319-08",
       "explanation": "A.G. 319-08 requires the investigating supervisor to prepare 5 forms when a civilian member is injured on duty."
@@ -11960,12 +11645,7 @@
     {
       "number": 100,
       "text": "A UMOS wishing to retain a Department-issued service firearm (post-1/15/13) must obtain a NICS check within how many days before separation?",
-      "options": [
-        "A) 15 days",
-        "B) 30 days",
-        "C) 60 days",
-        "D) 90 days"
-      ],
+      "options": ["A) 15 days", "B) 30 days", "C) 60 days", "D) 90 days"],
       "answer": "B",
       "source": "A.G. 329-06",
       "explanation": "A.G. 329-06 requires a NICS check no more than 30 days prior to separation for retaining a Department-issued firearm."
@@ -11986,12 +11666,7 @@
     {
       "number": 102,
       "text": "At a vehicle checkpoint, at least how many Department vehicles are required?",
-      "options": [
-        "A) 1",
-        "B) 2",
-        "C) 3",
-        "D) 4"
-      ],
+      "options": ["A) 1", "B) 2", "C) 3", "D) 4"],
       "answer": "B",
       "source": "P.G. 221-16",
       "explanation": "P.G. 221-16 requires a minimum of two Department vehicles at any vehicle checkpoint."
@@ -12077,12 +11752,7 @@
     {
       "number": 109,
       "text": "If a LOD designation cannot be made expeditiously, a report must be forwarded to Medical Division within:",
-      "options": [
-        "A) 30 days",
-        "B) 60 days",
-        "C) 90 days",
-        "D) 120 days"
-      ],
+      "options": ["A) 30 days", "B) 60 days", "C) 90 days", "D) 120 days"],
       "answer": "B",
       "source": "A.G. 330-03",
       "explanation": "A.G. 330-03 requires a report to Medical Division within 60 days if LOD designation cannot be made expeditiously."
@@ -12090,12 +11760,7 @@
     {
       "number": 110,
       "text": "If a LOD injury comes under FECA, the CO forwards documentation to Medical Division within:",
-      "options": [
-        "A) 30 days",
-        "B) 60 days",
-        "C) 90 days",
-        "D) 180 days"
-      ],
+      "options": ["A) 30 days", "B) 60 days", "C) 90 days", "D) 180 days"],
       "answer": "C",
       "source": "A.G. 330-03",
       "explanation": "A.G. 330-03 requires FECA documentation to be forwarded to Medical Division within 90 days."
@@ -12259,12 +11924,7 @@
     {
       "number": 123,
       "text": "At a CBRN incident with suspected terrorism, who has primary agency for overall site management?",
-      "options": [
-        "A) FDNY",
-        "B) NYPD",
-        "C) OEM",
-        "D) DHS"
-      ],
+      "options": ["A) FDNY", "B) NYPD", "C) OEM", "D) DHS"],
       "answer": "B",
       "source": "P.G. 220-02, 220-03",
       "explanation": "NYPD has the Core Competency for Overall Site Management and Assessment/Investigation at CBRN incidents with suspected terrorism. FDNY has primary for life safety/fire."
@@ -12496,59 +12156,42 @@
     {
       "id": "prisoner-mgmt",
       "label": "Prisoner Management",
-      "chapters": [
-        "210-prisoners"
-      ]
+      "chapters": ["210-prisoners"]
     },
     {
       "id": "arrest-processing",
       "label": "Arrest Processing",
-      "chapters": [
-        "208-arrests"
-      ]
+      "chapters": ["208-arrests"]
     },
     {
       "id": "supervisor-response",
       "label": "Supervisor Response",
-      "chapters": [
-        "212-command-operations"
-      ]
+      "chapters": ["212-command-operations"]
     },
     {
       "id": "documentation",
       "label": "Documentation & Reports",
-      "chapters": [
-        "212-command-operations"
-      ]
+      "chapters": ["212-command-operations"]
     },
     {
       "id": "property-evidence",
       "label": "Property & Evidence",
-      "chapters": [
-        "218-property-general",
-        "219-department-property"
-      ]
+      "chapters": ["218-property-general", "219-department-property"]
     },
     {
       "id": "court-legal",
       "label": "Court & Legal",
-      "chapters": [
-        "211-court-appearances"
-      ]
+      "chapters": ["211-court-appearances"]
     },
     {
       "id": "use-of-force",
       "label": "Use of Force",
-      "chapters": [
-        "221-tactical-operations"
-      ]
+      "chapters": ["221-tactical-operations"]
     },
     {
       "id": "juvenile",
       "label": "Juvenile Procedures",
-      "chapters": [
-        "215-juvenile-matters"
-      ]
+      "chapters": ["215-juvenile-matters"]
     },
     {
       "id": "personnel-leave",
@@ -12562,61 +12205,43 @@
     {
       "id": "equipment-uniforms",
       "label": "Equipment & Uniforms",
-      "chapters": [
-        "305-uniforms-equipment"
-      ]
+      "chapters": ["305-uniforms-equipment"]
     },
     {
       "id": "command-ops",
       "label": "Command Operations",
-      "chapters": [
-        "212-command-operations",
-        "220-citywide-incident-mgmt"
-      ]
+      "chapters": ["212-command-operations", "220-citywide-incident-mgmt"]
     },
     {
       "id": "qol-enforcement",
       "label": "Quality of Life",
-      "chapters": [
-        "214-quality-of-life"
-      ]
+      "chapters": ["214-quality-of-life"]
     },
     {
       "id": "mobilization",
       "label": "Mobilization & Emergency",
-      "chapters": [
-        "213-mobilization-emergency"
-      ]
+      "chapters": ["213-mobilization-emergency"]
     },
     {
       "id": "disciplinary",
       "label": "Disciplinary Matters",
-      "chapters": [
-        "318-disciplinary-matters",
-        "332-employee-rights"
-      ]
+      "chapters": ["318-disciplinary-matters", "332-employee-rights"]
     },
     {
       "id": "complaints",
       "label": "Complaints & Investigations",
-      "chapters": [
-        "207-complaints"
-      ]
+      "chapters": ["207-complaints"]
     },
     {
       "id": "medical-wellness",
       "label": "Medical & Wellness",
-      "chapters": [
-        "330-medical-health-wellness"
-      ]
+      "chapters": ["330-medical-health-wellness"]
     },
     {
       "id": "general-regulations",
       "label": "General Regulations",
-      "chapters": [
-        "304-general-regulations"
-      ]
+      "chapters": ["304-general-regulations"]
     }
   ],
-  "version": "20260515"
+  "version": "20260516"
 }

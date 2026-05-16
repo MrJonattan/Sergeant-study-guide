@@ -16,6 +16,7 @@ import { renderFlashcards } from './views/flashcards';
 import { renderCheatSheet } from './views/cheat-sheet';
 import { renderSergeantFocus } from './views/sergeant-focus';
 import { renderWeakAreas } from './views/weak-areas';
+import { loadStudyData } from './utils/data-loader';
 
 // ─────────────────────────────────────────────
 // Route Definitions
@@ -47,115 +48,60 @@ export const appState = {
 // ─────────────────────────────────────────────
 
 export async function initApp() {
-  // Wait for data to be available (either from global or fetch)
-  await new Promise<void>(resolve => {
-    if (
-      typeof window.STUDY_DATA !== 'undefined' &&
-      window.STUDY_DATA &&
-      window.STUDY_DATA.chapters
-    ) {
-      appState.data = window.STUDY_DATA;
-      resolve();
-    } else {
-      // Poll for global variable (in case data.js loads async)
-      let attempts = 0;
-      const checkData = setInterval(() => {
-        if (
-          typeof window.STUDY_DATA !== 'undefined' &&
-          window.STUDY_DATA &&
-          window.STUDY_DATA.chapters
-        ) {
-          appState.data = window.STUDY_DATA;
-          clearInterval(checkData);
-          resolve();
-        } else if (attempts++ > 50) {
-          clearInterval(checkData);
-          resolve(); // Give up and try fetch fallback
-        }
-      }, 100);
-    }
-  });
+  const content = document.getElementById('content');
 
-  // Fallback: fetch data.js if global not available
-  if (!appState.data) {
-    try {
-      const response = await fetch('./data.js');
-      const script = await response.text();
-
-      // Extract JSON: find "window.STUDY_DATA = " and extract just that object
-      const prefix = 'window.STUDY_DATA = ';
-      const startIdx = script.indexOf(prefix);
-      if (startIdx === -1) {
-        throw new Error('Could not find window.STUDY_DATA prefix');
-      }
-
-      // Get everything after the prefix
-      let jsonStr = script.substring(startIdx + prefix.length).trim();
-
-      // Find matching closing brace by counting braces
-      let braceCount = 0;
-      let inString = false;
-      let escape = false;
-      let endIdx = -1;
-
-      for (let i = 0; i < jsonStr.length; i++) {
-        const char = jsonStr[i];
-        if (escape) {
-          escape = false;
-          continue;
-        }
-        if (char === '\\') {
-          escape = true;
-          continue;
-        }
-        if (char === '"' && !escape) {
-          inString = !inString;
-          continue;
-        }
-        if (!inString) {
-          if (char === '{') braceCount++;
-          if (char === '}') {
-            braceCount--;
-            if (braceCount === 0) {
-              endIdx = i + 1;
-              break;
-            }
-          }
-        }
-      }
-
-      if (endIdx === -1) {
-        throw new Error('Could not find matching closing brace');
-      }
-
-      jsonStr = jsonStr.substring(0, endIdx);
-      appState.data = JSON.parse(jsonStr);
-    } catch (err) {
-      console.error('Failed to load study data:', err);
-      document.getElementById('content')!.innerHTML =
-        `<div class="error" style="padding:20px;color:red;">Failed to load study data: ${err}. Please refresh.</div>`;
-      return;
-    }
+  // Show loading state
+  if (content) {
+    content.innerHTML = `
+      <div class="loading-container">
+        <div class="loading-spinner"></div>
+        <p class="loading-text" id="loading-status">Loading study data...</p>
+        <button class="retry-btn" id="retry-btn" style="display:none;">Retry</button>
+      </div>
+    `;
   }
 
-  // Initialize components
-  initTheme();
-  initFontScale();
-  initSidebar(appState.data.chapters);
-  initTopbar();
+  const retryBtn = document.getElementById('retry-btn');
+  retryBtn?.addEventListener('click', () => initApp());
 
-  // Initialize router
-  initRouter(routes, (route, params) => {
-    appState.currentRoute = route;
-    appState.currentChapter = params?.id || null;
-  });
+  try {
+    appState.data = await loadStudyData({
+      maxRetries: 3,
+      retryDelayMs: 1000,
+      onProgress: status => {
+        const statusEl = document.getElementById('loading-status');
+        if (statusEl) statusEl.textContent = status;
+      },
+    });
 
-  // Handle keyboard shortcuts
-  initKeyboardShortcuts();
+    // Initialize components
+    initTheme();
+    initFontScale();
+    initSidebar(appState.data.chapters);
+    initTopbar();
 
-  // Navigate to initial route
-  const hash = window.location.hash.slice(1) || 'home';
-  navigateTo(hash);
+    // Initialize router
+    initRouter(routes, (route, params) => {
+      appState.currentRoute = route;
+      appState.currentChapter = params?.id || null;
+    });
+
+    // Handle keyboard shortcuts
+    initKeyboardShortcuts();
+
+    // Navigate to initial route
+    const hash = window.location.hash.slice(1) || 'home';
+    navigateTo(hash);
+  } catch (err) {
+    const statusEl = document.getElementById('loading-status');
+    if (statusEl) {
+      statusEl.textContent = 'Failed to load study data';
+    }
+    if (retryBtn) {
+      retryBtn.style.display = 'inline-block';
+    }
+    console.error('Failed to initialize app:', err);
+  }
 }
 
 // ─────────────────────────────────────────────

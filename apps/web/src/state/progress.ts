@@ -4,10 +4,17 @@
 
 const PROGRESS_KEY = 'nypd_progress';
 
+interface QuizAttempt {
+  correctAnswers: number;
+  totalQuestions: number;
+  timestamp: string;
+}
+
 interface ChapterProgress {
   chapterId: string;
   status: 'not_started' | 'in_progress' | 'review' | 'completed';
   quizScore?: number;
+  quizHistory?: QuizAttempt[];
   questionsAnswered: number;
   timeSpentSeconds: number;
   lastStudiedAt?: string;
@@ -74,21 +81,36 @@ export function markChapterComplete(chapterId: string) {
   saveProgress(data);
 }
 
-export function updateQuizScore(chapterId: string, score: number) {
+export function updateQuizScore(chapterId: string, score: number, totalQuestions: number) {
   const data = loadProgress();
   if (!data || !Array.isArray(data.chapters)) {
     return;
   }
   let chapter = data.chapters.find(c => c.chapterId === chapterId);
 
+  const correctAnswers = Math.round((score / 100) * totalQuestions);
+
   if (chapter) {
     chapter.quizScore = score;
     chapter.status = score >= 80 ? 'completed' : 'review';
+    chapter.quizHistory = chapter.quizHistory || [];
+    chapter.quizHistory.push({
+      correctAnswers,
+      totalQuestions,
+      timestamp: new Date().toISOString(),
+    });
   } else {
     chapter = {
       chapterId,
       status: score >= 80 ? 'completed' : 'review',
       quizScore: score,
+      quizHistory: [
+        {
+          correctAnswers,
+          totalQuestions,
+          timestamp: new Date().toISOString(),
+        },
+      ],
       questionsAnswered: 0,
       timeSpentSeconds: 0,
     };
