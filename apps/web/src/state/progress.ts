@@ -44,11 +44,17 @@ function saveProgress(data: ProgressData) {
 
 export function getProgress(chapterId: string): ChapterProgress | undefined {
   const data = loadProgress();
+  if (!data || !Array.isArray(data.chapters)) {
+    return undefined;
+  }
   return data.chapters.find(c => c.chapterId === chapterId);
 }
 
 export function markChapterComplete(chapterId: string) {
   const data = loadProgress();
+  if (!data || !Array.isArray(data.chapters)) {
+    return;
+  }
   let chapter = data.chapters.find(c => c.chapterId === chapterId);
 
   if (chapter) {
@@ -70,6 +76,9 @@ export function markChapterComplete(chapterId: string) {
 
 export function updateQuizScore(chapterId: string, score: number) {
   const data = loadProgress();
+  if (!data || !Array.isArray(data.chapters)) {
+    return;
+  }
   let chapter = data.chapters.find(c => c.chapterId === chapterId);
 
   if (chapter) {
@@ -91,15 +100,18 @@ export function updateQuizScore(chapterId: string, score: number) {
 
 export function getStreak(): number {
   const data = loadProgress();
-  return data.streak;
+  return data?.streak || 0;
 }
 
 export function getTotalStudyTime(): number {
   const data = loadProgress();
-  return data.totalStudyTimeSeconds;
+  return data?.totalStudyTimeSeconds || 0;
 }
 
 export function getCompletedChapters(): number {
   const data = loadProgress();
+  if (!data || !Array.isArray(data.chapters)) {
+    return 0;
+  }
   return data.chapters.filter(c => c.status === 'completed').length;
 }

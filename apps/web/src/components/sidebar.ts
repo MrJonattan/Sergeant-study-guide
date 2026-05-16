@@ -13,6 +13,10 @@ interface Chapter {
 }
 
 export function initSidebar(chapters: Chapter[]) {
+  if (!chapters || chapters.length === 0) {
+    console.error('initSidebar: No chapters provided');
+    return;
+  }
   renderChapterNav(chapters);
   renderToolsNav();
   initMobileMenu();
@@ -24,12 +28,13 @@ function renderChapterNav(chapters: Chapter[]) {
 
   const html = `
     <div class="nav-section-title">Chapters</div>
-    ${chapters.map(chapter => {
-      const progress = getProgress(chapter.id);
-      const isComplete = progress?.status === 'completed';
-      const questionCount = chapter.questions?.length || 0;
+    ${chapters
+      .map(chapter => {
+        const progress = getProgress(chapter.id);
+        const isComplete = progress?.status === 'completed';
+        const questionCount = chapter.questions?.length || 0;
 
-      return `
+        return `
         <div class="nav-item" data-chapter="${chapter.id}">
           <span class="ch-check ${isComplete ? 'done' : ''}">${isComplete ? '✓' : '○'}</span>
           <span class="nav-num">${chapter.sectionNum}</span>
@@ -37,7 +42,8 @@ function renderChapterNav(chapters: Chapter[]) {
           <span class="q-badge">${questionCount}q</span>
         </div>
       `;
-    }).join('')}
+      })
+      .join('')}
   `;
 
   nav.innerHTML = html;
@@ -71,12 +77,16 @@ function renderToolsNav() {
 
   nav.innerHTML = `
     <div class="nav-section-title">Tools</div>
-    ${tools.map(tool => `
+    ${tools
+      .map(
+        tool => `
       <div class="nav-item" data-tool="${tool.id}">
         <span class="nav-num">${tool.icon}</span>
         <span class="nav-title">${tool.label}</span>
       </div>
-    `).join('')}
+    `
+      )
+      .join('')}
   `;
 
   // Add click handlers
@@ -114,7 +124,7 @@ function initMobileMenu() {
     });
 
     // Close sidebar when clicking outside on mobile
-    document.addEventListener('click', (e) => {
+    document.addEventListener('click', e => {
       if (window.innerWidth <= 768) {
         const isClickInsideSidebar = sidebar.contains(e.target as Node);
         const isClickOnToggle = menuToggle.contains(e.target as Node);
