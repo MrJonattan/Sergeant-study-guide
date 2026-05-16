@@ -2,6 +2,30 @@
    Components - Callouts, Cards, Badges, etc.
    ───────────────────────────────────────────── */
 
+/* iOS native-like touch feedback */
+@media (hover: none) and (pointer: coarse) {
+  .card,
+  .btn,
+  .quiz-option,
+  .exam-option,
+  .nav-item,
+  .search-result-item {
+    /* Remove hover effects on touch devices */
+    transition: none;
+  }
+
+  /* Active state for immediate feedback */
+  .card:active,
+  .btn:active,
+  .quiz-option:active,
+  .exam-option:active,
+  .nav-item:active,
+  .search-result-item:active {
+    transform: scale(0.98);
+    opacity: 0.9;
+  }
+}
+
 /* ─────────────────────────────────────────────
    Callouts (Exam Alert, Memory Aid, etc.)
    ───────────────────────────────────────────── */
