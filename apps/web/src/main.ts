@@ -22,14 +22,14 @@ import { renderWeakAreas } from './views/weak-areas';
 // ─────────────────────────────────────────────
 
 const routes = {
-  'home': renderHome,
+  home: renderHome,
   'chapter/:id': renderChapter,
-  'quiz': renderQuiz,
-  'exam': renderExam,
-  'flashcards': renderFlashcards,
-  'cheatsheet': renderCheatSheet,
-  'sergeant': renderSergeantFocus,
-  'weak': renderWeakAreas,
+  quiz: renderQuiz,
+  exam: renderExam,
+  flashcards: renderFlashcards,
+  cheatsheet: renderCheatSheet,
+  sergeant: renderSergeantFocus,
+  weak: renderWeakAreas,
 };
 
 // ─────────────────────────────────────────────
@@ -47,21 +47,14 @@ export const appState = {
 // ─────────────────────────────────────────────
 
 export async function initApp() {
-  console.log('Initializing NYPD Sergeant Study Guide...');
-  console.log('window.STUDY_DATA exists:', typeof window.STUDY_DATA !== 'undefined');
-  console.log('window.STUDY_DATA value:', window.STUDY_DATA);
-
   // Load data - try global first, then fetch as fallback
   if (typeof window.STUDY_DATA !== 'undefined' && window.STUDY_DATA && window.STUDY_DATA.chapters) {
     appState.data = window.STUDY_DATA;
-    console.log(`Loaded ${appState.data.chapters.length} chapters from global`);
   } else {
     // Fallback: fetch data.js and parse
     try {
-      console.log('Fetching data.js...');
-      const response = await fetch('/data.js');
+      const response = await fetch('./data.js');
       const script = await response.text();
-      console.log('data.js fetched, length:', script.length);
 
       // Extract JSON: find "window.STUDY_DATA = " and extract just that object
       const prefix = 'window.STUDY_DATA = ';
@@ -110,14 +103,11 @@ export async function initApp() {
       }
 
       jsonStr = jsonStr.substring(0, endIdx);
-      console.log('JSON string length:', jsonStr.length);
-      console.log('First 50 chars:', jsonStr.substring(0, 50));
-      console.log('Last 50 chars:', jsonStr.substring(jsonStr.length - 50));
       appState.data = JSON.parse(jsonStr);
-      console.log(`Loaded ${appState.data.chapters.length} chapters from fetch`);
     } catch (err) {
       console.error('Failed to load study data:', err);
-      document.getElementById('content')!.innerHTML = `<div class="error" style="padding:20px;color:red;">Failed to load study data: ${err}. Please refresh.</div>`;
+      document.getElementById('content')!.innerHTML =
+        `<div class="error" style="padding:20px;color:red;">Failed to load study data: ${err}. Please refresh.</div>`;
       return;
     }
   }
@@ -140,8 +130,6 @@ export async function initApp() {
   // Navigate to initial route
   const hash = window.location.hash.slice(1) || 'home';
   navigateTo(hash);
-
-  console.log('App initialized successfully');
 }
 
 // ─────────────────────────────────────────────
@@ -149,7 +137,7 @@ export async function initApp() {
 // ─────────────────────────────────────────────
 
 function initKeyboardShortcuts() {
-  document.addEventListener('keydown', (e) => {
+  document.addEventListener('keydown', e => {
     // Ctrl+K or Cmd+K - Search (future enhancement)
     if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
       e.preventDefault();
