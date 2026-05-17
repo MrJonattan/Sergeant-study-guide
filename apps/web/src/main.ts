@@ -18,6 +18,12 @@ import { renderSergeantFocus } from './views/sergeant-focus';
 import { renderWeakAreas } from './views/weak-areas';
 import { renderSearch } from './views/search';
 import { loadStudyData } from './utils/data-loader';
+import {
+  renderErrorRecovery,
+  attachErrorRecoveryListeners,
+  initOnlineListener,
+  type ErrorState,
+} from './components/error-recovery';
 
 // ─────────────────────────────────────────────
 // Route Definitions
@@ -58,13 +64,9 @@ export async function initApp() {
       <div class="loading-container">
         <div class="loading-spinner"></div>
         <p class="loading-text" id="loading-status">Loading study data...</p>
-        <button class="retry-btn" id="retry-btn" style="display:none;">Retry</button>
       </div>
     `;
   }
-
-  const retryBtn = document.getElementById('retry-btn');
-  retryBtn?.addEventListener('click', () => initApp());
 
   try {
     appState.data = await loadStudyData({
@@ -81,6 +83,7 @@ export async function initApp() {
     initFontScale();
     initSidebar(appState.data.chapters);
     initTopbar();
+    initOnlineListener();
 
     // Initialize router
     initRouter(routes, (route, params) => {
@@ -95,15 +98,36 @@ export async function initApp() {
     const hash = window.location.hash.slice(1) || 'home';
     navigateTo(hash);
   } catch (err) {
-    const statusEl = document.getElementById('loading-status');
-    if (statusEl) {
-      statusEl.textContent = 'Failed to load study data';
-    }
-    if (retryBtn) {
-      retryBtn.style.display = 'inline-block';
-    }
-    console.error('Failed to initialize app:', err);
+    const error = err as Error;
+    const errorState = determineErrorType(error);
+    showErrorRecovery(errorState);
   }
+}
+
+function determineErrorType(error: Error): ErrorState {
+  const message = error.message.toLowerCase();
+
+  if (message.includes('fetch') || message.includes('network') || message.includes('http')) {
+    return { type: 'network', message: error.message };
+  }
+
+  if (message.includes('parse') || message.includes('json') || message.includes('invalid')) {
+    return { type: 'parse', message: error.message };
+  }
+
+  if (message.includes('storage') || message.includes('quota')) {
+    return { type: 'storage', message: error.message };
+  }
+
+  return { type: 'unknown', message: error.message };
+}
+
+function showErrorRecovery(error: ErrorState) {
+  const content = document.getElementById('content');
+  if (!content) return;
+
+  content.innerHTML = renderErrorRecovery(error, () => initApp());
+  attachErrorRecoveryListeners(() => initApp());
 }
 
 // ─────────────────────────────────────────────
@@ -129,6 +153,25 @@ function initKeyboardShortcuts() {
     if (e.target.tagName !== 'INPUT' && (e.key === 'n' || e.key === 'p')) {
       const event = new CustomEvent('nav-keypress', { detail: { key: e.key } });
       document.dispatchEvent(event);
+    }
+
+    // Desktop: Arrow keys for flashcard navigation
+    if (e.target.tagName !== 'INPUT' && window.location.hash === '#flashcards') {
+      if (e.key === 'ArrowLeft') {
+        const prevBtn = document.getElementById('prev-card');
+        prevBtn?.click();
+      } else if (e.key === 'ArrowRight') {
+        const nextBtn = document.getElementById('next-card');
+        nextBtn?.click();
+      }
+    }
+
+    // Desktop: Escape to close sidebar on mobile view
+    if (e.key === 'Escape') {
+      const sidebar = document.getElementById('sidebar');
+      if (sidebar?.classList.contains('open')) {
+        sidebar.classList.remove('open');
+      }
     }
   });
 }

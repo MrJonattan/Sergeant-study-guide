@@ -10,7 +10,7 @@ interface Question {
   number: number;
   text: string;
   options: string[];
-  correctAnswer: number;
+  answer?: string; // Letter answer ("A", "B", "C", "D") from parser
   chapterId?: string;
 }
 
@@ -146,7 +146,9 @@ function submitAnswer() {
   if (!state || state.selectedAnswer === null) return;
 
   const question = state.questions[state.currentIndex];
-  const isCorrect = state.selectedAnswer === question.correctAnswer;
+  // Convert letter answer ("A", "B", "C", "D") to index (0, 1, 2, 3)
+  const correctIndex = question.answer ? question.answer.charCodeAt(0) - 65 : -1;
+  const isCorrect = state.selectedAnswer === correctIndex;
 
   state.answers.push(state.selectedAnswer);
 
@@ -200,7 +202,9 @@ function showResults() {
         ${state.questions
           .map((q, idx) => {
             const userAnswer = state.answers[idx];
-            const isCorrect = userAnswer === q.correctAnswer;
+            // Convert letter answer to index
+            const correctIndex = q.answer ? q.answer.charCodeAt(0) - 65 : -1;
+            const isCorrect = userAnswer === correctIndex;
             return `
             <div class="review-item ${isCorrect ? 'correct' : 'incorrect'}">
               <div class="review-indicator">${isCorrect ? '✓' : '✗'}</div>
@@ -208,7 +212,7 @@ function showResults() {
                 <p class="review-question">${q.text}</p>
                 <p class="review-answer">
                   Your answer: <strong>${userAnswer !== null ? q.options[userAnswer] : 'No answer'}</strong>
-                  ${!isCorrect ? `<br>Correct answer: <strong>${q.options[q.correctAnswer]}</strong>` : ''}
+                  ${!isCorrect ? `<br>Correct answer: <strong>${q.options[correctIndex]}</strong>` : ''}
                 </p>
               </div>
             </div>

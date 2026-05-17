@@ -169,6 +169,24 @@
   -webkit-backdrop-filter: saturate(180%) blur(20px);
 }
 
+/* Desktop: Larger topbar */
+@media (min-width: 1025px) {
+  #topbar {
+    padding-top: max(1rem, env(safe-area-inset-top, 1rem));
+    padding-right: max(2rem, env(safe-area-inset-right, 2rem));
+    padding-left: max(2rem, env(safe-area-inset-left, 2rem));
+  }
+
+  #breadcrumbs {
+    font-size: 0.7rem;
+  }
+
+  .icon-btn {
+    min-height: 48px;
+    padding: 0.5rem 0.75rem;
+  }
+}
+
 #menu-toggle {
   display: none;
   background: none;
@@ -256,6 +274,37 @@
    Mobile Responsiveness
    ───────────────────────────────────────────── */
 
+/* Small phones (iPhone SE, small Android) */
+@media (max-width: 375px) {
+  :root {
+    --font-scale: 0.9;
+    --min-touch-size: 44px;
+  }
+
+  #sidebar-header h1 {
+    font-size: 1rem;
+  }
+
+  #content {
+    padding: 0.75rem 1rem;
+    padding-right: max(0.75rem, env(safe-area-inset-right, 0.75rem));
+    padding-left: max(0.75rem, env(safe-area-inset-left, 0.75rem));
+  }
+
+  .fc-stat-value {
+    font-size: 1.2rem;
+  }
+
+  .flashcard {
+    height: 240px;
+  }
+
+  .flashcard-term {
+    font-size: 1.2rem;
+  }
+}
+
+/* Mobile phones (iPhone, most Android) */
 @media (max-width: 768px) {
   #sidebar {
     transform: translateX(-100%);
@@ -289,12 +338,59 @@
   .tab {
     white-space: nowrap;
   }
+
+  /* Stack filter buttons on mobile */
+  .flashcards-filter {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .fc-filter-btn {
+    text-align: center;
+  }
+
+  /* Stack error buttons on mobile */
+  .error-actions {
+    flex-direction: column;
+  }
+
+  /* Adjust stats grid for small screens */
+  .flashcards-stats,
+  .summary-stats {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.25rem;
+  }
+
+  .fc-stat-value,
+  .summary-value {
+    font-size: 1.1rem;
+  }
+
+  .fc-stat-label,
+  .summary-label {
+    font-size: 0.5rem;
+  }
 }
 
-/* ─────────────────────────────────────────────
-   iPhone 17 Pro Max Optimizations (437x932)
-   ───────────────────────────────────────────── */
+/* Tablets (iPad, iPad mini) */
+@media (min-width: 769px) and (max-width: 1024px) {
+  #content {
+    max-width: 800px;
+    padding: 1.5rem 2rem;
+  }
 
+  .flashcard {
+    max-width: 450px;
+    height: 260px;
+  }
+
+  .error-card {
+    max-width: 450px;
+    padding: 1.5rem;
+  }
+}
+
+/* iPhone 17 Pro Max Optimizations (437x932) */
 @media (min-width: 420px) and (max-width: 440px) {
   :root {
     /* Slightly larger touch targets */
@@ -318,6 +414,53 @@
   .exam-option,
   .search-result-item {
     min-height: var(--min-touch-size);
+  }
+}
+
+/* Desktop browsers */
+@media (min-width: 1025px) {
+  #content {
+    max-width: 900px;
+    padding: 2rem 2.5rem;
+  }
+
+  .flashcard {
+    max-width: 550px;
+    height: 300px;
+  }
+
+  .flashcard-term {
+    font-size: 1.5rem;
+  }
+
+  .error-card {
+    max-width: 550px;
+    padding: 2.5rem;
+  }
+
+  .error-actions {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  /* Hover states for desktop */
+  .fc-btn:hover,
+  .error-btn:hover,
+  .card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+}
+
+/* Large desktop */
+@media (min-width: 1440px) {
+  #content {
+    max-width: 1000px;
+  }
+
+  .flashcard {
+    max-width: 600px;
+    height: 320px;
   }
 }
 

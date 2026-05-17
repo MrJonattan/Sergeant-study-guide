@@ -9,7 +9,7 @@ interface Question {
   number: number;
   text: string;
   options: string[];
-  correctAnswer: number;
+  answer?: string; // Letter answer ("A", "B", "C", "D") from parser
   chapterId?: string;
 }
 
@@ -368,7 +368,9 @@ function submitExam() {
 
   state.questions.forEach((q, idx) => {
     const userAnswer = state.answers[idx] ?? null;
-    const isCorrect = userAnswer === q.correctAnswer;
+    // Convert letter answer to index
+    const correctIndex = q.answer ? q.answer.charCodeAt(0) - 65 : -1;
+    const isCorrect = userAnswer === correctIndex;
     if (isCorrect) score++;
     results.push({ question: q, userAnswer, correct: isCorrect });
   });
@@ -423,7 +425,9 @@ function showResults(
           .map((r, idx) => {
             const userAnswerText =
               r.userAnswer !== null ? r.question.options[r.userAnswer] : 'No answer';
-            const correctAnswerText = r.question.options[r.question.correctAnswer];
+            // Convert letter answer to index
+            const correctIndex = r.question.answer ? r.question.answer.charCodeAt(0) - 65 : -1;
+            const correctAnswerText = r.question.options[correctIndex];
 
             return `
             <div class="review-item ${r.correct ? 'correct' : 'incorrect'}">
