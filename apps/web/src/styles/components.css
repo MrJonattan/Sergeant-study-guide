@@ -176,6 +176,8 @@
   border-radius: 6px;
   cursor: pointer;
   transition: background 0.15s ease;
+  background: var(--bg);
+  color: var(--fg);
 }
 
 .quiz-option:hover {
@@ -184,6 +186,11 @@
 
 .quiz-option.selected {
   background: var(--fg);
+  color: var(--bg) !important;
+}
+
+.quiz-option.selected .quiz-option-letter,
+.quiz-option.selected .quiz-option-text {
   color: var(--bg);
 }
 
