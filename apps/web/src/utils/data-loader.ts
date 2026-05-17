@@ -21,7 +21,7 @@ export interface StudyData {
       number: number;
       text: string;
       options: string[];
-      correctAnswer?: number;
+      answer?: string; // Letter answer ("A", "B", "C", "D")
     }>;
     sergeantFocus: Array<{ filename: string; text: string; category?: string }>;
   }>;
@@ -30,7 +30,7 @@ export interface StudyData {
     number: number;
     text: string;
     options: string[];
-    correctAnswer: number;
+    answer: string; // Letter answer ("A", "B", "C", "D")
   }>;
   totalQuestions: number;
   sergeantCategories: Array<{
