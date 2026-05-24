@@ -8,6 +8,7 @@ interface QuizAttempt {
   correctAnswers: number;
   totalQuestions: number;
   timestamp: string;
+  attemptType?: 'regular' | 'sergeant-focus';
 }
 
 interface ChapterProgress {
@@ -83,7 +84,12 @@ export function markChapterComplete(chapterId: string) {
   saveProgress(data);
 }
 
-export function updateQuizScore(chapterId: string, score: number, totalQuestions: number) {
+export function updateQuizScore(
+  chapterId: string,
+  score: number,
+  totalQuestions: number,
+  attemptType?: 'regular' | 'sergeant-focus'
+) {
   const data = loadProgress();
   if (!data || !Array.isArray(data.chapters)) {
     return;
@@ -100,6 +106,7 @@ export function updateQuizScore(chapterId: string, score: number, totalQuestions
       correctAnswers,
       totalQuestions,
       timestamp: new Date().toISOString(),
+      attemptType,
     });
   } else {
     chapter = {
@@ -111,6 +118,7 @@ export function updateQuizScore(chapterId: string, score: number, totalQuestions
           correctAnswers,
           totalQuestions,
           timestamp: new Date().toISOString(),
+          attemptType,
         },
       ],
       questionsAnswered: 0,
