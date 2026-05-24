@@ -2,7 +2,13 @@
  * Home view - Dashboard with stats and progress
  */
 
-import { getStreak, getTotalStudyTime, getCompletedChapters } from '../state/progress';
+import { appState } from '../main';
+import {
+  getStreak,
+  getTotalStudyTime,
+  getCompletedChapters,
+  getRecentResumeChapter,
+} from '../state/progress';
 import { updateBreadcrumbs } from '../components/topbar';
 
 // Detect touch devices using CSS media query
@@ -22,10 +28,15 @@ export function renderHome() {
   const hours = Math.floor(totalTime / 3600);
   const minutes = Math.floor((totalTime % 3600) / 60);
 
-  // Check if dashboard is empty (no progress yet)
-  const isEmptyDashboard = streak === 0 && completed === 0 && totalTime === 0;
+  // Find chapter to resume (takes precedence over empty-state CTA)
+  const resumeChapter = getRecentResumeChapter();
+  const resumeCard = resumeChapter ? renderResumeCard(resumeChapter) : '';
+
+  // Check if dashboard is empty (no progress yet) - only if no resume card
+  const isEmptyDashboard = !resumeCard && streak === 0 && completed === 0 && totalTime === 0;
 
   content.innerHTML = `
+    ${resumeCard}
     ${isEmptyDashboard ? renderEmptyStateCTA() : renderStatsGrid(streak, completed, totalChapters, hours, minutes)}
 
     <div class="card search-quick-card" style="cursor: pointer;" data-navigate="search">
@@ -69,6 +80,16 @@ export function renderHome() {
   if (ctaBtn) {
     ctaBtn.addEventListener('click', () => {
       window.location.hash = 'chapter/200-general';
+    });
+  }
+
+  // Add handler for Resume Continue button if present
+  const resumeBtn = content.querySelector('#resume-chapter-btn');
+  if (resumeBtn) {
+    resumeBtn.addEventListener('click', () => {
+      if (resumeChapter) {
+        window.location.hash = `chapter/${resumeChapter.chapterId}`;
+      }
     });
   }
 }
@@ -119,4 +140,41 @@ function renderSearchHint(): string {
     return '';
   }
   return '<div class="search-shortcut-hint">Press Ctrl+K</div>';
+}
+
+function renderResumeCard(chapterProgress: ReturnType<typeof getRecentResumeChapter>): string {
+  if (!chapterProgress || !chapterProgress.lastSectionId) {
+    return '';
+  }
+
+  // Find chapter title from appState
+  const chapter = appState.data?.chapters.find(
+    (c: { id: string }) => c.id === chapterProgress.chapterId
+  );
+  if (!chapter) {
+    return '';
+  }
+
+  // Extract section number from chapter.sectionNum (e.g., "208" from "208-arrests")
+  const chapterNum = chapter.sectionNum || chapterProgress.chapterId.replace(/\D/g, '').slice(0, 3);
+
+  // Format section display (e.g., "§01" from lastSectionId)
+  const sectionDisplay = chapterProgress.lastSectionId
+    ? `§${chapterProgress.lastSectionId.slice(-2)}`
+    : '';
+
+  return `
+    <div class="resume-card" style="border: 2px solid var(--fg); border-radius: 12px; padding: 1.5rem 2rem; background: linear-gradient(135deg, var(--bg) 0%, var(--bg-muted) 100%); margin: 1.5rem 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <div style="display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap;">
+        <div style="flex: 1; min-width: 200px;">
+          <div style="font-family: var(--font-mono); font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; opacity: 0.7; margin-bottom: 0.5rem;">Continue Where You Left Off</div>
+          <h2 style="font-family: var(--font-display); font-size: 1.25rem; margin: 0 0 0.25rem 0;">Resume: Ch ${chapterNum} ${sectionDisplay} — ${chapter.title}</h2>
+          <p style="font-family: var(--font-body); font-size: 0.9rem; opacity: 0.8; margin: 0;">Pick up from your last study session</p>
+        </div>
+        <button id="resume-chapter-btn" class="resume-continue-btn" style="font-family: var(--font-mono); font-size: 0.85rem; font-weight: 600; padding: 0.875rem 2rem; border: var(--rule-thin); border-radius: 8px; background: var(--fg); color: var(--bg); cursor: pointer; text-transform: uppercase; letter-spacing: 0.05em; min-height: 48px; white-space: nowrap;">
+          Continue
+        </button>
+      </div>
+    </div>
+  `;
 }

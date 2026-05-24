@@ -69,4 +69,49 @@ test.describe('Homepage', () => {
     await expect(page).toHaveURL(/#chapter\/200-general/);
     await expect(page.locator('#content')).toContainText('General');
   });
+
+  test('should display resume card when progress exists', async ({ page }) => {
+    // Set up progress data directly in localStorage
+    await page.addInitScript(() => {
+      localStorage.clear();
+      // Simulate progress from chapter 208 with scroll position
+      const progress = {
+        chapters: [{
+          chapterId: '208-arrests',
+          status: 'in_progress',
+          questionsAnswered: 0,
+          timeSpentSeconds: 60,
+          lastStudiedAt: new Date().toISOString(),
+          lastSectionId: 'section-04',
+          lastScrollPosition: 500
+        }],
+        streak: 1,
+        totalStudyTimeSeconds: 60
+      };
+      localStorage.setItem('nypd_progress', JSON.stringify(progress));
+    });
+
+    // Navigate home
+    await page.goto('/');
+    await page.waitForLoadState('networkidle');
+    await page.waitForTimeout(500);
+
+    // Should show the Resume card
+    const resumeCard = page.locator('.resume-card');
+    await expect(resumeCard).toBeVisible();
+
+    // Verify it mentions Chapter 208
+    await expect(page.locator('.resume-card')).toContainText('208');
+
+    // Click Continue button
+    const continueBtn = page.locator('#resume-chapter-btn');
+    await continueBtn.click();
+
+    // Should navigate back to chapter 208
+    await expect(page).toHaveURL(/#chapter\/208-arrests/);
+    await page.waitForTimeout(500);
+
+    // Verify chapter content loads
+    await expect(page.locator('#content')).toContainText('Arrests');
+  });
 });

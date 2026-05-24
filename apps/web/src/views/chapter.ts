@@ -5,6 +5,7 @@
 import { appState } from '../main';
 import { updateBreadcrumbs } from '../components/topbar';
 import { renderMarkdown } from '../utils/markdown';
+import { getProgress, updateChapterPosition } from '../state/progress';
 
 interface Chapter {
   id: string;
@@ -16,6 +17,7 @@ interface Chapter {
 }
 
 let currentTab = 'study';
+let scrollDebounceTimer: ReturnType<typeof setTimeout> | null = null;
 
 export function renderChapter(params?: { id: string }) {
   const chapterId = params?.id;
@@ -85,6 +87,67 @@ function renderStudyTab(chapter: Chapter, container: HTMLElement) {
     .join('<hr style="margin: 2rem 0; border: none; border-top: var(--rule);">');
 
   container.innerHTML += sectionsHtml;
+
+  // Restore scroll position if available
+  const progress = getProgress(chapter.id);
+  if (progress?.lastScrollPosition && progress.lastScrollPosition > 0) {
+    // Wait for images and content to fully load, then restore scroll
+    window.addEventListener(
+      'load',
+      () => {
+        window.scrollTo({ top: progress.lastScrollPosition!, behavior: 'auto' });
+      },
+      { once: true }
+    );
+
+    // Fallback in case load event already fired
+    setTimeout(() => {
+      window.scrollTo({ top: progress.lastScrollPosition!, behavior: 'auto' });
+    }, 200);
+  }
+
+  // Set up scroll tracking with debounce
+  setupScrollTracking(chapter.id, container);
+}
+
+function setupScrollTracking(chapterId: string, container: HTMLElement) {
+  // Track section navigation - find all section headings and add click handlers
+  const sectionHeadings = container.querySelectorAll('h1, h2');
+  sectionHeadings.forEach(heading => {
+    heading.addEventListener('click', () => {
+      const sectionId =
+        heading.id ||
+        heading.textContent
+          ?.toLowerCase()
+          .replace(/\s+/g, '-')
+          .replace(/[^a-z0-9-]/g, '');
+      if (sectionId) {
+        updateChapterPosition(chapterId, sectionId, window.scrollY);
+      }
+    });
+  });
+
+  // Debounced scroll position tracking
+  const handleScroll = () => {
+    if (scrollDebounceTimer) {
+      clearTimeout(scrollDebounceTimer);
+    }
+    scrollDebounceTimer = setTimeout(() => {
+      updateChapterPosition(chapterId, undefined, window.scrollY);
+    }, 250);
+  };
+
+  window.addEventListener('scroll', handleScroll, { passive: true });
+
+  // Save position on page unload (before navigating away)
+  window.addEventListener('beforeunload', () => {
+    if (scrollDebounceTimer) {
+      clearTimeout(scrollDebounceTimer);
+    }
+    updateChapterPosition(chapterId, undefined, window.scrollY);
+  });
+
+  // Clean up on navigation (handled by innerHTML replacement)
 }
 
 interface ChapterQuizState {

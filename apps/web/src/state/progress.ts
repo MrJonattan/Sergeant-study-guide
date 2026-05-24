@@ -19,6 +19,8 @@ interface ChapterProgress {
   timeSpentSeconds: number;
   lastStudiedAt?: string;
   completedAt?: string;
+  lastSectionId?: string;
+  lastScrollPosition?: number;
 }
 
 interface ProgressData {
@@ -136,6 +138,64 @@ export function getCompletedChapters(): number {
     return 0;
   }
   return data.chapters.filter(c => c.status === 'completed').length;
+}
+
+export function updateChapterPosition(
+  chapterId: string,
+  sectionId?: string,
+  scrollPosition?: number
+) {
+  const data = loadProgress();
+  if (!data || !Array.isArray(data.chapters)) {
+    return;
+  }
+  let chapter = data.chapters.find(c => c.chapterId === chapterId);
+
+  if (chapter) {
+    if (sectionId) chapter.lastSectionId = sectionId;
+    if (scrollPosition !== undefined) chapter.lastScrollPosition = scrollPosition;
+    chapter.lastStudiedAt = new Date().toISOString();
+  } else {
+    chapter = {
+      chapterId,
+      status: 'in_progress',
+      questionsAnswered: 0,
+      timeSpentSeconds: 0,
+      lastStudiedAt: new Date().toISOString(),
+      lastSectionId: sectionId,
+      lastScrollPosition: scrollPosition,
+    };
+    data.chapters.push(chapter);
+  }
+
+  saveProgress(data);
+}
+
+export function getRecentResumeChapter(): ChapterProgress | null {
+  const data = loadProgress();
+  if (!data || !Array.isArray(data.chapters)) {
+    return null;
+  }
+
+  const thirtyDaysAgo = Date.now() - 30 * 24 * 60 * 60 * 1000;
+
+  // Find chapters with lastSectionId set and recent lastStudiedAt
+  const candidates = data.chapters.filter(
+    c => c.lastSectionId && c.lastStudiedAt && new Date(c.lastStudiedAt).getTime() > thirtyDaysAgo
+  );
+
+  if (candidates.length === 0) {
+    return null;
+  }
+
+  // Sort by lastStudiedAt descending and return most recent
+  candidates.sort((a, b) => {
+    const timeA = a.lastStudiedAt ? new Date(a.lastStudiedAt).getTime() : 0;
+    const timeB = b.lastStudiedAt ? new Date(b.lastStudiedAt).getTime() : 0;
+    return timeB - timeA;
+  });
+
+  return candidates[0];
 }
 
 // ─────────────────────────────────────────────
