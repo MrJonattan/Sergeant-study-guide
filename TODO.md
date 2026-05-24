@@ -1,6 +1,6 @@
 # Study Guide Completion Checklist
 
-> **Status:** 100% complete as of 2026-04-14
+> **Status:** 28 chapters complete, 9 chapters missing, 59 procedures missing (verified 2026-05-23)
 > **Goal:** Comprehensive NYPD Sergeant Promotional Exam study guide covering all testable material
 
 ---
@@ -36,7 +36,8 @@
 
 ## Remaining Minor Gaps
 
-*None — all content gaps filled.*
+- [ ] 9 missing chapters: 203, 205, 313, 316, 321, 322, 325, 327, 328
+- [ ] 59 missing procedures (22 PG + 37 AG) — see MISSING_PROCEDURES.md
 
 ## Future Improvements
 
