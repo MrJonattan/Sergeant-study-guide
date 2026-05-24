@@ -28,4 +28,45 @@ test.describe('Homepage', () => {
     const html = page.locator('html');
     await expect(html).toHaveClass('dark');
   });
+
+  test('should display empty state CTA when no progress exists', async ({ page }) => {
+    // Clear localStorage to simulate fresh user
+    await page.addInitScript(() => {
+      localStorage.clear();
+    });
+
+    await page.goto('/');
+    await page.waitForLoadState('networkidle');
+
+    // Wait for stats grid to render (or empty state)
+    await page.waitForTimeout(500);
+
+    // Should show the "Start Chapter 200" CTA button
+    const ctaButton = page.locator('#start-chapter-cta');
+    await expect(ctaButton).toBeVisible();
+    await expect(ctaButton).toHaveText('Start Chapter 200');
+
+    // Stats grid should NOT be visible when empty
+    const statsGrid = page.locator('.stats-grid');
+    await expect(statsGrid).not.toBeVisible();
+  });
+
+  test('should navigate to Chapter 200 when CTA is clicked', async ({ page }) => {
+    // Clear localStorage to simulate fresh user
+    await page.addInitScript(() => {
+      localStorage.clear();
+    });
+
+    await page.goto('/');
+    await page.waitForLoadState('networkidle');
+    await page.waitForTimeout(500);
+
+    // Click the CTA button
+    const ctaButton = page.locator('#start-chapter-cta');
+    await ctaButton.click();
+
+    // Should navigate to chapter 200
+    await expect(page).toHaveURL(/#chapter\/200-general/);
+    await expect(page.locator('#content')).toContainText('General');
+  });
 });
