@@ -9,11 +9,8 @@ import {
   StudyData,
   Chapter,
   Section,
-  Question,
-  ExamQuestion,
   SergeantFocus,
   SergeantCategory,
-  StudyDataSchema,
 } from './types';
 import {
   parseReviewQuestions,
@@ -33,6 +30,7 @@ const DATA_VERSION = process.env.DATA_VERSION || new Date().toISOString().split(
 const CHAPTER_ORDER = [
   '200-general',
   '202-duties-responsibilities',
+  '203-ethics-and-conduct',
   '207-complaints',
   '208-arrests',
   '209-summonses',

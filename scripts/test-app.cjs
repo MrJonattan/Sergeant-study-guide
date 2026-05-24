@@ -45,7 +45,8 @@ const html = fs.readFileSync(process.argv[3], 'utf8');
 
 test('data.js has chapters array', () => {
   assert(Array.isArray(D.chapters), 'chapters is not an array');
-  assert(D.chapters.length === 28, `Expected 28 chapters, got ${D.chapters.length}`);
+  // Updated 2026-05-24: Chapter 203 (ethics-and-conduct) added per IMPROVEMENTS.md Item 1
+  assert(D.chapters.length === 29, `Expected 29 chapters, got ${D.chapters.length}`);
 });
 
 test('every chapter has required fields', () => {
