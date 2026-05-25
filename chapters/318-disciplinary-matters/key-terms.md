@@ -99,6 +99,22 @@
 | **A** | AWOL — 5 consecutive tours |
 | **R** | Roll Call / during the tour — Refuse assignment |
 
+## Orders of Protection — Firearms Restrictions (A.G. 318-15, 318-16)
+
+| Term | Definition |
+|------|-----------|
+| **'FULL DUTY' IDENTIFICATION CARD** | ID card issued to uniformed members authorized to carry firearms on and off duty; must be safeguarded at command when off-duty possession prohibited |
+| **'NO FIREARMS' IDENTIFICATION CARD** | ID card issued when off-duty firearms possession is prohibited; exchanged daily for service weapon and 'FULL DUTY' card |
+| **Order of Protection (Firearms at All Times)** | Prohibits on AND off-duty possession → member placed on modified assignment or suspended; A.G. 318-15 applies |
+| **Order of Protection (Off-Duty Only)** | Prohibits off-duty possession only → member may continue full-duty; must safeguard firearms at command; A.G. 318-16 applies |
+| **PD424-010** | ACKNOWLEDGEMENT OF RESPONSIBILITIES CONCERNING COURT ORDER LIMITING FIREARMS POSSESSION — member must complete; refusal = modified assignment |
+
+## Key Timeframes (Extended)
+
+| Item | Timeframe |
+|------|-----------|
+| Employee Resources Section reporting | 0900–1800 hours (next business day if immediate not required) |
+
 ## Suspension Authority
 
 | Actor | Authority Level | Who They Suspend |

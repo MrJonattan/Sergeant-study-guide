@@ -33,6 +33,7 @@
 | A.G. 318-06 | Suspension of UMOS | completed (covered in 318-10 file) |
 | A.G. 318-07 | Suspension of CMOS | completed (covered in 318-10 file) |
 | A.G. 318-08 | Cause for Modified Assignment | completed (covered in 318-10 file) |
+| A.G. 318-16 | Orders of Protection Prohibiting Off-Duty Firearms Possession | completed |
 
 ## Chapter Files
 

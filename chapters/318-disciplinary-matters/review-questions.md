@@ -339,3 +339,56 @@ When arrested outside the city, there is no "Duty Captain" — the Chief designa
 Loss of an ID Card, Summons, Summons Book, or Department-issued smartphone are all Schedule "A" CDs. Loss of shield, Activity Log, prisoner (failure to safeguard), or other Department property (except the "A" items) are Schedule "B" CDs. (A.G. 318-01)
 
 </details>
+
+---
+
+**21. When a uniformed member is served with an Order of Protection prohibiting off-duty firearms possession only, and continues on full-duty status, where must the member safeguard their service weapon and 'FULL DUTY' IDENTIFICATION CARD?**
+
+- A) At home in a locked safe
+- B) At the Property Clerk's Office
+- C) At their command in a designated location
+- D) At the Police Academy, Firearms and Tactics Section
+
+<details><summary>Answer</summary>
+
+**C) At their command in a designated location**
+
+The commanding officer designates a location at the member's command where the service weapon, authorized off-duty weapon (if applicable), 'FULL DUTY' IDENTIFICATION CARD, and shield are to be safeguarded while the member is off-duty. The member exchanges these items daily for a 'NO FIREARMS' IDENTIFICATION CARD. (A.G. 318-16)
+
+</details>
+
+---
+
+**22. When an Order of Protection prohibiting off-duty firearms possession is served, the member must report to the Employee Resources Section with all of the following EXCEPT:**
+
+- A) 'FULL DUTY' IDENTIFICATION CARD
+- B) Original ACKNOWLEDGEMENT OF RESPONSIBILITIES CONCERNING COURT ORDER LIMITING FIREARMS POSSESSION
+- C) Copy of the Order of Protection
+- D) Copy of PROPERTY CLERK INVOICE for vouchered firearms
+
+<details><summary>Answer</summary>
+
+**C) Copy of the Order of Protection**
+
+The member must report with: 'FULL DUTY' IDENTIFICATION CARD, original ACKNOWLEDGEMENT form (PD424-010), copy of the report prepared by CO/XO/duty captain, and copy of PROPERTY CLERK INVOICE. The Order of Protection copy is NOT required at initial reporting (but IS required when the Order expires/is vacated). (A.G. 318-16)
+
+</details>
+
+---
+
+**23. When an Order of Protection prohibiting off-duty firearms possession expires or is vacated, who must authorize the return of off-duty firearms possession?**
+
+- A) The Chief of Department
+- B) The Commanding Officer, Employee Resources Section
+- C) The court of issuance
+- D) The Internal Affairs Bureau
+
+<details><summary>Answer</summary>
+
+**B) The Commanding Officer, Employee Resources Section**
+
+The member is instructed NOT to carry any firearms while off-duty until authorization is received from the Commanding Officer, Employee Resources Section. The CO prepares a Typed Letterhead report to ERS, and ERS authorizes the return of firearms possession. (A.G. 318-16)
+
+</details>
+
+---
