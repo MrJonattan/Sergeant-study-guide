@@ -30,6 +30,7 @@ After studying this chapter, you should be able to:
 | [section-217-leaving-scene-aircraft.md](section-217-leaving-scene-aircraft.md) | 217-05, 217-06 (cross-ref), 217-08, 217-10 |
 | [section-217-darp-towing.md](section-217-darp-towing.md) | 217-09 |
 | [section-217-highways-chemical-test.md](section-217-highways-chemical-test.md) | 217-14, 217-16 |
+| [section-217-18-pedestrian-bicyclist-row.md](section-217-18-pedestrian-bicyclist-row.md) | 217-18 |
 | [key-terms.md](key-terms.md) | Definitions, forms, critical numbers |
 | [review-questions.md](review-questions.md) | 15 multiple-choice exam prep questions |
 

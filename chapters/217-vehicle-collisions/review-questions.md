@@ -477,3 +477,56 @@ Per P.G. 217-06, what is the "crossover collision" definition found in P.G. 202-
 **B)** A crossover collision is when a vehicle **strikes OR crosses over** a median, jersey barrier, etc., separating opposing traffic — it does NOT actually have to cross over anything. The A-QOL Officer/Designee faxes a copy of all PARs involving crossover collisions to **Corp Counsel AND Highway District**. *(P.G. 202-06 definition; P.G. 217-06 procedure)*
 
 </details>
+
+---
+
+### Question 29
+
+According to P.G. 217-18, which type of summons requires the officer to have personally observed the offense?
+
+- A) Civil Summons Returnable to OATH
+- B) Traffic Violations Bureau (TVB) summons
+- C) Both TVB and OATH summons require personal observation
+- D) Neither requires personal observation
+
+<details><summary>Answer</summary>
+
+**B)** A **TVB summons** requires the offense to have occurred in the officer's presence. A **Civil Summons Returnable to OATH** may be issued based on witness statements establishing probable cause, as hearsay is generally admissible in administrative court.
+
+</details>
+
+---
+
+### Question 30
+
+Under P.G. 217-18, when a witness provides a statement for a Civil Summons Returnable to OATH but refuses to sign the "Statement of Witness" section, what should the issuing officer do?
+
+- A) Cancel the summons and release the motorist
+- B) Write "REFUSED" in the witness signature caption and document all information in the digital Activity Log
+- C) Require the witness to appear at the precinct to give a sworn statement
+- D) Contact a supervisor to obtain the witness signature
+
+<details><summary>Answer</summary>
+
+**B)** The officer must write **"REFUSED"** in the caption provided for the witness signature and document **all information regarding the summons**, including the witness's contact information if provided, in the officer's **digital Activity Log**.
+
+</details>
+
+---
+
+### Question 31
+
+Per P.G. 217-18, what is the meaning of "due care" in determining whether a motorist violated Administrative Code Section 19-190(b)?
+
+- A) The highest level of care possible under any circumstances
+- B) The care that a police officer would exercise in emergency response
+- C) That care which is exercised by reasonably prudent drivers
+- D) Following all traffic signals and signs exactly as posted
+
+<details><summary>Answer</summary>
+
+**C)** **Due care** is defined as that which is exercised by **reasonably prudent drivers**. No violation has occurred if the collision/injury is not the result of the driver's failure to exercise due care.
+
+</details>
+
+---

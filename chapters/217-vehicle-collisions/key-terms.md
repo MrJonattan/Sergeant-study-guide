@@ -21,6 +21,11 @@
 | **CR-PDV** | Collision Report — Police Department Vehicle — prepared in quadruplicate; Part A (Investigating Supervisor), Part B (Review Board recommendations), Part C (C.O. approval/disapproval) | P.G. 217-06 |
 | **MV104L** | DMV form for UMOS drivers only — internal DMV use, not available to public; failure to complete is a misdemeanor and grounds for license suspension/revocation | P.G. 217-06 |
 | **Crossover Collision** | When a vehicle strikes OR crosses a median, jersey barrier, etc., separating opposing traffic — does not require actual crossover; defined in P.G. 202-06 | P.G. 202-06, 217-06 |
+| **Administrative Code Section 19-190(b)** | Motorist fails to exercise due care and violates right of way, causing physical injury to pedestrian/bicyclist | P.G. 217-18 |
+| **Administrative Code Section 19-190(a)** | Motorist fails to yield right of way to pedestrian/bicyclist (no injury required) | P.G. 217-18 |
+| **OATH** | Office of Administrative Trials and Hearings — administrative court for civil summonses; hearsay generally admissible | P.G. 217-18 |
+| **TVB** | Traffic Violations Bureau — state administrative court; requires officer personal observation for summons | P.G. 217-18 |
+| **Due Care** | That care which is exercised by reasonably prudent drivers | P.G. 217-18 |
 | **Qualifying Vehicle** | Commercial truck (GWR/CWR over 10,000 lbs), HazMat vehicle (any vehicle with HAZ MAT placard), or Bus (seating for 9 or more including driver) — requires MV104S when Condition of Severity exists | P.G. 217-01 |
 | **Condition of Severity** | Fatal (at least 1 fatal injury), Hospital/Medical Attention (at least 1 person transported for immediate care), or Tow/Transported (at least 1 vehicle towed for other than flat tire) — triggers MV104S requirement | P.G. 217-01 |
 | **MV104S** | Truck and Bus Supplemental PAR — prepared for each Qualifying Vehicle when a Condition of Severity exists; one MV104S per qualifying vehicle, attached to corresponding PAR | P.G. 217-01 |
