@@ -116,4 +116,106 @@ test.describe('Homepage', () => {
     // Verify chapter content loads
     await expect(page.locator('#content')).toContainText('Arrests');
   });
+
+  test.describe('Responsive Topbar', () => {
+    test('should display font/theme controls in topbar on desktop (≥768px)', async ({ page }) => {
+      await page.setViewportSize({ width: 1280, height: 720 });
+      await page.goto('/');
+
+      // Font controls should be visible in topbar
+      const fontDecrease = page.locator('#font-decrease');
+      const fontIncrease = page.locator('#font-increase');
+      const themeToggle = page.locator('#theme-toggle');
+
+      await expect(fontDecrease).toBeVisible();
+      await expect(fontIncrease).toBeVisible();
+      await expect(themeToggle).toBeVisible();
+
+      // Settings toggle should also be visible
+      const settingsToggle = page.locator('#settings-toggle');
+      await expect(settingsToggle).toBeVisible();
+    });
+
+    test('should hide font/theme controls in topbar on mobile (<768px)', async ({ page }) => {
+      await page.setViewportSize({ width: 375, height: 667 });
+      await page.goto('/');
+
+      // Font controls should NOT be in topbar on mobile
+      const fontDecrease = page.locator('#font-decrease');
+      const fontIncrease = page.locator('#font-increase');
+      const themeToggle = page.locator('#theme-toggle');
+
+      await expect(fontDecrease).not.toBeVisible();
+      await expect(fontIncrease).not.toBeVisible();
+      await expect(themeToggle).not.toBeVisible();
+
+      // Settings toggle should still be visible (opens sidebar)
+      const settingsToggle = page.locator('#settings-toggle');
+      await expect(settingsToggle).toBeVisible();
+    });
+
+    test('should display display controls in sidebar on mobile', async ({ page }) => {
+      await page.setViewportSize({ width: 375, height: 667 });
+      await page.goto('/');
+
+      // Open sidebar
+      const menuToggle = page.locator('#menu-toggle');
+      await menuToggle.click();
+      await page.waitForTimeout(300);
+
+      // Display controls should be visible in sidebar
+      const sidebarFontDecrease = page.locator('#sidebar-font-decrease');
+      const sidebarFontIncrease = page.locator('#sidebar-font-increase');
+      const sidebarThemeToggle = page.locator('#sidebar-theme-toggle');
+
+      await expect(sidebarFontDecrease).toBeVisible();
+      await expect(sidebarFontIncrease).toBeVisible();
+      await expect(sidebarThemeToggle).toBeVisible();
+    });
+
+    test('should truncate breadcrumbs with ellipsis on mobile', async ({ page }) => {
+      await page.setViewportSize({ width: 375, height: 667 });
+      await page.goto('/');
+
+      const breadcrumbs = page.locator('#breadcrumbs');
+      await expect(breadcrumbs).toBeVisible();
+
+      // Check that breadcrumb has truncation styles applied
+      const breadcrumbStyle = await breadcrumbs.evaluate((el) => {
+        const computed = window.getComputedStyle(el);
+        return {
+          whiteSpace: computed.whiteSpace,
+          textOverflow: computed.textOverflow,
+          overflow: computed.overflow,
+        };
+      });
+
+      expect(breadcrumbStyle.whiteSpace).toBe('nowrap');
+      expect(breadcrumbStyle.textOverflow).toBe('ellipsis');
+      expect(breadcrumbStyle.overflow).toBe('hidden');
+    });
+
+    test('should re-render controls when resizing desktop → mobile', async ({ page }) => {
+      // Start at desktop
+      await page.setViewportSize({ width: 1280, height: 720 });
+      await page.goto('/');
+
+      // Font controls visible in topbar
+      await expect(page.locator('#font-decrease')).toBeVisible();
+
+      // Resize to mobile
+      await page.setViewportSize({ width: 375, height: 667 });
+      await page.waitForTimeout(200);
+
+      // Font controls should disappear from topbar
+      await expect(page.locator('#font-decrease')).not.toBeVisible();
+
+      // Open sidebar and check controls are there
+      const menuToggle = page.locator('#menu-toggle');
+      await menuToggle.click();
+      await page.waitForTimeout(300);
+
+      await expect(page.locator('#sidebar-font-decrease')).toBeVisible();
+    });
+  });
 });

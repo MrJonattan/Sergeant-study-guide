@@ -33,7 +33,8 @@ function applyFontScale(scale: number) {
 }
 
 function adjustFontScale(delta: number) {
-  const currentScale = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--font-scale')) || 1.0;
+  const currentScale =
+    parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--font-scale')) || 1.0;
   const newScale = Math.max(MIN_SCALE, Math.min(MAX_SCALE, currentScale + delta));
   applyFontScale(newScale);
 }
@@ -41,4 +42,9 @@ function adjustFontScale(delta: number) {
 export function getFontScale(): number {
   const scale = localStorage.getItem(FONT_SCALE_KEY);
   return scale ? parseFloat(scale) : 1.0;
+}
+
+export function setFontScale(scale: number) {
+  const clampedScale = Math.max(MIN_SCALE, Math.min(MAX_SCALE, scale));
+  applyFontScale(clampedScale);
 }

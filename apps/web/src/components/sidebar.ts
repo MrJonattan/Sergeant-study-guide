@@ -4,6 +4,8 @@
 
 import { navigateTo } from '../utils/router';
 import { getProgress, markChapterComplete } from '../state/progress';
+import { getFontScale, setFontScale } from '../utils/font-scale';
+import { toggleTheme } from '../utils/theme';
 
 interface Chapter {
   id: string;
@@ -101,6 +103,53 @@ function renderToolsNav() {
       }
     });
   });
+
+  // Add Display section (mobile only - hidden on desktop via CSS)
+  renderDisplaySection();
+}
+
+function renderDisplaySection() {
+  const nav = document.getElementById('nav-tools');
+  if (!nav) return;
+
+  const displaySection = document.createElement('div');
+  displaySection.className = 'nav-section display-section';
+  displaySection.innerHTML = `
+    <div class="nav-section-title">Display</div>
+    <div class="nav-item display-controls">
+      <button class="icon-btn" id="sidebar-font-decrease" aria-label="Decrease font">A-</button>
+      <button class="icon-btn" id="sidebar-font-increase" aria-label="Increase font">A+</button>
+      <button class="icon-btn" id="sidebar-theme-toggle" aria-label="Toggle dark mode">◑</button>
+    </div>
+  `;
+  nav.appendChild(displaySection);
+
+  // Attach handlers for font/theme controls
+  const fontDecreaseBtn = document.getElementById('sidebar-font-decrease');
+  const fontIncreaseBtn = document.getElementById('sidebar-font-increase');
+  const themeToggleBtn = document.getElementById('sidebar-theme-toggle');
+
+  if (fontDecreaseBtn) {
+    fontDecreaseBtn.addEventListener('click', () => {
+      const currentScale = getFontScale();
+      const newScale = Math.max(0.8, currentScale - 0.1);
+      setFontScale(newScale);
+    });
+  }
+
+  if (fontIncreaseBtn) {
+    fontIncreaseBtn.addEventListener('click', () => {
+      const currentScale = getFontScale();
+      const newScale = Math.min(1.4, currentScale + 0.1);
+      setFontScale(newScale);
+    });
+  }
+
+  if (themeToggleBtn) {
+    themeToggleBtn.addEventListener('click', () => {
+      toggleTheme();
+    });
+  }
 }
 
 function updateSidebarActive(activeId: string) {
