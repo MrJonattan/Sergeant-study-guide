@@ -45,6 +45,7 @@ export function renderChapter(params?: { id: string }) {
 
     <div class="tab-bar">
       <div class="tab ${currentTab === 'study' ? 'active' : ''}" data-tab="study">Study</div>
+      <div class="tab ${currentTab === 'quick-quiz' ? 'active' : ''}" data-tab="quick-quiz">Quick Quiz</div>
       <div class="tab ${currentTab === 'quiz' ? 'active' : ''}" data-tab="quiz">Quiz</div>
       <div class="tab ${currentTab === 'terms' ? 'active' : ''}" data-tab="terms">Key Terms</div>
     </div>
@@ -66,6 +67,9 @@ export function renderChapter(params?: { id: string }) {
     switch (currentTab) {
       case 'study':
         renderStudyTab(chapter, chapterBody);
+        break;
+      case 'quick-quiz':
+        renderQuickQuizTab(chapter, chapterBody);
         break;
       case 'quiz':
         renderQuizTab(chapter, chapterBody);
@@ -200,6 +204,80 @@ function renderQuizTab(chapter: Chapter, container: HTMLElement) {
   `;
 
   renderChapterQuestion();
+}
+
+/**
+ * Get 10 random MC questions from the chapter
+ * Only includes multiple-choice questions with options and answer
+ */
+function getQuickQuizQuestions(chapter: Chapter, count: number): Chapter['questions'] {
+  const mcQuestions = chapter.questions.filter(
+    q => q.type === 'mc' && q.options && q.options.length > 0 && q.answer
+  );
+
+  // If fewer than count questions, use all available
+  const actualCount = Math.min(count, mcQuestions.length);
+  const shuffled = mcQuestions.sort(() => Math.random() - 0.5);
+  return shuffled.slice(0, actualCount);
+}
+
+let quickQuizState: ChapterQuizState | null = null;
+
+function renderQuickQuizTab(chapter: Chapter, container: HTMLElement) {
+  if (!chapter.questions || chapter.questions.length === 0) {
+    container.innerHTML = '<p>No practice questions available for this chapter.</p>';
+    return;
+  }
+
+  const mcQuestions = chapter.questions.filter(
+    q => q.type === 'mc' && q.options && q.options.length > 0 && q.answer
+  );
+
+  if (mcQuestions.length === 0) {
+    container.innerHTML = '<p>No multiple-choice questions available for this chapter.</p>';
+    return;
+  }
+
+  if (!quickQuizState) {
+    // Initialize quiz with 10 random questions
+    const questions = getQuickQuizQuestions(chapter, 10);
+    quickQuizState = {
+      questions,
+      currentIndex: 0,
+      answers: [],
+      selectedAnswer: null,
+      showResults: false,
+      score: 0,
+      chapterId: chapter.id,
+      chapterTitle: chapter.title,
+    };
+  }
+
+  const questionCount = quickQuizState.questions.length;
+  const subtitle =
+    questionCount < 10
+      ? `${questionCount} questions (all available MC questions)`
+      : `${questionCount} questions`;
+
+  container.innerHTML = `
+    <div class="quiz-container">
+      <div class="quiz-header">
+        <h2>${chapter.title} - Quick Quiz</h2>
+        <p class="quiz-subtitle">${subtitle}</p>
+      </div>
+
+      <div class="quiz-progress">
+        <div class="quiz-progress-bar">
+          <div class="quiz-progress-fill" style="width: ${100 / questionCount}%"></div>
+        </div>
+        <span class="quiz-progress-text">Question 1 of ${questionCount}</span>
+      </div>
+
+      <div id="chapter-quick-quiz-body"></div>
+    </div>
+  `;
+
+  renderQuickQuizQuestion();
 }
 
 function renderChapterQuestion() {
@@ -372,6 +450,186 @@ function showChapterResults() {
   document.getElementById('back-study')?.addEventListener('click', () => {
     currentTab = 'study';
     const chapter = appState.data?.chapters.find((c: Chapter) => c.id === quizState?.chapterId);
+    if (chapter) {
+      renderChapter({ id: chapter.id });
+    }
+  });
+}
+
+// ─────────────────────────────────────────────
+// Quick Quiz Tab Functions
+// ─────────────────────────────────────────────
+
+function renderQuickQuizQuestion() {
+  const quizBody = document.getElementById('chapter-quick-quiz-body');
+  if (!quizBody || !quickQuizState) return;
+
+  const question = quickQuizState.questions[quickQuizState.currentIndex];
+  const progress = ((quickQuizState.currentIndex + 1) / quickQuizState.questions.length) * 100;
+
+  // Update progress bar
+  const progressFill = document.querySelector('.quiz-progress-fill') as HTMLElement;
+  const progressText = document.querySelector('.quiz-progress-text') as HTMLElement;
+  if (progressFill) progressFill.style.width = `${progress}%`;
+  if (progressText)
+    progressText.textContent = `Question ${quickQuizState.currentIndex + 1} of ${quickQuizState.questions.length}`;
+
+  quizBody.innerHTML = `
+    <div class="quiz-question-card">
+      <div class="question-number">Question ${quickQuizState.currentIndex + 1}</div>
+      <p class="question-text">${question.text}</p>
+
+      <div class="quiz-options">
+        ${
+          question.options
+            ?.map(
+              (option, idx) => `
+          <button
+            class="quiz-option ${quickQuizState!.selectedAnswer === idx ? 'selected' : ''}"
+            data-index="${idx}"
+          >
+            <span class="quiz-option-letter">${String.fromCharCode(65 + idx)}</span>
+            <span class="quiz-option-text">${option}</span>
+          </button>
+        `
+            )
+            .join('') || '<p>No options available</p>'
+        }
+      </div>
+
+      <div class="quiz-actions">
+        <button
+          class="quiz-btn quiz-btn-submit"
+          id="submit-quick-quiz-answer"
+          ${quickQuizState.selectedAnswer === null ? 'disabled' : ''}
+        >
+          Submit Answer
+        </button>
+      </div>
+    </div>
+  `;
+
+  // Add event listeners
+  quizBody.querySelectorAll('.quiz-option').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const idx = parseInt(btn.getAttribute('data-index') || '0');
+      quickQuizState!.selectedAnswer = idx;
+      renderQuickQuizQuestion();
+    });
+  });
+
+  const submitBtn = document.getElementById('submit-quick-quiz-answer');
+  submitBtn?.addEventListener('click', submitQuickQuizAnswer);
+}
+
+function submitQuickQuizAnswer() {
+  if (!quickQuizState || quickQuizState.selectedAnswer === null) return;
+
+  const question = quickQuizState.questions[quickQuizState.currentIndex];
+  const correctIndex = question.answer ? question.answer.charCodeAt(0) - 65 : -1;
+  const isCorrect = quickQuizState.selectedAnswer === correctIndex;
+
+  quickQuizState.answers.push(quickQuizState.selectedAnswer);
+
+  if (isCorrect) {
+    quickQuizState.score++;
+  }
+
+  // Move to next question or show results
+  quickQuizState.currentIndex++;
+  quickQuizState.selectedAnswer = null;
+
+  if (quickQuizState.currentIndex >= quickQuizState.questions.length) {
+    showQuickQuizResults();
+  } else {
+    renderQuickQuizQuestion();
+  }
+}
+
+function showQuickQuizResults() {
+  const quizBody = document.getElementById('chapter-quick-quiz-body');
+  if (!quizBody || !quickQuizState) return;
+
+  const percentage = Math.round((quickQuizState.score / quickQuizState.questions.length) * 100);
+  const passed = percentage >= 70;
+
+  quizBody.innerHTML = `
+    <div class="quiz-results-card">
+      <div class="results-header ${passed ? 'passed' : 'failed'}">
+        <div class="results-icon">${passed ? '✓' : '!'}</div>
+        <h2>${passed ? 'Great Job!' : 'Keep Studying'}</h2>
+      </div>
+
+      <div class="results-stats">
+        <div class="result-stat">
+          <div class="stat-value">${quickQuizState.score}/${quickQuizState.questions.length}</div>
+          <div class="stat-label">Correct Answers</div>
+        </div>
+        <div class="result-stat">
+          <div class="stat-value">${percentage}%</div>
+          <div class="stat-label">Score</div>
+        </div>
+      </div>
+
+      <div class="results-review">
+        <h3>Review Answers</h3>
+        ${quickQuizState.questions
+          .map((q, idx) => {
+            const userAnswer = quickQuizState!.answers[idx];
+            const correctIndex = q.answer ? q.answer.charCodeAt(0) - 65 : -1;
+            const isCorrect = userAnswer === correctIndex;
+            return `
+            <div class="review-item ${isCorrect ? 'correct' : 'incorrect'}">
+              <div class="review-indicator">${isCorrect ? '✓' : '✗'}</div>
+              <div class="review-content">
+                <p class="review-question">${q.text}</p>
+                <p class="review-answer">
+                  Your answer: <strong>${userAnswer !== null && q.options ? q.options[userAnswer] : 'No answer'}</strong>
+                  ${!isCorrect ? `<br>Correct answer: <strong>${q.options ? q.options[correctIndex] : 'N/A'}</strong>` : ''}
+                </p>
+              </div>
+            </div>
+          `;
+          })
+          .join('')}
+      </div>
+
+      <div class="quiz-actions">
+        <button class="quiz-btn quiz-btn-primary" id="retry-quick-quiz">
+          Take Again
+        </button>
+        <button class="quiz-btn" id="back-study-quick">
+          Back to Study
+        </button>
+      </div>
+    </div>
+  `;
+
+  // Save quiz score with attemptType: quick-quiz-chapter
+  import('../state/progress').then(({ updateQuizScore }) => {
+    updateQuizScore(
+      quickQuizState.chapterId,
+      percentage,
+      quickQuizState.questions.length,
+      'quick-quiz-chapter'
+    );
+  });
+
+  // Add event listeners
+  document.getElementById('retry-quick-quiz')?.addEventListener('click', () => {
+    const chapterId = quickQuizState?.chapterId;
+    quickQuizState = null;
+    const chapter = appState.data?.chapters.find((c: Chapter) => c.id === chapterId);
+    if (chapter) {
+      renderQuickQuizTab(chapter, document.getElementById('chapter-body')!);
+    }
+  });
+
+  document.getElementById('back-study-quick')?.addEventListener('click', () => {
+    currentTab = 'study';
+    const chapter = appState.data?.chapters.find(
+      (c: Chapter) => c.id === quickQuizState?.chapterId
+    );
     if (chapter) {
       renderChapter({ id: chapter.id });
     }

@@ -103,10 +103,11 @@ Open: `docs/index.html`
 
 ### Chapters View
 - **Study Tab** — Full chapter content with callouts
+- **Quick Quiz Tab** — 10 random MC questions for fast practice
+- **Quiz Tab** — Sequential chapter questions (full set)
 - **Key Terms Tab** — Vocabulary tables
-- **Flashcards Tab** — Auto-generated from key terms
-- **Quiz Tab** — Chapter-specific questions
-- **Review Tab** — Open-ended questions
+
+**Flashcards** — Access via the dedicated Flashcards view (#flashcards), not from chapter view
 
 ### Practice Exam
 - **Full Exam** — 140 questions (simulates real exam)

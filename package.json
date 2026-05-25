@@ -18,7 +18,7 @@
     "build:pdf": "bash scripts/build-pdf.sh",
     "build:flutter": "node scripts/convert-data-flutter.js",
     "test": "node scripts/validate-data.js",
-    "test:unit": "node scripts/test-app.js build/data.js apps/web/dist/index.html",
+    "test:unit": "node scripts/test-app.cjs build/data.js apps/web/dist/index.html",
     "test:e2e": "playwright test",
     "test:coverage": "node scripts/audit-coverage.js",
     "test:all": "npm run test:unit && npm run test:e2e && npm run test:coverage",

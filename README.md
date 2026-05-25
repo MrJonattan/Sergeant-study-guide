@@ -55,7 +55,7 @@ This project converts the NYPD's 1,600-page Patrol Guide into a structured, sear
 
 The web app is a single HTML file (`src/index.html`, ~1,660 lines) with no external dependencies beyond Google Fonts. It includes:
 
-- **Chapter browser** — Navigate 28 chapters with sidebar, tabs for Study/Key Terms/Quiz/Flashcards
+- **Chapter browser** — Navigate 29 chapters with sidebar, tabs for Study/Quick Quiz/Quiz/Key Terms
 - **Custom markdown renderer** — Converts chapter markdown to styled HTML with callout detection
 - **Quiz engine** — Per-chapter multiple-choice quizzes with immediate feedback, scoring, and shuffle mode
 - **Practice exam** — Full 140-question timed exam simulating test conditions, with results breakdown

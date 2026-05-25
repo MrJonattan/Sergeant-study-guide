@@ -8,7 +8,7 @@ interface QuizAttempt {
   correctAnswers: number;
   totalQuestions: number;
   timestamp: string;
-  attemptType?: 'regular' | 'sergeant-focus' | 'diagnostic';
+  attemptType?: 'regular' | 'sergeant-focus' | 'diagnostic' | 'quick-quiz-chapter';
 }
 
 interface ChapterProgress {
@@ -88,7 +88,7 @@ export function updateQuizScore(
   chapterId: string,
   score: number,
   totalQuestions: number,
-  attemptType?: 'regular' | 'sergeant-focus'
+  attemptType?: 'regular' | 'sergeant-focus' | 'diagnostic' | 'quick-quiz-chapter'
 ) {
   const data = loadProgress();
   if (!data || !Array.isArray(data.chapters)) {
