@@ -156,3 +156,26 @@
 |---------------|-----------|
 | Questions on **Law** | Legal Bureau |
 | Questions on **Procedure** | Department Advocate |
+
+## Ordered Breath Testing (A.G. 318-29)
+
+| Term | Definition |
+|------|-----------|
+| **Ordered Breath Testing** | Breath testing mandated as part of negotiated disciplinary penalty for uniformed members |
+| **PBT** | Portable Breath Test — hand-held device used for initial screening |
+| **Intoxilyzer** | Evidentiary breath testing device operated by I.D.T.U. technician |
+| **I.D.T.U.** | Impaired Driving Testing Training Unit — Highway District unit that conducts Intoxilyzer tests |
+| **Negotiated Settlement** | Disciplinary agreement in which member agrees to submit to ordered breath testing during probationary period |
+| **Indicia of Intoxication** | Observable signs of intoxication detected through sight, hearing, and smell |
+
+## Key Timeframes (Ordered Breath Testing)
+
+| Item | Timeframe |
+|------|-----------|
+| **Quarterly testing periods** | Q1 (Jan–Mar), Q2 (Apr–Jun), Q3 (Jul–Sep), Q4 (Oct–Dec) |
+| **Minimum off-duty tests per year** | 1 |
+| **Off-duty home visit hours** | 0900–2100 hours (including weekends) |
+| **Observation period before test** | 20 minutes |
+| **BAC < .02** | No further action if no indicia of intoxication |
+| **BAC ≥ .02** | Highway I.D.T.U. notified for Intoxilyzer test |
+| **BAC ≥ .04** | Presumption of unfit for duty |

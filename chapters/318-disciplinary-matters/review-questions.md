@@ -392,3 +392,54 @@ The member is instructed NOT to carry any firearms while off-duty until authoriz
 </details>
 
 ---
+
+**24. Under A.G. 318-29, a blood alcohol concentration of .04 or greater on the Intoxilyzer creates:**
+
+- A) Grounds for immediate suspension
+- B) A presumption of lack of fitness for duty
+- C) Automatic termination proceedings
+- D) A requirement for inpatient counseling
+
+<details><summary>Answer</summary>
+
+**B) A presumption of lack of fitness for duty**
+
+A blood alcohol level of .04 or greater on the Intoxilyzer creates a presumption of lack of fitness for duty. The supervisor evaluates unfitness considering the Intoxilyzer reading along with related indicia of intoxication. (A.G. 318-29)
+
+</details>
+
+---
+
+**25. Before conducting a PBT or Intoxilyzer test, the supervisor must observe the member for how long to ensure no activities that may skew results?**
+
+- A) 10 minutes
+- B) 15 minutes
+- C) 20 minutes
+- D) 30 minutes
+
+<details><summary>Answer</summary>
+
+**C) 20 minutes**
+
+The supervisor must observe the member for at least 20 minutes prior to the test to ensure no activities that may skew results (eating, drinking, smoking, vomiting, regurgitating, belching). This applies to both PBT and Intoxilyzer tests. (A.G. 318-29)
+
+</details>
+
+---
+
+**26. During an off-duty ordered breath testing home visit, if the member does not answer the door, the supervisor should:**
+
+- A) Enter the residence to conduct the test
+- B) Leave a Notification Card and attempt alternative contact means
+- C) Return during the next on-duty period
+- D) Consider the test refused and report for termination
+
+<details><summary>Answer</summary>
+
+**B) Leave a Notification Card and attempt alternative contact means**
+
+If the member does not answer the door during an off-duty home visit, the supervisor leaves a Notification Card under the door with instructions to contact the supervisor immediately upon receipt, and attempts alternative contact means. Attempts to evade contact may result in disciplinary action up to termination. (A.G. 318-29)
+
+</details>
+
+---
