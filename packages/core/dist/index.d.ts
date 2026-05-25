@@ -7,3 +7,4 @@ export * from './types';
 export { parseReviewQuestions, parsePracticeExam, extractSergeantFocus, cleanReadme, parseSectionFile, } from './parser';
 export { build } from './builder';
 export type { BuildOptions } from './builder';
+export * from './scheduler';

@@ -10,6 +10,8 @@ import {
   getRecentResumeChapter,
   hasCompletedDiagnostic,
 } from '../state/progress';
+import { getTodayPlan, isDailyPlanComplete } from '../state/schedule';
+import { getChapterInfo } from '../utils/scheduler';
 import { updateBreadcrumbs } from '../components/topbar';
 
 // Detect touch devices using CSS media query
@@ -33,6 +35,12 @@ export function renderHome() {
   const resumeChapter = getRecentResumeChapter();
   const resumeCard = resumeChapter ? renderResumeCard(resumeChapter) : '';
 
+  // Today's plan card (if exam date is set)
+  const todayPlan = getTodayPlan();
+  const today = new Date().toISOString().split('T')[0];
+  const todayComplete = isDailyPlanComplete(today);
+  const todaysPlanCard = todayPlan ? renderTodaysPlanCard(todayPlan, todayComplete) : '';
+
   // Diagnostic prompt (shown if no resume card and diagnostic not completed)
   const diagnosticPrompt = !resumeCard && !hasCompletedDiagnostic() ? renderDiagnosticPrompt() : '';
 
@@ -41,6 +49,7 @@ export function renderHome() {
     !resumeCard && !diagnosticPrompt && streak === 0 && completed === 0 && totalTime === 0;
 
   content.innerHTML = `
+    ${todaysPlanCard}
     ${resumeCard}
     ${diagnosticPrompt}
     ${isEmptyDashboard ? renderEmptyStateCTA() : renderStatsGrid(streak, completed, totalChapters, hours, minutes)}
@@ -112,6 +121,18 @@ export function renderHome() {
     diagnosticSkipBtn.addEventListener('click', () => {
       import('../state/progress').then(({ skipDiagnostic }) => {
         skipDiagnostic();
+        renderHome();
+      });
+    });
+  }
+
+  // Add handler for Today's Plan complete button
+  const planCompleteBtn = content.querySelector('.plan-complete-btn');
+  if (planCompleteBtn) {
+    planCompleteBtn.addEventListener('click', () => {
+      import('../state/schedule').then(({ markDailyPlanComplete }) => {
+        const today = new Date().toISOString().split('T')[0];
+        markDailyPlanComplete(today);
         renderHome();
       });
     });
@@ -220,6 +241,51 @@ function renderDiagnosticPrompt(): string {
             Skip
           </button>
         </div>
+      </div>
+    </div>
+  `;
+}
+
+function renderTodaysPlanCard(
+  plan: ReturnType<typeof getTodayPlan>,
+  isComplete: boolean
+): string {
+  const chapterInfos = plan?.newChapters.map(id => {
+    const info = getChapterInfo(id);
+    if (!info) return null;
+    return {
+      id,
+      displayName: id.replace(/-/g, ' ').toUpperCase(),
+      estHours: info.estHours,
+    };
+  }).filter(Boolean) as Array<{ id: string; displayName: string; estHours: number }>;
+
+  const totalHours = chapterInfos?.reduce((sum, c) => sum + c.estHours, 0) || 0;
+
+  return `
+    <div class="daily-plan-card ${isComplete ? 'complete' : ''}" style="border: 2px solid ${isComplete ? 'var(--callout-memory-border)' : 'var(--fg)'}; border-radius: 12px; padding: 1.5rem 2rem; background: ${isComplete ? 'var(--callout-memory-bg)' : 'var(--bg-muted)'}; margin: 1.5rem 0;">
+      <div style="display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap;">
+        <div style="flex: 1; min-width: 200px;">
+          <div style="font-family: var(--font-mono); font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; opacity: 0.7; margin-bottom: 0.5rem;">
+            ${isComplete ? '✓ Completed' : "Today's Plan"} — ${new Date().toLocaleDateString(undefined, { weekday: 'long', month: 'short', day: 'numeric' })}
+          </div>
+          <h2 style="font-family: var(--font-display); font-size: 1.25rem; margin: 0 0 0.25rem 0;">
+            ${plan?.focus || 'Study Day'}
+          </h2>
+          <p style="font-family: var(--font-body); font-size: 0.9rem; opacity: 0.8; margin: 0.5rem 0;">
+            ${chapterInfos?.length > 0
+              ? `📖 ${chapterInfos.map(c => c.displayName).join(', ')} • ⏱️ ${totalHours}h estimated`
+              : plan?.isSundayReview
+                ? '🔄 Weekly review and catch-up day'
+                : '📝 Review quiz and flashcards'
+            }
+          </p>
+        </div>
+        ${!isComplete ? `
+          <button class="plan-complete-btn" style="font-family: var(--font-mono); font-size: 0.85rem; font-weight: 600; padding: 0.875rem 2rem; border: var(--rule-thin); border-radius: 8px; background: var(--callout-memory-bg); color: var(--callout-memory-border); cursor: pointer; text-transform: uppercase; letter-spacing: 0.05em; min-height: 48px; white-space: nowrap;">
+            ✓ Mark Complete
+          </button>
+        ` : ''}
       </div>
     </div>
   `;

@@ -19,3 +19,6 @@ export {
 // Export builder
 export { build } from './builder';
 export type { BuildOptions } from './builder';
+
+// Export scheduler
+export * from './scheduler';

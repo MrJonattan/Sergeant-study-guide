@@ -18,6 +18,7 @@ import { renderSergeantFocus } from './views/sergeant-focus';
 import { renderWeakAreas } from './views/weak-areas';
 import { renderSearch } from './views/search';
 import { renderDiagnostic } from './views/diagnostic';
+import { renderSchedule } from './views/schedule';
 import { loadStudyData } from './utils/data-loader';
 import {
   renderErrorRecovery,
@@ -42,6 +43,7 @@ const routes = {
   weak: renderWeakAreas,
   search: renderSearch,
   diagnostic: renderDiagnostic,
+  schedule: renderSchedule,
 };
 
 // ─────────────────────────────────────────────
