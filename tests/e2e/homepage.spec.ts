@@ -11,13 +11,13 @@ test.describe('Homepage', () => {
   test('should display all chapters in sidebar', async ({ page }) => {
     await page.goto('/');
     const chapterItems = page.locator('#nav-chapters .nav-item');
-    await expect(chapterItems).toHaveCount(28);
+    await expect(chapterItems).toHaveCount(29);
   });
 
   test('should display tools navigation', async ({ page }) => {
     await page.goto('/');
     const toolItems = page.locator('#nav-tools .nav-item');
-    await expect(toolItems).toHaveCount(7); // Home, Cheat Sheet, Sergeant, Flashcards, Quiz, Exam, Weak
+    await expect(toolItems).toHaveCount(8); // Home, Cheat Sheet, Sergeant, Diagnostic, Flashcards, Quiz, Exam, Weak
   });
 
   test('should toggle dark mode', async ({ page }) => {
@@ -30,9 +30,10 @@ test.describe('Homepage', () => {
   });
 
   test('should display empty state CTA when no progress exists', async ({ page }) => {
-    // Clear localStorage to simulate fresh user
+    // Clear localStorage and mark diagnostic as completed to show empty state
     await page.addInitScript(() => {
       localStorage.clear();
+      localStorage.setItem('nypd_diagnostic_completed_at', new Date().toISOString());
     });
 
     await page.goto('/');
@@ -52,9 +53,10 @@ test.describe('Homepage', () => {
   });
 
   test('should navigate to Chapter 200 when CTA is clicked', async ({ page }) => {
-    // Clear localStorage to simulate fresh user
+    // Clear localStorage and mark diagnostic as completed to show empty state
     await page.addInitScript(() => {
       localStorage.clear();
+      localStorage.setItem('nypd_diagnostic_completed_at', new Date().toISOString());
     });
 
     await page.goto('/');

@@ -153,6 +153,25 @@ test('sergeantFocus chapters have questions for quiz', () => {
   assert(totalQuestions >= 15, `Need at least 15 questions for quiz, got ${totalQuestions}`);
 });
 
+// ─── Diagnostic Test Tests ───
+
+test('diagnostic test has enough MC questions for 30-question selection', () => {
+  let mcQuestions = 0;
+  D.chapters.forEach(ch => {
+    ch.questions.forEach(q => {
+      if (q.type === 'mc' && q.options && q.options.length > 0 && q.answer) {
+        mcQuestions++;
+      }
+    });
+  });
+  assert(mcQuestions >= 30, `Need at least 30 MC questions for diagnostic, got ${mcQuestions}`);
+});
+
+test('questions are distributed across chapters for diagnostic', () => {
+  const chaptersWithQuestions = D.chapters.filter(ch => ch.questions && ch.questions.length > 0);
+  assert(chaptersWithQuestions.length >= 20, `Need questions from at least 20 chapters, got ${chaptersWithQuestions.length}`);
+});
+
 // ─── Enrichment Tests ───
 
 test('enriched chapters have Key callouts in content', () => {

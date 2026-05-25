@@ -8,7 +8,7 @@ interface QuizAttempt {
   correctAnswers: number;
   totalQuestions: number;
   timestamp: string;
-  attemptType?: 'regular' | 'sergeant-focus';
+  attemptType?: 'regular' | 'sergeant-focus' | 'diagnostic';
 }
 
 interface ChapterProgress {
@@ -278,6 +278,55 @@ export function updateFlashcardProgress(cardId: string, stage: number) {
     nextReview: interval > 0 ? Date.now() + interval : undefined,
     lastReview: Date.now(),
     correctCount: existing.correctCount + (newStage > existing.stage ? 1 : 0),
+    totalAttempts: existing.totalAttempts + 1,
+  };
+
+  saveFlashcardProgress(data);
+}
+
+// ─────────────────────────────────────────────
+// Diagnostic Test State
+// ─────────────────────────────────────────────
+
+const DIAGNOSTIC_KEY = 'nypd_diagnostic_completed_at';
+
+export function hasCompletedDiagnostic(): boolean {
+  const completedAt = localStorage.getItem(DIAGNOSTIC_KEY);
+  return !!completedAt;
+}
+
+export function setDiagnosticCompleted() {
+  localStorage.setItem(DIAGNOSTIC_KEY, new Date().toISOString());
+}
+
+export function skipDiagnostic() {
+  // Set a flag to suppress auto-prompt, but allow retake
+  localStorage.setItem(DIAGNOSTIC_KEY, new Date().toISOString());
+}
+
+/**
+ * Place flashcard in Leitner box based on diagnostic performance
+ * Correct answer → Box 2 (1 day review)
+ * Wrong answer → Box 1 (immediate review)
+ */
+export function placeFlashcardFromDiagnostic(cardId: string, isCorrect: boolean) {
+  const data = loadFlashcardProgress();
+
+  const existing = data.cards[cardId] || {
+    stage: 1,
+    correctCount: 0,
+    totalAttempts: 0,
+  };
+
+  // Correct → Box 2, Wrong → Box 1
+  const newStage = isCorrect ? 2 : 1;
+  const interval = LEITNER_INTERVALS[newStage];
+
+  data.cards[cardId] = {
+    stage: newStage,
+    nextReview: interval > 0 ? Date.now() + interval : undefined,
+    lastReview: Date.now(),
+    correctCount: existing.correctCount + (isCorrect ? 1 : 0),
     totalAttempts: existing.totalAttempts + 1,
   };
 

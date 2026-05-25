@@ -8,6 +8,7 @@ import {
   getTotalStudyTime,
   getCompletedChapters,
   getRecentResumeChapter,
+  hasCompletedDiagnostic,
 } from '../state/progress';
 import { updateBreadcrumbs } from '../components/topbar';
 
@@ -28,15 +29,20 @@ export function renderHome() {
   const hours = Math.floor(totalTime / 3600);
   const minutes = Math.floor((totalTime % 3600) / 60);
 
-  // Find chapter to resume (takes precedence over empty-state CTA)
+  // Find chapter to resume (takes precedence over everything)
   const resumeChapter = getRecentResumeChapter();
   const resumeCard = resumeChapter ? renderResumeCard(resumeChapter) : '';
 
-  // Check if dashboard is empty (no progress yet) - only if no resume card
-  const isEmptyDashboard = !resumeCard && streak === 0 && completed === 0 && totalTime === 0;
+  // Diagnostic prompt (shown if no resume card and diagnostic not completed)
+  const diagnosticPrompt = !resumeCard && !hasCompletedDiagnostic() ? renderDiagnosticPrompt() : '';
+
+  // Check if dashboard is empty (no progress yet) - only if no resume card and no diagnostic prompt
+  const isEmptyDashboard =
+    !resumeCard && !diagnosticPrompt && streak === 0 && completed === 0 && totalTime === 0;
 
   content.innerHTML = `
     ${resumeCard}
+    ${diagnosticPrompt}
     ${isEmptyDashboard ? renderEmptyStateCTA() : renderStatsGrid(streak, completed, totalChapters, hours, minutes)}
 
     <div class="card search-quick-card" style="cursor: pointer;" data-navigate="search">
@@ -90,6 +96,24 @@ export function renderHome() {
       if (resumeChapter) {
         window.location.hash = `chapter/${resumeChapter.chapterId}`;
       }
+    });
+  }
+
+  // Add handler for Diagnostic buttons if present
+  const diagnosticTakeBtn = content.querySelector('#diagnostic-take-btn');
+  if (diagnosticTakeBtn) {
+    diagnosticTakeBtn.addEventListener('click', () => {
+      window.location.hash = 'diagnostic';
+    });
+  }
+
+  const diagnosticSkipBtn = content.querySelector('#diagnostic-skip-btn');
+  if (diagnosticSkipBtn) {
+    diagnosticSkipBtn.addEventListener('click', () => {
+      import('../state/progress').then(({ skipDiagnostic }) => {
+        skipDiagnostic();
+        renderHome();
+      });
     });
   }
 }
@@ -174,6 +198,28 @@ function renderResumeCard(chapterProgress: ReturnType<typeof getRecentResumeChap
         <button id="resume-chapter-btn" class="resume-continue-btn" style="font-family: var(--font-mono); font-size: 0.85rem; font-weight: 600; padding: 0.875rem 2rem; border: var(--rule-thin); border-radius: 8px; background: var(--fg); color: var(--bg); cursor: pointer; text-transform: uppercase; letter-spacing: 0.05em; min-height: 48px; white-space: nowrap;">
           Continue
         </button>
+      </div>
+    </div>
+  `;
+}
+
+function renderDiagnosticPrompt(): string {
+  return `
+    <div class="diagnostic-prompt-card" style="border: 2px solid var(--fg); border-radius: 12px; padding: 1.5rem 2rem; background: var(--bg-muted); margin: 1.5rem 0;">
+      <div style="display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap;">
+        <div style="flex: 1; min-width: 200px;">
+          <div style="font-family: var(--font-mono); font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; opacity: 0.7; margin-bottom: 0.5rem;">Baseline Assessment</div>
+          <h2 style="font-family: var(--font-display); font-size: 1.25rem; margin: 0 0 0.25rem 0;">Take Diagnostic Test</h2>
+          <p style="font-family: var(--font-body); font-size: 0.9rem; opacity: 0.8; margin: 0;">30 questions to identify your strengths and weaknesses</p>
+        </div>
+        <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
+          <button id="diagnostic-take-btn" class="cta-primary-btn" style="font-family: var(--font-mono); font-size: 0.85rem; font-weight: 600; padding: 0.875rem 2rem; border: var(--rule-thin); border-radius: 8px; background: var(--fg); color: var(--bg); cursor: pointer; text-transform: uppercase; letter-spacing: 0.05em; min-height: 48px;">
+            Take Test
+          </button>
+          <button id="diagnostic-skip-btn" class="cta-secondary-btn" style="font-family: var(--font-mono); font-size: 0.85rem; font-weight: 600; padding: 0.875rem 2rem; border: var(--rule-thin); border-radius: 8px; background: transparent; color: var(--fg); cursor: pointer; text-transform: uppercase; letter-spacing: 0.05em; min-height: 48px;">
+            Skip
+          </button>
+        </div>
       </div>
     </div>
   `;

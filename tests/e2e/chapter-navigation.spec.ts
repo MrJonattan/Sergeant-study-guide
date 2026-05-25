@@ -7,7 +7,7 @@ test.describe('Chapter Navigation', () => {
 
   test('should display all chapters in sidebar', async ({ page }) => {
     const chapterItems = page.locator('#nav-chapters .nav-item');
-    await expect(chapterItems).toHaveCount(28);
+    await expect(chapterItems).toHaveCount(29);
   });
 
   test('should navigate when clicking chapter', async ({ page }) => {

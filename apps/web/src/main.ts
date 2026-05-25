@@ -17,6 +17,7 @@ import { renderCheatSheet } from './views/cheat-sheet';
 import { renderSergeantFocus } from './views/sergeant-focus';
 import { renderWeakAreas } from './views/weak-areas';
 import { renderSearch } from './views/search';
+import { renderDiagnostic } from './views/diagnostic';
 import { loadStudyData } from './utils/data-loader';
 import {
   renderErrorRecovery,
@@ -39,6 +40,7 @@ const routes = {
   sergeant: renderSergeantFocus,
   weak: renderWeakAreas,
   search: renderSearch,
+  diagnostic: renderDiagnostic,
 };
 
 // ─────────────────────────────────────────────

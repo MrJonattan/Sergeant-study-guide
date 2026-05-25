@@ -69,6 +69,7 @@ function renderToolsNav() {
     { id: 'home', label: 'Home', icon: '🏠' },
     { id: 'cheatsheet', label: 'Cheat Sheet', icon: '📋' },
     { id: 'sergeant', label: 'Sergeant Focus', icon: '👮' },
+    { id: 'diagnostic', label: 'Diagnostic', icon: '📈' },
     { id: 'flashcards', label: 'Flashcards', icon: '🃏' },
     { id: 'quiz', label: 'Quick Quiz', icon: '⚡' },
     { id: 'exam', label: 'Practice Exam', icon: '📝' },
