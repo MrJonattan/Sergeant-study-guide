@@ -1,6 +1,6 @@
 # NYPD Sergeant Promotional Exam — Master Practice Exam
 
-**Instructions:** 140 multiple-choice questions. Select the BEST answer for each question. Recommended time: 3 hours 30 minutes (90 seconds per question).
+**Instructions:** 200 multiple-choice questions. Select the BEST answer for each question. Recommended time: 5 hours (90 seconds per question).
 
 **Scoring:** Record your answers, then check against the answer key at the end.
 
@@ -1268,6 +1268,546 @@
 
 ---
 
+**141. Under A.G. 331-01, how often must each uniformed and civilian member of the service be evaluated?**
+
+- A) Semi-annually
+- B) At least once each year
+- C) Quarterly
+- D) Every eighteen months
+
+---
+
+**142. When a rater evaluates a member and rates any Performance Area/Behavioral Dimension below competent, the rater must:**
+
+- A) Immediately notify IAB
+- B) Prepare a transfer evaluation
+- C) Comment on all areas rated below competent (rated 2 or 1)
+- D) Forward the evaluation to the Chief of Department
+
+---
+
+**143. If a ratee receives an overall evaluation of below competent (2.5 or lower) or is rated extremely competent (5.0), the reviewer must be in the rank of:**
+
+- A) Sergeant or above
+- B) Lieutenant or above
+- C) Captain or above
+- D) Inspector or above
+
+---
+
+**144. A probationary police officer is evaluated via the Online Evaluation System how many times during the probationary period?**
+
+- A) Two times (10th and 22nd month)
+- B) Three times (10th, 16th, and 22nd month)
+- C) Four times (4th, 10th, 16th, and 22nd month)
+- D) Two times (4th and 10th month)
+
+---
+
+**145. The twenty-second month evaluation of a probationary police officer must specifically recommend which of the following?**
+
+- A) Satisfactory or Unsatisfactory
+- B) Permanent Appointment, Extension of Probation, or Termination of Services
+- C) Competent, Below Competent, or Highly Competent
+- D) Continue Probation or End Probation
+
+---
+
+**146. Under the PERF System for non-investigative officers, a total annual score of 77-89 corresponds to which overall evaluation rating?**
+
+- A) Exceptional
+- B) Exceeds Expectations
+- C) Meets Standards
+- D) Needs Improvement
+
+---
+
+**147. Probationary sergeants are evaluated how many times during their probationary period?**
+
+- A) Once (at the tenth month)
+- B) Twice (fourth and tenth month)
+- C) Three times (fourth, tenth, and sixteenth month)
+- D) Twice (eighth and fifteenth month)
+
+---
+
+**148. When evaluating a sergeant assigned as a precinct detective squad supervisor, the rater must confer with whom?**
+
+- A) The Borough Adjutant
+- B) The precinct commanding officer
+- C) The Chief of Detectives
+- D) The Detective Bureau Commander
+
+---
+
+**149. Under A.G. 331-04, annual performance evaluations for police officers assigned to non-investigative Bureaus must be completed and finalized by what date?**
+
+- A) December 31st
+- B) January 15th
+- C) January 31st
+- D) February 15th
+
+---
+
+**150. When a member designated "Chronic Absent - Category B" is assigned to investigative duties, it is presumed that the investigator is:**
+
+- A) Performing satisfactorily
+- B) Eligible for promotion
+- C) Performing in a substandard manner
+- D) In need of a transfer evaluation
+
+---
+
+**151. The evaluation system used for captains through deputy chiefs is based on what management concept?**
+
+- A) Behavioral Dimensions Assessment
+- B) Quarterly Performance Review
+- C) Management By Objectives (MBO) with five Key Result Areas
+- D) Competency-Based Evaluation
+
+---
+
+**152. According to P.G. 200-02, the NYPD's mission is to enhance the quality of life in New York City by:**
+
+- A) Aggressively enforcing all laws and reducing crime statistics
+- B) Working in partnership with the community to enforce the law, preserve peace, protect the people, reduce fear, and maintain order
+- C) Strategically deploying resources to prevent crime and address quality-of-life concerns
+- D) Protecting the lives and property of citizens and impartially enforcing the law
+
+---
+
+**153. Which of the following is NOT one of the four pledged values of the NYPD?**
+
+- A) Protect the lives and property of our fellow citizens
+- B) Strategically deploy resources to prevent crime
+- C) Maintain a higher standard of integrity than is generally expected of others
+- D) Value human life, respect the dignity of each individual
+
+---
+
+**154. A Sergeant observes an officer speaking rudely to a civilian who asked for directions. Which element of P.G. 200-02 is the officer violating?**
+
+- A) The NYPD mission
+- B) The NYPD vision
+- C) The NYPD values
+- D) None — this is not addressed in P.G. 200-02
+
+---
+
+**155. A continuous event begins with a kidnapping in the 75th Precinct, moves through the 77th Precinct, and the victim is murdered in the 84th Precinct. Where is the complaint recorded?**
+
+- A) The 75th Precinct, where the continuous event began
+- B) The 77th Precinct, where the event passed through
+- C) The 84th Precinct, where the homicide occurred
+- D) The precinct of the victim's residence
+
+---
+
+**156. A continuous event involves a robbery in the 40th Precinct followed by a Rape 1st Degree in the 42nd Precinct. Where is the complaint recorded?**
+
+- A) The 40th Precinct, where the initial offense occurred
+- B) The 42nd Precinct, where the rape occurred
+- C) Both precincts prepare separate complaint reports
+- D) The Special Victims Unit records the complaint
+
+---
+
+**157. A patrol supervisor responds to a commercial burglary in Brooklyn where the loss is estimated at $7,000. What is the proper action regarding detective squad notification?**
+
+- A) Do not refer to the detective squad; the loss is below the threshold
+- B) Refer to the detective squad; the loss exceeds $5,000
+- C) Refer to the Major Case Unit; commercial burglary requires their notification
+- D) Refer to the detective squad only if the loss exceeds $10,000
+
+---
+
+**158. In a bias motivated incident, who makes the final determination as to whether the incident IS or IS NOT a bias incident?**
+
+- A) The patrol supervisor who responds to the scene
+- B) The Commanding Officer of the precinct where the incident occurred
+- C) The Commanding Officer of the Hate Crime Unit, after conferral with the Chief of Detectives
+- D) The Operations Unit, after reviewing the Unusual Occurrence Report
+
+---
+
+**159. A civilian makes an allegation of misconduct against an officer. The officer's supervisor responds. What must the supervisor do BEFORE interviewing the accused member?**
+
+- A) Notify the Commanding Officer and obtain permission to investigate
+- B) Interview the complainant and confer with IAB
+- C) Obtain a written statement from the accused member
+- D) Review the member's disciplinary history
+
+---
+
+**160. A child 9 years old or younger is reported missing. Who performs the Patrol Supervisor's duties at the scene?**
+
+- A) The Patrol Supervisor of the command of occurrence
+- B) The detective assigned to the case
+- C) The CO/XO/Duty Captain of Pct/PSA/TD of occurrence
+- D) The Missing Persons Squad supervisor
+
+---
+
+**161. The Desk Officer of the missing person's RESIDENCE command must finalize the Complaint Report within what time frame?**
+
+- A) End of tour
+- B) 24 hours
+- C) 2 hours of receipt
+- D) 4 hours of receipt
+
+---
+
+**162. A member of the service witnesses another member engaging in corrupt activity. The witnessing member fears retaliation and does not want to be identified. What satisfies the member's reporting obligation?**
+
+- A) Reporting anonymously to the local precinct desk officer
+- B) Documenting the incident in the member's personal memo book
+- C) Obtaining a Confidential ID Number from the IAB Command Center
+- D) Reporting to a patrol supervisor who will relay the information
+
+---
+
+**163. At a First Amendment activity, who has the authority to order mass arrests?**
+
+- A) Any patrol supervisor
+- B) The Incident Commander, regardless of rank
+- C) Only a Senior Executive (deputy chief or higher) or designee (captain or above)
+- D) The Community Affairs Bureau protest liaison
+
+---
+
+**164. Legal observers from the National Lawyers Guild (NLG) are identified by what distinctive item?**
+
+- A) Blue hats
+- B) Bright green hats
+- C) Yellow vests
+- D) Red armbands
+
+---
+
+**165. At a demonstration, body-worn cameras are:**
+
+- A) Activated for all officers
+- B) Activated only for supervisors
+- C) NOT activated unless per P.G. 212-123
+- D) Activated only when making arrests
+
+---
+
+**166. Handcuff checks on prisoners at a First Amendment activity are required at how many points?**
+
+- A) One — upon arrival at the processing center
+- B) Two — entering and exiting the transport van
+- C) Three — entering van, exiting van, and regularly at processing
+- D) Four — before arrest, entering van, exiting van, and at processing
+
+---
+
+**167. The Mass Arrest Processing Center (MAPC) is activated by:**
+
+- A) The Patrol Borough Commander
+- B) The Chief of Department
+- C) The Senior Executive at the scene
+- D) The Operations Unit
+
+---
+
+**168. When transporting prisoners to the MAPC, each group shall consist of no more than how many prisoners per wagon?**
+
+- A) 10
+- B) 15
+- C) 20
+- D) 25
+
+---
+
+**169. For First Amendment activity violations/misdemeanors, the maximum processing time at MAPC is:**
+
+- A) 4 hours
+- B) 6 hours
+- C) 7 hours 30 minutes
+- D) 12 hours
+
+---
+
+**170. Food must be provided to prisoners at MAPC if they are held for more than:**
+
+- A) 1 hour
+- B) 2 hours
+- C) 4 hours
+- D) 6 hours
+
+---
+
+**171. A lost child is found by a UMOS. What is the FIRST step?**
+
+- A) Prepare an Aided Report
+- B) Bring the child to the command
+- C) Notify the Desk Officer/counterpart AND the Radio Dispatcher
+- D) Attempt to locate a parent or guardian in the vicinity
+
+---
+
+**172. A family calls the precinct at 10 PM to report their elderly father, who has Alzheimer's disease, as missing. He left the house two hours ago. The desk officer states they must wait 24 hours before filing a report. Is this correct?**
+
+- A) Yes, missing person reports require a 24-hour waiting period
+- B) Yes, but only for adults — children can be reported immediately
+- C) No, there are no minimum time limits before accepting a missing person report
+- D) No, but only because the person has a medical condition
+
+---
+
+**173. When a lost child is brought to the command and is not claimed within a reasonable amount of time, the Desk Officer must notify:**
+
+- A) The Missing Persons Squad only
+- B) Administration for Children's Services (ACS)
+- C) The Youth Coordination Officer only
+- D) Both the Missing Persons Squad and ACS
+
+---
+
+**174. In cases of suspected child abuse where the child is 11 years of age or older, the Desk Officer must notify:**
+
+- A) Special Victims Unit
+- B) Precinct detective squad
+- C) Administration for Children's Services
+- D) The Youth Coordination Officer
+
+---
+
+**175. Under P.G. 215-03 (S.C.A.M.), when must the Patrol Supervisor be requested?**
+
+- A) Only if the child is under 11 years old
+- B) Only if the parent does not consent to removal
+- C) ALWAYS — for every suspected child abuse/maltreatment case
+- D) Only if an arrest will be made
+
+---
+
+**176. When a child is removed from a home under emergency removal procedures, how many reports must be prepared?**
+
+- A) 3
+- B) 4
+- C) 5
+- D) 6
+
+---
+
+**177. The Notice of Removal must be mailed to the parent/guardian within what time frame if affixed to the door?**
+
+- A) 12 hours
+- B) 24 hours
+- C) 48 hours
+- D) 72 hours
+
+---
+
+**178. The Affidavit of Service of Notice must be mailed to Family Court in the borough of:**
+
+- A) Residence
+- B) Removal
+- C) Command
+- D) Hospital
+
+---
+
+**179. A runaway child is defined as a child under what age who has left home without parental consent?**
+
+- A) 14 years
+- B) 16 years
+- C) 18 years
+- D) 12 years
+
+---
+
+**180. For a runaway child, the Desk Officer must notify the Missing Persons Squad:**
+
+- A) Only if the child is unclaimed after 2 hours
+- B) Only if the parent cannot be contacted
+- C) In ALL cases
+- D) Only if the child has been reported missing before
+
+---
+
+**181. Under P.G. 213-18, New York City is currently maintained at which security alert level?**
+
+- A) YELLOW (Elevated)
+- B) ORANGE (High)
+- C) RED (Severe)
+- D) BLUE (Guarded)
+
+---
+
+**182. Changes to the citywide security alert level are communicated via:**
+
+- A) Operations Order
+- B) Roll call briefing
+- C) FINEST Message
+- D) Direct radio transmission
+
+---
+
+**183. The correct order of security alert levels from lowest to highest is:**
+
+- A) Green, Yellow, Blue, Orange, Red
+- B) Green, Blue, Yellow, Orange, Red
+- C) Blue, Green, Yellow, Orange, Red
+- D) Green, Blue, Orange, Yellow, Red
+
+---
+
+**184. At a First Amendment activity, the Protest Liaison from Community Affairs Bureau:**
+
+- A) May wear civilian attire
+- B) Must wear uniform clearly displaying rank, name, shield, and command
+- C) May be assigned to enforcement duties
+- D) Does not need to display identification
+
+---
+
+**185. For a large-scale arrest situation, the Precinct Commanding Officer must send what type of communication to the Borough Court Section Supervisor?**
+
+- A) Email
+- B) Phone call
+- C) TELEPHONE MESSAGE
+- D) Fax
+
+---
+
+**186. Who has the authority to activate a Silver Alert for a missing vulnerable senior?**
+
+- A) Any patrol supervisor
+- B) The Commanding Officer of the precinct of residence
+- C) A Captain or above from the Detective Bureau
+- D) The Operations Unit upon request from a precinct commander
+
+---
+
+**187. A sex crime victim presents at a hospital emergency room (walk-in). How should the complaint be handled?**
+
+- A) Patrol is dispatched to the hospital to take the complaint report
+- B) The precinct detective squad responds to the hospital
+- C) The 911 dispatcher refers the complaint directly to the Special Victims Unit; patrol does NOT respond
+- D) The hospital contacts the precinct of occurrence, which assigns a patrol unit
+
+---
+
+**188. Under P.G. 207-01, controlled substances weighing more than 2 ounces found outside a building should be:**
+
+- A) Documented on a Complaint Report with a Pct 61 number
+- B) Reported to the Investigative Support Section; ISS serial number entered on Complaint Worksheet
+- C) Vouchered as found property
+- D) Ignored unless a suspect is present
+
+---
+
+**189. When an offense at a religious institution is investigated as a possible bias incident but determined to be NOT bias motivated, the precinct detective should forward copies of the 61 and OCR to:**
+
+- A) C.O., Hate Crimes Unit only
+- B) C.O., Hate Crimes Unit AND Chief of Detectives, through channels
+- C) Chief of Detectives, Hate Crimes Unit, direct
+- D) Operations Unit for a Non-Bias Log number
+
+---
+
+**190. A Corrections Officer is alleged to have committed domestic violence against his wife. What is the proper documentation?**
+
+- A) Prepare a Report on Typed Letterhead (49) to the Chief of IAB and notify IAB Command Center
+- B) Record on a Complaint Report (61) with additional copies for IAB; no 49 or IAB notification needed
+- C) Notify IAB Command Center and prepare both a 49 and a Complaint Report
+- D) Refer the allegation to the Corrections Department's internal affairs unit
+
+---
+
+**191. Regarding the CCRB investigating supervisor hierarchy for a patrol command, which of the following is NOT in the hierarchy?**
+
+- A) Integrity Control Officer (ICO)
+- B) Special Operations Lieutenant (SOL)
+- C) Operations Coordinator
+- D) Platoon Commander
+
+---
+
+**192. Police officers assigned to investigative (Detective Track) duties are evaluated how many times during their initial fifteen months?**
+
+- A) Once (at the fifteenth month)
+- B) Twice (eighth and fifteenth month)
+- C) Three times (fifth, tenth, and fifteenth month)
+- D) Four times (quarterly)
+
+---
+
+**193. When a UMOS finds a lost child, after notifying the Desk Officer and Radio Dispatcher, the UMOS should:**
+
+- A) Immediately bring the child to the command
+- B) Make a brief inquiry in the vicinity of where the child was found
+- C) Prepare an Aided Report
+- D) Call the Missing Persons Squad
+
+---
+
+**194. Under P.G. 215-01, a child requiring care/shelter may be left with a relative OR friend. Under P.G. 215-02 (Lost Child), the child may ONLY be released to:**
+
+- A) A relative
+- B) A relative or friend
+- C) Any responsible adult
+- D) ACS only
+
+---
+
+**195. The SCAM report must be mailed to ACS in the borough where:**
+
+- A) The removal occurred
+- B) The child resides
+- C) The command is located
+- D) The hospital is located
+
+---
+
+**196. Citywide Events Planning is available during what hours?**
+
+- A) 0600-1800, Monday through Friday
+- B) 1000-1800, Monday through Friday
+- C) 0800-2000, Seven days a week
+- D) 24 hours, Seven days a week
+
+---
+
+**197. Outside of Citywide Events Planning hours, who should be contacted for First Amendment activity coordination?**
+
+- A) The Community Affairs Bureau
+- B) The Operations Unit
+- C) The Intelligence and Counterterrorism Bureau
+- D) The Patrol Borough Commander
+
+---
+
+**198. The Handschu Consent Decree requires written approval from what unit for political activity investigations?**
+
+- A) Internal Affairs Bureau
+- B) Community Affairs Bureau
+- C) Intelligence and Counterterrorism Bureau
+- D) Special Operations Unit
+
+---
+
+**199. At a First Amendment activity, de-escalation attempts are:**
+
+- A) Optional, at the Incident Commander's discretion
+- B) Required before enforcement action
+- C) Only required for mass arrests
+- D) Not mentioned in P.G. 213-20
+
+---
+
+**200. When a transfer of command occurs between boroughs at a First Amendment activity, it must be documented:**
+
+- A) In the command log only
+- B) By radio transmission via Communications Division
+- C) By email to the Chief of Patrol
+- D) By typed letterhead within 24 hours
+
+---
+
 ## Answer Key
 
 | # | Answer | Source | Explanation |
@@ -1412,6 +1952,66 @@
 | 138 | D | A.G. 330-03 | The District Surgeon grants approval for out-of-city travel while on sick. The Chief of Personnel grants the approval, but the request goes through the District Surgeon. |
 | 139 | C | A.G. 330-03 | UMOS gets 3 pieces of information from the Sick Desk (name, time notified, serial number) but only passes the **sick serial number** to the desk officer. The exam tests this specific detail. |
 | 140 | A | P.G. 208-37 vs 212-32 | PG 208-37 says no notification for off-duty incidents, BUT PG 212-32 says the Desk Officer must notify the Captain. Both procedures exist — a sergeant must know both. |
+| 141 | B | A.G. 331-01 | Each uniformed and civilian member of the service must be evaluated at least once each year. (A.G. 331-01, Purpose) |
+| 142 | C | A.G. 331-01 | The rater must comment on all Performance Areas/Behavioral Dimensions rated below competent (i.e., rated either 2 or 1). (A.G. 331-01, step #5) |
+| 143 | C | A.G. 331-01 | The reviewer must be in the rank of captain or above, or selected civilian managerial titles. (A.G. 331-01, step #24a) |
+| 144 | B | A.G. 331-02 | Probationary police officers are evaluated three times during their probationary period: the tenth, sixteenth, and twenty-second month. (A.G. 331-02, step #5) |
+| 145 | B | A.G. 331-02 | The twenty-second month evaluation must specifically recommend "Permanent Appointment," "Extension of Probation" or "Termination of Services" in the reviewer's comments area. (A.G. 331-02, step #6) |
+| 146 | B | A.G. 331-04 | A total annual score of 77-89 corresponds to "Exceeds Expectations." The scale is: 90-100 Exceptional, 77-89 Exceeds Expectations, 68-76 Meets Standards, 60-67 Needs Improvement, 59 or below Unsatisfactory. (A.G. 331-04, step #10) |
+| 147 | B | A.G. 331-05 | Probationary sergeants are evaluated two times during their probationary period, at the fourth and tenth month. The sixteenth month evaluation is only required if probation has been extended. (A.G. 331-05, step #1) |
+| 148 | B | A.G. 331-05 | The rater must confer with the commanding officer when evaluating sergeants or lieutenants assigned as precinct detective squad supervisors/commanders, and record this conferral in the "Overall Rater's Comments" section. (A.G. 331-05, step #3) |
+| 149 | C | A.G. 331-04 | Annual performance evaluations must be completed and finalized by January 31st of each year. (A.G. 331-04, step #28) |
+| 150 | C | A.G. 331-03 | When an investigator is designated "Chronic Absent - Category B," it is presumed that the investigator is performing in a substandard manner. (A.G. 331-03, NOTE after step #5) |
+| 151 | C | A.G. 331-06 | The evaluation instrument for captains through deputy chiefs is based on a Management By Objectives (MBO) system with five Key Result Areas (KRAs). (A.G. 331-06, step #3 and NOTE) |
+| 152 | B | P.G. 200-02 | The mission specifically states "working in partnership with the community to enforce the law, preserve peace, protect the people, reduce fear, and maintain order." Option C describes the vision, and Option D describes one of the values. |
+| 153 | B | P.G. 200-02 | Strategic deployment of resources is part of the NYPD's **vision**, not its values. The four values are: (1) Protect lives/property and impartially enforce the law, (2) Fight crime through prevention and pursuit, (3) Maintain higher integrity standards, (4) Value human life with courtesy and civility. |
+| 154 | C | P.G. 200-02 | The NYPD values pledge to "render our services with **courtesy and civility.**" An officer being rude to a civilian directly violates this value. |
+| 155 | C | P.G. 207-01 | Per P.G. 207-01, while continuous events are generally recorded at the precinct of the INITIAL offense, homicide is an exception — it is recorded where the homicide occurred (84th Precinct). |
+| 156 | B | P.G. 207-01 | Per P.G. 207-01, Rape 1st Degree is an exception to the continuous event rule. Like homicide, it is recorded where the rape occurred, regardless of where the continuous event began. |
+| 157 | B | P.G. 207-07 | Per P.G. 207-07, a burglary with a loss exceeding $5,000 should be referred to the detective squad. The $10,000 threshold applies only to Manhattan. Since this occurred in Brooklyn, the $5,000 threshold applies. |
+| 158 | C | P.G. 207-10 | Per P.G. 207-10, ONLY the Commanding Officer of the Hate Crime Unit determines whether an incident is or is not a bias incident, after conferral with the Chief of Detectives. No other rank or unit makes this determination. |
+| 159 | B | P.G. 207-21 | Per P.G. 207-21, when an allegation is made against a member, the supervisor interviews the complainant and confers with IAB BEFORE interviewing the accused member. The sequence is critical. |
+| 160 | C | P.G. 207-23 | Per P.G. 207-23, when a missing person is a child 9 years old or younger, the CO/XO/Duty Captain of the Pct/PSA/TD of occurrence performs the Patrol Supervisor's duties. The Captain effectively takes over the Patrol Supervisor's role for these cases. |
+| 161 | C | P.G. 207-23 | Per P.G. 207-23, the Desk Officer of the Residence Command must immediately review the 61 and finalize it within 2 hours of receipt. This is distinct from the D.O. of the command of occurrence, who reviews and signs the reports but does not have the same 2-hour finalization requirement. |
+| 162 | C | P.G. 207-21 | Per P.G. 207-21, members can report corruption anonymously to the IAB Command Center (24 hours) and receive a Confidential ID Number. Obtaining this number satisfies the member's reporting responsibility. |
+| 163 | C | P.G. 213-20 | Per P.G. 213-20, only a **Senior Executive** (deputy chief or higher) or **designee** (captain or above) can order **mass arrests** at First Amendment activities. A sergeant cannot order mass arrests. |
+| 164 | B | P.G. 213-20 | Per P.G. 213-20, **National Lawyers Guild (NLG)** legal observers are identified by **bright green hats**. **NYCLU** legal observers wear **blue hats/vests**. Both must be permitted **free access through police lines**. |
+| 165 | C | P.G. 213-20 | Per P.G. 213-20, body-worn cameras are **NOT activated** at demonstrations unless per P.G. 212-123. This is a specific restriction — cameras are not turned on simply because a protest is occurring. |
+| 166 | C | P.G. 213-20 | Per P.G. 213-20, handcuff checks are required at **three** points: (1) entering transport van, (2) exiting transport van, (3) regularly at arrest processing. |
+| 167 | B | P.G. 213-06 | Per P.G. 213-06, the Mass Arrest Processing Center (MAPC) is activated by the **Chief of Department**. At First Amendment events, only the **First Amendment Activity Senior Executive or designee** can authorize MAPC activation. |
+| 168 | C | P.G. 213-06 | Per P.G. 213-06, groups of **no more than 20 prisoners** per wagon. Arresting officers process **no more than 5 prisoners** each. Arrest supervisors assigned **no more than 4 arresting officers**. |
+| 169 | C | P.G. 213-06 | Per P.G. 213-06, First Amendment Activity arrest processing: **7 hours 30 minutes** maximum for violations/misdemeanors. |
+| 170 | B | P.G. 213-06 | Per P.G. 213-06, the MAPC must provide food if a prisoner is held **more than 2 hours**. |
+| 171 | C | P.G. 215-02 | Per P.G. 215-02, the FIRST step when a UMOS finds a lost child is to **notify the Desk Officer/counterpart AND the Radio Dispatcher**. This was tested on a prior promotion exam. |
+| 172 | C | P.G. 207-23 | Per P.G. 207-23, there are **NO MINIMUM TIME LIMITS** before accepting a missing person report. The report must be taken immediately, regardless of the person's age or medical condition. The 24-hour waiting period is a myth. |
+| 173 | D | P.G. 215-02 | Per P.G. 215-02, the Desk Officer must telephone the Missing Persons Squad and give the description. If the child is not claimed within a reasonable amount of time, notify ACS. Both notifications are required. |
+| 174 | B | P.G. 215-02 | Per P.G. 215-02, in cases that could involve abuse/neglect, notify precinct detective squad if the child is **eleven years of age or older**, or Special Victims Unit if child is **under eleven years of age**. For any sex crime allegation (any age), notify SVU. |
+| 175 | C | P.G. 215-03 | Per P.G. 215-03, the Patrol Supervisor must **ALWAYS** be requested for suspected child abuse/maltreatment. The only time UMOS can act before the supervisor arrives is when there is imminent danger AND parental consent. |
+| 176 | D | P.G. 215-03 | Per P.G. 215-03, when a child is removed, all **6 reports** are prepared: Complaint Report, DIR, SCAM, Aided Report, Notice of Removal, and Affidavit of Service. If there is a complaint but NO removal, only reports 1, 2, and 3 are prepared. |
+| 177 | B | P.G. 215-03 | Per P.G. 215-03, if the Notice is affixed to the door, the member must also **MAIL** a copy out in **24 hours**. |
+| 178 | B | P.G. 215-03 | Per P.G. 215-03, the Desk Officer must countersign the Affidavit AND mail to Family Court in the **borough of removal** within 24 hours (except weekends/holidays). The SCAM goes to ACS in the borough of **residence** — do not confuse these. |
+| 179 | B | P.G. 215-05 | Per P.G. 215-05, a **Runaway Child (New York)** is defined as a child **under 16 years of age** who has left home without the consent of a parent or guardian. |
+| 180 | C | P.G. 215-05 | Per P.G. 215-05, the Desk Officer must notify Missing Persons Squad **in ALL cases** of runaway children — not just when the child is unclaimed. |
+| 181 | B | P.G. 213-18 | Per P.G. 213-18, New York City is currently maintained at **ORANGE (High)** — the fourth of five levels. This is the default, not an escalated condition. |
+| 182 | C | P.G. 213-18 | Per P.G. 213-18, changes in alert level are communicated via **FINEST Message** — not Operations Order, not roll call, but FINEST Message specifically. |
+| 183 | B | P.G. 213-18 | Per P.G. 213-18, the five levels in order from lowest to highest: **GREEN (Low) -> BLUE (Guarded) -> YELLOW (Elevated) -> ORANGE (High) -> RED (Severe)**. Memory aid: **G-B-Y-O-R** (Go Before You Overreact Rashly). |
+| 184 | B | P.G. 213-20 | Per P.G. 213-20, CAB protest liaisons **must** wear uniform clearly displaying rank, name, shield, and command. Liaisons may **NOT** wear civilian attire and may **NOT** be assigned to enforcement duties except in exceptional circumstances. |
+| 185 | C | P.G. 213-06 | Per P.G. 213-06, for large-scale arrests, the Precinct CO sends a **TELEPHONE MESSAGE** (not a phone call, not an email) to the Borough Court Section Supervisor. The BCS then notifies the D.A. and may establish a centralized processing area. |
+| 186 | C | P.G. 207-31 | Per P.G. 207-31, ONLY a **Captain or above from the Detective Bureau** may activate a Silver Alert. No lower rank and no unit outside the Detective Bureau has this authority. The alert must be issued within 24 hours of determination. |
+| 187 | C | P.G. 207-33 | Per P.G. 207-33, when a sex crime victim presents at a hospital (walk-in), the 911 dispatcher refers the complaint **DIRECTLY to the Special Victims Unit**. Patrol is **NOT** directed to respond. SVU handles hospital walk-in sex crime complaints. |
+| 188 | B | P.G. 207-01/207-08 | Per P.G. 207-01/207-08, controlled substances over 2 ounces found outside a building are reported as a "narcotics offense" to the Investigative Support Section, Real Time Crime Center. No Pct 61 number is assigned; the ISS serial number is entered on the Complaint Worksheet instead. |
+| 189 | B | P.G. 207-10 | Per P.G. 207-10, for a **NON-BIAS** determination, the detective forwards copies to C.O., Hate Crime Unit **AND** Chief of Detectives, through channels. For a **POSSIBLE BIAS** (confirmed), the detective forwards only to C.O., Hate Crime Unit (direct). |
+| 190 | B | P.G. 207-22 | Per P.G. 207-22, minor misconduct (defined as DWI and Domestic Violence) against a non-NYPD government agent is documented on a Complaint Report (61) with additional copies to IAB. No 49 or separate notification to IAB is required for minor misconduct. |
+| 191 | C | P.G. 207-28 | Per P.G. 207-28, the investigating supervisor hierarchy for patrol commands is: (1) ICO, (2) SOL, (3) Platoon Commander, and if all three lieutenants are unavailable, the CO or Duty Captain. The Operations Coordinator is notably absent from this list. |
+| 192 | B | A.G. 331-03 | Per A.G. 331-03, police officers assigned to investigative duties are evaluated two times during their initial fifteen months — at the eighth and fifteenth month. (A.G. 331-03, step #1) |
+| 193 | B | P.G. 215-02 | Per P.G. 215-02, after notifying the Desk Officer and Radio Dispatcher, the UMOS should make a brief inquiry in the vicinity of the place where the child was found. If relative not located, bring child to command. |
+| 194 | A | P.G. 215-01 vs 215-02 | Per P.G. 215-01, a "friend" can take the child. Per P.G. 215-02 (Lost Child), only a **relative** can take the child — "friend" is NOT listed. This is a key distinction between the two procedures. |
+| 195 | B | P.G. 215-03 | Per P.G. 215-03, the SCAM report is mailed to ACS in the borough where the **child resides**. The Affidavit goes to Family Court in the borough of **removal**. These are different boroughs — do not confuse them. |
+| 196 | B | P.G. 213-20 | Per P.G. 213-20, Citywide Events Planning is available **1000-1800 hours, Monday through Friday**. Outside those hours, contact the **Operations Unit**. |
+| 197 | B | P.G. 213-20 | Per P.G. 213-20, outside of Citywide Events Planning hours (1000-1800, Mon-Fri), contact the **Operations Unit** for First Amendment activity coordination. |
+| 198 | C | P.G. 213-20 | Per P.G. 213-20, the **Handschu Consent Decree** requires **written approval** from the Intelligence and Counterterrorism Bureau for political activity investigations at First Amendment events. |
+| 199 | B | P.G. 213-20 | Per P.G. 213-20, **de-escalation** attempts are **required** before enforcement action at First Amendment activities. This is not optional. Warnings must be given when feasible, and sufficient resources must be assembled before acting. |
+| 200 | B | P.G. 213-20 | Per P.G. 213-20, transfer of command between boroughs must be documented by **radio transmission** via **Communications Division**. |
 
 ---
 
@@ -1419,7 +2019,7 @@
 
 | Score | Assessment |
 |-------|-----------|
-| **126-140 (90%+)** | Excellent — exam ready |
-| **112-125 (80-89%)** | Good — review weak areas |
-| **98-111 (70-79%)** | Fair — focused study needed |
-| **Below 98 (<70%)** | Needs significant review |
+| **180-200 (90%+)** | Excellent — exam ready |
+| **160-179 (80-89%)** | Good — review weak areas |
+| **140-159 (70-79%)** | Fair — focused study needed |
+| **Below 140 (<70%)** | Needs significant review |

@@ -130,7 +130,7 @@ pandoc "$ASSETS_DIR/quick-reference-cheat-sheet.md" \
 pandoc "$ASSETS_DIR/master-practice-exam.md" \
   --standalone \
   --toc \
-  --metadata title="NYPD Sergeant Exam — Master Practice Exam (120 Questions)" \
+  --metadata title="NYPD Sergeant Exam — Master Practice Exam (200 Questions)" \
   -o "$OUTPUT_DIR/master-practice-exam.html"
 
 echo "Cheat sheet HTML: $OUTPUT_DIR/quick-reference-cheat-sheet.html"
