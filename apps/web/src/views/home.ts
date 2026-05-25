@@ -61,19 +61,21 @@ export function renderHome() {
     </div>
 
     <h2>Quick Actions</h2>
-    <div class="card" style="cursor: pointer;" data-navigate="quiz">
-      <div class="card-header">⚡ Quick Quiz</div>
-      <div class="card-body">10 random questions for fast practice</div>
-    </div>
+    <div class="quick-actions-grid">
+      <div class="card" style="cursor: pointer;" data-navigate="quiz">
+        <div class="card-header">⚡ Quick Quiz</div>
+        <div class="card-body">10 random questions for fast practice</div>
+      </div>
 
-    <div class="card" style="cursor: pointer;" data-navigate="exam">
-      <div class="card-header">📝 Practice Exam</div>
-      <div class="card-body">Full 140-question timed exam</div>
-    </div>
+      <div class="card" style="cursor: pointer;" data-navigate="exam">
+        <div class="card-header">📝 Practice Exam</div>
+        <div class="card-body">Full 200-question timed exam</div>
+      </div>
 
-    <div class="card" style="cursor: pointer;" data-navigate="weak">
-      <div class="card-header">📊 Weak Areas</div>
-      <div class="card-body">Review chapters where you scored lowest</div>
+      <div class="card" style="cursor: pointer;" data-navigate="weak">
+        <div class="card-header">📊 Weak Areas</div>
+        <div class="card-body">Review chapters where you scored lowest</div>
+      </div>
     </div>
 
     <h2>Recent Activity</h2>
@@ -246,19 +248,18 @@ function renderDiagnosticPrompt(): string {
   `;
 }
 
-function renderTodaysPlanCard(
-  plan: ReturnType<typeof getTodayPlan>,
-  isComplete: boolean
-): string {
-  const chapterInfos = plan?.newChapters.map(id => {
-    const info = getChapterInfo(id);
-    if (!info) return null;
-    return {
-      id,
-      displayName: id.replace(/-/g, ' ').toUpperCase(),
-      estHours: info.estHours,
-    };
-  }).filter(Boolean) as Array<{ id: string; displayName: string; estHours: number }>;
+function renderTodaysPlanCard(plan: ReturnType<typeof getTodayPlan>, isComplete: boolean): string {
+  const chapterInfos = plan?.newChapters
+    .map(id => {
+      const info = getChapterInfo(id);
+      if (!info) return null;
+      return {
+        id,
+        displayName: id.replace(/-/g, ' ').toUpperCase(),
+        estHours: info.estHours,
+      };
+    })
+    .filter(Boolean) as Array<{ id: string; displayName: string; estHours: number }>;
 
   const totalHours = chapterInfos?.reduce((sum, c) => sum + c.estHours, 0) || 0;
 
@@ -273,19 +274,24 @@ function renderTodaysPlanCard(
             ${plan?.focus || 'Study Day'}
           </h2>
           <p style="font-family: var(--font-body); font-size: 0.9rem; opacity: 0.8; margin: 0.5rem 0;">
-            ${chapterInfos?.length > 0
-              ? `📖 ${chapterInfos.map(c => c.displayName).join(', ')} • ⏱️ ${totalHours}h estimated`
-              : plan?.isSundayReview
-                ? '🔄 Weekly review and catch-up day'
-                : '📝 Review quiz and flashcards'
+            ${
+              chapterInfos?.length > 0
+                ? `📖 ${chapterInfos.map(c => c.displayName).join(', ')} • ⏱️ ${totalHours}h estimated`
+                : plan?.isSundayReview
+                  ? '🔄 Weekly review and catch-up day'
+                  : '📝 Review quiz and flashcards'
             }
           </p>
         </div>
-        ${!isComplete ? `
+        ${
+          !isComplete
+            ? `
           <button class="plan-complete-btn" style="font-family: var(--font-mono); font-size: 0.85rem; font-weight: 600; padding: 0.875rem 2rem; border: var(--rule-thin); border-radius: 8px; background: var(--callout-memory-bg); color: var(--callout-memory-border); cursor: pointer; text-transform: uppercase; letter-spacing: 0.05em; min-height: 48px; white-space: nowrap;">
             ✓ Mark Complete
           </button>
-        ` : ''}
+        `
+            : ''
+        }
       </div>
     </div>
   `;

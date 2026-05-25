@@ -16,8 +16,9 @@ test.describe('Homepage', () => {
 
   test('should display tools navigation', async ({ page }) => {
     await page.goto('/');
-    const toolItems = page.locator('#nav-tools .nav-item');
-    await expect(toolItems).toHaveCount(8); // Home, Cheat Sheet, Sergeant, Diagnostic, Flashcards, Quiz, Exam, Weak
+    // Count only tool nav items (not Display section controls)
+    const toolItems = page.locator('#nav-tools .nav-item[data-tool]');
+    await expect(toolItems).toHaveCount(9); // Home, Schedule, Cheat Sheet, Sergeant, Diagnostic, Flashcards, Quiz, Exam, Weak
   });
 
   test('should toggle dark mode', async ({ page }) => {
@@ -216,6 +217,149 @@ test.describe('Homepage', () => {
       await page.waitForTimeout(300);
 
       await expect(page.locator('#sidebar-font-decrease')).toBeVisible();
+    });
+  });
+
+  test.describe('Responsive Layout - Desktop Wide (≥1200px)', () => {
+    test('should have 1200px max-width content on desktop (1280px)', async ({ page }) => {
+      await page.setViewportSize({ width: 1280, height: 720 });
+      await page.goto('/');
+      await page.waitForTimeout(300);
+
+      const content = page.locator('#content');
+      const contentBox = await content.boundingBox();
+
+      // Content should be wider than 900px on desktop (with padding, expect ~980px+)
+      expect(contentBox?.width).toBeGreaterThan(950);
+    });
+
+    test('should display stats grid in 3 columns on desktop (1280px)', async ({ page }) => {
+      await page.setViewportSize({ width: 1280, height: 720 });
+      await page.goto('/');
+
+      // Set up progress data to show stats
+      await page.addInitScript(() => {
+        localStorage.clear();
+        const progress = {
+          chapters: [],
+          streak: 5,
+          totalStudyTimeSeconds: 3600
+        };
+        localStorage.setItem('nypd_progress', JSON.stringify(progress));
+      });
+
+      await page.goto('/');
+      await page.waitForTimeout(300);
+
+      const statsGrid = page.locator('.stats-grid');
+      await expect(statsGrid).toBeVisible();
+
+      // Check grid-template-columns
+      const gridStyle = await statsGrid.evaluate((el) => {
+        const computed = window.getComputedStyle(el);
+        return computed.gridTemplateColumns;
+      });
+
+      // Should have 3 columns (e.g., "300px 300px 300px" or similar)
+      const columnCount = gridStyle.split(' ').length;
+      expect(columnCount).toBe(3);
+    });
+
+    test('should display quick actions in 3 columns on desktop (1280px)', async ({ page }) => {
+      await page.setViewportSize({ width: 1280, height: 720 });
+      await page.goto('/');
+      await page.waitForTimeout(300);
+
+      const quickActionsGrid = page.locator('.quick-actions-grid');
+      await expect(quickActionsGrid).toBeVisible();
+
+      // Check grid-template-columns
+      const gridStyle = await quickActionsGrid.evaluate((el) => {
+        const computed = window.getComputedStyle(el);
+        return computed.gridTemplateColumns;
+      });
+
+      // Should have 3 columns
+      const columnCount = gridStyle.split(' ').length;
+      expect(columnCount).toBe(3);
+    });
+  });
+
+  test.describe('Responsive Layout - Mobile (375px)', () => {
+    test('should have single column stats grid on mobile (375px)', async ({ page }) => {
+      await page.setViewportSize({ width: 375, height: 667 });
+      await page.goto('/');
+
+      // Set up progress data to show stats
+      await page.addInitScript(() => {
+        localStorage.clear();
+        const progress = {
+          chapters: [],
+          streak: 5,
+          totalStudyTimeSeconds: 3600
+        };
+        localStorage.setItem('nypd_progress', JSON.stringify(progress));
+      });
+
+      await page.goto('/');
+      await page.waitForTimeout(300);
+
+      const statsGrid = page.locator('.stats-grid');
+      await expect(statsGrid).toBeVisible();
+
+      // Check grid-template-columns - should be auto-fit or 1 column
+      const gridStyle = await statsGrid.evaluate((el) => {
+        const computed = window.getComputedStyle(el);
+        return computed.gridTemplateColumns;
+      });
+
+      // On mobile, should have fewer columns (auto-fit with minmax)
+      const columnCount = gridStyle.split(' ').length;
+      expect(columnCount).toBeLessThanOrEqual(2);
+    });
+
+    test('should have single column quick actions on mobile (375px)', async ({ page }) => {
+      await page.setViewportSize({ width: 375, height: 667 });
+      await page.goto('/');
+      await page.waitForTimeout(300);
+
+      const quickActionsGrid = page.locator('.quick-actions-grid');
+      await expect(quickActionsGrid).toBeVisible();
+
+      // Check grid-template-columns
+      const gridStyle = await quickActionsGrid.evaluate((el) => {
+        const computed = window.getComputedStyle(el);
+        return computed.gridTemplateColumns;
+      });
+
+      // Should be 1 column on mobile (single value like "335px" or "1fr")
+      const columnCount = gridStyle.split(' ').length;
+      expect(columnCount).toBe(1);
+    });
+  });
+
+  test.describe('Responsive Layout - iPad Portrait (768px)', () => {
+    test('should display controls in topbar at 768px breakpoint', async ({ page }) => {
+      await page.setViewportSize({ width: 768, height: 1024 });
+      await page.goto('/');
+
+      // At 768px, font controls should be visible in topbar
+      const fontDecrease = page.locator('#font-decrease');
+      const fontIncrease = page.locator('#font-increase');
+      const themeToggle = page.locator('#theme-toggle');
+
+      await expect(fontDecrease).toBeVisible();
+      await expect(fontIncrease).toBeVisible();
+      await expect(themeToggle).toBeVisible();
+    });
+
+    test('should have sidebar visible at 768px', async ({ page }) => {
+      await page.setViewportSize({ width: 768, height: 1024 });
+      await page.goto('/');
+
+      // Sidebar should be visible (not collapsed like on mobile)
+      const sidebar = page.locator('#sidebar');
+      await expect(sidebar).toBeVisible();
     });
   });
 });

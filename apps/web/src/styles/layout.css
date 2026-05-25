@@ -379,7 +379,8 @@
 
 /* Desktop - hide display section in sidebar */
 @media (min-width: 769px) {
-  .display-section {
+  .display-section,
+  .display-section .nav-item {
     display: none;
   }
 }
@@ -446,7 +447,7 @@
   }
 }
 
-/* Desktop browsers */
+/* Desktop browsers (1025px - 1199px) */
 @media (min-width: 1025px) {
   #content {
     max-width: 900px;
@@ -481,15 +482,25 @@
   }
 }
 
-/* Large desktop */
-@media (min-width: 1440px) {
+/* Wide desktop (≥ 1200px) - maximize content width */
+@media (min-width: 1200px) {
   #content {
-    max-width: 1000px;
+    max-width: 1200px;
+    padding: 2rem 3rem;
   }
 
   .flashcard {
     max-width: 600px;
     height: 320px;
+  }
+
+  .flashcard-term {
+    font-size: 1.6rem;
+  }
+
+  .error-card {
+    max-width: 600px;
+    padding: 2.5rem;
   }
 }
 
