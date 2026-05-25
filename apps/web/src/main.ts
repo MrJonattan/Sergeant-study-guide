@@ -25,6 +25,7 @@ import {
   initOnlineListener,
   type ErrorState,
 } from './components/error-recovery';
+import { showSettingsSheet, attachSettingsListeners } from './components/settings';
 
 // ─────────────────────────────────────────────
 // Route Definitions
@@ -85,6 +86,7 @@ export async function initApp() {
     initFontScale();
     initSidebar(appState.data.chapters);
     initTopbar();
+    initSettings();
     initOnlineListener();
 
     // Initialize router
@@ -130,6 +132,21 @@ function showErrorRecovery(error: ErrorState) {
 
   content.innerHTML = renderErrorRecovery(error, () => initApp());
   attachErrorRecoveryListeners(() => initApp());
+}
+
+// ─────────────────────────────────────────────
+// Settings
+// ─────────────────────────────────────────────
+
+function initSettings() {
+  const settingsBtn = document.getElementById('settings-toggle');
+  if (settingsBtn) {
+    settingsBtn.addEventListener('click', () => {
+      showSettingsSheet();
+      // Attach listeners after dialog is shown
+      setTimeout(() => attachSettingsListeners(), 50);
+    });
+  }
 }
 
 // ─────────────────────────────────────────────

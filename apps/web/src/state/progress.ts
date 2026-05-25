@@ -52,6 +52,15 @@ function saveProgress(data: ProgressData) {
   localStorage.setItem(PROGRESS_KEY, JSON.stringify(data));
 }
 
+// Exported for settings component
+export function loadProgressForExport(): ProgressData {
+  return loadProgress();
+}
+
+export function saveProgressForImport(data: ProgressData) {
+  saveProgress(data);
+}
+
 export function getProgress(chapterId: string): ChapterProgress | undefined {
   const data = loadProgress();
   if (!data || !Array.isArray(data.chapters)) {
@@ -248,6 +257,15 @@ function loadFlashcardProgress(): FlashcardProgressData {
 
 function saveFlashcardProgress(data: FlashcardProgressData) {
   localStorage.setItem(FLASHCARD_KEY, JSON.stringify(data));
+}
+
+// Exported for settings component
+export function loadFlashcardProgressForExport(): FlashcardProgressData {
+  return loadFlashcardProgress();
+}
+
+export function saveFlashcardProgressForImport(data: FlashcardProgressData) {
+  saveFlashcardProgress(data);
 }
 
 export function getFlashcardProgress(cardId: string): FlashcardProgress {
