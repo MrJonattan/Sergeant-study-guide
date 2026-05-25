@@ -1,8 +1,8 @@
-# Section 203-16 — Guidelines for Acceptance of Gifts and Other Compensation by Members of the Service
+# Section 203-16 / A.G. 304-14 — Guidelines for Acceptance of Gifts and Other Compensation by Members of the Service
 
 ## Source Reference
-- **Procedure:** P.G. 203-16
-- **Source PDF:** Public Admin Guide1.pdf (A.G. 304-14)
+- **Procedure:** A.G. 304-14 (cross-referenced as P.G. 203-16)
+- **Source PDF:** Public Admin Guide1.pdf
 - **Last Revision:** I.O.41 (06/10/21)
 
 ## Procedure Summary

@@ -11,6 +11,7 @@ import {
   Section,
   SergeantFocus,
   SergeantCategory,
+  StudyDataSchema,
 } from './types';
 import {
   parseReviewQuestions,

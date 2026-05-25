@@ -1,8 +1,8 @@
-# Section 203-10 — Public Contact - Prohibited Conduct
+# Section 203-10 / A.G. 304-11 — Public Contact - Prohibited Conduct
 
 ## Source Reference
-- **Procedure:** P.G. 203-10
-- **Source PDF:** Public Admin Guide1.pdf (A.G. 304-11)
+- **Procedure:** A.G. 304-11 (cross-referenced as P.G. 203-10)
+- **Source PDF:** Public Admin Guide1.pdf
 - **Last Revision:** I.O.43 (06/10/21)
 
 ## Procedure Summary

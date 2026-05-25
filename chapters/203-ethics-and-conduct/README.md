@@ -1,10 +1,12 @@
 # Section 203 — Ethics and Conduct
 
 ## Source
-- **Patrol Guide Section:** 203
-- **Source PDF:** Public Admin Guide1.pdf, Public Admin Guide2.pdf
+- **Primary Source:** Administrative Guide (A.G. 304-11 through 304-23)
+- **Cross-Referenced As:** P.G. 203 in other Department directives
+- **Source PDFs:** Public Admin Guide1.pdf, Public Admin Guide2.pdf
 - **Priority:** High
 - **Status:** Completed
+- **Note:** The standalone P.G. 203 procedures referenced by other sections do not appear in the public Patrol Guide PDFs available in this repo. The substantive content lives in the Administrative Guide.
 
 ## Learning Objectives
 - Understand the prohibited conduct rules for public contact and financial restrictions
@@ -17,11 +19,11 @@
 
 | File | Topics Covered |
 |------|---------------|
-| [section-203-10-public-contact.md](section-203-10-public-contact.md) | Public contact prohibited conduct, Right to Know business card requirements (P.G. 203-10) |
-| [section-203-13-financial-restrictions.md](section-203-13-financial-restrictions.md) | Financial restrictions, prohibited acts, conflicts of interest, superior/subordinate transactions (P.G. 203-13) |
-| [section-203-15-off-duty-conduct.md](section-203-15-off-duty-conduct.md) | Off-duty conduct at parades, funerals, memorial services, and law enforcement events (P.G. 203-15) |
-| [section-203-16-gifts-compensation.md](section-203-16-gifts-compensation.md) | Guidelines for acceptance of gifts, rewards, plaques, cash restrictions, Board of Ethics rulings (P.G. 203-16) |
-| [section-203-17-fund-raising.md](section-203-17-fund-raising.md) | Fund raising event approval process, IAB notification, accounting requirements (P.G. 203-17) |
+| [section-203-10-public-contact.md](section-203-10-public-contact.md) | Public contact prohibited conduct, Right to Know business card requirements (A.G. 304-11, cross-ref. as P.G. 203-10) |
+| [section-203-13-financial-restrictions.md](section-203-13-financial-restrictions.md) | Financial restrictions, prohibited acts, conflicts of interest, superior/subordinate transactions (A.G. 304-12, cross-ref. as P.G. 203-13) |
+| [section-203-15-off-duty-conduct.md](section-203-15-off-duty-conduct.md) | Off-duty conduct at parades, funerals, memorial services, and law enforcement events (A.G. 304-13, cross-ref. as P.G. 203-15) |
+| [section-203-16-gifts-compensation.md](section-203-16-gifts-compensation.md) | Guidelines for acceptance of gifts, rewards, plaques, cash restrictions, Board of Ethics rulings (A.G. 304-14, cross-ref. as P.G. 203-16) |
+| [section-203-17-fund-raising.md](section-203-17-fund-raising.md) | Fund raising event approval process, IAB notification, accounting requirements (A.G. 304-23, cross-ref. as P.G. 203-17) |
 | [key-terms.md](key-terms.md) | All key terms, forms, critical numbers, and abbreviations from Section 203 |
 | [review-questions.md](review-questions.md) | 15 multiple-choice practice questions with hidden answers |
 
@@ -29,21 +31,21 @@
 
 | Procedure | Title | Status |
 |-----------|-------|--------|
-| P.G. 203-10 | Public Contact - Prohibited Conduct | completed |
-| P.G. 203-13 | Financial Restrictions - Prohibited Acts | completed |
-| P.G. 203-15 | Off Duty Conduct - Attendance at Parades, Funerals, Memorial Services | completed |
-| P.G. 203-16 | Guidelines for Acceptance of Gifts and Other Compensation | completed |
-| P.G. 203-17 | Fund Raising Events | completed |
+| A.G. 304-11 (P.G. 203-10) | Public Contact - Prohibited Conduct | completed |
+| A.G. 304-12 (P.G. 203-13) | Financial Restrictions - Prohibited Acts | completed |
+| A.G. 304-13 (P.G. 203-15) | Off Duty Conduct - Attendance at Parades, Funerals, Memorial Services | completed |
+| A.G. 304-14 (P.G. 203-16) | Guidelines for Acceptance of Gifts and Other Compensation | completed |
+| A.G. 304-23 (P.G. 203-17) | Fund Raising Events | completed |
 
 ## Sergeant Focus Areas
 
 ### Key Supervisor Procedures
 
-- **P.G. 203-10 — Public Contact:** Uniformed members must provide Right to Know business card after Level 2/3 encounters; shield/rank must be visible; digital Activity Log entry required
-- **P.G. 203-13 — Financial Restrictions:** 11 prohibited financial acts; superior/subordinate business transactions prohibited where power exists; $25 charitable solicitation limit; Chapter 68 conflict of interest rules apply
-- **P.G. 203-15 — Off Duty Conduct:** ALL members must report corruption; on-duty members return to command immediately after event; off-duty uniform outside NYC requires Police Commissioner/First Deputy/Chief approval; no alcohol in uniform
-- **P.G. 203-16 — Gifts/Compensation:** No cash/personal gifts (wristwatches, etc.); plaques/pen sets permitted; commanding officer notified PRIOR to acceptance; Board of Ethics review for unusual circumstances; report to IAB if 2+ gifts/year from same source
-- **P.G. 203-17 — Fund Raising:** Typed Letterhead request to Chief of IAB; 8 required elements; no illegal gambling/raffles; accounting within 30 days; IAB monitoring
+- **A.G. 304-11 (P.G. 203-10) — Public Contact:** Uniformed members must provide Right to Know business card after Level 2/3 encounters; shield/rank must be visible; digital Activity Log entry required
+- **A.G. 304-12 (P.G. 203-13) — Financial Restrictions:** 11 prohibited financial acts; superior/subordinate business transactions prohibited where power exists; $25 charitable solicitation limit; Chapter 68 conflict of interest rules apply
+- **A.G. 304-13 (P.G. 203-15) — Off Duty Conduct:** ALL members must report corruption; on-duty members return to command immediately after event; off-duty uniform outside NYC requires Police Commissioner/First Deputy/Chief approval; no alcohol in uniform
+- **A.G. 304-14 (P.G. 203-16) — Gifts/Compensation:** No cash/personal gifts (wristwatches, etc.); plaques/pen sets permitted; commanding officer notified PRIOR to acceptance; Board of Ethics review for unusual circumstances; report to IAB if 2+ gifts/year from same source
+- **A.G. 304-23 (P.G. 203-17) — Fund Raising:** Typed Letterhead request to Chief of IAB; 8 required elements; no illegal gambling/raffles; accounting within 30 days; IAB monitoring
 
 ### Critical Distinctions
 

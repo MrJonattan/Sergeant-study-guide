@@ -1,8 +1,8 @@
-# Section 203-17 — Fund Raising Events
+# Section 203-17 / A.G. 304-23 — Fund Raising Events
 
 ## Source Reference
-- **Procedure:** P.G. 203-17
-- **Source PDF:** Public Admin Guide1.pdf (A.G. 304-23)
+- **Procedure:** A.G. 304-23 (cross-referenced as P.G. 203-17)
+- **Source PDF:** Public Admin Guide1.pdf
 - **Last Revision:** I.O.116 (12/02/22)
 
 ## Procedure Summary

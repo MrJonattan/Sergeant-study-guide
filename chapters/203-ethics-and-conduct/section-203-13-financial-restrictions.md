@@ -1,8 +1,8 @@
-# Section 203-13 — Financial Restrictions - Prohibited Acts
+# Section 203-13 / A.G. 304-12 — Financial Restrictions - Prohibited Acts
 
 ## Source Reference
-- **Procedure:** P.G. 203-13
-- **Source PDF:** Public Admin Guide1.pdf (A.G. 304-12)
+- **Procedure:** A.G. 304-12 (cross-referenced as P.G. 203-13)
+- **Source PDF:** Public Admin Guide1.pdf
 - **Last Revision:** I.O.44 (06/10/21)
 
 ## Procedure Summary

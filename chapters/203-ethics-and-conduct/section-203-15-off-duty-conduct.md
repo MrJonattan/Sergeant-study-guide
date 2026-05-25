@@ -1,8 +1,8 @@
-# Section 203-15 — Off Duty Conduct - Attendance at Parades, Funerals, Memorial Services and Other Department-Oriented or Law Enforcement Events
+# Section 203-15 / A.G. 304-13 — Off Duty Conduct - Attendance at Parades, Funerals, Memorial Services and Other Department-Oriented or Law Enforcement Events
 
 ## Source Reference
-- **Procedure:** P.G. 203-15
-- **Source PDF:** Public Admin Guide1.pdf (A.G. 304-13)
+- **Procedure:** A.G. 304-13 (cross-referenced as P.G. 203-15)
+- **Source PDF:** Public Admin Guide1.pdf
 - **Last Revision:** I.O.56 (06/24/21)
 
 ## Procedure Summary

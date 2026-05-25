@@ -1,6 +1,7 @@
 # Missing P.G. and A.G. Procedures
 
 **Generated:** 2026-05-23  
+**Last Updated:** 2026-05-24 (Chapter 203 attribution clarified)
 **Method:** Compared procedure numbers extracted from source materials vs. existing chapter markdown files  
 **Verification:** All 59 procedures confirmed MISSING via grep audit (2026-05-23)
 
@@ -20,11 +21,11 @@
 
 | Procedure | Chapter | Priority |
 |-----------|---------|----------|
-| P.G. 203-10 | 203 (not yet created) | High |
-| P.G. 203-13 | 203 (not yet created) | High |
-| P.G. 203-15 | 203 (not yet created) | High |
-| P.G. 203-16 | 203 (not yet created) | High |
-| P.G. 203-17 | 203 (not yet created) | High |
+| P.G. 203-10 | 203-ethics-and-conduct (A.G. 304-11) | ATTRIBUTION CLARIFIED — content lives in A.G. 304-11 |
+| P.G. 203-13 | 203-ethics-and-conduct (A.G. 304-12) | ATTRIBUTION CLARIFIED — content lives in A.G. 304-12 |
+| P.G. 203-15 | 203-ethics-and-conduct (A.G. 304-13) | ATTRIBUTION CLARIFIED — content lives in A.G. 304-13 |
+| P.G. 203-16 | 203-ethics-and-conduct (A.G. 304-14) | ATTRIBUTION CLARIFIED — content lives in A.G. 304-14 |
+| P.G. 203-17 | 203-ethics-and-conduct (A.G. 304-23) | ATTRIBUTION CLARIFIED — content lives in A.G. 304-23 |
 | P.G. 205-40 | 205 (not yet created) | Medium |
 | P.G. 209-25 | 209-summonses | Medium |
 | P.G. 211-01 | 211-court-appearances | Medium |
@@ -43,7 +44,7 @@
 | P.G. 221-20 | 221-tactical-operations | Medium |
 | P.G. 332-06 | 332-employee-rights | High |
 
-**Note:** P.G. 203 and P.G. 205 chapters do not exist yet. These procedures were referenced in source materials but no chapter directories were created for these sections.
+**Note:** P.G. 203 procedures are cross-references to Administrative Guide content (A.G. 304-11 through 304-23). Chapter 203-ethics-and-conduct was created on 2026-05-24 with dual labeling (A.G. 304-XX / P.G. 203-XX). P.G. 205 chapter does not exist yet.
 
 ---
 
