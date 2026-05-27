@@ -34,3 +34,7 @@ mobile/pubspec.lock
 # Generated freezed/json_serializable code
 *.freezed.dart
 *.g.dart
+
+# Playwright test reports
+playwright-report/
+test-results/

@@ -326,15 +326,23 @@ function setupScrollTracking(chapterId: string, container: HTMLElement) {
 
 let cleanupToolbar: (() => void) | null = null;
 let isToolbarVisible = false;
+let toolbarReady = false;
 let pendingHighlightText = '';
 let selectionChangeHandler: (() => void) | null = null;
 let selectionTimeout: ReturnType<typeof setTimeout> | null = null;
+let mouseupHandler: ((e: MouseEvent) => void) | null = null;
+let clickDismissHandler: ((e: Event) => void) | null = null;
+let isHandlingSelection = false;
 
 // Expose reset function for testing
 if (typeof window !== 'undefined') {
   (window as any).__resetHighlightState = () => {
     isToolbarVisible = false;
+    toolbarReady = false;
     pendingHighlightText = '';
+    currentChapter = null;
+    currentContainer = null;
+    isHandlingSelection = false;
     if (selectionTimeout) {
       clearTimeout(selectionTimeout);
       selectionTimeout = null;
@@ -343,19 +351,43 @@ if (typeof window !== 'undefined') {
       document.removeEventListener('selectionchange', selectionChangeHandler);
       selectionChangeHandler = null;
     }
+    if (mouseupHandler) {
+      // Handler is attached to chapterBody, not document.body
+      const chapterBody = document.getElementById('chapter-body');
+      if (chapterBody) {
+        chapterBody.removeEventListener('mouseup', mouseupHandler);
+      }
+      mouseupHandler = null;
+    }
+    if (clickDismissHandler) {
+      document.removeEventListener('click', clickDismissHandler, true);
+      clickDismissHandler = null;
+    }
     if (cleanupToolbar) {
       cleanupToolbar();
     }
   };
 }
 
-function setupHighlightSelection(chapter: Chapter) {
+let currentContainer: HTMLElement | null = null;
+
+function setupHighlightSelection(chapter: Chapter, container: HTMLElement) {
   const chapterBody = document.getElementById('chapter-body');
   if (!chapterBody) return;
+
+  // Store current chapter reference
+  currentChapter = chapter;
+  currentContainer = container;
 
   // Remove previous handlers to prevent duplicates
   if (selectionChangeHandler) {
     document.removeEventListener('selectionchange', selectionChangeHandler);
+  }
+  if (mouseupHandler) {
+    document.removeEventListener('mouseup', mouseupHandler, true);
+  }
+  if (clickDismissHandler) {
+    document.removeEventListener('click', clickDismissHandler, true);
   }
   if (selectionTimeout) {
     clearTimeout(selectionTimeout);
@@ -366,47 +398,76 @@ function setupHighlightSelection(chapter: Chapter) {
   isToolbarVisible = false;
   pendingHighlightText = '';
 
-  // Desktop: mouseup event
-  const mouseupHandler = () => {
-    if (!isToolbarVisible) {
-      handleTextSelection(chapter);
-    }
-  };
-  chapterBody.addEventListener('mouseup', mouseupHandler);
-
   // Mobile + programmatic: selectionchange event (with debounce)
   selectionChangeHandler = () => {
     if (selectionTimeout) {
       clearTimeout(selectionTimeout);
     }
     selectionTimeout = setTimeout(() => {
+      if (isHandlingSelection) {
+        return;
+      }
+      isHandlingSelection = true;
       const selection = document.getSelection();
-      if (!selection?.toString().trim()) {
+      const selectedText = selection?.toString().trim();
+      if (!selectedText) {
         // Selection was cleared - reset toolbar flag
         isToolbarVisible = false;
+        isHandlingSelection = false;
       } else if (!isToolbarVisible) {
-        handleTextSelection(chapter);
+        // Verify selection is within chapter body
+        if (selection?.rangeCount && selection.rangeCount > 0) {
+          const range = selection.getRangeAt(0);
+          if (chapterBody.contains(range.commonAncestorContainer)) {
+            handleTextSelection(chapter);
+            // Don't reset isHandlingSelection here - wait for debounce to complete
+          } else {
+            isHandlingSelection = false;
+          }
+        } else {
+          isHandlingSelection = false;
+        }
+      } else {
+        isHandlingSelection = false;
       }
-    }, 50);
+    }, 100);
   };
   document.addEventListener('selectionchange', selectionChangeHandler);
 
+  // Desktop: mouseup event - only triggers if selectionchange didn't already show toolbar
+  mouseupHandler = (e: MouseEvent) => {
+    // Only handle if target is within chapter body
+    if (!chapterBody.contains(e.target as Node)) return;
+    if (!isToolbarVisible && !isHandlingSelection) {
+      handleTextSelection(chapter);
+    }
+  };
+  chapterBody.addEventListener('mouseup', mouseupHandler);
+
   // Dismiss toolbar on click elsewhere - use capture phase to ensure it runs first
-  document.addEventListener(
-    'click',
-    e => {
-      const target = e.target as HTMLElement;
-      // Don't dismiss if clicking on toolbar or highlight
-      if (
-        !target.closest('.highlight-toolbar') &&
-        !target.closest('.highlight-popover') &&
-        !target.closest('.hl-yellow')
-      ) {
-        dismissToolbar();
-      }
-    },
-    true
-  );
+  // Track when toolbar is fully ready to prevent premature dismissal
+  clickDismissHandler = (e: Event) => {
+    if (!toolbarReady) {
+      return;
+    }
+    const target = e.target as HTMLElement;
+    // Don't dismiss if clicking on toolbar or highlight
+    if (
+      !target.closest('.highlight-toolbar') &&
+      !target.closest('.highlight-popover') &&
+      !target.closest('.hl-yellow')
+    ) {
+      dismissToolbar();
+    }
+  };
+  document.addEventListener('click', clickDismissHandler, true);
+
+  // Store toolbarReady reset on cleanup function
+  const originalCleanup = cleanupToolbar;
+  cleanupToolbar = () => {
+    toolbarReady = false;
+    if (originalCleanup) originalCleanup();
+  };
 }
 
 function handleTextSelection(chapter: Chapter) {
@@ -480,42 +541,65 @@ function handleTextSelection(chapter: Chapter) {
 
   // Show toolbar
   showHighlightToolbar(range, () => {
-    const highlight = addHighlight({
-      id: generateUuid(),
-      chapterId: chapter.id,
-      sectionFilename,
-      text: pendingHighlightText,
-      contextBefore,
-      contextAfter,
-      color: 'yellow',
-    });
+    try {
+      const highlight = addHighlight({
+        id: generateUuid(),
+        chapterId: chapter.id,
+        sectionFilename,
+        text: pendingHighlightText,
+        contextBefore,
+        contextAfter,
+        color: 'yellow',
+      });
 
-    dismissToolbar();
-    selection.removeAllRanges();
+      dismissToolbar();
+      selection.removeAllRanges();
 
-    // Re-render highlights
-    renderHighlightsForChapter(chapter, container);
+      // Re-render highlights
+      renderHighlightsForChapter(chapter, currentContainer!);
 
-    // Scroll to the new highlight
-    const markEl = container.querySelector(`[data-highlight-id="${highlight.id}"]`);
-    if (markEl) {
-      markEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      // Scroll to the new highlight
+      const markEl = currentContainer!.querySelector(`[data-highlight-id="${highlight.id}"]`);
+      if (markEl) {
+        markEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    } catch (err) {
+      console.error('[handleTextSelection] error in callback:', err);
     }
   });
 }
 
 function showHighlightToolbar(range: Range, onHighlight: () => void) {
-  // Remove existing toolbar
-  dismissToolbar();
+  // Remove existing toolbar first
+  if (cleanupToolbar) {
+    cleanupToolbar();
+  }
 
   const toolbar = document.createElement('div');
   toolbar.className = 'highlight-toolbar';
-  toolbar.innerHTML = `
-    <button class="highlight-toolbar-btn">
-      <span class="highlight-color-swatch"></span>
-      Highlight
-    </button>
-  `;
+
+  // Create button element directly instead of innerHTML for reliable event binding
+  const btn = document.createElement('button');
+  btn.className = 'highlight-toolbar-btn';
+  btn.innerHTML = '<span class="highlight-color-swatch"></span>Highlight';
+
+  // Set up cleanup function BEFORE appending to prevent race condition
+  cleanupToolbar = () => {
+    if (toolbar && toolbar.parentNode) {
+      toolbar.remove();
+    }
+    currentToolbar = null;
+    cleanupToolbar = null;
+  };
+
+  // Add click handler BEFORE appending to DOM
+  btn.addEventListener('click', e => {
+    e.preventDefault();
+    e.stopPropagation();
+    onHighlight();
+  });
+
+  toolbar.appendChild(btn);
 
   // Position toolbar above selection
   const rect = range.getBoundingClientRect();
@@ -528,21 +612,10 @@ function showHighlightToolbar(range: Range, onHighlight: () => void) {
   // Set flag to prevent re-entry
   isToolbarVisible = true;
 
-  // Add click handler
-  toolbar.querySelector('.highlight-toolbar-btn')?.addEventListener('click', e => {
-    e.preventDefault();
-    e.stopPropagation();
-    onHighlight();
-  });
-
-  // Cleanup function
-  cleanupToolbar = () => {
-    if (toolbar && toolbar.parentNode) {
-      toolbar.remove();
-    }
-    currentToolbar = null;
-    cleanupToolbar = null;
-  };
+  // Enable dismiss after toolbar is fully set up
+  setTimeout(() => {
+    toolbarReady = true;
+  }, 100);
 }
 
 function dismissToolbar() {
@@ -556,7 +629,9 @@ function dismissToolbar() {
 function renderHighlightsForChapter(chapter: Chapter, container: HTMLElement) {
   const highlights = getHighlightsForChapter(chapter.id);
 
-  if (highlights.length === 0) return;
+  if (highlights.length === 0) {
+    return;
+  }
 
   // Get all text nodes in the container
   const textNodes: Array<{ node: Node; text: string; parent: Element }> = [];
