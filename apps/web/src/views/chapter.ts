@@ -325,6 +325,7 @@ function setupScrollTracking(chapterId: string, container: HTMLElement) {
 // ─────────────────────────────────────────────
 
 let cleanupToolbar: (() => void) | null = null;
+let currentContainer: HTMLElement | null = null;
 let isToolbarVisible = false;
 let toolbarReady = false;
 let pendingHighlightText = '';
@@ -367,14 +368,10 @@ if (typeof window !== 'undefined') {
   };
 }
 
-let currentContainer: HTMLElement | null = null;
-
 function setupHighlightSelection(chapter: Chapter, container: HTMLElement) {
   const chapterBody = document.getElementById('chapter-body');
   if (!chapterBody) return;
 
-  // Store current chapter reference
-  currentChapter = chapter;
   currentContainer = container;
 
   // Remove previous handlers to prevent duplicates
@@ -586,7 +583,6 @@ function showHighlightToolbar(range: Range, onHighlight: () => void) {
     if (toolbar && toolbar.parentNode) {
       toolbar.remove();
     }
-    currentToolbar = null;
     cleanupToolbar = null;
   };
 
@@ -605,7 +601,6 @@ function showHighlightToolbar(range: Range, onHighlight: () => void) {
   toolbar.style.top = `${rect.top - 45}px`;
 
   document.body.appendChild(toolbar);
-  currentToolbar = toolbar;
 
   // Set flag to prevent re-entry
   isToolbarVisible = true;
