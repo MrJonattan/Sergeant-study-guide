@@ -340,8 +340,6 @@ if (typeof window !== 'undefined') {
     isToolbarVisible = false;
     toolbarReady = false;
     pendingHighlightText = '';
-    currentChapter = null;
-    currentContainer = null;
     isHandlingSelection = false;
     if (selectionTimeout) {
       clearTimeout(selectionTimeout);
