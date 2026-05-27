@@ -70,6 +70,8 @@ function renderToolsNav() {
   const tools = [
     { id: 'home', label: 'Home', icon: '🏠' },
     { id: 'schedule', label: 'Study Schedule', icon: '📅' },
+    { id: 'bookmarks', label: 'Bookmarks', icon: '⭐' },
+    { id: 'highlights', label: 'Highlights', icon: '🖍️' },
     { id: 'cheatsheet', label: 'Cheat Sheet', icon: '📋' },
     { id: 'sergeant', label: 'Sergeant Focus', icon: '👮' },
     { id: 'diagnostic', label: 'Diagnostic', icon: '📈' },

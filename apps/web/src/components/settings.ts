@@ -4,11 +4,11 @@
 
 import { loadProgressForExport, saveProgressForImport } from '../state/progress';
 import { loadFlashcardProgressForExport, saveFlashcardProgressForImport } from '../state/progress';
+import { loadBookmarksForExport, saveBookmarksForImport } from '../state/bookmarks';
+import { loadHighlightsForExport, saveHighlightsForImport } from '../state/highlights';
 import { getTheme } from '../utils/theme';
 import { getFontScale } from '../utils/font-scale';
 
-const PROGRESS_KEY = 'nypd_progress';
-const FLASHCARD_KEY = 'nypd_flashcards';
 const THEME_KEY = 'nypd_theme';
 const FONT_SCALE_KEY = 'nypd_font_scale';
 const DIAGNOSTIC_KEY = 'nypd_diagnostic_completed_at';
@@ -18,6 +18,8 @@ export interface ExportData {
   exportedAt: string;
   nypd_progress: object;
   nypd_flashcards: object;
+  nypd_bookmarks: object;
+  nypd_highlights: object;
   nypd_theme: string;
   nypd_font_scale: number;
   nypd_diagnostic_completed_at?: string;
@@ -88,7 +90,7 @@ export function showSettingsSheet() {
     dialog.remove();
   });
 
-  dialog.addEventListener('click', (e) => {
+  dialog.addEventListener('click', e => {
     if (e.target === dialog) {
       dialog.close();
       dialog.remove();
@@ -127,6 +129,8 @@ export function attachSettingsListeners() {
 export function exportProgress() {
   const progress = loadProgressForExport();
   const flashcards = loadFlashcardProgressForExport();
+  const bookmarks = loadBookmarksForExport();
+  const highlights = loadHighlightsForExport();
   const theme = getTheme();
   const fontScale = getFontScale();
   const diagnosticCompleted = localStorage.getItem(DIAGNOSTIC_KEY);
@@ -136,6 +140,8 @@ export function exportProgress() {
     exportedAt: new Date().toISOString(),
     nypd_progress: progress,
     nypd_flashcards: flashcards,
+    nypd_bookmarks: bookmarks,
+    nypd_highlights: highlights,
     nypd_theme: theme,
     nypd_font_scale: fontScale,
   };
@@ -162,12 +168,12 @@ export function showImportDialog() {
   input.type = 'file';
   input.accept = '.json,application/json';
 
-  input.addEventListener('change', (e) => {
+  input.addEventListener('change', e => {
     const file = (e.target as HTMLInputElement).files?.[0];
     if (!file) return;
 
     const reader = new FileReader();
-    reader.onload = (event) => {
+    reader.onload = event => {
       try {
         const data = JSON.parse(event.target?.result as string);
         const validation = validateImportData(data);
@@ -179,7 +185,7 @@ export function showImportDialog() {
 
         const preview = buildImportPreview(data);
         showConfirmDialog(data, preview);
-      } catch (err) {
+      } catch {
         alert('Failed to parse JSON file. Please ensure it is a valid export file.');
       }
     };
@@ -201,8 +207,13 @@ function validateImportData(data: Partial<ExportData>): { valid: boolean; error?
     return { valid: false, error: 'Missing exportedAt field' };
   }
 
-  if (!data.nypd_progress && !data.nypd_flashcards) {
-    return { valid: false, error: 'No progress or flashcard data found' };
+  if (
+    !data.nypd_progress &&
+    !data.nypd_flashcards &&
+    !data.nypd_bookmarks &&
+    !data.nypd_highlights
+  ) {
+    return { valid: false, error: 'No progress, flashcard, bookmarks, or highlights data found' };
   }
 
   if (data.nypd_theme && data.nypd_theme !== 'light' && data.nypd_theme !== 'dark') {
@@ -342,6 +353,14 @@ function performImport(data: ExportData) {
 
   if (data.nypd_diagnostic_completed_at) {
     localStorage.setItem(DIAGNOSTIC_KEY, data.nypd_diagnostic_completed_at);
+  }
+
+  if (data.nypd_bookmarks) {
+    saveBookmarksForImport(data.nypd_bookmarks as any);
+  }
+
+  if (data.nypd_highlights) {
+    saveHighlightsForImport(data.nypd_highlights as any);
   }
 
   alert('Progress imported successfully!');

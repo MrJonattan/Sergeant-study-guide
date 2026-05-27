@@ -19,6 +19,8 @@ import { renderWeakAreas } from './views/weak-areas';
 import { renderSearch } from './views/search';
 import { renderDiagnostic } from './views/diagnostic';
 import { renderSchedule } from './views/schedule';
+import { renderBookmarks } from './views/bookmarks';
+import { renderHighlights } from './views/highlights';
 import { loadStudyData } from './utils/data-loader';
 import {
   renderErrorRecovery,
@@ -44,6 +46,8 @@ const routes = {
   search: renderSearch,
   diagnostic: renderDiagnostic,
   schedule: renderSchedule,
+  bookmarks: renderBookmarks,
+  highlights: renderHighlights,
 };
 
 // ─────────────────────────────────────────────

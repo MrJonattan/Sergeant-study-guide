@@ -1061,6 +1061,225 @@ details[open] summary {
 }
 
 /* ─────────────────────────────────────────────
+   Bookmark Buttons
+   ───────────────────────────────────────────── */
+
+.bookmark-btn {
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.25rem;
+  padding: 0.25rem 0.5rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: var(--fg);
+  opacity: 0.4;
+  transition: all 0.15s ease;
+  min-width: 32px;
+  min-height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+}
+
+.bookmark-btn:hover {
+  opacity: 0.8;
+}
+
+.bookmark-btn.bookmarked {
+  opacity: 1;
+  color: var(--callout-memory-border);
+}
+
+.bookmark-btn:active {
+  transform: translateY(-50%) scale(0.9);
+}
+
+/* H2 and H3 headings need position: relative for absolute positioning */
+.cheatsheet-h2,
+.cheatsheet-h3 {
+  position: relative;
+  padding-right: 2.5rem; /* Space for bookmark button */
+}
+
+/* Callout bookmark button */
+.callout {
+  position: relative;
+}
+
+.callout-bookmark-btn {
+  position: absolute;
+  right: 0.75rem;
+  top: 0.75rem;
+  font-size: 1rem;
+  padding: 0.2rem 0.4rem;
+  opacity: 0.5;
+}
+
+.callout-bookmark-btn:hover {
+  opacity: 0.8;
+}
+
+.callout-bookmark-btn.bookmarked {
+  opacity: 1;
+  color: var(--callout-memory-border);
+}
+
+/* ─────────────────────────────────────────────
+   Bookmarks View
+   ───────────────────────────────────────────── */
+
+.bookmarks-intro {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  opacity: 0.8;
+  margin-bottom: 1.5rem;
+}
+
+.bookmarks-empty {
+  text-align: center;
+  padding: 3rem 1rem;
+  border: var(--rule-thin);
+  border-radius: 8px;
+  background: var(--bg);
+}
+
+.bookmarks-empty .empty-icon {
+  font-size: 4rem;
+  opacity: 0.3;
+  margin-bottom: 1rem;
+}
+
+.bookmarks-empty h2 {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.bookmarks-empty p {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  opacity: 0.7;
+  max-width: 500px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.bookmarks-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.bookmarks-chapter-group {
+  border: var(--rule-thin);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--bg);
+}
+
+.bookmarks-chapter-title {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 0.75rem 1rem;
+  background: var(--bg-muted);
+  border-bottom: var(--rule-thin);
+  margin: 0;
+}
+
+.bookmarks-items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.bookmark-item {
+  display: flex;
+  align-items: flex-start;
+  padding: 0.75rem 1rem;
+  border-bottom: var(--rule-thin);
+  cursor: pointer;
+  transition: background 0.15s ease;
+  gap: 1rem;
+}
+
+.bookmark-item:last-child {
+  border-bottom: none;
+}
+
+.bookmark-item:hover {
+  background: var(--bg-muted);
+}
+
+.bookmark-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.bookmark-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.25rem;
+}
+
+.bookmark-section-title {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.bookmark-time {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  opacity: 0.6;
+  white-space: nowrap;
+}
+
+.bookmark-callout-snippet {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  opacity: 0.7;
+  line-height: 1.5;
+  margin: 0.25rem 0 0 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.bookmark-remove-btn {
+  font-size: 1rem;
+  padding: 0.25rem 0.5rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: var(--fg);
+  opacity: 0.4;
+  transition: all 0.15s ease;
+  min-width: 32px;
+  min-height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bookmark-remove-btn:hover {
+  opacity: 1;
+  color: var(--error);
+}
+
+.bookmark-remove-btn:active {
+  transform: scale(0.9);
+}
+
+/* ─────────────────────────────────────────────
    Sergeant Focus View
    ───────────────────────────────────────────── */
 
@@ -2557,6 +2776,96 @@ details[open] summary {
 
 .import-confirm-dialog {
   max-width: 600px;
+}
+
+/* ─────────────────────────────────────────────
+   Text Highlights
+   ───────────────────────────────────────────── */
+
+.hl-yellow {
+  background: rgba(255, 235, 59, 0.35);
+  padding: 0 2px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+html.dark .hl-yellow {
+  background: rgba(255, 235, 59, 0.2);
+}
+
+/* Highlight toolbar */
+.highlight-toolbar {
+  position: absolute;
+  background: var(--bg);
+  border: var(--rule);
+  border-radius: 6px;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  pointer-events: auto;
+}
+
+.highlight-toolbar-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.4rem 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  font-weight: 600;
+  border: var(--rule-thin);
+  border-radius: 4px;
+  background: var(--bg);
+  color: var(--fg);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.highlight-toolbar-btn:hover {
+  background: var(--fg);
+  color: var(--bg);
+}
+
+.highlight-color-swatch {
+  width: 16px;
+  height: 16px;
+  border-radius: 2px;
+  background: rgba(255, 235, 59, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+/* Highlight popover */
+.highlight-popover {
+  position: absolute;
+  background: var(--bg);
+  border: var(--rule);
+  border-radius: 6px;
+  padding: 0.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  pointer-events: auto;
+}
+
+.highlight-popover-btn {
+  padding: 0.4rem 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  font-weight: 600;
+  border: var(--rule-thin);
+  border-radius: 4px;
+  background: var(--callout-conflict-bg);
+  color: var(--callout-conflict-border);
+  cursor: pointer;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+.highlight-popover-btn:hover {
+  background: var(--callout-conflict-border);
+  color: var(--bg);
 }
 
 /* ─────────────────────────────────────────────
