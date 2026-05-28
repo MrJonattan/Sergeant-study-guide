@@ -4,11 +4,9 @@
  */
 
 import { updateBreadcrumbs } from '../components/topbar';
-import { appState } from '../main';
 import {
   getExamDate,
   setExamDate,
-  clearExamDate,
   getSchedule,
   getTodayPlan,
   isDailyPlanComplete,
@@ -17,10 +15,7 @@ import {
 import { getChapterInfo, getDaysUntilExam, isCramMode } from '../utils/scheduler';
 
 export function renderSchedule() {
-  updateBreadcrumbs([
-    { label: 'Home', route: 'home' },
-    { label: 'Study Schedule' },
-  ]);
+  updateBreadcrumbs([{ label: 'Home', route: 'home' }, { label: 'Study Schedule' }]);
 
   const content = document.getElementById('content');
   if (!content) return;
@@ -143,7 +138,9 @@ function renderTodayPlanCard(plan: ReturnType<typeof getTodayPlan>, isComplete: 
       </div>
 
       <div class="plan-tasks">
-        ${chapterInfos.length > 0 ? `
+        ${
+          chapterInfos.length > 0
+            ? `
           <div class="plan-task">
             <span class="task-icon">📖</span>
             <div class="task-content">
@@ -152,9 +149,13 @@ function renderTodayPlanCard(plan: ReturnType<typeof getTodayPlan>, isComplete: 
               <span class="task-time">${chapterInfos.reduce((sum, c) => sum + c.estHours, 0)} hours estimated</span>
             </div>
           </div>
-        ` : ''}
+        `
+            : ''
+        }
 
-        ${plan?.reviewQuiz ? `
+        ${
+          plan?.reviewQuiz
+            ? `
           <div class="plan-task">
             <span class="task-icon">📝</span>
             <div class="task-content">
@@ -162,9 +163,13 @@ function renderTodayPlanCard(plan: ReturnType<typeof getTodayPlan>, isComplete: 
               <p>${plan.reviewQuiz.questionCount} questions on ${plan.reviewQuiz.chapterId.replace('-', ' ').toUpperCase()}</p>
             </div>
           </div>
-        ` : ''}
+        `
+            : ''
+        }
 
-        ${plan?.isSundayReview ? `
+        ${
+          plan?.isSundayReview
+            ? `
           <div class="plan-task">
             <span class="task-icon">🔄</span>
             <div class="task-content">
@@ -172,9 +177,13 @@ function renderTodayPlanCard(plan: ReturnType<typeof getTodayPlan>, isComplete: 
               <p>Catch up on missed material and review weak areas</p>
             </div>
           </div>
-        ` : ''}
+        `
+            : ''
+        }
 
-        ${!plan?.newChapters.length && !plan?.reviewQuiz && !plan?.isSundayReview ? `
+        ${
+          !plan?.newChapters.length && !plan?.reviewQuiz && !plan?.isSundayReview
+            ? `
           <div class="plan-task">
             <span class="task-icon">⏸</span>
             <div class="task-content">
@@ -182,19 +191,27 @@ function renderTodayPlanCard(plan: ReturnType<typeof getTodayPlan>, isComplete: 
               <p>Use this time to rest or catch up if needed</p>
             </div>
           </div>
-        ` : ''}
+        `
+            : ''
+        }
       </div>
 
-      ${!isComplete ? `
-        <button class="schedule-btn schedule-btn-primary plan-complete-btn" data-today="${today}">
+      ${
+        !isComplete
+          ? `
+        <button class="schedule-btn schedule-btn-primary plan-complete-btn" data-today="${new Date().toISOString().split('T')[0]}">
           ✓ Mark Today's Plan Complete
         </button>
-      ` : ''}
+      `
+          : ''
+      }
     </div>
   `;
 }
 
-function renderWeekCard(week: NonNullable<ReturnType<typeof getSchedule>>['weeklyPlans'][0]): string {
+function renderWeekCard(
+  week: NonNullable<ReturnType<typeof getSchedule>>['weeklyPlans'][0]
+): string {
   return `
     <div class="schedule-week ${week.isReviewWeek ? 'review-week' : ''}">
       <div class="week-header">
@@ -214,11 +231,17 @@ function renderWeekCard(week: NonNullable<ReturnType<typeof getSchedule>>['weekl
   `;
 }
 
-function renderDayCard(day: ReturnType<typeof getSchedule>['weeklyPlans'][0]['dailyPlans'][0]): string {
+function renderDayCard(
+  day: ReturnType<typeof getSchedule>['weeklyPlans'][0]['dailyPlans'][0]
+): string {
   const isToday = day.date === new Date().toISOString().split('T')[0];
   const chapterInfos = day.newChapters.map(id => getChapterInfo(id)).filter(Boolean);
   const date = new Date(day.date);
-  const dateStr = date.toLocaleDateString(undefined, { weekday: 'short', month: 'short', day: 'numeric' });
+  const dateStr = date.toLocaleDateString(undefined, {
+    weekday: 'short',
+    month: 'short',
+    day: 'numeric',
+  });
 
   return `
     <div class="schedule-day ${isToday ? 'today' : ''}">
@@ -227,11 +250,14 @@ function renderDayCard(day: ReturnType<typeof getSchedule>['weeklyPlans'][0]['da
         ${isToday ? '<span class="today-badge">Today</span>' : ''}
       </div>
       <div class="day-content">
-        ${chapterInfos.length > 0
-          ? chapterInfos.map(c => `<span class="chapter-tag">${c.id.split('-')[0]}</span>`).join('')
-          : day.isSundayReview
-            ? '<span class="review-tag">🔄 Review</span>'
-            : '<span class="free-tag">Free</span>'
+        ${
+          chapterInfos.length > 0
+            ? chapterInfos
+                .map(c => `<span class="chapter-tag">${c.id.split('-')[0]}</span>`)
+                .join('')
+            : day.isSundayReview
+              ? '<span class="review-tag">🔄 Review</span>'
+              : '<span class="free-tag">Free</span>'
         }
       </div>
     </div>

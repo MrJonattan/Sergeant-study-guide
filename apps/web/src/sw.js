@@ -110,7 +110,7 @@ async function networkFirst(request, cacheName) {
     }
 
     return networkResponse;
-  } catch (error) {
+  } catch {
     // Network failed, try cache
     const cachedResponse = await caches.match(request);
 

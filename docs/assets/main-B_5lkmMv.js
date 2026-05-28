@@ -1140,7 +1140,7 @@ Are you sure you want to submit?`))return}else if(!confirm(`Submit exam with all
       </div>
 
       ${t?"":`
-        <button class="schedule-btn schedule-btn-primary plan-complete-btn" data-today="${today}">
+        <button class="schedule-btn schedule-btn-primary plan-complete-btn" data-today="${new Date().toISOString().split("T")[0]}">
           ✓ Mark Today's Plan Complete
         </button>
       `}
@@ -1171,7 +1171,7 @@ Are you sure you want to submit?`))return}else if(!confirm(`Submit exam with all
         ${s.length>0?s.map(a=>`<span class="chapter-tag">${a.id.split("-")[0]}</span>`).join(""):e.isSundayReview?'<span class="review-tag">🔄 Review</span>':'<span class="free-tag">Free</span>'}
       </div>
     </div>
-  `}function Gn(){const e=document.getElementById("save-exam-date");e&&e.addEventListener("click",()=>{const n=document.getElementById("exam-date-input");if(n!=null&&n.value){const i=new Date(n.value).getTime();Ht(i),oe()}});const t=document.getElementById("change-exam-date");t&&t.addEventListener("click",()=>{oe()});const s=document.querySelector(".plan-complete-btn");s&&s.addEventListener("click",()=>{const n=new Date().toISOString().split("T")[0];Nt(n),oe()})}function Zt(){const e=document.getElementById("content");if(!e)return;const t=Cs(),s=new Map;for(const n of t){const i=s.get(n.chapterId)||[];i.push(n),s.set(n.chapterId,i)}for(const[,n]of s)n.sort((i,a)=>new Date(a.addedAt).getTime()-new Date(i.addedAt).getTime()),s.set(chapterId,n);e.innerHTML=`
+  `}function Gn(){const e=document.getElementById("save-exam-date");e&&e.addEventListener("click",()=>{const n=document.getElementById("exam-date-input");if(n!=null&&n.value){const i=new Date(n.value).getTime();Ht(i),oe()}});const t=document.getElementById("change-exam-date");t&&t.addEventListener("click",()=>{oe()});const s=document.querySelector(".plan-complete-btn");s&&s.addEventListener("click",()=>{const n=new Date().toISOString().split("T")[0];Nt(n),oe()})}function Zt(){const e=document.getElementById("content");if(!e)return;const t=Cs(),s=new Map;for(const n of t){const i=s.get(n.chapterId)||[];i.push(n),s.set(n.chapterId,i)}for(const[n,i]of s)i.sort((a,o)=>new Date(o.addedAt).getTime()-new Date(a.addedAt).getTime()),s.set(n,i);e.innerHTML=`
     <h1>Bookmarks</h1>
     <p class="bookmarks-intro">
       Bookmark sections and callouts while studying to quickly return to them later.
@@ -1206,7 +1206,7 @@ Are you sure you want to submit?`))return}else if(!confirm(`Submit exam with all
         ✕
       </button>
     </li>
-  `}function Vn(e){const t=Date.now(),s=new Date(e).getTime(),n=t-s,i=Math.floor(n/1e3),a=Math.floor(i/60),o=Math.floor(a/60),r=Math.floor(o/24);return i<60?"Just now":a<60?`${a}m ago`:o<24?`${o}h ago`:r<7?`${r}d ago`:new Date(e).toLocaleDateString("en-US",{month:"short",day:"numeric"})}function Y(e){return e.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}function Xn(){document.querySelectorAll(".bookmark-remove-btn").forEach(e=>{e.addEventListener("click",t=>{t.stopPropagation();const s=e.getAttribute("data-bookmark-id");s&&(Ot(s),Zt())})}),document.querySelectorAll(".bookmark-content").forEach(e=>{e.addEventListener("click",()=>{const t=e.getAttribute("data-chapter-id");t&&Q(`chapter/${t}`)})})}function es(){const e=document.getElementById("content");if(!e)return;const t=Ms(),s=new Map;for(const n of t){const i=s.get(n.chapterId)||[];i.push(n),s.set(n.chapterId,i)}for(const[,n]of s)n.sort((i,a)=>new Date(a.createdAt).getTime()-new Date(i.createdAt).getTime()),s.set(chapterId,n);e.innerHTML=`
+  `}function Vn(e){const t=Date.now(),s=new Date(e).getTime(),n=t-s,i=Math.floor(n/1e3),a=Math.floor(i/60),o=Math.floor(a/60),r=Math.floor(o/24);return i<60?"Just now":a<60?`${a}m ago`:o<24?`${o}h ago`:r<7?`${r}d ago`:new Date(e).toLocaleDateString("en-US",{month:"short",day:"numeric"})}function Y(e){return e.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}function Xn(){document.querySelectorAll(".bookmark-remove-btn").forEach(e=>{e.addEventListener("click",t=>{t.stopPropagation();const s=e.getAttribute("data-bookmark-id");s&&(Ot(s),Zt())})}),document.querySelectorAll(".bookmark-content").forEach(e=>{e.addEventListener("click",()=>{const t=e.getAttribute("data-chapter-id");t&&Q(`chapter/${t}`)})})}function es(){const e=document.getElementById("content");if(!e)return;const t=Ms(),s=new Map;for(const n of t){const i=s.get(n.chapterId)||[];i.push(n),s.set(n.chapterId,i)}for(const[n,i]of s)i.sort((a,o)=>new Date(o.createdAt).getTime()-new Date(a.createdAt).getTime()),s.set(n,i);e.innerHTML=`
     <h1>Highlights</h1>
     <p class="highlights-intro">
       Highlight text while reading to mark important passages. Click on any highlight to remove it.

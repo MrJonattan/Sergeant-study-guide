@@ -2,7 +2,12 @@
  * Study Schedule State Management - localStorage adapter
  */
 
-import { StudySchedule, DailyPlan, generateSchedule, getDailyPlan as getPlanFromSchedule } from '../utils/scheduler';
+import {
+  StudySchedule,
+  DailyPlan,
+  generateSchedule,
+  getDailyPlan as getPlanFromSchedule,
+} from '../utils/scheduler';
 
 const EXAM_DATE_KEY = 'nypd_exam_date';
 const SCHEDULE_KEY = 'nypd_schedule';
@@ -151,7 +156,7 @@ export function getStreak(): number {
   const sorted = [...completions].sort((a, b) => b.localeCompare(a));
 
   let streak = 0;
-  let currentDate = new Date();
+  const currentDate = new Date();
 
   // Check if yesterday or today was completed (start streak)
   const today = currentDate.toISOString().split('T')[0];
