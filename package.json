@@ -24,7 +24,7 @@
     "test:all": "npm run test:unit && npm run test:e2e && npm run test:coverage",
     "test:e2e:ui": "playwright test --ui",
     "test:e2e:debug": "playwright test --debug",
-    "deploy": "pnpm run build:web && cp apps/web/dist/index.html apps/web/dist/manifest.json apps/web/dist/sw.js apps/web/dist/data.js docs/ && cp build/master-practice-exam.html build/quick-reference-cheat-sheet.html docs/ && rm -f docs/index.html.bak 2>/dev/null; git add docs/ && echo 'Ready to commit: git commit -am \"Deploy update\" && git push'",
+    "deploy": "pnpm run build:web && rm -rf docs/assets && cp -r apps/web/dist/assets docs/assets && cp apps/web/dist/index.html apps/web/dist/manifest.json apps/web/dist/sw.js apps/web/dist/data.js docs/ && cp build/master-practice-exam.html build/quick-reference-cheat-sheet.html docs/ && rm -f docs/index.html.bak 2>/dev/null; git add docs/ && echo 'Ready to commit: git commit -am \"Deploy update\" && git push'",
     "export:anki": "node scripts/export-anki.js",
     "generate-quiz": "cd scripts/quiz-generator && PYTHONPATH=. .venv/bin/python -m cli.app generate",
     "generate-quiz:validate": "cd scripts/quiz-generator && PYTHONPATH=. .venv/bin/python -m cli.app validate",
