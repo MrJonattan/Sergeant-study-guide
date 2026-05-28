@@ -202,6 +202,19 @@ function initKeyboardShortcuts() {
 }
 
 // ─────────────────────────────────────────────
+// Service Worker Registration
+// ─────────────────────────────────────────────
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    const swPath = './sw.js';
+    navigator.serviceWorker.register(swPath).catch(error => {
+      console.error('SW registration failed:', error);
+    });
+  });
+}
+
+// ─────────────────────────────────────────────
 // Start App on DOM Ready
 // ─────────────────────────────────────────────
 

@@ -2,8 +2,9 @@
   "name": "NYPD Sergeant Study Guide",
   "short_name": "Sgt Study",
   "description": "NYPD Sergeant Promotional Exam Study Guide",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/Sergeant-study-guide/",
+  "scope": "/Sergeant-study-guide/",
+  "id": "/Sergeant-study-guide/",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#000000",
@@ -31,21 +32,21 @@
       "name": "Quick Quiz",
       "short_name": "Quiz",
       "description": "Start a 10-question quick quiz",
-      "url": "./#quiz",
+      "url": "/Sergeant-study-guide/#quiz",
       "icons": []
     },
     {
       "name": "Practice Exam",
       "short_name": "Exam",
       "description": "Start a full 140-question practice exam",
-      "url": "./#exam",
+      "url": "/Sergeant-study-guide/#exam",
       "icons": []
     },
     {
       "name": "Flashcards",
       "short_name": "Cards",
       "description": "Study with flashcards",
-      "url": "./#flashcards",
+      "url": "/Sergeant-study-guide/#flashcards",
       "icons": []
     }
   ]

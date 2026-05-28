@@ -1,7 +1,7 @@
 // Service Worker with network-first strategy for app shell
 // Ensures fresh deploys reach users without manual cache clearing
 
-const CACHE_VERSION = 'v10';
+const CACHE_VERSION = 'v11';
 const BUILD_ID = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
 const CACHE_NAME = `nypd-sgt-${CACHE_VERSION}-${BUILD_ID}`;
 

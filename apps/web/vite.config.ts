@@ -5,7 +5,7 @@ import gzip from 'rollup-plugin-gzip';
 export default defineConfig({
   root: resolve(__dirname, 'src'),
   publicDir: resolve(__dirname, 'public'),
-  base: './',
+  base: '/Sergeant-study-guide/',
   // Inject data.js before the main module script in head
   transformIndexHtml(html) {
     return html.replace(
