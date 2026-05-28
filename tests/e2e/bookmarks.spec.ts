@@ -11,8 +11,8 @@ test.describe('Bookmarks', () => {
     // Click on Bookmarks in sidebar
     await page.click('[data-tool="bookmarks"]');
 
-    // Should navigate to #bookmarks
-    await expect(page).toHaveURL('/#bookmarks');
+    // Should navigate to #bookmarks (hash-only match for base-path resilience)
+    await expect(page).toHaveURL(/#bookmarks$/);
 
     // Should show bookmarks page
     await expect(page.getByRole('heading', { name: 'Bookmarks', exact: true })).toBeVisible();
@@ -82,17 +82,16 @@ test.describe('Bookmarks', () => {
     await page.waitForURL(/#chapter\//);
     await page.waitForSelector('h2');
 
-    // Get section title (without the bookmark icon)
-    const sectionTitle = await page.locator('h2').first().textContent();
-
     // Add bookmark
     const bookmarkBtn = page.locator('h2').first().locator('.bookmark-btn');
     await bookmarkBtn.click();
     await expect(bookmarkBtn).toHaveText('★');
 
-    // Navigate to bookmarks
+    // Navigate to bookmarks (hash-only match for base-path resilience)
     await page.click('[data-tool="bookmarks"]');
-    await page.waitForURL('/#bookmarks');
+    await page.waitForURL(/#bookmarks$/);
+    // Wait for view to render
+    await page.waitForSelector('h1:has-text("Bookmarks")');
 
     // Should see bookmark in list
     await expect(page.locator('.bookmarks-list')).toBeVisible();
@@ -139,9 +138,13 @@ test.describe('Bookmarks', () => {
     await bookmarkBtn.click();
     await expect(bookmarkBtn).toHaveText('★');
 
-    // Navigate to bookmarks
+    // Navigate to bookmarks (hash-only match for base-path resilience)
     await page.click('[data-tool="bookmarks"]');
-    await page.waitForURL('/#bookmarks');
+    await page.waitForURL(/#bookmarks$/);
+    // Wait for router to process hashchange and render view
+    await page.waitForTimeout(500);
+    // Wait for view to render
+    await page.waitForSelector('h1:has-text("Bookmarks")');
 
     // Click remove button
     const removeBtn = page.locator('.bookmark-remove-btn').first();
@@ -168,9 +171,13 @@ test.describe('Bookmarks', () => {
     const bookmarkBtn = page.locator('h2').first().locator('.bookmark-btn');
     await bookmarkBtn.click();
 
-    // Navigate to bookmarks
+    // Navigate to bookmarks (hash-only match for base-path resilience)
     await page.click('[data-tool="bookmarks"]');
-    await page.waitForURL('/#bookmarks');
+    await page.waitForURL(/#bookmarks$/);
+    // Wait for router to process hashchange and render view
+    await page.waitForTimeout(500);
+    // Wait for view to render
+    await page.waitForSelector('h1:has-text("Bookmarks")');
 
     // Click on bookmark content to navigate back
     await page.locator('.bookmark-content').first().click();
@@ -195,9 +202,13 @@ test.describe('Bookmarks', () => {
       await calloutBookmarkBtn.click();
       await expect(calloutBookmarkBtn).toHaveText('★');
 
-      // Navigate to bookmarks
+      // Navigate to bookmarks (hash-only match for base-path resilience)
       await page.click('[data-tool="bookmarks"]');
-      await page.waitForURL('/#bookmarks');
+      await page.waitForURL(/#bookmarks$/);
+      // Wait for router to process hashchange and render view
+      await page.waitForTimeout(500);
+      // Wait for view to render
+      await page.waitForSelector('h1:has-text("Bookmarks")');
 
       // Should show callout snippet
       const snippet = page.locator('.bookmark-callout-snippet').first();
@@ -217,9 +228,13 @@ test.describe('Bookmarks', () => {
     const bookmarkBtn = page.locator('h2').first().locator('.bookmark-btn');
     await bookmarkBtn.click();
 
-    // Navigate to bookmarks
+    // Navigate to bookmarks (hash-only match for base-path resilience)
     await page.click('[data-tool="bookmarks"]');
-    await page.waitForURL('/#bookmarks');
+    await page.waitForURL(/#bookmarks$/);
+    // Wait for router to process hashchange and render view
+    await page.waitForTimeout(500);
+    // Wait for view to render
+    await page.waitForSelector('h1:has-text("Bookmarks")');
 
     // Should show time ago (e.g., "Just now", "1m ago")
     await expect(page.locator('.bookmark-time')).toBeVisible();

@@ -18,7 +18,7 @@ test.describe('Homepage', () => {
     await page.goto('/');
     // Count only tool nav items (not Display section controls)
     const toolItems = page.locator('#nav-tools .nav-item[data-tool]');
-    await expect(toolItems).toHaveCount(9); // Home, Schedule, Cheat Sheet, Sergeant, Diagnostic, Flashcards, Quiz, Exam, Weak
+    await expect(toolItems).toHaveCount(11); // Home, Schedule, Bookmarks, Highlights, Cheat Sheet, Sergeant, Diagnostic, Flashcards, Quiz, Exam, Weak
   });
 
   test('should toggle dark mode', async ({ page }) => {

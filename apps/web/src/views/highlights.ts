@@ -20,7 +20,7 @@ export function renderHighlights() {
   }
 
   // Sort highlights within each chapter by createdAt descending
-  for (const [, chapterHighlights] of byChapter) {
+  for (const [chapterId, chapterHighlights] of byChapter) {
     chapterHighlights.sort(
       (a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime()
     );

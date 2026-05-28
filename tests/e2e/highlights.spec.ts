@@ -21,8 +21,8 @@ test.describe('Highlights', () => {
     // Click on Highlights in sidebar
     await page.click('[data-tool="highlights"]');
 
-    // Should navigate to #highlights
-    await expect(page).toHaveURL('/#highlights');
+    // Should navigate to #highlights (hash-only match for base-path resilience)
+    await expect(page).toHaveURL(/#highlights$/);
 
     // Should show highlights page
     await expect(page.getByRole('heading', { name: 'Highlights', exact: true })).toBeVisible();
@@ -279,9 +279,11 @@ test.describe('Highlights', () => {
     await page.locator('.highlight-toolbar-btn').click();
     await page.waitForTimeout(1000);
 
-    // Navigate to highlights
+    // Navigate to highlights (hash-only match for base-path resilience)
     await page.click('[data-tool="highlights"]');
-    await page.waitForURL('/#highlights');
+    await page.waitForURL(/#highlights$/);
+    // Wait for view to render
+    await page.waitForSelector('h1:has-text("Highlights")');
 
     // Should see highlights list
     await expect(page.locator('.highlights-list')).toBeVisible();
@@ -320,9 +322,11 @@ test.describe('Highlights', () => {
     await page.locator('.highlight-toolbar-btn').click();
     await page.waitForTimeout(1000);
 
-    // Navigate to highlights
+    // Navigate to highlights (hash-only match for base-path resilience)
     await page.click('[data-tool="highlights"]');
-    await page.waitForURL('/#highlights');
+    await page.waitForURL(/#highlights$/);
+    // Wait for view to render
+    await page.waitForSelector('h1:has-text("Highlights")');
 
     // Click remove button
     const removeBtn = page.locator('.highlight-remove-btn').first();
@@ -366,9 +370,11 @@ test.describe('Highlights', () => {
     await page.locator('.highlight-toolbar-btn').click();
     await page.waitForTimeout(1000);
 
-    // Navigate to highlights
+    // Navigate to highlights (hash-only match for base-path resilience)
     await page.click('[data-tool="highlights"]');
-    await page.waitForURL('/#highlights');
+    await page.waitForURL(/#highlights$/);
+    // Wait for view to render
+    await page.waitForSelector('h1:has-text("Highlights")');
 
     // Click on highlight content to navigate back
     await page.locator('.highlight-content').first().click();
@@ -443,9 +449,11 @@ test.describe('Highlights', () => {
     await page.locator('.highlight-toolbar-btn').click();
     await page.waitForTimeout(1000);
 
-    // Navigate to highlights
+    // Navigate to highlights (hash-only match for base-path resilience)
     await page.click('[data-tool="highlights"]');
-    await page.waitForURL('/#highlights');
+    await page.waitForURL(/#highlights$/);
+    // Wait for view to render
+    await page.waitForSelector('h1:has-text("Highlights")');
 
     // Should show time ago
     await expect(page.locator('.highlight-time')).toBeVisible();

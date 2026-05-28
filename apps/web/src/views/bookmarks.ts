@@ -20,7 +20,7 @@ export function renderBookmarks() {
   }
 
   // Sort bookmarks within each chapter by addedAt descending
-  for (const [, chapterBookmarks] of byChapter) {
+  for (const [chapterId, chapterBookmarks] of byChapter) {
     chapterBookmarks.sort((a, b) => new Date(b.addedAt).getTime() - new Date(a.addedAt).getTime());
     byChapter.set(chapterId, chapterBookmarks);
   }
