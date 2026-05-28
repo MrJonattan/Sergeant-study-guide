@@ -149,20 +149,23 @@
    Topbar
    ───────────────────────────────────────────── */
 
+:root {
+  --topbar-height-mobile: 52px;
+  --topbar-height-desktop: 60px;
+}
+
 #topbar {
   position: sticky;
   top: 0;
   background: var(--bg);
   border-bottom: var(--rule);
-  padding: calc(0.75rem + env(safe-area-inset-top, 0)) 1rem 0.75rem;
+  height: var(--topbar-height-mobile);
+  padding: 0 12px;
+  padding-top: max(0px, env(safe-area-inset-top, 0px));
   display: flex;
   align-items: center;
-  gap: 0.75rem;
+  gap: 12px;
   z-index: 50;
-  flex-wrap: wrap;
-  padding-top: max(0.75rem, env(safe-area-inset-top, 0.75rem));
-  padding-right: max(1rem, env(safe-area-inset-right, 1rem));
-  padding-left: max(1rem, env(safe-area-inset-left, 1rem));
   flex-shrink: 0;
   /* iOS blur effect */
   backdrop-filter: saturate(180%) blur(20px);
@@ -170,20 +173,10 @@
 }
 
 /* Desktop: Larger topbar */
-@media (min-width: 1025px) {
+@media (min-width: 768px) {
   #topbar {
-    padding-top: max(1rem, env(safe-area-inset-top, 1rem));
-    padding-right: max(2rem, env(safe-area-inset-right, 2rem));
-    padding-left: max(2rem, env(safe-area-inset-left, 2rem));
-  }
-
-  #breadcrumbs {
-    font-size: 0.7rem;
-  }
-
-  .icon-btn {
-    min-height: 48px;
-    padding: 0.5rem 0.75rem;
+    height: var(--topbar-height-desktop);
+    padding: 0 20px;
   }
 }
 
@@ -196,8 +189,9 @@
   font-family: var(--font-mono);
   font-size: 0.8rem;
   cursor: pointer;
-  min-height: 44px;
-  min-width: 44px;
+  min-height: 32px;
+  min-width: 32px;
+  flex-shrink: 0;
 }
 
 #menu-toggle:hover {
@@ -211,13 +205,12 @@
   letter-spacing: 0.1em;
   text-transform: uppercase;
   opacity: 0.5;
-  padding: 0.5rem 2.5rem 0;
-  flex-shrink: 0;
-  /* Truncate with ellipsis on mobile */
+  flex: 1;
+  min-width: 0;
+  /* Truncate with ellipsis */
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 100%;
 }
 
 #breadcrumbs span {
@@ -230,12 +223,14 @@
 
 .topbar-spacer {
   flex: 1;
+  min-width: 8px;
 }
 
 .topbar-controls {
   display: flex;
   gap: 0.3rem;
   align-items: center;
+  flex-shrink: 0;
 }
 
 .icon-btn {
@@ -250,7 +245,8 @@
     background 0.1s,
     color 0.1s;
   line-height: 1;
-  min-height: 44px;
+  min-height: 32px;
+  min-width: 32px;
 }
 
 .icon-btn:hover {
@@ -268,7 +264,7 @@
    ───────────────────────────────────────────── */
 
 #content {
-  padding: 1.5rem 1.5rem 3rem;
+  padding: 1rem 1.5rem 3rem;
   padding-right: max(1.5rem, env(safe-area-inset-right, 1.5rem));
   padding-left: max(1.5rem, env(safe-area-inset-left, 1.5rem));
   max-width: 900px;

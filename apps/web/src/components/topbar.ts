@@ -1,5 +1,5 @@
 /**
- * Topbar component - breadcrumbs and controls
+ * Topbar component - single compact row with hamburger, breadcrumbs, settings
  */
 
 import { navigateTo } from '../utils/router';
@@ -30,7 +30,6 @@ function renderTopbarControls() {
       <button class="icon-btn" id="settings-toggle" aria-label="Settings">⚙</button>
     `;
 
-    // Attach handlers for font controls
     const fontDecreaseBtn = document.getElementById('font-decrease');
     const fontIncreaseBtn = document.getElementById('font-increase');
     const themeToggleBtn = document.getElementById('theme-toggle');
@@ -60,7 +59,6 @@ function renderTopbarControls() {
 }
 
 export function initTopbar() {
-  // Breadcrumbs click handler
   const breadcrumbs = document.getElementById('breadcrumbs');
   if (breadcrumbs) {
     breadcrumbs.addEventListener('click', e => {
@@ -74,10 +72,8 @@ export function initTopbar() {
     });
   }
 
-  // Render controls based on viewport
   renderTopbarControls();
 
-  // Listen for resize events to re-render controls
   let resizeTimeout: NodeJS.Timeout;
   window.addEventListener('resize', () => {
     clearTimeout(resizeTimeout);
@@ -97,8 +93,4 @@ export function updateBreadcrumbs(items: Array<{ label: string; route?: string }
       return `<span>${item.label}</span>`;
     })
     .join(' / ');
-}
-
-export function updateTopbarTitle(_title: string) {
-  // Could add a title element to topbar if needed
 }
