@@ -8,37 +8,12 @@ export interface LoadDataOptions {
   onProgress?: (status: string) => void;
 }
 
-export interface StudyData {
-  chapters: Array<{
-    id: string;
-    sectionNum: string;
-    title: string;
-    readme: string;
-    sections: Array<{ filename: string; content: string }>;
-    keyTerms: string;
-    reviewQuestions: string;
-    questions: Array<{
-      number: number;
-      text: string;
-      options: string[];
-      answer?: string; // Letter answer ("A", "B", "C", "D")
-    }>;
-    sergeantFocus: Array<{ filename: string; text: string; category?: string }>;
-  }>;
-  cheatSheet: string;
-  examQuestions: Array<{
-    number: number;
-    text: string;
-    options: string[];
-    answer: string; // Letter answer ("A", "B", "C", "D")
-  }>;
-  totalQuestions: number;
-  sergeantCategories: Array<{
-    id: string;
-    label: string;
-    chapters: string[];
-  }>;
-  version: string;
+// Import types from core package for consistency
+import type { StudyData as CoreStudyData } from '@nypd-sergeant/core';
+
+// Extend with web-specific global cache
+export interface StudyData extends CoreStudyData {
+  version?: string;
 }
 
 /**

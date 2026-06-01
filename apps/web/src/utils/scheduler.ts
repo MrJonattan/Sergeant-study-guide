@@ -130,10 +130,12 @@ export function generateSchedule(examDate: number): StudySchedule {
     weekEnd.setDate(weekEnd.getDate() + 6);
 
     const dailyPlans: DailyPlan[] = [];
-    const chaptersThisWeek: Chapter[] = [];
+    const chaptersThisWeek: ScheduleChapter[] = [];
 
     // Distribute chapters across 7 days
-    const chaptersPerDay = Math.ceil((sortedChapters.length - chapterIndex) / ((contentWeeks - weekNum + 1) * 7));
+    const chaptersPerDay = Math.ceil(
+      (sortedChapters.length - chapterIndex) / ((contentWeeks - weekNum + 1) * 7)
+    );
 
     for (let day = 0; day < 7; day++) {
       const currentDate = new Date(weekStart);
@@ -170,10 +172,13 @@ export function generateSchedule(examDate: number): StudySchedule {
           date: dateStr,
           newChapters,
           dueFlashcardCount: 0,
-          reviewQuiz: newChapters.length > 0 ? {
-            chapterId: newChapters[0],
-            questionCount: 10,
-          } : undefined,
+          reviewQuiz:
+            newChapters.length > 0
+              ? {
+                  chapterId: newChapters[0],
+                  questionCount: 10,
+                }
+              : undefined,
           isSundayReview: false,
           isReviewWeek: false,
           focus: newChapters.length > 0 ? getWeekFocus(chaptersThisWeek) : 'Catch-up',

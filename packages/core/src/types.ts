@@ -3,7 +3,7 @@
  * These schemas provide runtime validation and TypeScript types
  */
 
-import { z } from 'zod';
+import { z } from "zod";
 
 // ─────────────────────────────────────────────
 // Basic Types
@@ -11,7 +11,7 @@ import { z } from 'zod';
 
 export const ChapterIdSchema = z.string().regex(/^\d{3}-[a-z0-9-]+$/);
 
-export const QuestionTypeSchema = z.enum(['mc', 'open']);
+export const QuestionTypeSchema = z.enum(["mc", "open"]);
 
 // ─────────────────────────────────────────────
 // Question Schema
@@ -24,7 +24,8 @@ export const QuestionSchema = z.object({
   answer: z.string().optional(),
   answerFull: z.string().optional(),
   explanation: z.string().optional(),
-  type: QuestionTypeSchema.default('mc'),
+  type: QuestionTypeSchema.default("mc"),
+  chapterId: z.string().optional(),
 });
 
 export type Question = z.infer<typeof QuestionSchema>;
@@ -122,7 +123,7 @@ export const FlashcardSchema = z.object({
   id: z.string(),
   front: z.string(),
   back: z.string(),
-  category: z.enum(['key-term', 'question', 'exam', 'sergeant-focus', 'note']),
+  category: z.enum(["key-term", "question", "exam", "sergeant-focus", "note"]),
   procedure: z.string(),
   chapterId: ChapterIdSchema,
 });
@@ -135,7 +136,7 @@ export type Flashcard = z.infer<typeof FlashcardSchema>;
 
 export const ChapterProgressSchema = z.object({
   chapterId: ChapterIdSchema,
-  status: z.enum(['not_started', 'in_progress', 'review', 'completed']),
+  status: z.enum(["not_started", "in_progress", "review", "completed"]),
   quizScore: z.number().min(0).max(100).optional(),
   questionsAnswered: z.number().int().nonnegative(),
   timeSpentSeconds: z.number().int().nonnegative(),
@@ -153,4 +154,3 @@ export const ProgressSchema = z.object({
 });
 
 export type Progress = z.infer<typeof ProgressSchema>;
-

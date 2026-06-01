@@ -15,6 +15,7 @@ interface Question {
   text: string;
   options: string[];
   answer?: string;
+  type?: 'mc' | 'open';
   chapterId?: string;
 }
 
@@ -89,7 +90,11 @@ function getDiagnosticQuestions(count: number): Question[] {
     chapter.questions?.forEach(q => {
       if (q.type === 'mc' && q.options && q.options.length > 0 && q.answer) {
         allQuestions.push({
-          ...q,
+          number: q.number,
+          text: q.text,
+          options: q.options,
+          answer: q.answer,
+          type: q.type,
           chapterId: chapter.id,
         });
       }

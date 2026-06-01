@@ -29,6 +29,7 @@ import {
   type ErrorState,
 } from './components/error-recovery';
 import { showSettingsSheet, attachSettingsListeners } from './components/settings';
+import type { RouteHandler } from './utils/router';
 
 // ─────────────────────────────────────────────
 // Route Definitions
@@ -36,7 +37,7 @@ import { showSettingsSheet, attachSettingsListeners } from './components/setting
 
 const routes = {
   home: renderHome,
-  'chapter/:id': renderChapter,
+  'chapter/:id': renderChapter as RouteHandler,
   quiz: renderQuiz,
   exam: renderExam,
   flashcards: renderFlashcards,
@@ -48,17 +49,27 @@ const routes = {
   schedule: renderSchedule,
   bookmarks: renderBookmarks,
   highlights: renderHighlights,
-};
+} as const;
 
 // ─────────────────────────────────────────────
 // Application State
 // ─────────────────────────────────────────────
 
-export const appState = {
+import type { StudyData } from './utils/data-loader';
+import type { Chapter } from '@nypd-sergeant/core';
+
+export const appState: {
+  currentRoute: string;
+  currentChapter: string | null;
+  data: StudyData | null;
+} = {
   currentRoute: 'home',
   currentChapter: null,
   data: null,
 };
+
+// Re-export Chapter for other modules
+export type { Chapter };
 
 // ─────────────────────────────────────────────
 // Initialize App
@@ -168,20 +179,22 @@ function initKeyboardShortcuts() {
       return;
     }
 
+    const target = e.target as HTMLElement;
+
     // Number keys 1-4 for quiz answers
-    if (e.target.tagName !== 'INPUT' && /^[1-4]$/.test(e.key)) {
+    if (target.tagName !== 'INPUT' && /^[1-4]$/.test(e.key)) {
       const event = new CustomEvent('quiz-keypress', { detail: { key: e.key } });
       document.dispatchEvent(event);
     }
 
     // N/P for next/previous chapter
-    if (e.target.tagName !== 'INPUT' && (e.key === 'n' || e.key === 'p')) {
+    if (target.tagName !== 'INPUT' && (e.key === 'n' || e.key === 'p')) {
       const event = new CustomEvent('nav-keypress', { detail: { key: e.key } });
       document.dispatchEvent(event);
     }
 
     // Desktop: Arrow keys for flashcard navigation
-    if (e.target.tagName !== 'INPUT' && window.location.hash === '#flashcards') {
+    if (target.tagName !== 'INPUT' && window.location.hash === '#flashcards') {
       if (e.key === 'ArrowLeft') {
         const prevBtn = document.getElementById('prev-card');
         prevBtn?.click();

@@ -17,7 +17,13 @@ interface Chapter {
   sectionNum: string;
   title: string;
   sergeantFocus: SergeantFocus[];
-  questions?: Array<{ number: number; text: string; options?: string[]; answer?: string }>;
+  questions?: Array<{
+    number: number;
+    text: string;
+    options?: string[];
+    answer?: string;
+    type?: 'mc' | 'open';
+  }>;
 }
 
 interface Question {
@@ -25,6 +31,9 @@ interface Question {
   text: string;
   options: string[];
   answer?: string;
+  answerFull?: string;
+  explanation?: string;
+  type?: 'mc' | 'open';
   chapterId?: string;
 }
 
@@ -190,7 +199,11 @@ function getSergeantFocusQuestions(count: number): Question[] {
       // Only include multiple-choice questions with options
       if (q.type === 'mc' && q.options && q.options.length > 0 && q.answer) {
         allQuestions.push({
-          ...q,
+          number: q.number,
+          text: q.text,
+          options: q.options,
+          answer: q.answer,
+          type: q.type,
           chapterId: chapter.id,
         });
       }

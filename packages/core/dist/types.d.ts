@@ -13,6 +13,7 @@ export declare const QuestionSchema: z.ZodObject<{
     answerFull: z.ZodOptional<z.ZodString>;
     explanation: z.ZodOptional<z.ZodString>;
     type: z.ZodDefault<z.ZodEnum<["mc", "open"]>>;
+    chapterId: z.ZodOptional<z.ZodString>;
 }, "strip", z.ZodTypeAny, {
     number: number;
     text: string;
@@ -21,6 +22,7 @@ export declare const QuestionSchema: z.ZodObject<{
     answer?: string | undefined;
     answerFull?: string | undefined;
     explanation?: string | undefined;
+    chapterId?: string | undefined;
 }, {
     number: number;
     text: string;
@@ -29,6 +31,7 @@ export declare const QuestionSchema: z.ZodObject<{
     answer?: string | undefined;
     answerFull?: string | undefined;
     explanation?: string | undefined;
+    chapterId?: string | undefined;
 }>;
 export type Question = z.infer<typeof QuestionSchema>;
 export declare const SectionSchema: z.ZodObject<{
@@ -81,6 +84,7 @@ export declare const ChapterSchema: z.ZodObject<{
         answerFull: z.ZodOptional<z.ZodString>;
         explanation: z.ZodOptional<z.ZodString>;
         type: z.ZodDefault<z.ZodEnum<["mc", "open"]>>;
+        chapterId: z.ZodOptional<z.ZodString>;
     }, "strip", z.ZodTypeAny, {
         number: number;
         text: string;
@@ -89,6 +93,7 @@ export declare const ChapterSchema: z.ZodObject<{
         answer?: string | undefined;
         answerFull?: string | undefined;
         explanation?: string | undefined;
+        chapterId?: string | undefined;
     }, {
         number: number;
         text: string;
@@ -97,6 +102,7 @@ export declare const ChapterSchema: z.ZodObject<{
         answer?: string | undefined;
         answerFull?: string | undefined;
         explanation?: string | undefined;
+        chapterId?: string | undefined;
     }>, "many">;
     sergeantFocus: z.ZodArray<z.ZodObject<{
         filename: z.ZodString;
@@ -130,6 +136,7 @@ export declare const ChapterSchema: z.ZodObject<{
         answer?: string | undefined;
         answerFull?: string | undefined;
         explanation?: string | undefined;
+        chapterId?: string | undefined;
     }[];
     sergeantFocus: {
         text: string;
@@ -155,6 +162,7 @@ export declare const ChapterSchema: z.ZodObject<{
         answer?: string | undefined;
         answerFull?: string | undefined;
         explanation?: string | undefined;
+        chapterId?: string | undefined;
     }[];
     sergeantFocus: {
         text: string;
@@ -226,6 +234,7 @@ export declare const StudyDataSchema: z.ZodObject<{
             answerFull: z.ZodOptional<z.ZodString>;
             explanation: z.ZodOptional<z.ZodString>;
             type: z.ZodDefault<z.ZodEnum<["mc", "open"]>>;
+            chapterId: z.ZodOptional<z.ZodString>;
         }, "strip", z.ZodTypeAny, {
             number: number;
             text: string;
@@ -234,6 +243,7 @@ export declare const StudyDataSchema: z.ZodObject<{
             answer?: string | undefined;
             answerFull?: string | undefined;
             explanation?: string | undefined;
+            chapterId?: string | undefined;
         }, {
             number: number;
             text: string;
@@ -242,6 +252,7 @@ export declare const StudyDataSchema: z.ZodObject<{
             answer?: string | undefined;
             answerFull?: string | undefined;
             explanation?: string | undefined;
+            chapterId?: string | undefined;
         }>, "many">;
         sergeantFocus: z.ZodArray<z.ZodObject<{
             filename: z.ZodString;
@@ -275,6 +286,7 @@ export declare const StudyDataSchema: z.ZodObject<{
             answer?: string | undefined;
             answerFull?: string | undefined;
             explanation?: string | undefined;
+            chapterId?: string | undefined;
         }[];
         sergeantFocus: {
             text: string;
@@ -300,6 +312,7 @@ export declare const StudyDataSchema: z.ZodObject<{
             answer?: string | undefined;
             answerFull?: string | undefined;
             explanation?: string | undefined;
+            chapterId?: string | undefined;
         }[];
         sergeantFocus: {
             text: string;
@@ -365,6 +378,7 @@ export declare const StudyDataSchema: z.ZodObject<{
             answer?: string | undefined;
             answerFull?: string | undefined;
             explanation?: string | undefined;
+            chapterId?: string | undefined;
         }[];
         sergeantFocus: {
             text: string;
@@ -408,6 +422,7 @@ export declare const StudyDataSchema: z.ZodObject<{
             answer?: string | undefined;
             answerFull?: string | undefined;
             explanation?: string | undefined;
+            chapterId?: string | undefined;
         }[];
         sergeantFocus: {
             text: string;
@@ -443,19 +458,19 @@ export declare const FlashcardSchema: z.ZodObject<{
     procedure: z.ZodString;
     chapterId: z.ZodString;
 }, "strip", z.ZodTypeAny, {
+    chapterId: string;
     category: "key-term" | "question" | "exam" | "sergeant-focus" | "note";
     id: string;
     front: string;
     back: string;
     procedure: string;
-    chapterId: string;
 }, {
+    chapterId: string;
     category: "key-term" | "question" | "exam" | "sergeant-focus" | "note";
     id: string;
     front: string;
     back: string;
     procedure: string;
-    chapterId: string;
 }>;
 export type Flashcard = z.infer<typeof FlashcardSchema>;
 export declare const ChapterProgressSchema: z.ZodObject<{

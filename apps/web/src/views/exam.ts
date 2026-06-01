@@ -94,18 +94,25 @@ function getAllQuestions(): Question[] {
   // Collect all questions from chapters
   appState.data.chapters.forEach(chapter => {
     chapter.questions?.forEach(q => {
-      allQuestions.push({
-        ...q,
-        chapterId: chapter.id,
-      });
+      if (q.options && q.options.length > 0) {
+        allQuestions.push({
+          number: q.number,
+          text: q.text,
+          options: q.options,
+          answer: q.answer,
+          chapterId: chapter.id,
+        });
+      }
     });
   });
 
   // Add exam questions
   appState.data.examQuestions?.forEach(q => {
     allQuestions.push({
-      ...q,
       number: allQuestions.length + 1,
+      text: q.text,
+      options: q.options,
+      answer: q.answer,
     });
   });
 
@@ -289,7 +296,7 @@ function updateInfo() {
   if (currentNum) currentNum.textContent = (state.currentIndex + 1).toString();
   if (answeredCount)
     answeredCount.textContent = state.answers
-      .filter(a => a !== null && a !== undefined)
+      .filter((a): a is number | null => a !== null && a !== undefined)
       .length.toString();
   if (flaggedCount) flaggedCount.textContent = state.flagged.length.toString();
 }
@@ -298,11 +305,14 @@ function renderPalette() {
   const palette = document.getElementById('question-palette');
   if (!palette || !state) return;
 
-  palette.innerHTML = state.questions
+  const currentState = state;
+
+  palette.innerHTML = currentState.questions
     .map((_, idx) => {
-      const answered = state.answers[idx] !== null && state.answers[idx] !== undefined;
-      const flagged = state.flagged.includes(idx);
-      const current = idx === state.currentIndex;
+      const answered =
+        currentState.answers[idx] !== null && currentState.answers[idx] !== undefined;
+      const flagged = currentState.flagged.includes(idx);
+      const current = idx === currentState.currentIndex;
 
       let classes = 'palette-item';
       if (current) classes += ' current';
@@ -354,9 +364,11 @@ function autoSubmit() {
 function submitExam() {
   if (!state) return;
 
+  const currentState = state;
+
   stopTimer();
-  state.endTime = Date.now();
-  state.showResults = true;
+  currentState.endTime = Date.now();
+  currentState.showResults = true;
 
   // Calculate score
   let score = 0;
@@ -366,8 +378,8 @@ function submitExam() {
     correct: boolean;
   }> = [];
 
-  state.questions.forEach((q, idx) => {
-    const userAnswer = state.answers[idx] ?? null;
+  currentState.questions.forEach((q, idx) => {
+    const userAnswer = currentState.answers[idx] ?? null;
     // Convert letter answer to index
     const correctIndex = q.answer ? q.answer.charCodeAt(0) - 65 : -1;
     const isCorrect = userAnswer === correctIndex;

@@ -125,7 +125,10 @@ function renderScheduleContent(examDate: number, schedule: ReturnType<typeof get
 }
 
 function renderTodayPlanCard(plan: ReturnType<typeof getTodayPlan>, isComplete: boolean): string {
-  const chapterInfos = plan?.newChapters.map(id => getChapterInfo(id)).filter(Boolean) || [];
+  const chapterInfos =
+    plan?.newChapters
+      .map(id => getChapterInfo(id))
+      .filter((c): c is NonNullable<ReturnType<typeof getChapterInfo>> => Boolean(c)) || [];
 
   return `
     <div class="daily-plan-card ${isComplete ? 'complete' : ''}">
@@ -231,11 +234,15 @@ function renderWeekCard(
   `;
 }
 
-function renderDayCard(
-  day: ReturnType<typeof getSchedule>['weeklyPlans'][0]['dailyPlans'][0]
-): string {
+function renderDayCard(day: {
+  date: string;
+  newChapters: string[];
+  isSundayReview: boolean;
+}): string {
   const isToday = day.date === new Date().toISOString().split('T')[0];
-  const chapterInfos = day.newChapters.map(id => getChapterInfo(id)).filter(Boolean);
+  const chapterInfos = day.newChapters
+    .map((id: string) => getChapterInfo(id))
+    .filter((c): c is NonNullable<ReturnType<typeof getChapterInfo>> => Boolean(c));
   const date = new Date(day.date);
   const dateStr = date.toLocaleDateString(undefined, {
     weekday: 'short',

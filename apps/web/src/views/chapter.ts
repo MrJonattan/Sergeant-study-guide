@@ -20,7 +20,14 @@ interface Chapter {
   title: string;
   readme: string;
   sections: Array<{ filename: string; content: string }>;
-  questions: Array<{ number: number; text: string; options?: string[]; answer?: string }>;
+  keyTerms: string;
+  questions: Array<{
+    number: number;
+    text: string;
+    options?: string[];
+    answer?: string;
+    type?: 'mc' | 'open';
+  }>;
 }
 
 let currentTab = 'study';
@@ -167,7 +174,7 @@ function addBookmarkButtons(chapter: Chapter, container: HTMLElement) {
     btn.dataset.sectionTitle = heading.textContent || '';
 
     // Position button at top-right of heading
-    heading.style.position = 'relative';
+    (heading as HTMLElement).style.position = 'relative';
     heading.appendChild(btn);
 
     btn.addEventListener('click', e => {
@@ -337,6 +344,7 @@ let isHandlingSelection = false;
 
 // Expose reset function for testing
 if (typeof window !== 'undefined') {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   (window as any).__resetHighlightState = () => {
     isToolbarVisible = false;
     toolbarReady = false;
@@ -500,9 +508,9 @@ function handleTextSelection(chapter: Chapter) {
   }
 
   // Get the parent element to find section context
-  let parentElement = range.startContainer;
+  let parentElement: Element | null = range.startContainer as Element;
   while (parentElement && parentElement.nodeType !== Node.ELEMENT_NODE) {
-    parentElement = parentElement.parentNode;
+    parentElement = parentElement.parentNode as Element | null;
   }
 
   if (!parentElement) return;
@@ -678,7 +686,7 @@ function wrapHighlightText(
     range.setStart(node, textStart);
     range.setEnd(node, textEnd);
 
-    if (node.parentNode?.matches('mark.hl-yellow')) {
+    if ((node.parentNode as Element)?.matches('mark.hl-yellow')) {
       return; // Already wrapped, exit early
     }
 
@@ -711,7 +719,7 @@ function wrapHighlightText(
     const nodeLength = node.textContent?.length || 0;
     if (textIndex + highlight.text.length > nodeLength) continue;
 
-    if (node.parentNode?.matches('mark.hl-yellow')) {
+    if ((node.parentNode as Element)?.matches('mark.hl-yellow')) {
       return; // Already wrapped, exit early
     }
 
@@ -774,6 +782,7 @@ function showHighlightPopover(markEl: HTMLElement, highlight: Highlight) {
     // Re-render to update any other instances
     const chapterBody = document.getElementById('chapter-body');
     if (chapterBody && appState.data) {
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
       const chapter = appState.data.chapters.find((c: any) => c.id === highlight.chapterId);
       if (chapter) {
         renderHighlightsForChapter(chapter, chapterBody);
@@ -1086,16 +1095,22 @@ function showChapterResults() {
 
   // Save quiz score for progress tracking
   import('../state/progress').then(({ updateQuizScore }) => {
-    updateQuizScore(quizState.chapterId, percentage, quizState.questions.length);
+    if (quizState) {
+      updateQuizScore(quizState.chapterId, percentage, quizState.questions.length);
+    }
   });
 
   // Add event listeners
   document.getElementById('retry-quiz')?.addEventListener('click', () => {
+    const savedQuestions = quizState?.questions;
+    const savedChapterId = quizState?.chapterId;
     quizState = null;
-    renderQuizTab(
-      { ...quizState!, questions: quizState!.questions },
-      document.getElementById('chapter-body')!
-    );
+    if (savedQuestions && savedChapterId) {
+      const chapter = appState.data?.chapters.find((c: Chapter) => c.id === savedChapterId);
+      if (chapter) {
+        renderQuizTab(chapter, document.getElementById('chapter-body')!);
+      }
+    }
   });
 
   document.getElementById('back-study')?.addEventListener('click', () => {
@@ -1258,31 +1273,33 @@ function showQuickQuizResults() {
 
   // Save quiz score with attemptType: quick-quiz-chapter
   import('../state/progress').then(({ updateQuizScore }) => {
-    updateQuizScore(
-      quickQuizState.chapterId,
-      percentage,
-      quickQuizState.questions.length,
-      'quick-quiz-chapter'
-    );
+    if (quickQuizState) {
+      updateQuizScore(
+        quickQuizState.chapterId,
+        percentage,
+        quickQuizState.questions.length,
+        'quick-quiz-chapter'
+      );
+    }
   });
 
   // Add event listeners
   document.getElementById('retry-quick-quiz')?.addEventListener('click', () => {
     const chapterId = quickQuizState?.chapterId;
     quickQuizState = null;
-    const chapter = appState.data?.chapters.find((c: Chapter) => c.id === chapterId);
-    if (chapter) {
-      renderQuickQuizTab(chapter, document.getElementById('chapter-body')!);
+    if (chapterId) {
+      const chapter = appState.data?.chapters.find((c: Chapter) => c.id === chapterId);
+      if (chapter) {
+        renderQuickQuizTab(chapter, document.getElementById('chapter-body')!);
+      }
     }
   });
 
   document.getElementById('back-study-quick')?.addEventListener('click', () => {
     currentTab = 'study';
-    const chapter = appState.data?.chapters.find(
-      (c: Chapter) => c.id === quickQuizState?.chapterId
-    );
-    if (chapter) {
-      renderChapter({ id: chapter.id });
+    const chapterId = quickQuizState?.chapterId;
+    if (chapterId) {
+      renderChapter({ id: chapterId });
     }
   });
 }

@@ -74,7 +74,7 @@ export function initTopbar() {
 
   renderTopbarControls();
 
-  let resizeTimeout: NodeJS.Timeout;
+  let resizeTimeout: ReturnType<typeof setTimeout>;
   window.addEventListener('resize', () => {
     clearTimeout(resizeTimeout);
     resizeTimeout = setTimeout(renderTopbarControls, 150);

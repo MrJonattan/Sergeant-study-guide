@@ -219,8 +219,9 @@ export function renderMarkdown(md: string): string {
     if (h5Match || h6Match) {
       flushTable();
       flushList();
+      const headingText = h5Match ? h5Match[1] : h6Match![1];
       output.push(
-        `<p class="cheatsheet-paragraph"><strong>${parseInline(h5Match ? h5Match[1] : h6Match[1])}</strong></p>`
+        `<p class="cheatsheet-paragraph"><strong>${parseInline(headingText)}</strong></p>`
       );
       continue;
     }

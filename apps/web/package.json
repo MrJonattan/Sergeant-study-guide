@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "Web app for NYPD Sergeant Study Guide",
   "private": true,
+  "dependencies": {
+    "@nypd-sergeant/core": "workspace:*"
+  },
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm run typecheck && vite build",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
     "lint": "eslint src --ext .ts,.tsx",

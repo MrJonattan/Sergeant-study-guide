@@ -11,6 +11,7 @@ interface Question {
   text: string;
   options: string[];
   answer?: string; // Letter answer ("A", "B", "C", "D") from parser
+  type?: 'mc' | 'open';
   chapterId?: string;
 }
 
@@ -70,10 +71,16 @@ function getRandomQuestions(count: number): Question[] {
   // Collect all questions from chapters
   appState.data.chapters.forEach(chapter => {
     chapter.questions?.forEach(q => {
-      allQuestions.push({
-        ...q,
-        chapterId: chapter.id,
-      });
+      if (q.options && q.options.length > 0) {
+        allQuestions.push({
+          number: q.number,
+          text: q.text,
+          options: q.options,
+          answer: q.answer,
+          type: q.type,
+          chapterId: chapter.id,
+        });
+      }
     });
   });
 
@@ -86,19 +93,20 @@ function renderQuestion() {
   const quizBody = document.getElementById('quiz-body');
   if (!quizBody || !state) return;
 
-  const question = state.questions[state.currentIndex];
-  const progress = ((state.currentIndex + 1) / state.questions.length) * 100;
+  const currentState = state;
+  const question = currentState.questions[currentState.currentIndex];
+  const progress = ((currentState.currentIndex + 1) / currentState.questions.length) * 100;
 
   // Update progress bar
   const progressFill = document.querySelector('.quiz-progress-fill') as HTMLElement;
   const progressText = document.querySelector('.quiz-progress-text') as HTMLElement;
   if (progressFill) progressFill.style.width = `${progress}%`;
   if (progressText)
-    progressText.textContent = `Question ${state.currentIndex + 1} of ${state.questions.length}`;
+    progressText.textContent = `Question ${currentState.currentIndex + 1} of ${currentState.questions.length}`;
 
   quizBody.innerHTML = `
     <div class="quiz-question-card">
-      <div class="question-number">Question ${state.currentIndex + 1}</div>
+      <div class="question-number">Question ${currentState.currentIndex + 1}</div>
       <p class="question-text">${question.text}</p>
 
       <div class="quiz-options">
@@ -106,7 +114,7 @@ function renderQuestion() {
           .map(
             (option, idx) => `
           <button
-            class="quiz-option ${state.selectedAnswer === idx ? 'selected' : ''}"
+            class="quiz-option ${currentState.selectedAnswer === idx ? 'selected' : ''}"
             data-index="${idx}"
           >
             <span class="quiz-option-letter">${String.fromCharCode(65 + idx)}</span>
@@ -121,7 +129,7 @@ function renderQuestion() {
         <button
           class="quiz-btn quiz-btn-submit"
           id="submit-answer"
-          ${state.selectedAnswer === null ? 'disabled' : ''}
+          ${currentState.selectedAnswer === null ? 'disabled' : ''}
         >
           Submit Answer
         </button>
@@ -133,8 +141,10 @@ function renderQuestion() {
   quizBody.querySelectorAll('.quiz-option').forEach(btn => {
     btn.addEventListener('click', () => {
       const idx = parseInt(btn.getAttribute('data-index') || '0');
-      state!.selectedAnswer = idx;
-      renderQuestion();
+      if (state) {
+        state.selectedAnswer = idx;
+        renderQuestion();
+      }
     });
   });
 
@@ -176,7 +186,8 @@ function showResults() {
   const quizBody = document.getElementById('quiz-body');
   if (!quizBody || !state) return;
 
-  const percentage = Math.round((state.score / state.questions.length) * 100);
+  const currentState = state;
+  const percentage = Math.round((currentState.score / currentState.questions.length) * 100);
   const passed = percentage >= 70;
 
   quizBody.innerHTML = `
@@ -188,7 +199,7 @@ function showResults() {
 
       <div class="results-stats">
         <div class="result-stat">
-          <div class="stat-value">${state.score}/${state.questions.length}</div>
+          <div class="stat-value">${currentState.score}/${currentState.questions.length}</div>
           <div class="stat-label">Correct Answers</div>
         </div>
         <div class="result-stat">
@@ -199,9 +210,9 @@ function showResults() {
 
       <div class="results-review">
         <h3>Review Answers</h3>
-        ${state.questions
+        ${currentState.questions
           .map((q, idx) => {
-            const userAnswer = state.answers[idx];
+            const userAnswer = currentState.answers[idx];
             // Convert letter answer to index
             const correctIndex = q.answer ? q.answer.charCodeAt(0) - 65 : -1;
             const isCorrect = userAnswer === correctIndex;
@@ -233,9 +244,11 @@ function showResults() {
   `;
 
   // Save quiz score for weak areas tracking
-  const chapterIds = new Set(state.questions.filter(q => q.chapterId).map(q => q.chapterId!));
+  const chapterIds = new Set(
+    currentState.questions.filter(q => q.chapterId).map(q => q.chapterId!)
+  );
   chapterIds.forEach(chapterId => {
-    updateQuizScore(chapterId, percentage, state.questions.length);
+    updateQuizScore(chapterId, percentage, currentState.questions.length);
   });
 
   // Add event listeners

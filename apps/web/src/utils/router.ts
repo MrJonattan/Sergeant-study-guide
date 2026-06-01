@@ -2,16 +2,21 @@
  * Simple hash-based router
  */
 
-type RouteHandler = (params?: Record<string, string>) => void;
-type Routes = Record<string, RouteHandler>;
+// Route handler that accepts optional params
+export type RouteHandler = (params?: { id?: string } & Record<string, string>) => void;
+
+// Routes can be exact match or parameterized (chapter/:id)
+export type Routes = Record<string, RouteHandler>;
 
 let currentRoute = '';
-let onRouteChange: ((route: string, params?: Record<string, string>) => void) | null = null;
+let onRouteChange:
+  | ((route: string, params?: { id?: string } & Record<string, string>) => void)
+  | null = null;
 let routes: Routes = {};
 
 export function initRouter(
   routerRoutes: Routes,
-  onRouteChangeCallback: (route: string, params?: Record<string, string>) => void
+  onRouteChangeCallback: (route: string, params?: { id?: string } & Record<string, string>) => void
 ) {
   onRouteChange = onRouteChangeCallback;
   routes = routerRoutes;
@@ -29,7 +34,7 @@ export function navigateTo(hash: string) {
 function handleHashChange() {
   const hash = window.location.hash.slice(1) || 'home';
   const [route, ...paramParts] = hash.split('/');
-  const params: Record<string, string> = {};
+  const params: { id?: string } & Record<string, string> = {};
 
   // Parse params from URL (e.g., chapter/208-arrests)
   if (paramParts.length > 0) {
