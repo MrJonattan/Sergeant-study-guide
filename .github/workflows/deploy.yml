@@ -48,9 +48,6 @@ jobs:
       - name: Build web app (includes typecheck)
         run: pnpm run build:web
 
-      - name: Build PDF
-        run: pnpm run build:pdf
-
       - name: Copy data.js to docs/
         run: cp apps/web/public/data.js docs/data.js
 
