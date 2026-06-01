@@ -33,6 +33,7 @@
     "study": "npm run export:anki && npm run schedule && open build/study-schedule.md",
     "clean": "pnpm run --filter @nypd-sergeant/core clean && rm -rf build/*",
     "typecheck": "pnpm run --filter @nypd-sergeant/core build",
+    "lint": "pnpm run --filter @nypd-sergeant/web lint",
     "prepare": "husky",
     "lint-staged": "lint-staged"
   },
