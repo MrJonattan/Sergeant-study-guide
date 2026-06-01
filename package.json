@@ -14,7 +14,7 @@
     "sync:mobile": "cp build/data.json mobile/assets/data/study_data.json && cp -r chapters mobile/assets/data/ && echo '✓ Mobile data synced'",
     "build:web:bundle": "node scripts/build-web.js && cp build/data.js docs/data.js",
     "build:web:dev": "pnpm run --filter @nypd-sergeant/web dev",
-    "build:web": "pnpm run build:core && cp build/data.js apps/web/public/data.js && pnpm run --filter @nypd-sergeant/web build && pnpm run sync:mobile",
+    "build:web": "pnpm run build:core && node scripts/build-web.js && cp build/data.js apps/web/public/data.js && pnpm run --filter @nypd-sergeant/web build && pnpm run sync:mobile",
     "build:pdf": "bash scripts/build-pdf.sh",
     "build:flutter": "node scripts/convert-data-flutter.js",
     "test": "node scripts/validate-data.js",
