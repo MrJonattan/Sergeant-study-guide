@@ -52,7 +52,7 @@ jobs:
         run: pnpm run build:pdf
 
       - name: Copy data.js to docs/
-        run: cp build/data.js docs/data.js
+        run: cp apps/web/public/data.js docs/data.js
 
       - name: Commit docs/ if changed
         run: |
