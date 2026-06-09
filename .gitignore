@@ -1,4 +1,5 @@
 .DS_Store
+package-lock.json
 node_modules/
 *.pyc
 __pycache__/
@@ -11,6 +12,9 @@ progress/
 
 # Web app runtime data (not source)
 build/data.js
+
+# Web app public assets — rebuilt from docs/data.js
+apps/web/public/data.js
 
 # Keep Anki exports
 !build/anki-*.csv
