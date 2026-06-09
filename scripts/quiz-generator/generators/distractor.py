@@ -2,33 +2,13 @@
 
 Strategies:
   - Sibling key-terms from the same chapter
-  - Negated correct answer (swap shall/should, all/any, must/may)
+  - Plausible-but-false statements (different timeframes, different roles, different thresholds)
   - Numeric transforms (double, half, shift by common increments)
 """
 
 import re
 
 from models.callout import ExamAlert, KeyTerm, NumericFact
-
-# Negation pairs for answer modification
-NEGATION_SWAPS: list[tuple[str, str]] = [
-    ("shall", "may"),
-    ("must", "may"),
-    ("must", "should"),
-    ("all", "any"),
-    ("every", "some"),
-    ("always", "sometimes"),
-    ("never", "sometimes"),
-    ("will", "can"),
-    ("is", "is NOT"),
-    ("are", "are NOT"),
-    ("has", "does NOT have"),
-    ("requires", "does NOT require"),
-    ("prohibited", "permitted"),
-    ("mandatory", "discretionary"),
-    ("automatic", "discretionary"),
-    ("immediately", "within a reasonable time"),
-]
 
 # Common numeric offsets for distractor generation
 NUMERIC_OFFSETS = {
@@ -41,22 +21,6 @@ NUMERIC_OFFSETS = {
 
 # Multipliers for numeric distractors
 NUMERIC_MULTIPLIERS = [0.5, 2, 3]
-
-
-def generate_negated_distractor(correct_text: str) -> str | None:
-    """Generate a distractor by negating the correct answer.
-
-    Returns None if no applicable negation swap is found.
-    """
-    lower = correct_text.lower()
-    for original, replacement in NEGATION_SWAPS:
-        if original in lower:
-            # Replace only the first occurrence (case-insensitive)
-            pattern = re.compile(re.escape(original), re.IGNORECASE)
-            result = pattern.sub(replacement, correct_text, count=1)
-            if result != correct_text:
-                return result.capitalize() if correct_text[0].isupper() else result
-    return None
 
 
 def generate_sibling_distractors(
@@ -151,27 +115,35 @@ def generate_callout_distractors(
 ) -> list[str]:
     """Generate distractors from sibling Exam Alert callouts.
 
-    Picks callouts that contradict or differ from the correct answer.
+    Uses full sibling callout texts as plausible-but-false options.
+    Skips any text that would be truncated (contains "..." or mid-word breaks).
     """
     distractors: list[str] = []
     seen: set[str] = {correct_text.lower()}
 
-    # Try negation first
-    negated = generate_negated_distractor(correct_text)
-    if negated and negated.lower() not in seen:
-        seen.add(negated.lower())
-        distractors.append(negated)
-
-    # Add shortened versions of sibling callouts
+    # Add full sibling callouts that aren't truncated
     for alert in sibling_callouts:
         text = alert.text
-        # Truncate to ~100 chars for option length
-        if len(text) > 100:
-            text = text[:97] + "..."
-        if text.lower() not in seen:
-            seen.add(text.lower())
-            distractors.append(text)
-            if len(distractors) >= count:
-                break
+        # Skip if text is truncated
+        if text.endswith("...") or text.rstrip().endswith("-"):
+            continue
+        if text.lower() in seen:
+            continue
+        seen.add(text.lower())
+        distractors.append(text)
+        if len(distractors) >= count:
+            break
+
+    # Pad with generic plausible distractors if needed
+    # These are context-agnostic but plausible supervisory actions
+    generic_distractors = [
+        "Document the incident in the Command Log and take no further action",
+        "Notify the patrol supervisor only if the incident involves a serious crime",
+        "Complete the required paperwork at the end of the tour",
+    ]
+    for default in generic_distractors:
+        if default.lower() not in seen and len(distractors) < count:
+            seen.add(default.lower())
+            distractors.append(default)
 
     return distractors[:count]

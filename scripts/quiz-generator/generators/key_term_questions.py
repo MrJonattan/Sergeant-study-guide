@@ -1,15 +1,26 @@
 """Rule-based generator: key-terms → definition-matching questions.
 
-Generates two question types from key-terms tables:
-  1. "Which term is defined as: [definition]?"
-  2. "[Term] is best described as:"
+Generates definition-matching questions from key-terms tables.
+Skips terms where the definition would be truncated.
 """
 
 import random
+import re
 
 from generators.distractor import generate_sibling_distractors
 from models.callout import KeyTerm
 from models.question import GeneratedQuestion
+
+
+def _is_truncated(text: str) -> bool:
+    """Check if text appears truncated (mid-word break or trailing ellipsis)."""
+    if text.endswith("..."):
+        return True
+    if text.rstrip().endswith("-"):
+        return True
+    if re.search(r"\b[a-zA-Z]\s*$", text):
+        return True
+    return False
 
 
 def generate_key_term_questions(
@@ -39,26 +50,18 @@ def generate_key_term_questions(
         if len(term.definition) < 10:
             continue
 
-        # Alternate between "which term" and "best described as" formats
-        if question_num % 2 == 0:
-            question_text = f"Which term is defined as: \"{term.definition[:150]}\"?"
-            correct = term.term
-            # Distractors: sibling terms from the same chapter
-            siblings = generate_sibling_distractors(term.term, key_terms, count=3)
-            # Extract just the term name from "Term: Definition" format
-            distractor_terms = [s.split(":")[0].strip() if ":" in s else s for s in siblings]
-        else:
-            question_text = f"{term.term} is best described as:"
-            correct = term.definition
-            if len(correct) > 150:
-                correct = correct[:147] + "..."
-            siblings = generate_sibling_distractors(term.term, key_terms, count=3)
-            # Extract just the definition part
-            distractor_terms = [s.split(":")[1].strip() if ":" in s else s for s in siblings]
-            # Truncate long distractors
-            distractor_terms = [
-                d[:147] + "..." if len(d) > 150 else d for d in distractor_terms
-            ]
+        # Skip if definition would be truncated
+        if _is_truncated(term.definition):
+            continue
+
+        # Use "best described as" format with full definition
+        question_text = f"{term.term} is best described as:"
+        correct = term.definition
+        siblings = generate_sibling_distractors(term.term, key_terms, count=3)
+        # Extract just the definition part from "Term: Definition" format
+        distractor_terms = [s.split(":")[1].strip() if ":" in s else s for s in siblings]
+        # Skip truncated distractors
+        distractor_terms = [d for d in distractor_terms if not _is_truncated(d)]
 
         # Pad distractors if needed
         while len(distractor_terms) < 3:

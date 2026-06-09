@@ -2,9 +2,11 @@
 
 Generates questions framed from a sergeant's supervisory perspective:
   "A sergeant is handling [situation]. What should the sergeant do?"
+Skips callouts where the text would be truncated.
 """
 
 import random
+import re
 
 from models.callout import SergeantFocus
 from models.question import GeneratedQuestion
@@ -19,21 +21,44 @@ SCENARIO_TEMPLATES = [
 ]
 
 
-def _extract_topic(focus: SergeantFocus) -> str:
-    """Extract a short topic description from the Sergeant Focus callout."""
+def _is_truncated(text: str) -> bool:
+    """Check if text appears truncated (mid-word break or trailing ellipsis)."""
+    if text.endswith("..."):
+        return True
+    if text.rstrip().endswith("-"):
+        return True
+    if re.search(r"\b[a-zA-Z]\s*$", text):
+        return True
+    return False
+
+
+def _extract_topic(focus: SergeantFocus) -> str | None:
+    """Extract a short topic description from the Sergeant Focus callout.
+
+    Returns None if the topic would be truncated.
+    """
     text = focus.text
-    # Take first sentence or first 80 chars
+    # Take first sentence only (no truncation)
     if ". " in text:
         first_sentence = text.split(". ")[0]
-        return first_sentence[:80] + ("..." if len(first_sentence) > 80 else "")
-    return text[:80] + ("..." if len(text) > 80 else "")
+        if len(first_sentence) > 80:
+            return None
+        return first_sentence
+    if len(text) > 80:
+        return None
+    return text
 
 
-def _generate_correct_option(focus: SergeantFocus) -> str:
-    """Generate the correct option from a Sergeant Focus callout."""
+def _generate_correct_option(focus: SergeantFocus) -> str | None:
+    """Generate the correct option from a Sergeant Focus callout.
+
+    Returns None if the text would be truncated.
+    """
     text = focus.text
     if len(text) > 150:
-        return text[:147] + "..."
+        return None
+    if _is_truncated(text):
+        return None
     return text
 
 
@@ -91,10 +116,18 @@ def generate_sergeant_focus_questions(
             break
 
         topic = _extract_topic(focus)
+        # Skip if topic would be truncated
+        if topic is None:
+            continue
+
+        correct = _generate_correct_option(focus)
+        # Skip if correct answer would be truncated
+        if correct is None:
+            continue
+
         template = random.choice(SCENARIO_TEMPLATES)
         question_text = template.format(topic=topic)
 
-        correct = _generate_correct_option(focus)
         distractors = _generate_distractors(focus)
 
         options = [correct] + distractors[:3]
@@ -118,7 +151,7 @@ def generate_sergeant_focus_questions(
             text=question_text,
             options=formatted_options,
             answer=correct_letter,
-            explanation=f"Per {focus.procedure} — Sergeant Focus: {focus.text[:200]}",
+            explanation=f"Per {focus.procedure} — Sergeant Focus: {focus.text}",
             difficulty="hard",
         ))
 

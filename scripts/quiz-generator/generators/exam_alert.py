@@ -1,15 +1,29 @@
 """Rule-based generator: Exam Alert → multiple-choice questions.
 
-Generates two question types from Exam Alert callouts:
-  1. "Which of the following is TRUE regarding [topic]?"
-  2. "All of the following are true regarding [topic] EXCEPT:"
+Generates questions from Exam Alert callouts using the alert text as the correct answer
+and sibling alerts as distractors. Skips alerts that are too long or would produce
+truncated options.
 """
 
 import random
+import re
 
 from generators.distractor import generate_callout_distractors
 from models.callout import ExamAlert
 from models.question import GeneratedQuestion
+
+
+def _is_truncated(text: str) -> bool:
+    """Check if text appears truncated (mid-word break or trailing ellipsis)."""
+    if text.endswith("..."):
+        return True
+    # Check for mid-word truncation (hyphen at end followed by space/newline in original)
+    if text.rstrip().endswith("-"):
+        return True
+    # Check for incomplete words (single letter followed by space, like "a " or "I ")
+    if re.search(r"\b[a-zA-Z]\s*$", text):
+        return True
+    return False
 
 
 def _extract_topic(alert: ExamAlert) -> str:
@@ -21,6 +35,10 @@ def generate_exam_alert_questions(
     alerts: list[ExamAlert], chapter_id: str, max_questions: int = 10
 ) -> list[GeneratedQuestion]:
     """Generate multiple-choice questions from Exam Alert callouts.
+
+    Question format: "According to {procedure}, which of the following is required?"
+    Correct answer: The alert text (if not truncated)
+    Distractors: Sibling alert texts from the same section file
 
     Args:
         alerts: Exam Alert callouts for a chapter.
@@ -45,43 +63,28 @@ def generate_exam_alert_questions(
         if question_num >= max_questions:
             break
 
+        # Skip if alert text would be truncated
+        if _is_truncated(alert.text):
+            continue
+
         topic = _extract_topic(alert)
         siblings = [a for a in alerts_by_file.get(alert.section_file, [])
-                    if a is not alert]
+                    if a is not alert and not _is_truncated(a.text)]
 
-        # Alternate between TRUE and EXCEPT question types
-        if question_num % 2 == 0:
-            # "Which of the following is TRUE regarding [topic]?"
-            question_text = f"Which of the following is TRUE regarding {topic}?"
-            correct = alert.text
-            if len(correct) > 150:
-                correct = correct[:147] + "..."
-            distractors = generate_callout_distractors(correct, siblings, count=3)
+        # Generate distractors from siblings
+        correct = alert.text
+        distractors = generate_callout_distractors(correct, siblings, count=3)
 
-            # Make sure we have 3 distractors
-            while len(distractors) < 3:
-                distractors.append("None of the above")
+        # Skip if we couldn't generate enough valid distractors
+        if len(distractors) < 3:
+            continue
 
-            options = [correct] + distractors[:3]
-        else:
-            # "All of the following are true regarding [topic] EXCEPT:"
-            question_text = f"All of the following are true regarding {topic} EXCEPT:"
-            # Create a false statement as the correct answer
-            from generators.distractor import generate_negated_distractor
+        # Verify no distractors are truncated
+        valid_distractors = [d for d in distractors if not _is_truncated(d)]
+        if len(valid_distractors) < 3:
+            continue
 
-            false_stmt = generate_negated_distractor(alert.text)
-            if not false_stmt:
-                # Skip if we can't generate a negation
-                continue
-
-            correct = false_stmt
-            # Use true statements from sibling alerts as distractors
-            true_stmts = [a.text[:147] + ("..." if len(a.text) > 150 else "")
-                         for a in siblings[:3]]
-            while len(true_stmts) < 3:
-                true_stmts.append(alert.text[:147] + ("..." if len(alert.text) > 150 else ""))
-
-            options = [correct] + true_stmts[:3]
+        options = [correct] + valid_distractors[:3]
 
         # Shuffle options and track correct answer position
         correct_letter = "A"
@@ -100,10 +103,10 @@ def generate_exam_alert_questions(
             chapter_id=chapter_id,
             source_type="exam_alert",
             source_file=alert.section_file,
-            text=question_text,
+            text=f"According to {topic}, which of the following is required?",
             options=formatted_options,
             answer=correct_letter,
-            explanation=f"Per {alert.procedure}: {alert.text[:200]}",
+            explanation=f"Per {alert.procedure}: {alert.text}",
             difficulty="medium",
         ))
 

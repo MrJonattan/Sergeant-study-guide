@@ -2,35 +2,38 @@
 
 Generates questions that test recall of specific timeframes, quantities,
 and thresholds mentioned in procedures.
+Skips facts where the context would be truncated.
 """
 
 import random
+import re
 
 from generators.distractor import generate_numeric_distractors
 from models.callout import NumericFact
 from models.question import GeneratedQuestion
 
 
-# Templates for numeric recall questions
-NUMERIC_TEMPLATES = [
-    "Within what {unit} must {context}?",
-    "How many {unit} are required for {context}?",
-    "What is the time limit for {context}?",
-    "According to procedure, what is the {unit} requirement for {context}?",
-]
+def _is_truncated(text: str) -> bool:
+    """Check if text appears truncated (mid-word break or trailing ellipsis)."""
+    if text.endswith("..."):
+        return True
+    if text.rstrip().endswith("-"):
+        return True
+    if re.search(r"\b[a-zA-Z]\s*$", text):
+        return True
+    return False
 
 
 def _extract_action_context(fact: NumericFact) -> str:
     """Extract a short description of the action requiring the numeric value."""
     context = fact.context
-    # Try to extract the key action from the context
     # Remove the numeric value itself from the context
-    import re
-
     cleaned = re.sub(r"\*{0,2}" + re.escape(fact.value) + r"\*{0,2}", "___", context, flags=re.IGNORECASE)
-    # Trim to reasonable length
+    # Skip if context would be truncated
     if len(cleaned) > 120:
-        cleaned = cleaned[:117] + "..."
+        return None
+    if _is_truncated(cleaned):
+        return None
     return cleaned
 
 
@@ -70,6 +73,10 @@ def generate_numeric_recall_questions(
         seen_topics.add(topic_key)
 
         context = _extract_action_context(fact)
+        # Skip if context would be truncated
+        if context is None:
+            continue
+
         question_text = f"Per {fact.procedure}, within what time period must the following be completed: {context}?"
 
         correct = fact.value
@@ -96,7 +103,7 @@ def generate_numeric_recall_questions(
             text=question_text,
             options=formatted_options,
             answer=correct_letter,
-            explanation=f"Per {fact.procedure}: {fact.context[:200]}",
+            explanation=f"Per {fact.procedure}: {fact.context}",
             difficulty="medium",
         ))
 
