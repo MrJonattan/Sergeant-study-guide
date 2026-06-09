@@ -19,7 +19,8 @@ Works offline on iPhone and Android (PWA). Add to home screen for a native app e
 3. [Source Materials](#source-materials)
 4. [Chapter Coverage](#chapter-coverage)
 5. [The Key Integration](#the-key-integration)
-6. [What's Still To Do](#whats-still-to-do)
+6. [Study Workflow](#study-workflow)
+7. [What's Still To Do](#whats-still-to-do)
 
 ### For Developers
 
@@ -143,6 +144,38 @@ All study content was derived from these official sources:
 
 ---
 
+## Study Workflow
+
+### Phase 1: Foundation (Weeks 1-6)
+**Daily routine (60-90 minutes):**
+1. **Read** one chapter section (15 min)
+2. **Key Terms** — Review vocabulary (10 min)
+3. **Quiz Mode** — Answer 15-20 questions (20 min)
+4. **Sergeant Focus** — Memorize supervisor duties (10 min)
+5. **Anki** — Review spaced repetition cards (15 min)
+
+**Weekly goals:** Complete 3-4 chapters, take one practice quiz (50+ questions), review all bookmarked questions.
+
+### Phase 2: Practice (Weeks 7-10)
+**Daily routine (90-120 minutes):**
+1. **Anki reviews** — Due cards first (20 min)
+2. **Weak Areas** — Focus on low-scoring categories (30 min)
+3. **Chapter deep-dive** — Re-read difficult sections (30 min)
+4. **Quiz Mode** — Timed practice (30 min)
+
+**Weekly goals:** One full 140-question practice exam (timed), review all incorrect answers, update study schedule based on weak areas.
+
+### Phase 3: Exam Simulation (Weeks 11-12)
+**Daily routine (2-3 hours):**
+1. **Full practice exam** — Every other day (90 min)
+2. **Review mistakes** — Deep analysis (30 min)
+3. **Sergeant Focus** — Rapid review (15 min)
+4. **Cheat Sheet** — Memorize mnemonics (15 min)
+
+**Final week:** No new material, review bookmarked questions only, light Anki reviews, rest before exam day.
+
+---
+
 ## The Key Integration
 
 The Key Police Promotional School's 24-lesson preseason course was integrated across 20 chapters. Each lesson maps to specific PG sections:
@@ -203,12 +236,14 @@ The Key Police Promotional School's 24-lesson preseason course was integrated ac
 
 ## What's Still To Do
 
-See [TODO.md](TODO.md) for the full checklist. Major remaining items:
+Major remaining items:
 
 - **2 thin chapters** (319 Civilian Personnel, 329 Career Development) — Only 1 section each, need expansion from source PDFs
 - **12 Administrative Guide PDFs** — Not yet ingested as dedicated sections (firearms regs, fitness for duty, uniform damage, etc.)
 - **8 DOCX study guides** in `~/Documents/Sergeant Study Guide/` — External exam prep materials not yet incorporated
 - **Expand practice exam** — Currently 140 questions, target 200+
+
+See `docs/audits/MISSING_PROCEDURES.md` for the full audit of 59 missing procedures.
 
 ---
 
@@ -279,11 +314,17 @@ Chapters use the pattern `{PG-section}-{topic}`:
 
 ## Commands Reference
 
-See [docs/COMMANDS.md](docs/COMMANDS.md) for the full command reference including:
-- Build commands (`build`, `build:web`, `build:pdf`, `build:flutter`)
-- Test & validate (`npm test`)
-- Deploy (`npm run deploy`)
-- Study tools (`export:anki`, `generate-quiz`, `schedule`, `study`)
+| Command | Description |
+|---------|-------------|
+| `npm run build` | Full build (data.js + PDF outputs) |
+| `npm run build:web` | Web data only (fast, for content updates) |
+| `npm run build:pdf` | PDF/HTML outputs only |
+| `npm test` | Run 23-test automated suite |
+| `npm run deploy` | Copy to docs/ and stage for commit |
+| `npm run export:anki` | Export Anki flashcards (5 CSV files) |
+| `npm run schedule` | Generate study schedule |
+| `npm run study` | Export Anki + generate schedule + open |
+| `npm run generate-quiz` | Generate quiz questions from chapters |
 
 ## Build System
 
