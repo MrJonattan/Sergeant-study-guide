@@ -18,7 +18,7 @@
 | [section-202-officers.md](section-202-officers.md) | Officer-level duties (P.G. 202-01 through 202-17) |
 | [section-202-supervisors.md](section-202-supervisors.md) | Supervisor-level duties (P.G. 202-18 through 202-39) — **MOST CRITICAL for Sergeant exam** |
 | [key-terms.md](key-terms.md) | Abbreviations, acronyms, roles, and key concepts |
-| [review-questions.md](review-questions.md) | 15 multiple-choice practice questions with hidden answers |
+| [review-questions.md](review-questions.md) | 29 multiple-choice practice questions (includes 7 NEW June 2026 update questions) |
 
 ## Procedures
 

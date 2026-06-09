@@ -1,6 +1,56 @@
 # Section 210 — General Procedure, Hospitalized Prisoners, and Other Agency Arrests
 
-Covers P.G. 210-01, 210-02, 210-03
+Covers P.G. 210-01, 210-02, 210-03, 210-19
+
+---
+
+## P.G. 210-19: Transportation Services for Arrestees with Mobility Disability
+
+> 📅 **UPDATE 210-19:** **May 19, 2026** (R.O. 40) — Revised transportation services for arrestees with mobility disability. Source: public-pguide2.pdf, p.1-2 of 3.
+
+### Purpose
+To provide a safe method of transportation for arrestees with mobility disabilities.
+
+### Designated Commands for Arrest Processing
+
+The following commands are centralized locations for arrestees with mobility disabilities:
+
+| Patrol Borough | Designated Command |
+|---------------|-------------------|
+| PBBN | 83rd Precinct |
+| PBBS | 67th Precinct |
+| PBMN | 28th Precinct |
+| PBMS | 9th Precinct |
+| PBSI | 121st Precinct |
+| PBQN, PBQS, PBXN, PBXS | Precinct of arrest |
+
+### Pre-Transport Requirements
+
+**Arresting/Escorting Officer:**
+
+1. **Field search required** before transport — Comply with P.G. 208-05:
+   - Perform field search and utilize hand-held metal detector (or similar device) to detect weapons
+   - If arrestee claims medical condition limiting search scope or preventing safe van transport, request ambulance and remove to hospital
+
+2. **Notify Patrol Borough** to dispatch qualified van operator with ADA compliant van to scene
+
+**Patrol Supervisor:**
+
+3. Ensure arresting/escorting officer **accompanies arrestee during transportation**
+
+**Qualified Van Operator:**
+
+4. Safely transfer arrestee using wheelchair lift (request assistance if needed)
+5. Properly secure arrestee using belts provided in van
+6. Take position in van to ensure arrestee is **observed at all times** during transport
+
+### Processing at Destination
+
+**Desk Officer:** Confer with borough Court Section supervisor regarding lodging and further processing
+
+**Transport to Court Section:** If needed, request ADA van and assign escorting officer
+
+> **Exam Alert:** Field search with hand-held metal detector is **mandatory** before transport. The 5 designated commands (83rd, 67th, 28th, 9th, 121st) handle mobility disability arrests for their boroughs; all other boroughs use precinct of arrest.
 
 ---
 

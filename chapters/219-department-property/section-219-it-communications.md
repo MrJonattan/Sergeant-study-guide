@@ -1,5 +1,7 @@
 # Section 219 — Information Technology and Communications Equipment
 
+> 📅 **UPDATE 219-23:** **May 5, 2026** (R.O. 33) — Solar Cellular Callboxes. Source: public-pguide4.pdf, p.1 of 1.
+
 ## P.G. 219-14: Computer Systems — Security and Integrity
 
 **Date Effective:** 12/31/24 | **Last Revision:** R.O. 78 | **Pages:** 3
@@ -91,6 +93,8 @@ To provide for the issuance, use, and accountability of portable radios.
 ---
 
 ## P.G. 219-23: Solar Cellular Callboxes
+
+> 📅 **UPDATE:** This procedure was updated on May 4, 2026.
 
 **Date Effective:** 02/04/15 | **Pages:** 1
 

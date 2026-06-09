@@ -466,3 +466,52 @@ What types of disputes are NOT eligible for the Mediation Referral Program?
 The program uses **REFERRAL TO MEDIATION (PD613-181)** with serial number in **YYYY-XXX-NNNN** format. The **Special Ops Lt** conducts a weekly inspection of the precinct mediation file. (P.G. 214-40)
 
 </details>
+
+---
+
+## May 2026 Update Questions — Police Action in Premises Where Alcoholic Beverages Are Sold
+
+**36. Under P.G. 214-34, when must the Uniformed Member notify the Detective Bureau Operations Desk regarding a premises where alcoholic beverages are sold?**
+
+- A) Only when an arrest is made on the premises
+- B) When the premises is selling alcohol without a license OR operating after hours
+- C) Only when a summons is served for a liquor license violation
+- D) When a complaint concerning the premises is investigated
+
+<details><summary>Answer</summary>
+
+**B) When the premises is selling alcohol without a license OR operating after hours.** Per P.G. 214-34 (updated May 13, 2026), the Uniformed Member must notify the Detective Bureau Operations Desk when the premises is selling alcohol without a liquor license, AND/OR when the premises is operating after hours.
+
+</details>
+
+---
+
+**37. Who must respond to the scene when police action occurs at a licensed premises where alcoholic beverages are sold?**
+
+- A) The desk officer
+- B) The patrol supervisor
+- C) The precinct detective squad
+- D) The Special Operations Lieutenant
+
+<details><summary>Answer</summary>
+
+**B) The patrol supervisor.** Per P.G. 214-34, the Uniformed Member must request the patrol supervisor to respond to the scene. If the patrol supervisor is not available, the member should contact the desk officer and comply with instructions.
+
+</details>
+
+---
+
+**38. What report must the Patrol Supervisor prepare when police action occurs at a premises where alcoholic beverages are sold?**
+
+- A) UNUSUAL OCCURRENCE REPORT (PD370-152)
+- B) POLICE ACTION LICENSED/UNLICENSED PREMISES (PD310-150)
+- C) SUMMONS REPORT (PD313-152)
+- D) INCIDENT REPORT (PD304-152)
+
+<details><summary>Answer</summary>
+
+**B) POLICE ACTION LICENSED/UNLICENSED PREMISES (PD310-150).** Per P.G. 214-34, the Patrol Supervisor must prepare the POLICE ACTION LICENSED/UNLICENSED PREMISES (PD310-150) report. An additional copy marked "NYC Department of Consumer and Worker Protection" must be prepared if the arrest involved a cabaret, public dance hall, catering establishment, or bowling alley.
+
+</details>
+
+---

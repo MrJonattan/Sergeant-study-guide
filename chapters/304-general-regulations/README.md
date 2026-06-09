@@ -27,6 +27,7 @@
 | A.G. 304-03 | Compliance With Orders | completed |
 | A.G. 304-04 | Fitness For Duty | completed |
 | A.G. 304-06 | Prohibited Conduct | completed |
+| A.G. 304-22 | Official Departmental Recognition of Fraternal Organizations | completed |
 | A.G. 304-07 | Personal Appearance | completed |
 | A.G. 304-08 | Facial Hair Policy | completed |
 | A.G. 304-09 | Religious Head Covering | completed |
@@ -43,6 +44,7 @@
 | `section-304-courtesies.md` | A.G. 304-02: Salute rules, flag/anthem protocols, desk salute, rank-based office etiquette |
 | `section-304-compliance-with-orders.md` | A.G. 304-03: Department Manual, punctuality, obeying orders, driver's license requirements, IAB notification |
 | `section-304-prohibited-conduct.md` | A.G. 304-06: General prohibitions, relationships, political restrictions, Community Board rules, off-duty restrictions, operational rules |
+| `section-304-22-fraternal-organizations.md` | A.G. 304-22: Fraternal organization recognition process, Review Board, application requirements, financial record keeping, probationary period |
 | `section-304-personal-appearance.md` | A.G. 304-07/08/09: Appearance standards, 8-Point Cap, locker stickers, hair/jewelry/tattoo rules, facial hair policy, religious head covering |
 | `section-304-computer-use-policy.md` | A.G. 325-35: Department computer use policy, monitoring notice, prohibited uses |
 | `section-304-10-false-statements.md` | A.G. 304-10: False/misleading/inaccurate statements, material facts, impeding investigations, separation penalties |

@@ -315,3 +315,35 @@ To provide for control, accountability, and issuance of radiation detection page
 | Separation | Surrender to desk officer for return to Patrol Borough Counterterrorism Coordinator |
 
 > **Exam Alert:** Personally assigned radiation pagers must be carried at **all times** while performing duty and are listed on the member's **FORCE RECORD**.
+
+## P.G. 219-12: Delivery of Gasoline to Fuel Dispensing Stations
+
+> 📅 **UPDATE 219-12:** **August 27, 2018** (R.O. 20) — Fuel delivery procedures. Source: public-pguide4-ocr.pdf, p.1 of 2.
+>
+> ⚠️ **Note:** This procedure's effective date is 08/27/18 (R.O. 20), not a 2026 update. The Update1.pdf timeline lists it but the source PDF header shows 2018.
+
+### Purpose
+To determine the amount of fuel on hand, prior to, and after the delivery of, gasoline to a Department fuel dispensing facility.
+
+### Desk Officer Responsibilities
+1. **Assign member of the service** to supervise fuel delivery
+
+### Assigned Member Responsibilities
+2. **Determine fuel amount** using electronic tank monitor (located at desk area)
+3. **Press "Print" button** and advise delivery driver of **90% ullage amount** (amount that can safely be added)
+4. **Ascertain meter reading** on fuel vendor's truck prior to pumping:
+   - Ensure fuel meter is set to **zero** before pumping begins
+   - **Inspect and initial** blank vending invoice prior to delivery
+   - **Verify** the same invoice is returned after completion
+5. **Use electronic tank monitor** to verify delivery amount:
+   - Press "Print" and verify new volume (storage balance) reflects delivery amount
+6. **Report delivery amounts** to desk officer
+
+### Desk Officer - Command Log Entry
+7. Enter in **Command Log**:
+   - Amount of fuel received
+   - Invoice number
+
+> **Exam Alert:** The electronic tank monitor is used BOTH before (to get 90% ullage) AND after (to verify delivery) the fuel delivery. The assigned member must **initial the blank invoice BEFORE** pumping and verify the same invoice after.
+
+---

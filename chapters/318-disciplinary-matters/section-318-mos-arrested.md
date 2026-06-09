@@ -1,5 +1,7 @@
 # Section 318 — MOS Arrested
 
+> 📅 **UPDATE 318-09:** **May 19, 2026** (R.O. 40) — Member of the Service Arrested (Uniformed or Civilian). Source: Public Admin Guide1.pdf, p.1 of 3.
+
 ## A.G. 318-09: MOS Arrested (Includes Civilians)
 
 ### MOS Arrested Inside NYC

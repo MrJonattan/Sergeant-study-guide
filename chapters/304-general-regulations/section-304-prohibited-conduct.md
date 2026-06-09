@@ -118,3 +118,6 @@ If a member accepts or is nominated to **elected office**:
 > **See Also:** AG 318-01 — Schedule "B" CD (Command Discipline). Bringing alcohol into a Department facility results in Schedule "B" CD under AG 304-06 and AG 318-01.
 
 > **Sergeant Focus:** Supervisors must be vigilant about prohibited conduct, particularly unauthorized relationships with subordinates, CIs, witnesses, victims, and youth. The political restrictions and Community Board rules are frequently tested areas.
+
+
+> ⚠️ **UPDATED:** This procedure was updated on **May 25, 2026**. Review the latest Patrol Guide for current language.

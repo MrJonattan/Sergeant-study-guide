@@ -6,6 +6,9 @@ Covers P.G. 207-01, 207-02, 207-03, 207-04, 207-05, 207-09, 207-34
 
 ## P.G. 207-01: Complaint Reporting System
 
+> ⚠️ **UPDATED:** This procedure was updated on **May 27, 2026** (R.O. 45). Review the latest Patrol Guide for current language.
+
+
 ### Key Definitions
 
 | Term | Definition |

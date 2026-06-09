@@ -202,6 +202,9 @@ Covers enhanced procedures for bias-motivated crime arrests, including:
 
 ## P.G. 208-44: Arrests — Sex Offenses
 
+> ⚠️ **UPDATED:** This procedure was updated on **May 13, 2026**. Review the latest Patrol Guide for current language.
+
+
 Covers arrest procedures for sex offense cases, including:
 - SVU notification
 - Victim rights and services

@@ -21,7 +21,7 @@ Section 214 covers 26 Patrol Guide procedures related to quality of life enforce
 | [section-214-vehicles-snow.md](section-214-vehicles-snow.md) | 214-26, 214-27, 214-29, 214-30, 214-31 | Snow emergencies, snow removal, derelict vehicles, expired plates, parkway removal |
 | [section-214-miscellaneous-qol.md](section-214-miscellaneous-qol.md) | 214-09, 214-10, 214-11, 214-32, 214-33, 214-35 | TLC padlock, unlawful signs, obscenity, refrigerators, animals, 311 requests |
 | [key-terms.md](key-terms.md) | All | Definitions, critical numbers, forms, radio codes |
-| [review-questions.md](review-questions.md) | Focus: 214-08, 214-12, 214-24/25, 214-33, 214-35, 214-39 | 15 exam-style questions with answers |
+| [review-questions.md](review-questions.md) | Focus: 214-08, 214-12, 214-24/25, 214-33, 214-35, 214-39 | 38 exam-style questions (includes 3 May 2026 Licensed Premises) |
 
 ## Procedures
 

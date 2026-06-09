@@ -1,57 +1,95 @@
 # Section 217 — Highway Reports and Chemical Test Warrants
 
-## P.G. 217-14: Preparation of Police Accident Reports (MV104AN) for Collisions Occurring on Highways, Bridges, and Tunnels
+> 📅 **UPDATE 217-13:** **May 5, 2026** (R.O. 33) — Preparing, Amending, and Releasing Police Crash Reports (MV-104P) to Involved Parties Appearing in Person at a Police Facility. Source: public-pguide3.pdf, p.1 of 3.
 
-**Date Effective:** 10/24/25 | **Last Revision:** R.O. 108 | **Pages:** 2
+> 📅 **UPDATE 217-14:** **May 5, 2026** (R.O. 34) — Preparation of Police Crash Reports (MV-104P) for Collisions Occurring on Highways, Bridges, and Tunnels. Source: public-pguide3.pdf, p.1 of 2.
+
+---
+
+## P.G. 217-13: Preparing, Amending, and Releasing Police Crash Reports (MV-104P) to Involved Parties Appearing in Person at a Police Facility
+
+**Date Effective:** 05/05/26 | **Last Revision:** R.O. 33 | **Pages:** 3
 
 ### Purpose
 
-To ensure that the appropriate reference marker numerals/letters are utilized when preparing a Police Accident Report (MV104AN).
+To minimize the means by which any involved party, that has an interest in a motor vehicle collision which has occurred, can commit insurance fraud.
+
+### Definition
+
+**INVOLVED PARTY** — Any person/party(s) having an interest in a motor vehicle collision which has occurred. This would include, but is not limited to, the following: motorists, passengers, property owners (whose property is damaged as a result of the collision), an executor or administrator of the estate, next of kin, or insurance beneficiary of person killed in the collision, the parent or guardian of a minor involved in the collision, spouses, insurance company representatives, dependents in a Worker's Compensation claim, and attorneys.
 
 ### Procedure
 
-Upon notification or observation of a collision on limited access highways, collector-distributor roadways (CDRs), entrance/exit ramps, bridges, and tunnels:
+When an involved party appears in person at a police facility and requests that a Police Crash Report (MV-104P) be prepared, amended or released for a collision which occurred within the last thirty days:
 
-#### Uniformed Member of the Service (Steps 1-4)
+| Step | Role | Action |
+|------|------|--------|
+| 1 | Desk Officer | Interview and verify identification of party requesting copy of Police Crash Report. |
+| 2 | Desk Officer | Direct involved party to administrative quality of life officer/assigned uniformed member of the service in order to proceed with request. |
+| 3 | Admin QOL Officer/Assigned UMOS | Ask involved party requesting copy of Police Crash Report:<br>(a) To prepare **REQUEST FOR COPY OF COLLISION RECORD (PD301-165)**<br>(b) When and where collision occurred<br>(c) To present a current, valid form of photo identification (i.e., driver's license, passport, etc.)<br>— No request will be honored without a current, valid form of photo identification<br>(d) An attorney must also present a notarized letter signed by the party concerned, stating that he/she is being represented by the attorney. |
+| 4 | Admin QOL Officer/Assigned UMOS | Make:<br>(a) Two photocopies of Police Crash Report<br>(b) One photocopy of involved party's photo identification. |
+| 5 | Admin QOL Officer/Assigned UMOS | Ensure that copies of Police Crash Report are correct. |
+| 6 | Admin QOL Officer/Assigned UMOS | Indicate name of person receiving copy of Police Crash Report on REQUEST FOR COPY OF COLLISION RECORD. |
+| 7 | Admin QOL Officer/Assigned UMOS | Submit REQUEST FOR COPY OF COLLISION RECORD to the desk officer. |
+| 8 | Desk Officer | Sign caption on REQUEST FOR COPY OF COLLISION RECORD verifying proper completion of form. |
+| 9 | Admin QOL Officer/Assigned UMOS | Give one copy of Police Crash Report along with a copy of REQUEST FOR COPY OF COLLISION RECORD to requestor. |
+| 10 | Admin QOL Officer/Assigned UMOS | Staple to the original REQUEST FOR COPY OF COLLISION RECORD:<br>(a) Photocopy of Police Crash Report<br>(b) Photocopy of photo identification with Police Crash Report number written on the top right hand corner. |
+| 11 | Admin QOL Officer/Assigned UMOS | File chronologically on a daily basis. |
+| 12 | Integrity Control Officer | Check a minimum of **fifteen file copies** of REQUEST FOR COPY OF COLLISION RECORD on a **quarterly basis** to ensure completed forms were verified by a supervisor.<br>(a) These checks will become part of the command's self inspection system. |
 
-| Step | Action |
-|------|--------|
-| 1 | Comply with P.G. 217-01, "Vehicle Collisions — General Procedure" |
-| 2 | Locate the nearest **reference marker** to the collision site (for highways, CDRs, and ramps only) |
-| 3 | Utilize the **Limited Access Highway Reference Marker Listing book** (maintained at each command) to determine the proper reference marker |
-| 3a | For collisions on **bridges or in tunnels**: use the Listing book — reference markers actually posted on bridges/tunnels near the collision site **will NOT be entered** on Police Accident Reports |
-| 3b | Use the Listing book when a reference marker is missing or cannot be seen due to inclement weather |
-| 4 | Enter numerals/letters into the **twelve box** caption titled "Reference Marker" on the Police Accident Report |
+### Additional Data — Preparation of Police Crash Report at Police Facility
 
-> **Exam Alert:** For **bridge and tunnel** collisions, always use the **Listing book** — NEVER use markers physically posted at the scene.
+Uniformed members of the service are required by law to complete a Police Crash Report and investigate the facts whenever any person(s)/party appears at a police facility and reports the following:
 
-> **Prior Test:** A uniformed member responds to a collision on a bridge. The nearest posted reference marker reads "B-112." The member should NOT enter "B-112" on the PAR — for bridge collisions, the reference marker from the **Limited Access Highway Reference Marker Listing book** must be used, not the physical marker posted at the scene. *(P.G. 217-14)*
+**ANY COLLISION which:**
+- (a) Results in **serious injury or death** to a person which must be investigated in accordance with P.G. 217-02
+- (b) Results in injury to a person and the motor vehicle collision in question is being reported **within five days** after such collision
+- (c) Involves a **commercial vehicle** where the damage incurred is disabling enough to result in a vehicle being towed from the collision scene and the motor vehicle collision in question is being reported within five days after such collision
 
-#### Command Clerical Staff Member (Steps 5-6)
+Regarding the above circumstances, if the criteria as stated are met, the person/party requesting the completion of a Police Crash Report will be referred to the command where the collision took place. **ONLY A UNIFORMED MEMBER OF THE SERVICE (UMOS)** will prepare a Police Crash Report. The UMOS concerned will ask to view the vehicle in question (if available), and interview those claiming to be party to the collision (if present), before completing the Police Crash Report. In ALL cases, the UMOS must note in the "Crash Description/Officer's Notes" section of the Police Crash Report whether or not they had the opportunity to actually view the vehicle or interview the person(s) involved in the collision.
 
-| Step | Action |
-|------|--------|
-| 5 | Record collision into the On-Line Accident Index |
-| 6 | Enter reference marker numerals/letters on the "ADD ACCIDENT" screen under "IF HIGHWAY OR BRIDGE, ENTER REFERENCE MARKER" |
+Any person(s)/party appearing in person at a police facility and requesting initial preparation of a Police Crash Report for a collision that does not meet the above criteria shall instead be given a copy of **New York State Department of Motor Vehicles form, Report of Motor Vehicle Crash (MV-104)** to complete and submit on their own.
 
-#### Quality of Life Officer (Steps 7-9)
+### Request by Mail
 
-| Step | Action |
-|------|--------|
-| 7 | Review **all** Police Accident Reports for completeness and accuracy |
-| 8 | Ensure "Reference Marker" caption is completed when required |
-| 9 | Update On-Line Accident Index |
+If involved party opts to file a REQUEST FOR COPY OF COLLISION RECORD by mail, instruct them on what valid form of identification must be included with their request in order to receive a copy of a Police Crash Report. Any mail request not accompanied by a photocopy of a current, valid form of photo identification (i.e., driver's license, passport, etc.) and a self-addressed stamped envelope, will be returned. When the request is received along with a valid form of identification, place a copy of Police Crash Report in self-addressed stamped envelope and mail to requestor.
 
-> **Sergeant Focus:** The Quality of Life Officer reviews all Police Accident Reports — supervisors should verify this review is happening consistently.
+---
+
+## P.G. 217-14: Preparation of Police Crash Reports (MV-104P) for Collisions Occurring on Highways, Bridges, and Tunnels
+
+**Date Effective:** 05/05/26 | **Last Revision:** R.O. 34 | **Pages:** 2
+
+### Purpose
+
+To ensure that the appropriate reference marker numerals/letters are utilized when preparing a **Police Crash Report (MV-104P)**.
+
+### Procedure
+
+Upon notification or observation of a vehicle collision occurring on limited access highways, collector-distributor roadways (CDRs), entrance and exit ramps, and bridges and tunnels (Metropolitan Transportation Authority facilities, Brooklyn and Williamsburg Bridges, etc.):
+
+| Step | Role | Action |
+|------|------|--------|
+| 1 | Uniformed Member of the Service | Comply with P.G. 217-01, "Vehicle Collisions — General Procedure." |
+| 2 | Uniformed Member of the Service | Locate the nearest reference marker to the collision site for collisions occurring on highways, CDRs, and ramps only. |
+| 3 | Uniformed Member of the Service | Utilize and refer to the **Limited Access Highway Reference Marker Listing book** (maintained at each command) to determine the proper reference marker:<br>(a) For collisions occurring on **bridges or in tunnels**:<br>— The Limited Access Highway Reference Marker Listing (maintained at each command) must be used for reporting collisions occurring on bridges and in tunnels.<br>— Reference markers (if any) actually posted on bridges or in tunnels near a collision site **will not be entered** on Police Crash Reports.<br>(b) In instances where a reference marker is missing, cannot be seen due to inclement weather, etc. |
+| 4 | Uniformed Member of the Service | Record collision into the **Finest Online Records Management System (FORMS)**.<br>(a) A legible handwritten copy must be completed if a member of the service does not have the ability to complete a Police Crash Report electronically.<br>(b) Enter the numerals/letters taken from the reference marker near the collision site or the Limited Access Highway Reference Marker Listing book as appropriate, into the twelve box section titled "Reference Marker" on the Police Crash Report in FORMS. |
+| 5 | Administrative Quality of Life Officer | Review all Police Crash Reports for completeness and accuracy. |
+| 6 | Administrative Quality of Life Officer | Ensure "Reference Marker" section is accurately entered when required. |
+| 7 | Administrative Quality of Life Officer | Update FORMS. |
 
 ### Additional Data — Reference Marker Description
 
-- **Size:** 9 inches × 8 inches
-- **Color:** Green
-- **Placement:** Every **one-tenth (1/10) of a mile** on limited access highways, CDRs, and entrance/exit ramps
-- **Caption on report:** Twelve box "Reference Marker" caption on Police Accident Report
+The 9 inch × 8 inch Reference Marker is located every **one-tenth of a mile** on limited access highways, collector-distributor roadways, and entrance and exit ramps.
 
-> **Exam Alert:** Reference markers are **green**, **9"×8"**, placed every **1/10 mile**.
+Reference marker format (example):
+```
+    9   0   7   N
+    B   5   C   1
+    4   C   0   3
+```
+
+> **Exam Alert:** For **bridge and tunnel** collisions, always use the **Listing book** — NEVER use markers physically posted at the scene. Reference markers are **9"×8"**, placed every **1/10 mile**.
 
 ---
 
@@ -213,3 +251,5 @@ To apply for the warrant, the member must articulate to the ADA and the judge th
 |------|--------|
 | CHEMICAL TEST WARRANT APPLICATION | PD374-041 |
 | Report of Refusal to Submit to Chemical Test | NYSDMV AA-134 |
+
+

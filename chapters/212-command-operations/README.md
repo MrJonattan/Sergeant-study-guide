@@ -27,6 +27,7 @@ After studying this chapter, you should be able to:
 12. Understand facial recognition limitations and VGTOF handling codes
 13. Ensure effective communication with persons who are deaf or hard of hearing
 14. Manage auxiliary police deployments and coordinator requirements
+15. **NEW June 2026:** Explain CVAP operations, including advocate responsibilities, report distribution rules, and ballistic vest requirements
 
 ## Chapter Files
 
@@ -44,7 +45,7 @@ After studying this chapter, you should be able to:
 | [section-212-firearms-licensing.md](section-212-firearms-licensing.md) | 212-44, 212-46, 212-84, 212-85, 212-118, 212-128 | Firearms dealers, unlawful possession, pistol license verification, rifle/shotgun permits, ERPO |
 | [section-212-elections.md](section-212-elections.md) | 212-86, 212-87, 212-88 | Before polls, during polls, after polls |
 | [section-212-technology-systems.md](section-212-technology-systems.md) | 212-12, 212-78, 212-99, 212-108, 212-121, 212-123, 212-127, 212-129 | Intelligence reporting, RTCC, AMBER Alert, VGTOF, unauthorized radio, BWC, gunshot detection, facial recognition |
-| [section-212-miscellaneous.md](section-212-miscellaneous.md) | 212-06, 212-41, 212-48, 212-50, 212-51, 212-52, 212-65, 212-66, 212-69, 212-70, 212-73, 212-74, 212-81, 212-82, 212-79, 212-91, 212-100 | Reserve surgeon, alarms, labor disputes, bicycle patrol, immigration policy, civilian commendations, subpoena fees, auxiliary police |
+| [section-212-miscellaneous.md](section-212-miscellaneous.md) | 212-06, 212-41, 212-48, 212-50, 212-51, 212-52, 212-65, 212-66, 212-69, 212-70, 212-73, 212-74, 212-81, 212-82, 212-79, 212-91, 212-100, **212-125** | Reserve surgeon, alarms, labor disputes, bicycle patrol, immigration policy, civilian commendations, subpoena fees, auxiliary police, **CVAP (NEW June 2026)** |
 | [section-212-interaction-procedures.md](section-212-interaction-procedures.md) | 212-104 | Deaf/hard of hearing communication, ADA compliance |
 
 ### Study Materials
@@ -52,7 +53,7 @@ After studying this chapter, you should be able to:
 | File | Contents |
 |------|----------|
 | [key-terms.md](key-terms.md) | 60+ critical terms, numbers, handling codes, radio codes, and mnemonics |
-| [review-questions.md](review-questions.md) | 35 multiple-choice questions with detailed answer explanations |
+| [review-questions.md](review-questions.md) | 45 multiple-choice questions (includes 3 May 2026 Orders of Protection + 7 June 2026 CVAP questions) |
 
 ## Complete Procedure Index
 

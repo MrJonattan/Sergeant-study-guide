@@ -49,7 +49,7 @@
 | `section-318-citywide-cd-system.md` | A.G. 318-14: Database entry deadlines, access management, record removal/destruction timeframes, sealing of "B" CDs |
 | `section-318-interrogation-mos.md` | A.G. 318-11: PD339-121, counsel rights, BWC viewing, prohibited tactics, Garrity warning, tape/transcript deadlines, member obligations |
 | `key-terms.md` | Intoxication definition, key forms, CD types, FOUL FRAP, A DOG CAR, election options, clearing timeframes, all key timeframes |
-| `review-questions.md` | 20 multiple-choice questions covering all AG 318 procedures |
+| `review-questions.md` | 26 multiple-choice questions covering all AG 318 procedures |
 
 ## Sergeant Focus Areas
 - **CD Types:** A = 5 days (CO/XO), B = 10 days (CO/XO), C = 20 days (Dept Advocate only)

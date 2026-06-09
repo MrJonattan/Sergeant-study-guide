@@ -2,6 +2,48 @@
 
 ## Overview
 
+---
+
+## P.G. 214-34 — Police Action in Premises Where Alcoholic Beverages Are Sold
+
+> 📅 **UPDATE 214-34:** **May 13, 2026** — Revised premises enforcement procedures. Review the latest Patrol Guide for current language.
+
+### Purpose
+To notify the Detective Bureau's Vice Unit and the State Liquor Authority of founded complaints regarding premises where alcoholic beverages are sold.
+
+### When This Procedure Applies
+
+When any of the following occur in connection with a premises (licensed or unlicensed) where alcoholic beverages are sold:
+
+- **Arrest** in premises, or elsewhere, resulting from action originating in premises
+- **Summons** served on premises, or on employee, for violation related to premises
+- **Complaint** concerning premises/vicinity that was investigated and resulted in corrected condition
+- **Condition or police action** directly concerning operation that should be brought to attention of SLA, DOB, FDNY, or other City agency
+
+### Uniformed Member Duties
+
+1. **Request patrol supervisor** to respond (if not available, contact desk officer)
+2. **Advise patrol supervisor** of the facts
+3. **Take summary action** if offense committed in presence; comply with P.G. 208-03 and P.G. 207-08
+4. **Make complete entries** in digital Activity Log
+5. **Notify Detective Bureau Operations Desk** when:
+   - Premises is selling alcohol **without a liquor license**, AND/OR
+   - Premises is operating **after hours**
+
+### Patrol Supervisor Duties
+
+6. **Respond to the scene** and determine appropriate police action
+   - Notify DOB, FDNY, or appropriate City agency of apparent code violations
+7. **Prepare POLICE ACTION LICENSED/UNLICENSED PREMISES (PD310-150)** report
+   - Prepare additional copy marked "NYC Department of Consumer and Worker Protection" if arrest involved cabaret, public dance hall, catering establishment, or bowling alley
+   - Prepare one additional copy for commanding officer
+
+> **Exam Alert:** The patrol supervisor must respond to ALL police action incidents at licensed premises. The PD310-150 report goes to Detective Bureau Vice Unit AND State Liquor Authority.
+
+---
+
+## Overview
+
 This section covers three distinct enforcement programs that target quality-of-life degradation at the community level: narcotics eviction, graffiti vandalism rewards, and multi-agency operations against problem establishments. Sergeants must understand the interagency coordination requirements, documentation standards, and the limits of police authority in each program.
 
 ---

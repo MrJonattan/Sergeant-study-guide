@@ -462,3 +462,65 @@ D) Date and time Part C of the Loss Form was completed
 The Force Record (10 card) entry uses the date and time of the **Command Log Entry** — NOT the date and time of the actual loss. This is a specific and frequently tested distinction. (P.G. 219-21)
 
 </details>
+
+---
+
+## May 2026 Update Questions — Delivery of Gasoline to Fuel Dispensing Stations
+
+**28. When a fuel company employee arrives to deliver gasoline to a Department fuel dispensing facility, who must the Desk Officer assign to supervise the delivery?**
+
+A) The patrol supervisor
+B) A member of the service
+C) The operations coordinator
+D) The desk officer personally
+
+<details><summary>Answer</summary>
+
+**B) A member of the service.** Per P.G. 219-12 (updated May 26, 2026), the Desk Officer must assign a member of the service to supervise fuel delivery.
+
+</details>
+
+---
+
+**29. What is the "90% ullage amount" that must be advised to the delivery driver?**
+
+A) The total capacity of the storage tank
+B) The amount of fuel currently in the tank
+C) The amount that can safely be added to the storage tank
+D) 90% of the tank's total capacity
+
+<details><summary>Answer</summary>
+
+**C) The amount that can safely be added to the storage tank.** Per P.G. 219-12, the assigned member presses the "Print" button on the electronic tank monitor and advises the delivery driver of the 90% ullage amount, which is the amount that can safely be added to the storage tank.
+
+</details>
+
+---
+
+**30. When must the fuel meter on the vendor's truck be set to zero?**
+
+A) After completion of delivery
+B) Before pumping begins
+C) When the delivery driver arrives
+D) After the Desk Officer verifies the delivery amount
+
+<details><summary>Answer</summary>
+
+**B) Before pumping begins.** Per P.G. 219-12, the assigned member must ensure that the fuel meter on the vendor's truck is set to zero before pumping begins. The member must also inspect and initial the blank vending invoice prior to delivery of gasoline.
+
+</details>
+
+---
+
+**31. What information must the Desk Officer enter in the Command Log concerning receipt of fuel?**
+
+A) Only the amount of fuel received
+B) Only the invoice number
+C) Amount of fuel received and invoice number
+D) Amount of fuel received, invoice number, and driver's name
+
+<details><summary>Answer</summary>
+
+**C) Amount of fuel received and invoice number.** Per P.G. 219-12, the Desk Officer must enter in the Command Log the amount of fuel received and the invoice number.
+
+</details>

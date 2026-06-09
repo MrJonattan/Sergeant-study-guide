@@ -1,5 +1,56 @@
 # Section 218 — Evidence Processing: Specialized Items
 
+## P.G. 218-23: Evidence Processing
+
+> 📅 **UPDATE 218-23:** **May 13, 2026** — Revised evidence processing procedures. Review the latest Patrol Guide for current language.
+
+## P.G. 218-26: Processing Found Property
+
+> 📅 **UPDATE 218-26:** **May 20, 2024** (R.O. 31) — Found property processing procedures. Source: public-pguide4-ocr.pdf, p.1 of 2.
+> 
+> ⚠️ **Note:** This procedure's effective date is 05/20/24 (R.O. 31), not a 2026 update. The Update1.pdf timeline lists it but the source PDF header shows 2024.
+
+### Purpose
+To record and process found property.
+
+### General Rule
+Found property valued at **$10 or more** is required to be reported to and deposited with the police.
+
+### Exceptions
+
+| Location | Procedure |
+|----------|-----------|
+| **NYC Subway System** (non-currency, non-contraband, no investigation needed) | Deliver to nearest NYC Transit Station Agent for forwarding to NYC Transit Lost Property Office |
+| **Yellow Medallion Taxis** | Property taken by taxi driver or garage designee to one of eight designated repository commands |
+
+### Repository Commands for Taxi Found Property
+
+| Patrol Borough | Command |
+|----------------|---------|
+| PBMS | 017 Precinct |
+| PBBN | 094 Precinct |
+| PBMN | Central Park Pct |
+| PBQS | 107 Precinct |
+| PBXS | 043 Precinct |
+| PBQN | 115 Precinct |
+| PBBS | 076 Precinct |
+| PBSI | 120 Precinct |
+
+### Uniformed Member Duties
+
+1. **Issue receipt** to person delivering property (if not MOS):
+   - At command: Provide copy of PROPERTY CLERK INVOICE (PD521-141)
+   - On patrol: Provide ACKNOWLEDGMENT OF FOUND PROPERTY (PD542-012) with description and signature
+
+2. **Subway found property** (non-currency, non-contraband):
+   - Deliver to nearest NYC Transit Station Agent
+   - Direct/escort finder to Station Agent when possible
+   - Secure receipt from Station Agent for the finder
+
+> **Exam Alert:** Found property in the subway (except currency/contraband) goes to NYC Transit Lost Property Office, NOT the precinct. Taxi found property goes to one of eight designated repository commands.
+
+---
+
 ## P.G. 218-11: Use of Biohazard Labels
 
 **Date Effective:** 05/20/24 | **Last Revision:** R.O. 31 | **Pages:** 1
@@ -120,6 +171,8 @@ Hypos are sent to the **Property Clerk, NOT the Lab**, UNLESS:
 ---
 
 ## P.G. 218-23: Processing Firearms and Firearm-Related Evidence
+
+> 📅 **UPDATE:** This procedure was updated on May 12, 2026.
 
 **Date Effective:** 12/31/24 | **Last Revision:** R.O. 78 | **Pages:** 11
 
@@ -503,3 +556,5 @@ To provide guidelines for proper preparation of the REQUEST FOR LABORATORY EXAMI
 | 6 | Desk Officer | Digitally sign REQUEST verifying accuracy and completeness |
 
 > **Exam Alert:** A REQUEST FOR LABORATORY EXAMINATION REPORT must be prepared for **each INVOICE** that lists evidence submitted to the laboratory for analysis.
+
+

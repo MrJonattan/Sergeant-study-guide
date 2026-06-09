@@ -2,7 +2,7 @@
 
 ## A.G. 330-03: Line of Duty Injury or Death
 
-**Date Effective:** 02/03/25 | **Last Revision:** R.O. 8 | **Pages:** 5
+**Date Effective:** 05/05/26 | **Last Revision:** R.O. 33 | **Pages:** 5
 
 ### Purpose
 

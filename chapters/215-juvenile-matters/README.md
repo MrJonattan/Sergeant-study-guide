@@ -69,4 +69,4 @@ After studying this chapter, you should be able to:
 | [section-215-school-related.md](section-215-school-related.md) | School safety, searches, and threats | 215-13, 215-16, 215-17, 215-18, 215-27 |
 | [section-215-child-protection.md](section-215-child-protection.md) | Child advocacy, ACS coordination, and child safety | 215-14, 215-22, 215-23, 215-28, 215-29 |
 | [key-terms.md](key-terms.md) | Definitions and critical numbers/ages | All |
-| [review-questions.md](review-questions.md) | 15 multiple-choice exam questions | All |
+| [review-questions.md](review-questions.md) | 22 multiple-choice exam questions | All |

@@ -45,3 +45,6 @@
 > **Exam Alert:** For ANY misconduct case involving alcohol or domestic violence, two things must happen before final adjudication: (1) conferral with EAU and (2) assessment/referral by Counseling Unit. The Dept. Advocate ensures compliance.
 
 > **See Also:** A.G. 330-07 — Trauma Counseling Program (separate program for incident-related trauma; does not prevent voluntary use of Counseling Unit).
+
+
+> ⚠️ **UPDATED:** This procedure was updated on **May 25, 2026**. Review the latest Patrol Guide for current language.

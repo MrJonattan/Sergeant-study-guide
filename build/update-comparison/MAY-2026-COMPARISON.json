@@ -1,0 +1,314 @@
+[
+  {
+    "proc": "207-07",
+    "date": "May 28",
+    "chapter": "207-complaints",
+    "file": "section-207-investigations.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "207-01",
+    "date": "May 27",
+    "chapter": "207-complaints",
+    "file": "section-207-complaint-system.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "304-22",
+    "date": "May 26",
+    "chapter": "304-general-regulations",
+    "file": "section-304-prohibited-conduct.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "330-08",
+    "date": "May 26",
+    "chapter": "330-medical-health-wellness",
+    "file": "section-330-counseling-unit.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "219-12",
+    "date": "May 26",
+    "chapter": "219-department-property",
+    "file": "section-219-equipment-supplies.md",
+    "status": "CHANGES_FOUND",
+    "differences": ["New keyword: FORMS"]
+  },
+  {
+    "proc": "318-09",
+    "date": "May 19",
+    "chapter": "318-disciplinary-matters",
+    "file": "section-318-disciplinary-matters.md",
+    "status": "SKIPPED",
+    "reason": "No extracted content available"
+  },
+  {
+    "proc": "318-17",
+    "date": "May 19",
+    "chapter": "318-disciplinary-matters",
+    "file": "section-318-disciplinary-matters.md",
+    "status": "SKIPPED",
+    "reason": "No extracted content available"
+  },
+  {
+    "proc": "202-05",
+    "date": "May 19",
+    "chapter": "202-duties-responsibilities",
+    "file": "section-202-officers.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "202-20",
+    "date": "May 19",
+    "chapter": "202-duties-responsibilities",
+    "file": "section-202-supervisors.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "320-04",
+    "date": "May 18",
+    "chapter": "320-personnel-matters",
+    "file": "section-320-04.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "212-57",
+    "date": "May 14",
+    "chapter": "212-command-operations",
+    "file": "section-212-miscellaneous.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "207-06",
+    "date": "May 13",
+    "chapter": "207-complaints",
+    "file": "section-207-notifications.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "207-33",
+    "date": "May 13",
+    "chapter": "207-complaints",
+    "file": "section-207-investigations.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "208-44",
+    "date": "May 13",
+    "chapter": "208-arrests",
+    "file": "section-208-special-arrests.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "214-34",
+    "date": "May 13",
+    "chapter": "214-quality-of-life",
+    "file": "section-214-enforcement-programs.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "218-23",
+    "date": "May 13",
+    "chapter": "218-property-general",
+    "file": "section-218-evidence-processing.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "208-14",
+    "date": "May 13",
+    "chapter": "208-arrests",
+    "file": "section-208-law-and-processing.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "210-19",
+    "date": "May 13",
+    "chapter": "210-prisoners",
+    "file": "section-210-general-procedure.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "213-03",
+    "date": "May 13",
+    "chapter": "213-mobilization-emergency",
+    "file": "section-213-mobilization-readiness.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "218-26",
+    "date": "May 13",
+    "chapter": "218-property-general",
+    "file": "section-218-evidence-processing.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "208-69",
+    "date": "May 13",
+    "chapter": "208-arrests",
+    "file": "section-208-notifications.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "212-12",
+    "date": "May 13",
+    "chapter": "212-command-operations",
+    "file": "section-212-technology-systems.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "212-55",
+    "date": "May 13",
+    "chapter": "212-command-operations",
+    "file": "section-212-special-incidents.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "212-99",
+    "date": "May 13",
+    "chapter": "212-command-operations",
+    "file": "section-212-technology-systems.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "202-06",
+    "date": "May 5",
+    "chapter": "202-duties-responsibilities",
+    "file": "section-202-officers.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "202-18",
+    "date": "May 5",
+    "chapter": "202-duties-responsibilities",
+    "file": "section-202-supervisors.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "202-29",
+    "date": "May 5",
+    "chapter": "202-duties-responsibilities",
+    "file": "section-202-supervisors.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "202-39",
+    "date": "May 5",
+    "chapter": "202-duties-responsibilities",
+    "file": "section-202-supervisors.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "216-12",
+    "date": "May 5",
+    "chapter": "216-aided-cases",
+    "file": "section-216-special-aided.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "216-13",
+    "date": "May 5",
+    "chapter": "216-aided-cases",
+    "file": "section-216-special-aided.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "216-15",
+    "date": "May 5",
+    "chapter": "216-aided-cases",
+    "file": "section-216-special-aided.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "217-01",
+    "date": "May 5",
+    "chapter": "217-vehicle-collisions",
+    "file": "section-217-collisions-general.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "217-07",
+    "date": "May 5",
+    "chapter": "217-vehicle-collisions",
+    "file": "section-217-collisions-general.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "217-09",
+    "date": "May 5",
+    "chapter": "217-vehicle-collisions",
+    "file": "section-217-collisions-general.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "217-13",
+    "date": "May 5",
+    "chapter": "217-vehicle-collisions",
+    "file": "section-217-highways-chemical-test.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "217-14",
+    "date": "May 5",
+    "chapter": "217-vehicle-collisions",
+    "file": "section-217-highways-chemical-test.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "219-23",
+    "date": "May 5",
+    "chapter": "219-department-property",
+    "file": "section-219-it-communications.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "221-21",
+    "date": "May 5",
+    "chapter": "221-tactical-operations",
+    "file": "section-221-force-reporting.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  },
+  {
+    "proc": "221-22",
+    "date": "May 5",
+    "chapter": "221-tactical-operations",
+    "file": "section-221-force-reporting.md",
+    "status": "NO_CHANGES",
+    "reason": "Content appears identical or no extractable differences"
+  }
+]

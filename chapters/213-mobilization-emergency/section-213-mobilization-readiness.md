@@ -31,7 +31,9 @@ This section covers the foundational procedures for mobilization, emergency resp
 
 ## P.G. 213-03 — Rapid Mobilization
 
-> **Note:** Full exam-focused content for this procedure is covered in the Rapid Mobilization section. The summary below highlights the most critical points.
+> 📅 **UPDATE 213-03:** **May 13, 2026** — Rapid Mobilization procedures. Source: Update1.pdf timeline.
+>
+> ⚠️ **Content not yet verified against source PDF** — Update date confirmed from Update1.pdf timeline; full procedure text pending extraction from public-pguide4.pdf.
 
 ### Known Information
 - Establishes procedures for rapidly assembling personnel during emergencies

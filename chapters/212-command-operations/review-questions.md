@@ -526,3 +526,157 @@ Test your knowledge of Command Operations procedures. Click each answer to revea
 **C) Yes, the MOS may ask, but the diplomat may refuse.** Per P.G. 212-56, MOS may ASK a diplomat to take a sobriety test (breathalyzer), but the diplomat is entitled to REFUSE. The request and response must be documented in the Activity Log and Unusual Occurrence Report.
 
 </details>
+
+---
+
+## May 2026 Update Questions — Service of Orders of Protection
+
+**36. During which hours should the Desk Officer fax Family Court/Supreme Court Orders of Protection to the NYC Sheriff's Operations Desk?**
+
+- A) Monday-Friday, 0900-1700
+- B) Monday-Thursday 0300-2300, Friday 0500-2300
+- C) Monday-Thursday 0500-2300, Friday 0300-2300
+- D) Daily, 0600-2200
+
+<details><summary>Answer</summary>
+
+**B) Monday-Thursday 0300-2300, Friday 0500-2300.** Per P.G. 212-57 (updated May 14, 2026), the NYC Sheriff's Office is the process server for civil orders of protection during its operating hours. During hours when the Sheriff's Office is not operating, NYPD will serve/attempt to serve until the Sheriff resumes operations.
+
+</details>
+
+---
+
+**37. When a member of the public presents a Family Court Order of Protection at a precinct for service, what action is required?**
+
+- A) Direct the petitioner to contact the NYC Sheriff's Office
+- B) Accept the order and have the petitioner complete the SH-0609 form
+- C) Accept the order and immediately dispatch an officer to serve it
+- D) Direct the petitioner to the District Attorney's office
+
+<details><summary>Answer</summary>
+
+**B) Accept the order and have the petitioner complete the SH-0609 form.** Per P.G. 212-57, the Desk Officer must accept the order of protection from the member of the public or Court. Accepting the order is not the same as serving it. The petitioner must complete the NYC Department of Finance, Office of the Sheriff, Service of Process Intake (SH-0609) form.
+
+</details>
+
+---
+
+**38. What information must be recorded in the Order of Protection Log?**
+
+- A) Petitioner's name, respondent's name, and court name only
+- B) Petitioner's name, respondent's name, court name, docket number, and Sheriff's receipt confirmation
+- C) Only the petitioner's name and the date the order was received
+- D) Respondent's name, court name, and the officer assigned to serve
+
+<details><summary>Answer</summary>
+
+**B) Petitioner's name, respondent's name, court name, docket number, and Sheriff's receipt confirmation.** Per P.G. 212-57, the Desk Officer must make an entry in the Order of Protection Log recording the petitioner's name, respondent's name, name of court, docket number, and confirmation of the NYC Sheriff's receipt of the order and relative paperwork.
+
+</details>
+
+---
+
+## June 2026 Update Questions — Crime Victim Assistance Program (CVAP)
+
+**39. The Crime Victim Assistance Program (CVAP) is managed by which entities?**
+
+- A) NYPD Victim Services Unit
+- B) Mayor's Office of Criminal Justice (MOCJ) only
+- C) Mayor's Office of Criminal Justice (MOCJ) in collaboration with Safe Horizon
+- D) Safe Horizon independently
+
+<details><summary>Answer</summary>
+
+**C) Mayor's Office of Criminal Justice (MOCJ) in collaboration with Safe Horizon.** Per P.G. 212-125 (NEW June 4, 2026), CVAP is jointly managed by MOCJ and Safe Horizon. CVAP places trained victim advocates inside Department facilities Citywide.
+
+</details>
+
+---
+
+**40. To whom should CVAP advocates receive daily complaint reports?**
+
+- A) All Complaint Reports filed during the tour
+- B) All reports except sex crimes and domestic incidents
+- C) All reports except sex crimes, victims under 18, cross complaints, unfounded DV, and non-crime reports
+- D) Only domestic incident reports
+
+<details><summary>Answer</summary>
+
+**C) All reports except sex crimes, victims under 18, cross complaints, unfounded DV, and non-crime reports.** Per P.G. 212-125, the Crime Analysis Officer prints reports for the CVAP advocate EXCEPT: sex crimes, crimes where victim is under 18, cross complaints, unfounded domestic incidents, and reports not involving a crime victim (lost property, found drugs/firearms, deceased with no criminality).
+
+</details>
+
+---
+
+**41. When must the Desk Officer make a Command Log entry regarding the CVAP advocate?**
+
+- A) Only at the beginning and end of tour
+- B) When the advocate arrives for duty and at end of tour only
+- C) When the advocate is present for duty, leaves/returns for any reason, and at end of tour
+- D) Only when the advocate accompanies an investigator on a home visit
+
+<details><summary>Answer</summary>
+
+**C) When the advocate is present for duty, leaves/returns for any reason, and at end of tour.** Per P.G. 212-125, the Desk Officer must make Command Log entries for ALL of these events: advocate present for duty, leaves or returns to precinct/PSA for any reason, and at end of tour.
+
+</details>
+
+---
+
+**42. CVAP advocates are required to wear ballistic vests during which activity?**
+
+- A) At all times while in the precinct
+- B) During home visits with domestic violence investigators
+- C) Only when entering locations with open Complaint Reports
+- D) Ballistic vests are optional for CVAP advocates
+
+<details><summary>Answer</summary>
+
+**B) During home visits with domestic violence investigators.** Per P.G. 212-125, the Operations Coordinator shall direct CVAP advocates to wear ballistic vests while conducting visits with DV investigators. Vests are issued from the command's reserve supply and must be returned before end of tour.
+
+</details>
+
+---
+
+**43. Which official directs the CVAP advocate to wear a ballistic vest during home visits?**
+
+- A) The Desk Officer
+- B) The Patrol Supervisor
+- C) The Domestic Violence Supervisor
+- D) The Operations Coordinator
+
+<details><summary>Answer</summary>
+
+**D) The Operations Coordinator.** Per P.G. 212-125, the Operations Coordinator is responsible for directing the CVAP advocate to wear a ballistic vest while conducting visits with domestic violence investigators.
+
+</details>
+
+---
+
+**44. CVAP advocates may accompany domestic violence investigators on home visits EXCEPT in which situation?**
+
+- A) When the location is in a different precinct
+- B) When there is an open Complaint Report or wanted perpetrator may be present
+- C) When the victim is not home
+- D) When the investigation involves a misdemeanor
+
+<details><summary>Answer</summary>
+
+**B) When there is an open Complaint Report or wanted perpetrator may be present.** Per P.G. 212-125, the Domestic Violence Supervisor should facilitate the CVAP advocate accompanying investigators on home visits WHEN POSSIBLE, EXCEPT at locations where there is an open Complaint Report or where a wanted perpetrator may be present.
+
+</details>
+
+---
+
+**45. Which of the following reports should NOT be provided to the CVAP advocate?**
+
+- A) A burglary report where a 45-year-old victim had property stolen
+- B) A domestic incident report where a 30-year-old woman reported verbal abuse
+- C) A report of found property (a wallet with cash and credit cards)
+- D) An assault report where a 25-year-old was punched during an argument
+
+<details><summary>Answer</summary>
+
+**C) A report of found property (a wallet with cash and credit cards).** Per P.G. 212-125, CVAP advocates receive reports involving crime victims. Found property reports do NOT involve a victim of a crime and should not be provided to the advocate.
+
+</details>

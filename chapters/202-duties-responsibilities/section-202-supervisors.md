@@ -8,6 +8,8 @@
 
 ## P.G. 202-18: Desk Officer (CRITICAL — 5 pages)
 
+> 📅 **UPDATE 202-18:** **June 2, 2026** — Revised desk officer procedures. Review the latest Patrol Guide for current language.
+
 > **Rank Requirement:** Must be a SERGEANT or above.
 > **Core Responsibility:** Responsible for ALL police operations within the command during the tour.
 
@@ -111,12 +113,16 @@ The desk officer directly supervises the following positions:
 ### Notifications and Referrals
 
 - Query CPR System "Court Appearances" to ensure MOS required in court are properly notified and attending
+- **NEW June 2026:** Upon completion of roll call, provide communications dispatcher with complete **"Rundown"** of command's resources as listed in CPR System Roll Call
+  - Notify communications dispatcher throughout tour with changes as they occur (resources reassigned, additional resources added, etc.)
 - Important matters, unusual arrests/occurrences — notify Commanding Officer
 - Trends observed or other important matters — confer with **C.E.O.**
 - Major incidents and/or special circumstances — notify Intelligence Bureau's Criminal Intelligence Section
 - Make required notifications to MOS assigned to OR residing in command
 
 > **Memory Aid — C.E.O.:** **C**ommanding Officer, **E**xecutive Officer, **O**perations Coordinator. These are the three officials the D.O. confers with regarding trends and important matters (P.G. 202-18).
+
+> **Exam Alert (June 2026 Update):** The **"Rundown"** to communications dispatcher is given **upon completion of roll call** (not before, not at end of tour). This is a NEW requirement added in June 2026.
 
 ### Forms, Logs & Reports
 
@@ -193,6 +199,8 @@ The desk officer directly supervises the following positions:
 
 ## P.G. 202-19: Patrol Supervisor (CRITICAL)
 
+> 📅 **UPDATE 202-19:** **June 2, 2026** — Revised patrol supervisor procedures. Review the latest Patrol Guide for current language.
+
 > **Rank Requirement:** Must be a SERGEANT or above.
 > **Core Responsibility:** Supervise all police FIELD operations during the tour.
 
@@ -230,6 +238,7 @@ The desk officer directly supervises the following positions:
   - Test knowledge of command conditions
   - Closely evaluate activity
 - **SHALL** use Neighborhood Policing App to supervise/conduct neighborhood policing functions, as applicable
+- **NEW June 2026:** **SHALL** use **Salesforce Application** to assist in supervising and conducting quality of life operations
 - **SHALL** report derelictions of duty to the C.O.
 
 ### Patrol Visits
@@ -250,7 +259,8 @@ The desk officer directly supervises the following positions:
 
 ### Vehicle and Safety Oversight
 
-- **SHALL** use AVL in the Domain Awareness System (DAS) to monitor RMP locations for UMOS safety and ensure proper delivery of police service
+- **NEW June 2026:** **SHALL** use **AVL (Automatic Vehicle Location)** in the **Domain Awareness System (DAS)** to monitor RMP locations during tour
+  - Purpose: Enhance safety of MOS and ensure proper delivery of police services
   - If AVL is not working: notify D.O.
   - Do NOT put RMP out of service unless directed by IAB or Fleet Services Division (FSD)
 - **SHALL** supervise inspection of Department vehicles assigned to members of platoon
@@ -300,6 +310,9 @@ The desk officer directly supervises the following positions:
 ---
 
 ## P.G. 202-20: Supervisor of Neighborhood Safety Team (NST)
+
+> 📅 **UPDATE 202-20:** **May 19, 2026** — Revised NST supervisor procedures. Review the latest Patrol Guide for current language.
+
 
 > **Rank Requirement:** Sergeant or above, SOLELY assigned to NST supervision.
 > **Core Rule:** NSTs may NOT be deployed without a sergeant or above solely assigned.
@@ -431,6 +444,8 @@ The operations coordinator is a key administrative contact for sergeants needing
 ---
 
 ## P.G. 202-29: Command Integrity Control Officer (ICO)
+
+> 📅 **UPDATE 202-29:** **May 5, 2026** — Revised ICO procedures. Review the latest Patrol Guide for current language.
 
 > **Rank Requirement:** As designated by the commanding officer
 
@@ -777,6 +792,8 @@ QOL Officers operate under sergeant supervision. Sergeants must ensure QOL offic
 ---
 
 ## P.G. 202-39: Quality of Life Sergeant (HIGH PRIORITY) — Updated 10/24/25, R.O. 109 (2 pages)
+
+> 📅 **UPDATE 202-39:** **May 5, 2026** — Revised QOL sergeant procedures. Review the latest Patrol Guide for current language.
 
 > **Rank Requirement:** Sergeant
 > **Core Responsibility:** Supervise only ONE quality of life team throughout designated tour. Report directly to command's special operations lieutenant.

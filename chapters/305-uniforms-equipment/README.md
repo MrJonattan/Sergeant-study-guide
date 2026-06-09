@@ -25,7 +25,7 @@
 | `section-305-lost-damaged-uniform.md` | A.G. 305-05: Reimbursement procedures, filing deadlines, reimbursement limits |
 | `section-305-firearms-regulations.md` | A.G. 305-07: Carrying requirements, holster rules, prohibited modifications, court rules, foreign travel |
 | `key-terms.md` | Authorized firearm definitions, holster requirements, reimbursement terms |
-| `review-questions.md` | 10 multiple-choice questions covering uniforms and firearms regulations |
+| `review-questions.md` | 17 multiple-choice questions covering uniforms and firearms regulations |
 
 ## Sergeant Focus Areas
 - **Holster compliance:** Verify retention device, trigger guard coverage; no clip-on/belly band

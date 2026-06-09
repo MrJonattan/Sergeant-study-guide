@@ -1,5 +1,86 @@
 # Section 212 — Miscellaneous Procedures
 
+## P.G. 212-125 — Crime Victim Assistance Program (CVAP)
+
+> ⚠️ **NEW PROCEDURE:** Added **June 4, 2026**. This is entirely new content for the exam.
+
+### Purpose
+To provide guidelines to members of the service regarding the Crime Victim Assistance Program (CVAP).
+
+### Definitions
+
+| Term | Definition |
+|------|------------|
+| **CVAP** | The **Mayor's Office of Criminal Justice (MOCJ)**, in collaboration with **Safe Horizon**, manages CVAP. Places trained victim advocates inside Department facilities Citywide to expeditiously connect crime victims with relevant services (counseling, financial compensation, etc.) |
+| **CVAP Advocate** | Crime victim and domestic violence advocate employed by **Safe Horizon** to work in precincts and police service areas to provide support to victims **after crimes are reported** |
+
+### Desk Officer Responsibilities
+
+1. **Make Command Log entry** when CVAP advocate:
+   - Present for duty
+   - Leaves or returns to precinct/PSA for **any reason**
+   - End of tour
+
+### Crime Analysis Officer/Designee Responsibilities
+
+2. **Review** Complaint Reports (PD313-152) and NYS Domestic Incident Reports (DCJS-3221) in **FORMS** at **beginning of tour**
+
+3. **Print** Complaint Reports and Domestic Incident Reports for CVAP advocate **EXCEPT**:
+   - Sex crimes
+   - Crimes where victim is **under 18 years old**
+   - Cross complaints
+   - Unfounded domestic incidents
+   - Reports **not involving a crime victim** (lost property, found controlled substances/firearms, deceased with no criminality suspected)
+
+> **Exam Alert:** CVAP advocates receive reports for **adult crime victims only**. Sex crimes, juveniles, cross complaints, unfounded DV, and non-crime reports are **excluded**.
+
+### Domestic Violence Supervisor Responsibilities
+
+4. **When possible**, facilitate CVAP advocate accompanying DV investigator on **home visits**
+   - **EXCEPT** at locations where:
+     - Open Complaint Report exists
+     - Wanted perpetrator may be present
+
+### Operations Coordinator Responsibilities
+
+5. **Direct CVAP advocate to wear ballistic vest** while conducting visits with DV investigators
+   - Vests issued from command's **reserve supply**
+   - Ensure proper log entries are made
+   - Vest must be **returned before end of tour**
+
+> **Exam Alert:** CVAP advocates wear ballistic vests **only during home visits with DV investigators** (not at all times). The **Operations Coordinator** directs vest use. Vests come from **reserve supply**, not personal equipment.
+
+---
+
+## P.G. 212-57 — Service of Family Court/Supreme Court Orders of Protection
+
+> 📅 **UPDATE 212-57:** **May 14, 2026** — Revised service of orders of protection procedures. Review the latest Patrol Guide for current language.
+
+### Purpose
+To assist in the service of all orders of protection issued by Family Court or Supreme Court.
+
+### Desk Officer Responsibilities
+
+When an order of protection is presented for service:
+
+1. **Accept the order** from member of public or Court
+2. **Have petitioner complete** NYC Department of Finance, Office of Sheriff, Service of Process Intake (SH-0609) form
+
+### Monday-Thursday (0300-2300) and Friday (0500-2300)
+
+3. **Fax** order and SH-0609 form to NYC Sheriff's Operations Desk
+4. **Confirm receipt** via telephone
+5. **Make entry in Order of Protection Log** with:
+   - Petitioner's name, Respondent's name
+   - Name of court, Docket number
+   - Confirmation of Sheriff's receipt
+
+> **Note:** Accepting ≠ serving. The **NYC Sheriff's Office** is the process server during its hours. When Sheriff is not operating, NYPD serves until Sheriff resumes.
+
+> **Exam Alert:** Fax hours are **Mon-Thu 0300-2300, Fri 0500-2300**. The Order of Protection Log is maintained at the desk.
+
+---
+
 ## P.G. 212-14 — Traffic Intelligence Report
 
 *(Updated R.O. 108, effective 10/24/25)*
@@ -286,3 +367,10 @@ To formalize police/clergy cooperation; provide instruction and direction to bot
 > **Exam Alert:** Auxiliary police shall **NEVER** patrol without a coordinator. If the coordinator is unavailable, auxiliaries are assigned to the command facility only. Members under 18 may not patrol or perform undercover QOL — age 17 is limited to administrative functions.
 
 > **Sergeant Focus:** Supervisors must verify coordinator availability before any auxiliary patrol deployment. No exceptions to the coordinator requirement.
+
+
+> 📅 **UPDATE 212-125:** **June 4, 2026** — Revised CVAP procedures. Review the latest Patrol Guide for current language.
+
+
+
+

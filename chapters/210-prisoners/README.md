@@ -31,7 +31,7 @@
 | [section-210-holding-pens.md](section-210-holding-pens.md) | Unusual occurrences (definition, typed letterhead copies, IAB notification), holding pen guidelines, 30-minute inspections, 3-hour max detention, separation rules, suicide prevention item removal, menstrual hygiene (210-07, 210-08) |
 | [section-210-release.md](section-210-release.md) | Release of prisoners, voided arrest vs. decline prosecution, supervisor conferral, warrant checks, record sealing, other agency release conflicts, ADA-directed release (210-13, 210-15, 210-16, 210-17) |
 | [key-terms.md](key-terms.md) | All key terms, forms, critical numbers, and abbreviations from Section 210 |
-| [review-questions.md](review-questions.md) | 15 multiple-choice practice questions with hidden answers |
+| [review-questions.md](review-questions.md) | 24 multiple-choice practice questions (includes 2 May 2026 Mobility Disability: Q23-24) |
 
 ## Procedures
 

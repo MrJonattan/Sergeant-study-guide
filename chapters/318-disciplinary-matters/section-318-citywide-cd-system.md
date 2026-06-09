@@ -1,5 +1,7 @@
 # Section 318 — Citywide Command Discipline System
 
+> 📅 **UPDATE 318-17:** **May 19, 2026** (R.O. 40) — Investigation of Civilian Complaints. Source: Public Admin Guide1.pdf, p.1 of 3.
+
 ## A.G. 318-14: Citywide CD System
 
 ### Database Entry Responsibilities

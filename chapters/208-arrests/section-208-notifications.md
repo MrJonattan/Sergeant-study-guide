@@ -6,6 +6,8 @@ Covers P.G. 208-69
 
 ## P.G. 208-69: Notifications
 
+> ⚠️ **UPDATED:** This procedure was updated on **May 13, 2026**. Review the latest Patrol Guide for current language.
+
 ### Operations Unit — DIRECT Notification Required
 
 The following arrest types require **direct notification to the Operations Unit**:

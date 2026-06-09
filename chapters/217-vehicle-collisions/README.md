@@ -32,7 +32,7 @@ After studying this chapter, you should be able to:
 | [section-217-highways-chemical-test.md](section-217-highways-chemical-test.md) | 217-14, 217-16 |
 | [section-217-18-pedestrian-bicyclist-row.md](section-217-18-pedestrian-bicyclist-row.md) | 217-18 |
 | [key-terms.md](key-terms.md) | Definitions, forms, critical numbers |
-| [review-questions.md](review-questions.md) | 15 multiple-choice exam prep questions |
+| [review-questions.md](review-questions.md) | 31 multiple-choice exam prep questions |
 
 ## Study Tips
 

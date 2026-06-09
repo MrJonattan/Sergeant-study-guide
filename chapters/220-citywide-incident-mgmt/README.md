@@ -58,7 +58,7 @@
 | `section-220-operations-procedures.md` | 220-14 through 220-18, 220-22, 220-27, 220-28: Supporting Agencies, Coordinating Agency, Communications, Transfer of Command, Incident Sequence, Demobilization, ICS Form 201, IMT Activation |
 | `section-220-facilities-resources.md` | 220-19 through 220-21, 220-23 through 220-26: Incident Facilities, Staging Area, Air Operations, Check-In, Resources, Resource Assignments |
 | `key-terms.md` | Comprehensive definitions, acronyms, command matrices, resource categories, priorities, timeframes |
-| `review-questions.md` | 25 multiple-choice questions covering all major CIMS concepts |
+| `review-questions.md` | 35 multiple-choice questions covering all major CIMS concepts |
 
 ## Sergeant Focus Areas
 

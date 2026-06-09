@@ -24,7 +24,7 @@
 | [section-219-equipment-supplies.md](section-219-equipment-supplies.md) | 219-17, 219-18, 219-19, 219-25, 219-26, 219-27, 219-29, 219-30 | Patrol kits (PPE), supply inspection, lockers, E-Z Pass, OMNY passes, radiation pagers, parking permits |
 | [section-219-loss-theft.md](section-219-loss-theft.md) | 219-20, 219-21 | Loss/theft of Department property, lost/stolen firearm/shield/ID card |
 | [key-terms.md](key-terms.md) | — | Definitions, timeframes, forms, contact units, fuel card colors |
-| [review-questions.md](review-questions.md) | — | 15 multiple-choice practice questions |
+| [review-questions.md](review-questions.md) | — | 31 multiple-choice practice questions (includes 4 May 2026 Fuel Delivery) |
 
 ## Procedures
 

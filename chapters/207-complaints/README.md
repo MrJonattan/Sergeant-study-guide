@@ -25,7 +25,7 @@
 | [section-207-missing-alerts.md](section-207-missing-alerts.md) | Missing persons, Silver Alert, Blue Alert systems (207-23, 31, 39) |
 | [section-207-notifications.md](section-207-notifications.md) | Notification matrix: Operations Unit, IAB, specialized units (207-06, 24) |
 | [key-terms.md](key-terms.md) | All key terms, forms, and abbreviations from Section 207 |
-| [review-questions.md](review-questions.md) | 20 multiple-choice practice questions with hidden answers |
+| [review-questions.md](review-questions.md) | 28 multiple-choice practice questions with hidden answers |
 
 ## Procedures
 

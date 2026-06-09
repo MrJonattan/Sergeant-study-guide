@@ -1,0 +1,145 @@
+{
+  "fileNotFound": [],
+  "dateMismatch": [],
+  "missingNotice": [],
+  "duplicateNotices": [],
+  "readmeMismatch": [],
+  "missingProcedureHeading": [
+    {
+      "proc": "207-12",
+      "file": "section-207-complaint-system.md",
+      "chapter": "207-complaints"
+    },
+    {
+      "proc": "208-83",
+      "file": "section-208-domestic-violence.md",
+      "chapter": "208-arrests"
+    },
+    {
+      "proc": "210-04",
+      "file": "section-210-general-procedure.md",
+      "chapter": "210-prisoners"
+    },
+    {
+      "proc": "212-02",
+      "file": "section-212-miscellaneous.md",
+      "chapter": "212-command-operations"
+    },
+    {
+      "proc": "214-38",
+      "file": "section-214-miscellaneous-qol.md",
+      "chapter": "214-quality-of-life"
+    },
+    {
+      "proc": "215-20",
+      "file": "section-215-child-protection.md",
+      "chapter": "215-juvenile-matters"
+    },
+    {
+      "proc": "215-21",
+      "file": "section-215-child-protection.md",
+      "chapter": "215-juvenile-matters"
+    },
+    {
+      "proc": "216-13",
+      "file": "section-216-special-aided.md",
+      "chapter": "216-aided-cases"
+    },
+    {
+      "proc": "216-15",
+      "file": "section-216-special-aided.md",
+      "chapter": "216-aided-cases"
+    },
+    {
+      "proc": "217-07",
+      "file": "section-217-collisions-general.md",
+      "chapter": "217-vehicle-collisions"
+    },
+    {
+      "proc": "217-09",
+      "file": "section-217-collisions-general.md",
+      "chapter": "217-vehicle-collisions"
+    },
+    {
+      "proc": "217-15",
+      "file": "section-217-collisions-general.md",
+      "chapter": "217-vehicle-collisions"
+    },
+    {
+      "proc": "219-26",
+      "file": "section-219-it-communications.md",
+      "chapter": "219-department-property"
+    },
+    {
+      "proc": "221-21",
+      "file": "section-221-force-reporting.md",
+      "chapter": "221-tactical-operations"
+    },
+    {
+      "proc": "221-22",
+      "file": "section-221-force-reporting.md",
+      "chapter": "221-tactical-operations"
+    },
+    {
+      "proc": "304-24",
+      "file": "section-304-prohibited-conduct.md",
+      "chapter": "304-general-regulations"
+    },
+    {
+      "proc": "305-19",
+      "file": "section-305-firearms-regulations.md",
+      "chapter": "305-uniforms-equipment"
+    },
+    {
+      "proc": "318-17",
+      "file": "section-318-citywide-cd-system.md",
+      "chapter": "318-disciplinary-matters"
+    },
+    {
+      "proc": "318-21",
+      "file": "section-318-citywide-cd-system.md",
+      "chapter": "318-disciplinary-matters"
+    },
+    {
+      "proc": "319-04",
+      "file": "section-319-civilian-injury.md",
+      "chapter": "319-civilian-personnel"
+    },
+    {
+      "proc": "319-12",
+      "file": "section-319-civilian-injury.md",
+      "chapter": "319-civilian-personnel"
+    },
+    {
+      "proc": "319-18",
+      "file": "section-319-civilian-injury.md",
+      "chapter": "319-civilian-personnel"
+    },
+    {
+      "proc": "319-25",
+      "file": "section-319-civilian-injury.md",
+      "chapter": "319-civilian-personnel"
+    },
+    {
+      "proc": "324-07",
+      "file": "section-324-sick-vacation.md",
+      "chapter": "324-leave-payroll-timekeeping"
+    },
+    {
+      "proc": "324-12",
+      "file": "section-324-ranking-officers.md",
+      "chapter": "324-leave-payroll-timekeeping"
+    },
+    {
+      "proc": "324-24",
+      "file": "section-324-authorized-leave.md",
+      "chapter": "324-leave-payroll-timekeeping"
+    },
+    {
+      "proc": "326-09",
+      "file": "section-202-supervisors.md",
+      "chapter": "202-duties-responsibilities"
+    }
+  ],
+  "inconsistentQuestionNumbering": []
+}

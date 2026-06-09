@@ -35,7 +35,7 @@ Source PDF: `public-pguide4-ocr.pdf`
 | [section-218-vendors-peddlers.md](section-218-vendors-peddlers.md) | 218-39, 40, 41, 42, 43, 44 | Vendor seizure/removal, general vendor forfeiture, unlicensed peddler forfeiture, Property Clerk seals, food vendor fees, removal/storage charges |
 | [section-218-licenses-admin.md](section-218-licenses-admin.md) | 218-45, 55, 56, 57 | Handgun license suspension/revocation, retention of invoiced property, change of category, FORMS application failure |
 | [key-terms.md](key-terms.md) | All | Definitions, timeframes, fees, forms |
-| [review-questions.md](review-questions.md) | All | 20 multiple-choice practice questions |
+| [review-questions.md](review-questions.md) | All | 35 multiple-choice practice questions (includes 4 May 2026 Found Property) |
 
 ## Study Tips
 

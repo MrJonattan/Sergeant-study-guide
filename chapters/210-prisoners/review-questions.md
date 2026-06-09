@@ -359,3 +359,37 @@ D. The Desk Officer, Precinct of Hospitalization
 ---
 
 **Score: _____ / 22**
+
+---
+
+## May 2026 Update Questions — Transportation for Arrestees with Mobility Disability
+
+**23. When an arrestee has a mobility disability, what special requirement applies?**
+
+A. The arrestee must be transported only by ESU
+B. Special transportation accommodations must be arranged
+C. The arrestee cannot be transported and must be released
+D. A medical professional must accompany the arrestee during transport
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 210-19 (updated May 13, 2026), when an arrestee has a mobility disability, special transportation accommodations must be arranged. This is an ADA compliance issue. The Department has specific procedures for transportation services for persons with disabilities.
+
+</details>
+
+---
+
+**24. Transportation services for arrestees with mobility disabilities is primarily a compliance issue with which law?**
+
+A. New York State Penal Law
+B. The Civil Rights Act
+C. The Americans with Disabilities Act (ADA)
+D. The Health Insurance Portability and Accountability Act (HIPAA)
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 210-19, transportation services for arrestees with mobility disabilities is an ADA compliance issue. The Department must ensure arrestees with mobility disabilities have access to appropriate transportation services.
+
+</details>

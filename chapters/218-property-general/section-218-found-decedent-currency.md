@@ -1,8 +1,10 @@
 # Section 218 — Found Property, Decedent's Property, and Currency
 
+> 📅 **UPDATE 218-26:** **May 19, 2026** (R.O. 40) — Processing found property. Source: public-pguide4.pdf, p.1 of 2.
+
 ## P.G. 218-26: Processing Found Property
 
-**Date Effective:** 05/20/24 | **Last Revision:** R.O. 31 | **Pages:** 2
+**Date Effective:** 05/19/26 | **Last Revision:** R.O. 40 | **Pages:** 2
 
 ### Purpose
 

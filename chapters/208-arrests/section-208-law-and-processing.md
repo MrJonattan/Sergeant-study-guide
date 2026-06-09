@@ -1,6 +1,54 @@
 # Section 208 — Law of Arrest and General Processing
 
-Covers P.G. 208-01, 208-02, 208-03, 208-09, 208-10, 208-11, 208-12, 208-13, 208-15, 208-16, 208-17
+Covers P.G. 208-01, 208-02, 208-03, 208-09, 208-10, 208-11, 208-12, 208-13, 208-14, 208-15, 208-16, 208-17
+
+---
+
+## P.G. 208-14: Arrest by Uniformed Member Outside City
+
+> 📅 **UPDATE 208-14:** **May 19, 2026** (R.O. 40) — Revised arrest outside city procedures. Review the latest Patrol Guide for current language.
+
+### Purpose
+To report an arrest effected by a uniformed member outside New York City but within New York State.
+
+### When This Applies
+When a uniformed member effects an arrest outside NYC when **not specifically assigned or ordered**.
+
+### Uniformed Member Duties
+
+1. **Comply with arrest procedures** of police agency having jurisdiction
+2. **Notify Operations Unit immediately** with:
+   - Time and date of occurrence
+   - Place of occurrence
+   - Location of member at time of notification
+   - Manner in which member became involved
+   - Identity of all parties (including local police)
+   - Complete details
+   - Injury to member or any other person
+   - Identity and statements of witnesses
+
+### Operations Unit Duties
+
+3. **Notify commanding officer** of uniformed member
+4. **Direct duty captain** (Patrol Borough Queens North/South or Bronx North/South, as appropriate) to respond if within residence counties
+
+### Duty Captain Duties (if within residence counties)
+
+5. **Respond** to location and conduct investigation
+6. **Prepare** UNUSUAL OCCURRENCE REPORT, Line of Duty Injury Report, and ACCIDENT REPORT if required
+
+> **Note:** For incidents outside residence counties, Operations Unit determines if duty captain responds.
+
+### Arresting Officer's C.O. Duties
+
+7. **Direct desk officer** to make entry in Telephone Record concerning notification from Operations
+8. **Prepare report** with all pertinent information and submit to C.O. as soon as possible
+
+### Commanding Officer Duties
+
+9. **Prepare detailed report** of incident for Chief of Department
+
+> **Exam Alert:** The Operations Unit determines whether a duty captain responds to incidents **outside residence counties**. Within residence counties, the appropriate patrol borough duty captain MUST respond.
 
 ---
 

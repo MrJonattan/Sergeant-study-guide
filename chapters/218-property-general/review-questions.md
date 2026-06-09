@@ -530,3 +530,65 @@ D) False — only the Desk Officer can authorize Ro-Tow after DSNY notification
 A DSNY sticker or notification does NOT automatically make a vehicle eligible for Ro-Tow. The Desk Officer directs a UMOS to inspect the vehicle and decide if it qualifies based on criteria found on the rear inside cover of the Ro-Tow Log. (P.G. 218-21)
 
 </details>
+
+---
+
+## May 2026 Update Questions — Processing Found Property
+
+**32. Found property valued at what minimum amount must be reported to and deposited with the police?**
+
+A) $5 or more
+B) $10 or more
+C) $25 or more
+D) $50 or more
+
+<details><summary>Answer</summary>
+
+**B) $10 or more.** Per P.G. 218-26 (updated May 19, 2026), found property valued at ten dollars or more is required to be reported to, and deposited with, the police.
+
+</details>
+
+---
+
+**33. A member finds a wallet containing $50 and credit cards in the subway. The property is NOT United States currency, contraband, or requiring investigation. Where should it be delivered?**
+
+A) To the nearest precinct property clerk
+B) To the nearest NYC Transit Station Agent for forwarding to NYC Transit Lost Property Office
+C) To the Police Property Clerk Division
+D) To the Lost and Found Bureau
+
+<details><summary>Answer</summary>
+
+**B) To the nearest NYC Transit Station Agent for forwarding to NYC Transit Lost Property Office.** Per P.G. 218-26, found property within the NYC subway system (other than US currency, contraband, or property requiring investigation) should be delivered to the nearest NYC Transit Station Agent for forwarding to the NYC Transit Lost Property Office.
+
+</details>
+
+---
+
+**34. Found property from a yellow medallion taxi should be delivered to which location?**
+
+A) The nearest precinct regardless of patrol borough
+B) One of eight designated repository commands based on patrol borough
+C) The Police Property Clerk Division
+D) The Taxi and Limousine Commission
+
+<details><summary>Answer</summary>
+
+**B) One of eight designated repository commands based on patrol borough.** Per P.G. 218-26, property found in yellow medallion taxis is taken to one of eight designated repository commands: 017 Pct (PBMS), 094 Pct (PBBN), Central Park Pct (PBMN), 107 Pct (PBQS), 043 Pct (PBXS), 115 Pct (PBQN), 076 Pct (PBBS), or 120 Pct (PBSI).
+
+</details>
+
+---
+
+**35. What receipt should be issued to a person delivering found property to a member on patrol?**
+
+A) PROPERTY CLERK INVOICE (PD521-141)
+B) ACKNOWLEDGMENT OF FOUND PROPERTY (PD542-012)
+C) FOUND PROPERTY RECEIPT (PD313-152)
+D) PROPERTY TRANSFER FORM (PD571-120)
+
+<details><summary>Answer</summary>
+
+**B) ACKNOWLEDGMENT OF FOUND PROPERTY (PD542-012).** Per P.G. 218-26, when a person delivers found property to a member on patrol, the member should provide an ACKNOWLEDGMENT OF FOUND PROPERTY (PD542-012), including a description of the property and the signature of the receiving member. At the command, a copy of the PROPERTY CLERK INVOICE (PD521-141) is provided instead.
+
+</details>

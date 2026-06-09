@@ -1,5 +1,9 @@
 # Section 221 — Reporting and Investigation of Force Incidents
 
+> 📅 **UPDATE 221-21:** **May 5, 2026** (R.O. 33) — School Safety Agent - Victim of an Offense While Performing Duty. Source: public-pguide4.pdf, p.1 of 3.
+
+> 📅 **UPDATE 221-22:** **May 5, 2026** (R.O. 33) — Traffic Enforcement Agent Victim of an Offense While Performing Duty. Source: public-pguide4.pdf, p.1 of 2.
+
 ## P.G. 221-03: Reporting and Investigation of Force Incident or Injury to Persons During Police Action
 
 **Date Effective:** 07/23/25 | **Last Revision:** R.O. 64 | **Pages:** 11
@@ -117,3 +121,8 @@ Only **ONE** T.R.I. INCIDENT REPORT per incident, regardless of number of MOS in
 > **Exam Alert:** FID completes T.R.I. reports for Level 4 incidents. **PD324-140** (Firearms Discharge Report) must be completed within **48 hours**.
 
 > **Sergeant Focus:** For Level 1 incidents, the immediate supervisor is responsible for **all investigative steps**. For Level 2-4, the immediate supervisor is guided by the investigating supervisor. Complete Level 1 T.R.I. INCIDENT REPORT **before end of tour**.
+
+
+> 📅 **UPDATE:** This procedure was updated on May 4, 2026.
+
+

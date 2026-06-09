@@ -251,6 +251,8 @@ To assist in the orderly removal of a person with a communicable disease.
 
 ## P.G. 216-12: School Crossing Guard (SCG) Injured Line of Duty
 
+> ⚠️ **UPDATED:** This procedure was updated on **May 5, 2026**. Review the latest Patrol Guide for current language.
+
 ### Purpose
 
 To report and investigate injuries to School Crossing Guards sustained in the line of duty.
@@ -307,3 +309,7 @@ To report and investigate injuries to School Crossing Guards sustained in the li
 | Desk Officer | Typed Letterhead (given to C.O.) |
 | Desk Officer | Command Log entry (given to C.O.) |
 | Witness | WITNESS STATEMENT — Injury To Member Of Department |
+
+
+
+

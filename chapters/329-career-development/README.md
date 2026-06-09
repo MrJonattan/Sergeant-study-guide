@@ -33,7 +33,7 @@
 | `section-329-09.md` | A.G. 329-09: Personnel transfer requests, background checks, PD406-040 and PD449-160 forms |
 | `section-329-retirement.md` | A.G. 329-06: Terminal leave computation, Tier 2/3 reporting, LEOSA, property return; A.G. 329-07: Resignation procedures, reinstatement rules, Operations Unit notifications |
 | `key-terms.md` | Terminal leave, LEOSA, key forms, timeframes, terminal leave restrictions, resignation rules |
-| `review-questions.md` | 12 multiple-choice questions covering retirement and resignation procedures |
+| `review-questions.md` | 26 multiple-choice questions covering retirement and resignation procedures |
 
 ## Sergeant Focus Areas
 - **Terminal leave:** 1 month per 10 years + 3 days per year beyond 20; no leaves after terminal leave begins

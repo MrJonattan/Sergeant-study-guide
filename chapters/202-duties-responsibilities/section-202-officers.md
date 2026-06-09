@@ -3,6 +3,8 @@
 > **Source:** NYPD Patrol Guide, Section 202 (P.G. 202-01 through 202-17)
 > **Exam Relevance:** Sergeants must know these duties to supervise, correct, and evaluate subordinates.
 
+> 📅 **UPDATE 202-06:** **May 5, 2026** — Revised officer duties procedures. Review the latest Patrol Guide for current language.
+
 ---
 
 ## P.G. 202-01: Police Officer
@@ -71,6 +73,9 @@ Supervisors must ensure operators wear all required safety equipment and that sc
 
 ## P.G. 202-05: Neighborhood Safety Team (NST) Officer
 
+> 📅 **UPDATE 202-05:** **May 19, 2026** — Revised NST officer procedures. Review the latest Patrol Guide for current language.
+
+
 **Key Duties:**
 - Wear specifically prescribed uniform; must identify as police BEFORE taking enforcement action
 - Deploy based on crime trends and statistics (data-driven deployment)
@@ -84,6 +89,9 @@ This is a high-priority area for sergeants. NST teams may NOT deploy without a s
 ---
 
 ## P.G. 202-06: Administrative Quality of Life Officer (05/05/26)
+
+> 📅 **UPDATE:** This procedure was updated on May 4, 2026.
+
 
 **Key Duties:**
 - Report to Quality of Life Team Sergeant

@@ -2,6 +2,8 @@
 
 ## P.G. 212-12 — Citywide Intelligence Reporting System
 
+> 📅 **UPDATE 212-12:** **May 13, 2026** — Revised intelligence reporting procedures. Review the latest Patrol Guide for current language.
+
 - General intelligence reporting system for sharing and tracking intelligence information across commands.
 - Follow established procedures for submitting and accessing intelligence reports.
 
@@ -15,6 +17,8 @@
 ---
 
 ## P.G. 212-99 — AMBER Alert System
+
+> 📅 **UPDATE 212-99:** **May 13, 2026** — Revised AMBER Alert procedures. Review the latest Patrol Guide for current language.
 
 ### Activation Criteria
 - Child must be **17 or younger**.

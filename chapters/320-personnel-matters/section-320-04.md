@@ -114,3 +114,6 @@ If a grant has a matching funds or cost share requirement, an appropriate method
 > **Exam Alert:** Matching fund methods must be determined **before** the grant application is submitted, by the Director, Grants Unit and approved by the Deputy Commissioner, Management and Budget.
 
 > **Sergeant Focus:** While sergeants are not typically the primary grant administrators, you may serve as programmatic or fiscal contacts. Know the key rules: grant funds cannot supplant existing funding, overtime-in-time does not expend grant funds, equipment bidding takes 12-18 months, and HUD grants go through Housing Bureau. Timely reporting and compliance are your direct responsibility as a command contact.
+
+
+> ⚠️ **UPDATED:** This procedure was updated on **May 18, 2026** (R.O. 39). Review the latest Patrol Guide for current language.

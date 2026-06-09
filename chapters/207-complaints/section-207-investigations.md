@@ -6,6 +6,10 @@ Covers P.G. 207-07, 207-08, 207-10, 207-29, 207-33
 
 ## P.G. 207-07: Preliminary Investigation of Complaints (Other Than Vice/Narcotics)
 
+> 📅 **UPDATE 207-07:** **May 28, 2026** — Revised preliminary investigation procedures. Review the latest Patrol Guide for current language.
+
+
+
 *(Updated R.O. 78, effective 12/31/24)*
 
 *7 pages in the Patrol Guide — one of the most critical procedures for supervisors.*
@@ -289,6 +293,8 @@ Carjacking investigations involve a coordinated response between patrol, the det
 ---
 
 ## P.G. 207-33: Complaints Involving Sex Crimes
+
+> 📅 **UPDATE 207-33:** **May 13, 2026** — Revised sex crimes investigation procedures. Review the latest Patrol Guide for current language.
 
 *(Updated R.O. 43, effective 06/19/25)*
 

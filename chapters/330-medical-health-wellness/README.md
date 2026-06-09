@@ -23,6 +23,7 @@
 |-----------|-------|--------|
 | A.G. 330-03 | Line of Duty Injury or Death | completed |
 | A.G. 330-07 | Trauma Counseling Program | completed |
+| A.G. 330-08 | Reporting Work-Related Fatalities, Hospitalization, Injuries and Illnesses | completed |
 | A.G. 330-09 | Exposure to Infectious Diseases or Hazardous Materials | completed |
 | P.G. 330-01 | Regular Sick | completed |
 | P.G. 330-02 | Administrative Sick | completed |
@@ -35,6 +36,7 @@
 |------|---------|
 | `section-330-line-of-duty-injury.md` | A.G. 330-03: LOD injury investigation, IS rank requirements, 3 reports (PAR/AIDED/LODI), Sick Desk triggers, hospital privacy, MOS DOA/SILD permitted visitors (5-2-2-2), FECA |
 | `section-330-trauma-counseling.md` | A.G. 330-07: Referral triggers, Trauma Team response, 48-hour follow-up, confidentiality, CO duties |
+| `section-330-08-work-related-fatalities.md` | A.G. 330-08: Work-related fatality/injury/illness reporting, Sick Desk notification, NYS DOL notification (8hr/24hr), SH 900 forms, privacy cases, record retention |
 | `section-330-infectious-disease-exposure.md` | A.G. 330-09: Universal precautions, exposure procedures, bleach solution ratio, needle handling, Ryan White Act |
 | `section-330-regular-sick.md` | P.G. 330-01: Sick Desk call, 3 items received/1 given to D.O., 5 District Surgeon exceptions, confinement rules, travel restrictions, routine visit exemptions, malingering |
 | `section-330-administrative-sick.md` | P.G. 330-02: UMOS only, 2-day max, LIMB LSS MD exclusions, Admin vs Regular first-call distinction |

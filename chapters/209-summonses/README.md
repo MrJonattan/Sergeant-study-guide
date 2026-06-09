@@ -28,7 +28,7 @@
 | [section-209-oath.md](section-209-oath.md) | Non-CJRA OATH summonses, vendor/health/noise/sanitation/air/graffiti violations, ECB procedures (209-12, 209-20) |
 | [section-209-specialized.md](section-209-specialized.md) | Mandatory license checks, suspended/revoked license procedures, tow truck enforcement, department vehicle summonses, voided summonses, electronic monitoring, red light/speed cameras (209-21, 209-22, 209-23, 209-24, 209-26, 209-28, 209-30, 209-31, 209-32, 209-33, 209-34, 209-35, 209-37, 209-39, 209-40) |
 | [key-terms.md](key-terms.md) | All key terms, forms, critical numbers, and abbreviations from Section 209 |
-| [review-questions.md](review-questions.md) | 15 multiple-choice practice questions with hidden answers |
+| [review-questions.md](review-questions.md) | 22 multiple-choice practice questions with hidden answers |
 
 ## Procedures
 

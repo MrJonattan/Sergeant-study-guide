@@ -6,6 +6,9 @@ Covers P.G. 207-06, 207-24
 
 ## P.G. 207-06: Notifications
 
+> ⚠️ **UPDATED:** This procedure was updated on **May 13, 2026**. Review the latest Patrol Guide for current language.
+
+
 *3 pages in the Patrol Guide — critical notification matrix for supervisors.*
 
 ### Desk Officer Notifications to Operations Unit

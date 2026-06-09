@@ -31,7 +31,7 @@
 | [section-208-special-arrests.md](section-208-special-arrests.md) | Civilian arrest, lineups/showups, foreign nationals, bribery arrests (208-34/35), hate crimes, sex offenses, school incidents, weapons, narcotics, religious head covering, Project Reset, and 30+ specialized procedures (208-04, 14, 20, 22, 23, 24, 25, 26, 34, 35, 40, 41, 42, 44, 46, 47, 48, 49, 50, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 66, 67, 68, 71, 72, 73, 74, 75, 78, 79, 80, 83, 84) |
 | [section-208-notifications.md](section-208-notifications.md) | Operations Unit notifications, Intelligence Division, specialized unit notification matrix (208-69) |
 | [key-terms.md](key-terms.md) | All key terms, forms, critical numbers, and abbreviations from Section 208 |
-| [review-questions.md](review-questions.md) | 32 multiple-choice practice questions with hidden answers |
+| [review-questions.md](review-questions.md) | 36 multiple-choice practice questions (includes 4 May 2026 Arrest Outside City: Q33-36) |
 
 ## Procedures
 

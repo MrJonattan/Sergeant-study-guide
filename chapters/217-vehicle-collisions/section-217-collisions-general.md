@@ -2,6 +2,8 @@
 
 ## P.G. 217-01: Vehicle Collisions — General Procedure
 
+> ⚠️ **UPDATED:** This procedure was updated on **May 5, 2026**. Review the latest Patrol Guide for current language.
+
 *(Text unavailable in source PDF — review original Patrol Guide)*
 
 This procedure establishes the general framework for responding to and investigating vehicle collisions, including scene management, report preparation, and notifications.
@@ -414,3 +416,7 @@ When a vehicle has been involved in a collision resulting in death, serious inju
 | Police Accident Report | MV104AN |
 | Early Notification of Fatal Accident | MV-104EN |
 | Police Report for Fatal Motor Vehicle Accidents | MV-104D |
+
+
+
+

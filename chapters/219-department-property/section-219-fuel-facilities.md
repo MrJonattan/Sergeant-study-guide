@@ -33,13 +33,15 @@ The VIB is the in-vehicle transponder for automated fuel dispensing. Fuel is dis
 
 ---
 
-## P.G. 219-12: Fuel Delivery Supervision
+> 📅 **UPDATE 219-12:** **May 26, 2026** (R.O. 43) — Delivery of gasoline to fuel dispensing stations. Source: public-pguide4.pdf, p.1 of 2.
 
-**Date Effective:** 05/20/24 | **Last Revision:** R.O. 31 | **Pages:** 2
+## P.G. 219-12: Delivery of Gasoline to Fuel Dispensing Stations
+
+**Date Effective:** 05/26/26 | **Last Revision:** R.O. 43 | **Pages:** 2
 
 ### Purpose
 
-To ensure proper supervision of fuel deliveries to Department facilities.
+To determine the amount of fuel on hand, prior to, and after the delivery of, gasoline to a Department fuel dispensing facility.
 
 ### Key Points
 

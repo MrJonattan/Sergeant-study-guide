@@ -31,7 +31,7 @@
 |------|---------|
 | `section-324-awol.md` | P.G. 324-17: AWOL escalation timeline, D.O. duties at 2 and 4 hours, C.O. investigation, report routing, return-to-duty restriction |
 | `key-terms.md` | AWOL definitions, key roles, timeframes, reports, applicability |
-| `review-questions.md` | 7 multiple-choice questions covering AWOL procedures |
+| `review-questions.md` | 20 multiple-choice questions covering AWOL procedures |
 
 ## Sergeant Focus Areas
 - Approving and tracking subordinate leave requests and attendance patterns

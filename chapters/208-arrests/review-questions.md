@@ -513,3 +513,69 @@ D. Criminal Contempt — processed in Family Court since the OOP was issued ther
 
 **B.** Per P.G. 208-36, Criminal Contempt for violating a Supreme Court, Family Court, or Criminal Court OOP is charged as Criminal Contempt or Aggravated Criminal Contempt. This is NOT a Family Offense, there is NO concurrent jurisdiction, and if the violation occurred in NYC, the arrest goes to Criminal Court.
 </details>
+
+---
+
+## May 2026 Update Questions — Arrest Outside City
+
+**33. A uniformed member effects an arrest outside New York City but within New York State while off-duty and not specifically assigned. What is the FIRST action required?**
+
+A. Notify the commanding officer of the member's command
+B. Comply with arrest procedures of the police agency having jurisdiction
+C. Prepare an UNUSUAL OCCURRENCE REPORT
+D. Contact the Operations Unit
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 208-14 (updated May 19, 2026), when a uniformed member effects an arrest outside NYC when not specifically assigned or ordered, the member must first comply with the arrest procedures of the police agency having jurisdiction. The member must then notify the Operations Unit immediately.
+
+</details>
+
+---
+
+**34. When notifying the Operations Unit of an arrest outside the city, which information is NOT required?**
+
+A. Time and date of occurrence
+B. Place of occurrence and location of member at time of notification
+C. Identity and statements of witnesses
+D. Name of the local prosecutor handling the case
+
+<details>
+<summary>Answer</summary>
+
+**D.** Per P.G. 208-14, the uniformed member must notify the Operations Unit of: time and date, place of occurrence, location of member, manner of involvement, identity of all parties (including local police), complete details, injury to member or others, and identity and statements of witnesses. The name of the local prosecutor is not required.
+
+</details>
+
+---
+
+**35. When must a duty captain respond to an arrest outside the city?**
+
+A. Always, regardless of location
+B. Only if the arrest involves a firearm
+C. If within residence counties, the appropriate patrol borough duty captain must respond
+D. Only if directed by the Chief of Department
+
+<details>
+<summary>Answer</summary>
+
+**C.** Per P.G. 208-14, the Operations Unit directs the duty captain (Patrol Borough Queens North/South or Bronx North/South, as appropriate) to respond if the incident is within residence counties. For incidents outside residence counties, the Operations Unit determines if a duty captain responds.
+
+</details>
+
+---
+
+**36. Who prepares the detailed report of the incident for the Chief of Department?**
+
+A. The arresting officer
+B. The arresting officer's commanding officer
+C. The duty captain who responded
+D. The Operations Unit supervisor
+
+<details>
+<summary>Answer</summary>
+
+**B.** Per P.G. 208-14, the commanding officer of the arresting officer must prepare a detailed report of the incident for the Chief of Department. The arresting officer prepares a report with all pertinent information and submits it to their commanding officer as soon as possible.
+
+</details>

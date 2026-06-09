@@ -1,5 +1,9 @@
 # Section 212 — Special Incidents
 
+> 📅 **UPDATE 212-55:** **May 13, 2026** — Investigation of Aided Cases — Illegal Fireworks Injuries. Source: Update1.pdf timeline.
+>
+> ⚠️ **Content not yet verified against source PDF** — Update date confirmed from Update1.pdf timeline; full procedure text pending extraction from public-pguide4.pdf.
+
 ## P.G. 212-36 — Incidents Involving Former/Retired MOS or Off-Duty Law Enforcement
 
 ### Initial Response
@@ -110,6 +114,9 @@
 ---
 
 ## P.G. 212-55 — Investigation of Aided Cases — Illegal Fireworks Injuries
+
+> 📅 **UPDATE:** This procedure was updated on May 12, 2026.
+
 
 ### Procedure
 1. Request patrol supervisor and precinct detective squad.

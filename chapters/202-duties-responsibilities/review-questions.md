@@ -355,3 +355,119 @@ D. The procedures do not conflict — they address different situations
 
 **C.** P.G. 211-21 says the D.O. accepts civil process regardless (no mention of the PRAA condition), while P.G. 202-18 includes the condition "when principal administrative associate not performing duty." This is a known PG conflict. The exam may reference either procedure number, so know both versions exist.
 </details>
+
+---
+
+## June 2026 Update Questions — Desk Officer & Patrol Supervisor
+
+### Question 23
+**When must the Desk Officer provide a "Rundown" of command resources to the communications dispatcher?**
+
+A. Before the start of roll call
+B. Immediately upon assuming desk officer duties
+C. Upon completion of roll call
+D. At the 4th hour of the tour
+
+<details>
+<summary>Answer</summary>
+
+**C. Upon completion of roll call.** Per P.G. 202-18 (updated June 2, 2026), the desk officer must provide the communications dispatcher with a complete "Rundown" of the command's resources as listed in the CPR System Roll Call upon completion of roll call. Additionally, the D.O. must notify the dispatcher of changes throughout the tour as they occur.
+</details>
+
+---
+
+### Question 24
+**Which system must the Desk Officer query to ensure members required to appear in court have been properly notified and are attending?**
+
+A. FORMS (Finest Online Records Management System)
+B. CPR System "Court Appearances"
+C. DAS (Domain Awareness System)
+D. TAMS (Traffic Accident Management System)
+
+<details>
+<summary>Answer</summary>
+
+**B. CPR System "Court Appearances".** Per P.G. 202-18 (updated June 2026), the desk officer shall query CPR System "Court Appearances" to ensure members of the service that are required to appear in court have been properly notified and are attending. This is a NEW requirement added in June 2026.
+</details>
+
+---
+
+### Question 25
+**The Patrol Supervisor is required to use which application to assist in supervising and conducting quality of life operations?**
+
+A. Neighborhood Policing App
+B. DAS (Domain Awareness System)
+C. Salesforce Application
+D. CPR System
+
+<details>
+<summary>Answer</summary>
+
+**C. Salesforce Application.** Per P.G. 202-19 (updated June 2, 2026), the Patrol Supervisor shall use the Salesforce Application to assist in supervising and conducting quality of life operations. This is a NEW requirement added in June 2026. The Neighborhood Policing App is also used but for general neighborhood policing functions, not specifically QOL operations.
+</details>
+
+---
+
+### Question 26
+**The Patrol Supervisor discovers that the AVL (Automatic Vehicle Location) feature in DAS is not functioning on an RMP. What action is required?**
+
+A. Immediately remove the RMP from service
+B. Notify the Desk Officer
+C. Notify Internal Affairs Bureau
+D. Notify Fleet Services Division
+
+<details>
+<summary>Answer</summary>
+
+**B. Notify the Desk Officer.** Per P.G. 202-19 (updated June 2, 2026), if AVL is not functioning, the Patrol Supervisor shall notify the desk officer. The RMP should NOT be removed from service for an inoperable AVL unless directed by Internal Affairs Bureau or Fleet Services Division.
+</details>
+
+---
+
+### Question 27
+**Under what circumstances may a Patrol Supervisor remove an RMP from service due to an inoperable AVL?**
+
+A. When the AVL has been malfunctioning for more than 24 hours
+B. When directed by the Desk Officer
+C. When directed by Internal Affairs Bureau or Fleet Services Division
+D. When the RMP is assigned to a high-crime sector
+
+<details>
+<summary>Answer</summary>
+
+**C. When directed by Internal Affairs Bureau or Fleet Services Division.** Per P.G. 202-19 (updated June 2026), the Patrol Supervisor shall NOT remove a Department vehicle from service for an inoperable AVL unless directed by IAB or Fleet Services Division. Notification to the D.O. is required, but the D.O. cannot order the vehicle removed.
+</details>
+
+---
+
+### Question 28
+**Which of the following BEST describes the purpose of the AVL feature in DAS as it relates to Patrol Supervisor duties?**
+
+A. To track officer locations for disciplinary purposes
+B. To monitor RMP locations for officer safety and ensure proper delivery of police services
+C. To automatically dispatch officers to radio runs
+D. To generate mileage reports for fleet management
+
+<details>
+<summary>Answer</summary>
+
+**B. To monitor RMP locations for officer safety and ensure proper delivery of police services.** Per P.G. 202-19 (updated June 2026), the Patrol Supervisor shall use AVL in DAS to monitor the location of RMP units during the tour to enhance safety of members of the service and to ensure proper delivery of police services.
+</details>
+
+---
+
+### Question 29
+**A Desk Officer provides a "Rundown" to the communications dispatcher at 0815 hours during the 2nd platoon. The tour started at 0800 hours. Which statement is correct?**
+
+A. The Rundown was provided too early — it should be given before roll call
+B. The Rundown was provided at the correct time — upon completion of roll call
+C. The Rundown should be given at the 4th hour, not at the start of tour
+D. The Rundown is only required during the 1st platoon
+
+<details>
+<summary>Answer</summary>
+
+**B. The Rundown was provided at the correct time — upon completion of roll call.** Per P.G. 202-18 (updated June 2026), the rundown is provided upon completion of roll call. Since roll call is conducted 5 minutes after the start of tour (per P.G. 202-19), a rundown at 0815 during the 2nd platoon (0800 start) would be the correct timing.
+</details>
+
+---

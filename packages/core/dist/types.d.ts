@@ -2,7 +2,7 @@
  * Zod schemas for NYPD Sergeant Study Guide data models
  * These schemas provide runtime validation and TypeScript types
  */
-import { z } from 'zod';
+import { z } from "zod";
 export declare const ChapterIdSchema: z.ZodString;
 export declare const QuestionTypeSchema: z.ZodEnum<["mc", "open"]>;
 export declare const QuestionSchema: z.ZodObject<{
