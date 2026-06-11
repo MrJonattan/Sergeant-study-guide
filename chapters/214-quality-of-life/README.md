@@ -1,5 +1,7 @@
 # Section 214 — Quality of Life Matters
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lesson 17*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lesson 17); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Overview
 
 Section 214 covers 26 Patrol Guide procedures related to quality of life enforcement, from alarm response and evictions to animal control and 311 service requests. This is **medium priority** material for the sergeant promotional exam. The procedures emphasize the supervisory role in interagency coordination, the limits of police authority in civil matters, and specific numeric thresholds that are frequently tested.

@@ -25,6 +25,7 @@ To ensure that notifications to concerned authorities and relatives are properly
 | 7 | Request aided be removed to hospital or doctor dispatched if pronouncement of death by ambulance attendant, EMT, or paramedic is questioned by anyone |
 
 > **Exam Alert — EMS 90Z:** FDNY EMS policy permits EMS personnel to **depart a location** of a deceased person prior to police arrival if: (1) a responsible adult is present, (2) no reasonable belief a crime was committed, and (3) the deceased is in a secure location. If EMS left prior to police arrival: Communications Section notifies D.O. by **dept phone**, Patrol Supervisor ensures assigned sector responds, and if sector has not responded after more than **1 hour** after EMS left, notify C.O./X.O./Duty Capt. UMOS tells radio to have EMS come back if crime scene exists, integrity is an issue, or EMS left and no responsible adult is present per P.G. 216-04.
+> — *Source: The Key, Lesson 19*
 
 #### Communications Section (Step 8-9)
 
@@ -64,6 +65,7 @@ To ensure that notifications to concerned authorities and relatives are properly
 | 13 | Record all calls to ME in Telephone Record |
 
 > **Exam Alert:** The **responding detective** (not the desk officer) will notify Crime Scene Unit if an apparent homicide, suicide, or suspicious death. However, the Patrol Supervisor (P/S) notifies CSU, and PDS notifies **if** the P/S is unavailable per P.G. 212-04. Crime Scene will be called by PDS if it is an apparent homicide, suicide, or suspicious death per P.G. 216-04.
+> — *Source: The Key, Lesson 19*
 
 > **Exam Alert:** Desk Officer notifications for dead body: (1) PDS **ALWAYS** for crime scene, (2) If Homicide/Suicide/Suspicious — notify **Operations**, (3) If Homicide/Unusual — notify **Communications**, (4) If floater pulled from navigable waters by **other than Harbor** — notify **Harbor Unit**. The D.O. records all calls to M.E. in the **Telephone Record** (D.O. no longer calls the M.E. directly — UMOS does that now) per P.G. 216-04.
 
@@ -94,6 +96,7 @@ The uniformed member will **prevent anyone from disturbing body or its effects, 
 | 16 | Obtain receipt on lower half of IDENTIFICATION TAG for body when removed to morgue, and for body and death certificate if released to a funeral director or other authorized person |
 
 > **Exam Alert:** An IDENTIFICATION TAG (95 Tag) will be placed on **dead human bodies, parts of bodies, and human fetuses** that are to be delivered to the morgue. If the **morgue** takes the body, UMOS keeps the Death Certificate and obtains the lower half of 95 Tag as receipt, then gives both to the D.O. If a **funeral director** takes the body, the funeral director takes the Death Certificate and obtains the lower half of 95 Tag as receipt for body AND Death Certificate. The D.O. puts the 95 Tag receipt for body and Death Certificate (*if received*) in the **Property Receipt Book** per P.G. 216-04.
+> — *Source: The Key, Lesson 19*
 
 ### Death Notification (Step 17)
 
@@ -164,9 +167,7 @@ A notification to a member of the immediate family of the deceased will be made:
 
 ---
 
-## P.G. 216-05
-
-*(Title and text unavailable in source PDF — review original Patrol Guide)*
+> *(Correction note: a "P.G. 216-05" placeholder previously appeared here. The current Patrol Guide contains no procedure 216-05 — the series runs 216-04 then 216-06. Not found in source materials.)*
 
 ---
 

@@ -1,5 +1,7 @@
 # Section 216 — Aided Cases
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lesson 19*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lesson 19); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Chapter Overview
 
 Section 216 of the NYPD Patrol Guide governs all **aided cases** — incidents where a person (other than a prisoner) requires medical aid or assistance. These procedures cover situations ranging from routine sick-at-home calls to dead body investigations, psychiatric admissions, defibrillator use, and involuntary removals under Mental Hygiene Law.
@@ -26,10 +28,10 @@ After studying this chapter, you should be able to:
 | File | Procedures Covered |
 |------|-------------------|
 | [section-216-general-procedure.md](section-216-general-procedure.md) | 216-01, 216-02 (cross-ref), 216-03 (cross-ref) |
-| [section-216-dead-body.md](section-216-dead-body.md) | 216-04, 216-05 (cross-ref), 216-06 (cross-ref) |
+| [section-216-dead-body.md](section-216-dead-body.md) | 216-04, 216-06 (cross-ref) — note: no 216-05 exists in the current Patrol Guide |
 | [section-216-special-aided.md](section-216-special-aided.md) | 216-07, 216-08, 216-09, 216-10, 216-11, 216-12 (cross-ref) |
 | [section-216-auxiliary-transit-notifications.md](section-216-auxiliary-transit-notifications.md) | 216-13, 216-14, 216-15, 216-16 |
-| [section-216-medical-programs.md](section-216-medical-programs.md) | 216-17 (cross-ref), 216-18 (cross-ref), 216-19, 216-20, 216-21, 216-22 |
+| [section-216-medical-programs.md](section-216-medical-programs.md) | 216-18 (Child Window Fall Report), 216-19, 216-20, 216-21, 216-22 |
 | [section-216-overdose-incidents.md](section-216-overdose-incidents.md) | 216-23 |
 | [key-terms.md](key-terms.md) | Definitions, forms, mnemonics, critical numbers |
 | [review-questions.md](review-questions.md) | 28 multiple-choice exam prep questions |

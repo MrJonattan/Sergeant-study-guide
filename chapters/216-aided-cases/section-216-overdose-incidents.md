@@ -16,6 +16,7 @@ To establish procedures for responding to suspected overdose incidents, includin
 - Substance can be absorbed through the skin — proper handling is essential to keep all persons safe
 
 > **Exam Alert:** Exercise **extreme caution** handling drugs/paraphernalia at overdose scenes. Even the slightest contact with fentanyl can be lethal. Utilize PPE (gloves, etc.) per P.G. 216-23.
+> — *Source: The Key, Lesson 19*
 
 **OPIOID ANTAGONIST** — FDA-approved drug (Naloxone, Narcan, etc.) that negates or neutralizes the effects of an opioid. Shall be limited to naloxone and other meds **approved by the Department of Health** for such purpose.
 
@@ -30,6 +31,7 @@ To establish procedures for responding to suspected overdose incidents, includin
 **DRUG PARAPHERNALIA** — Items associated with use, preparation, manufacture, packaging, or storage of narcotics, including but not limited to straws, cutting agents, scales, strainers, pestles, empty or new glassine envelopes or vials, plastic bags, rubber stamps, drug records, etc.
 
 > **Exam Alert:** Hypodermic needles, syringes, and other objects used for injecting controlled substances into the body are **NOT** classified as drug paraphernalia per P.G. 216-23.
+> — *Source: The Key, Lesson 19*
 
 **STAMPS** — Image and/or writing that drug dealers use to ID the dealer's "brand" for their product. When applicable, the stamp will be located on wax folds or glassines.
 
@@ -42,6 +44,7 @@ To establish procedures for responding to suspected overdose incidents, includin
 - Possession of a hypodermic instrument, in most circumstances, is **not a crime**
 
 > **Exam Alert:** The 911 Good Samaritan Law says not to arrest a person for possessing a controlled substance, marihuana, drug paraphernalia, or alcohol by someone under 21, when they sought in good faith health care for self or other experiencing a drug or alcohol overdose. **HOWEVER**, P.O.s are mandatory reporters of suspected child abuse — "A" misd if you don't per P.G. 216-23.
+> — *Source: The Key, Lesson 19*
 
 ### Procedure — Uniformed Member of the Service
 

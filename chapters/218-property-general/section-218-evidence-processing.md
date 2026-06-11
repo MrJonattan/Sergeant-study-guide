@@ -6,9 +6,88 @@
 
 ## P.G. 218-26: Processing Found Property
 
-> 📅 **UPDATE 218-26:** **May 20, 2024** (R.O. 31) — Found property processing procedures. Source: public-pguide4-ocr.pdf, p.1 of 2.
-> 
-> ⚠️ **Note:** This procedure's effective date is 05/20/24 (R.O. 31), not a 2026 update. The Update1.pdf timeline lists it but the source PDF header shows 2024.
+> 📅 **UPDATE 218-26:** **May 19, 2026** (R.O. 40) — Revised found property processing procedures. Review the latest Patrol Guide for current language.
+
+### Purpose
+To record and process found property.
+
+### Scope
+Found property valued at **$10 or more** is required to be reported to and deposited with the police. However, members of the service coming into possession of found property within the New York City subway system that meet certain requirements, other than United States currency, contraband or property requiring further investigation, will deliver such property to the nearest NYC Transit Station Agent for forwarding to the NYC Transit Lost Property Office.
+
+In addition, property found in yellow medallion taxis only, will be taken by either the taxi driver or an individual specified by the taxi garage, to one of the eight commands designated as the repository for such property.
+
+### Repository Commands for Taxi Found Property
+
+| Patrol Borough | Command |
+|----------------|---------|
+| PBMS | 017 Precinct |
+| PBBN | 094 Precinct |
+| PBMN | Central Park Pct |
+| PBQS | 107 Precinct |
+| PBXS | 043 Precinct |
+| PBQN | 115 Precinct |
+| PBBS | 076 Precinct |
+| PBSI | 120 Precinct |
+
+### Uniformed Member Duties
+
+1. **Issue receipt** to person delivering property (if not MOS):
+   - At command: Provide copy of PROPERTY CLERK INVOICE (PD521-141)
+   - On patrol: Provide ACKNOWLEDGMENT OF FOUND PROPERTY (PD542-012) with description and signature
+
+2. **Subway found property** (non-currency, non-contraband):
+   - Deliver to nearest NYC Transit Station Agent
+   - Direct/escort finder to Station Agent when possible
+   - Secure receipt from Station Agent for the finder
+
+3. **Enter facts in digital Activity Log**
+
+4. **Notify patrol supervisor and expeditiously invoice property at command**
+
+5. **Prepare PROPERTY CLERK INVOICE WORKSHEET (PD521-141A), as appropriate**
+
+6. **Deliver property and WORKSHEET to desk officer**
+
+### Command Clerk Duties
+
+7. Enter reporting member's WORKSHEET including circumstances of the found property from the "Remarks" section, into Finest Online Records Management System (FORMS) Property to generate a PROPERTY CLERK INVOICE (PD521-141)
+
+### Uniformed Member (Continued)
+
+8. **Digitally sign INVOICE** verifying accuracy and completeness
+
+### Desk Officer Duties
+
+9. **Digitally sign INVOICE** verifying accuracy and completeness
+
+10. **Make Command Log entry** indicating presence of MOS with property and INVOICE number
+    - Enter time and name of occupant or person in charge of premises who was notified of police custody of property, if property was delivered to command by other than occupant or person in charge of premises where property was found
+
+11. **Have REPORT OF UNCLAIMED PROPERTY (PD542-122) prepared and forwarded** as indicated on form
+
+### If Property Is Returned to Owner at Command
+
+**Desk Officer:**
+
+12. **Require claimant to produce valid identification**, preferably photo identification
+
+13. **Check property/vehicle against PROPERTY CLERK INVOICE**
+
+14. **Request claimant examine security lead seal and/or plastic security envelope** and check against number entered on INVOICE (if seal or envelope is used), prior to breaking seal or opening envelope
+
+15. **Complete the "Release/Disposition – Return to Owner" function** using FORMS Property
+    - Have claimant sign utilizing the digital signature capture device
+
+16. **Approve delivery of property/vehicle** utilizing username and password
+
+17. **Release property/vehicle to claimant**
+
+18. **Forward "Property Clerk" copy of INVOICE and photocopy of claimant's identification** to the appropriate Property Clerk facility
+
+19. **Destroy all copies of REPORT OF UNCLAIMED PROPERTY**, if property was claimed prior to the distribution and forwarding of the REPORT OF UNCLAIMED PROPERTY
+    - Forward first copy of REPORT OF UNCLAIMED PROPERTY, with disposition entered thereon, to the Stolen Property Inquiry Unit, if property is returned to owner after original REPORT OF UNCLAIMED PROPERTY has been forwarded
+
+> **Exam Alert:** Found property in the subway (except currency/contraband) goes to NYC Transit Lost Property Office, NOT the precinct. Taxi found property goes to one of eight designated repository commands.
 
 ### Purpose
 To record and process found property.
@@ -190,6 +269,7 @@ To ensure all firearms and firearm-related evidence is properly marked, packaged
 | **Shell Casing** | Metal casing remaining in/ejecting from firearm after bullet leaves barrel |
 
 > **Memory Aid — GUNS/DRUGS/DNA/CRIM:** The four transparent bag categories for Lab delivery are **G**uns, **D**rugs, **D**NA, **C**riminalistics. *(PG 218-04)*
+> — *Source: The Key, Lessons 21-22*
 
 ### Cartridge Categories (Critical for Packaging)
 
@@ -270,6 +350,7 @@ Delivered DIRECT to Property Clerk Division (no lab analysis required):
 - Obtained from permit holder during renewal/expiration/cancellation
 
 > **Exam Alert:** Firearms invoiced for safekeeping get a **separate voucher** and are sent **straight to Property Clerk UNLESS something needs examination**. Do NOT put safekeeping guns on the same invoice as guns going to the Lab. *(PG 218-23)*
+> — *Source: The Key, Lessons 21-22*
 
 ### Tracing Firearms
 
@@ -509,8 +590,10 @@ To establish a standard procedure to invoice fireworks coming into custody.
 > **Exam Alert:** Call Bomb Squad **from the scene** in three situations: **(1) Large Seizure, (2) Unusual Problem, (3) Question regarding Safety**. *(PG 218-53)*
 
 > **Exam Alert:** The Command Log entry for fireworks delivery includes **three numbers**: PCI #s, Name & shield # of MOS delivering, and RMP #. *(PG 218-53)*
+> — *Source: The Key, Lessons 21-22*
 
 > **Exam Alert:** The MOS delivering fireworks to the Bomb Squad returns to command with **two items**: (1) the PTR Acceptance Document with assigned Bomb Squad case # on it, AND (2) a copy of the Bomb Squad Fireworks Supporting Deposition. The D.O. files the deposition with the PCI in the A/Os Arrest Folder. *(PG 218-53)*
+> — *Source: The Key, Lessons 21-22*
 
 ### Transportation Safety Rules
 

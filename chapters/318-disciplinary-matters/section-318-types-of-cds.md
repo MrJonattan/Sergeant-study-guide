@@ -66,8 +66,10 @@ Non-judicial punishment issued by a CO/XO for more serious violations.
 > | **R** | Radio: fail to respond, acknowledge, give disposition promptly, or unauthorized transmission |
 > | **A** | Alcohol in dept. facility or vehicle unless within scope of assignment |
 > | **P** | Prisoner — failure to safeguard |
+> — *Source: The Key, Lesson 6*
 
 > **Exam Alert:** FADO violations can be a "B" CD when, in the opinion of the CCRB or NYPD, a "B" CD is appropriate. The "Other" category requires the CO/XO to first notify the patrol borough adjutant AND consult with the Department Advocate. (AG 318-01)
+> — *Source: The Key, Lesson 6*
 
 ### Third CD in a Six-Month Period
 

@@ -1,5 +1,7 @@
 # Section 219 — Department Property
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lesson 23*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lesson 23); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Patrol Guide Section:** 219
 - **Source PDF:** public-pguide4.pdf (OCR version)

@@ -36,6 +36,7 @@ Covers P.G. 208-05
 > **Exam Alert:** A search at the police facility is NOT a strip search. It involves removal of outer garments but not undergarments. The distinction between Level 2 and Level 3 is frequently tested.
 
 > **Exam Alert:** If the gender of the officer assigned to conduct the search differs from the gender requested by the arrestee, the Desk Officer OR Supervisor supervising the search must make a detailed Command Log entry documenting: (1) factors considered in assigning the searching member, and (2) identities of the member(s) who actually conduct the search. Under NO circumstances shall MOS conduct searches for the purpose of determining gender, nor ask questions about anatomy without a reasonable basis.
+> — *Source: The Key, Lesson 10*
 
 #### Level 3: STRIP SEARCH
 

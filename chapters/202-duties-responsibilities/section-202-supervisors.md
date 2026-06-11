@@ -8,7 +8,7 @@
 
 ## P.G. 202-18: Desk Officer (CRITICAL — 5 pages)
 
-> 📅 **UPDATE 202-18:** **June 2, 2026** — Revised desk officer procedures. Review the latest Patrol Guide for current language.
+> 📅 **UPDATE 202-18:** **June 2, 2026** — Revised desk officer procedures (R.O. 48). Review the latest Patrol Guide for current language.
 
 > **Rank Requirement:** Must be a SERGEANT or above.
 > **Core Responsibility:** Responsible for ALL police operations within the command during the tour.
@@ -20,6 +20,36 @@
 - **SHALL** inspect the property locker at the commencement of each tour
 - **SHALL** query the Medical Division Sick Reporting System at the start of the tour
 - **SHALL** check Department email at the start of the tour
+
+### New June 2026 Requirements (R.O. 48, eff. 06/02/26)
+
+- **SHALL** provide communications dispatcher with complete **"Rundown"** of command's resources from CPR System Roll Call **upon completion of roll call**
+  - Notify communications dispatcher throughout tour with changes as they occur (resources reassigned, additional resources added, etc.)
+- **SHALL** log into Domain Awareness System (DAS) and enter resource's tax number(s), tour assignment, and assigned vehicle information
+- **SHALL** review ICAD history frequently throughout the tour for dispatched jobs and ensure NYS Domestic Incident Report prepared for all assignments with 10-90F1, 10-90F2, 10-90J1, 10-90J2, 10-92F, 10-92J, 10-93F, or 10-93J radio code disposition
+- **SHALL** check Department email immediately upon start of tour AND again during the 4th hour of tour
+  - Record checks in Command Log
+- **SHALL** notify Information Technology Bureau (ITB) Service Desk for any non-functioning Automatic Vehicle Location (AVL) device and be guided by their instructions
+  - Make entry in Telephone Record regarding notification and inform patrol supervisor
+- **SHALL** notify Intelligence Division's Criminal Intelligence Section of major incidents and/or special circumstances deemed appropriate by Commanding Officer, Intelligence Division and/or precinct/PSA/transit district commanding officer
+- **SHALL** make required notifications to members of the service assigned to or residing within command
+- **SHALL** ensure meals assigned to supervising officers performing duty are scheduled so that a supervisor is on patrol at all times
+- **SHALL** report defective gas pumping equipment to Fleet Services Division, Fuel Control
+- **SHALL** make required entries and corresponding changes on CPR System Roll Call prior to start of incoming platoon
+- **SHALL** examine and process (when performing duty with first platoon):
+  - Forms and reports prepared during previous 24 hours
+  - Summonses issued during previous 24 hours
+- **SHALL** make Command Log entry prior to being relieved at end of tour. Entry must include:
+  - Identity, condition and location of any MOS injured during the tour
+  - Location and time of any confirmed shots fired jobs
+  - Location and time of any 10-13 or 10-85 radio runs called during the tour
+  - Open missing persons cases requiring follow up (include identity, age, and residence)
+  - Hospitalized prisoners and their locations
+  - Any fixed posts that require relief
+  - Number of Complaint Reports, TRI Incident Reports, and Police Crash Reports (MV-104P) pending sign-off
+  - Other pertinent information, as required
+
+> **Exam Alert (June 2026 Update):** The **"Rundown"** to communications dispatcher is given **upon completion of roll call** (not before, not at end of tour). This is a NEW requirement added in June 2026 (R.O. 48).
 
 ### Personnel Accountability
 
@@ -90,6 +120,7 @@ The desk officer directly supervises the following positions:
 - Certify accuracy and completeness of Command Log Entry (CLE) concerning vouchered property
 
 > **Exam Alert:** When property is stored in excess of 30 days, the D.O. must make a **SEPARATE** Command Log entry (not just note it in the regular entry) AND notify the Operations Coordinator. These are two distinct actions the exam may test independently (P.G. 202-18).
+> — *Source: The Key, Lesson 1*
 
 ### US Flag
 
@@ -102,6 +133,7 @@ The desk officer directly supervises the following positions:
 - Accept service of civil process for member of command and notify member concerned, when principal administrative associate (PRAA) is not performing duty
 
 > **PG Conflict:** P.G. 211-21 says the D.O. accepts civil process regardless, but P.G. 202-18 mentions the PRAA condition — accept "when principal administrative associate not performing duty." Know both versions exist; the exam may reference either procedure (P.G. 202-18 vs. P.G. 211-21).
+> — *Source: The Key, Lesson 1*
 
 ### DAS (Domain Awareness System) — Start of Tour
 
@@ -199,7 +231,7 @@ The desk officer directly supervises the following positions:
 
 ## P.G. 202-19: Patrol Supervisor (CRITICAL)
 
-> 📅 **UPDATE 202-19:** **June 2, 2026** — Revised patrol supervisor procedures. Review the latest Patrol Guide for current language.
+> 📅 **UPDATE 202-19:** **June 2, 2026** — Revised patrol supervisor procedures (R.O. 48). Review the latest Patrol Guide for current language.
 
 > **Rank Requirement:** Must be a SERGEANT or above.
 > **Core Responsibility:** Supervise all police FIELD operations during the tour.
@@ -240,6 +272,31 @@ The desk officer directly supervises the following positions:
 - **SHALL** use Neighborhood Policing App to supervise/conduct neighborhood policing functions, as applicable
 - **NEW June 2026:** **SHALL** use **Salesforce Application** to assist in supervising and conducting quality of life operations
 - **SHALL** report derelictions of duty to the C.O.
+
+### New June 2026 Requirements (R.O. 48, eff. 06/02/26)
+
+- **SHALL** use **AVL (Automatic Vehicle Location)** in the **Domain Awareness System (DAS)** to monitor RMP locations during tour
+  - Purpose: Enhance safety of MOS and ensure proper delivery of police services
+  - If AVL is not working: notify Desk Officer
+  - Do NOT put RMP out of service unless directed by IAB or Fleet Services Division (FSD)
+- **SHALL** visit uniformed members of the service assigned to:
+  - Foot and radio motor patrol frequently and at irregular intervals
+    - Ensure members do not congregate or engage in unnecessary conversation with other members while on post, absent police necessity
+  - Hospital and special posts at least once each tour
+    - Record all visits by entering time, name, and assignment in digital Activity Log and signing the UMOS digital Activity Log
+- **SHALL** supervise inspection of Department vehicles assigned to members of platoon
+  - Report serious deficiencies in RMP seatbelts to lieutenant platoon commander or, in their absence, direct to commanding officer
+  - NOTE: Take appropriate action if defects in seatbelts are deemed to be of a nature not consistent with normal usage. Be vigilant for indications that members are disabling or improperly using seatbelts (e.g., buckling seatbelt behind occupant's body or behind seat)
+  - Report all vandalism of RMP seatbelts to the Internal Affairs Bureau (IAB)
+- **SHALL** evaluate driving habits and abilities of members of the platoon and take corrective action as necessary
+- **SHALL** direct uniformed members assigned to scooter duty to report to lieutenant platoon commander or desk officer for reassignment when weather/road conditions make scooter operation dangerous
+- **SHALL** submit to commanding officer, in writing, recommendations for special assignment, detective designation, or change in assignment for members under supervision
+- **SHALL** visit various locations within command at different times during the first platoon to ascertain that UMOS are performing duty at all times
+- **SHALL** review and sign OFFICER PROFILE REPORTS of police officers/detective specialists, monthly
+  - Make required entries and deliver completed reports to platoon commander for review by the **5th day** for the previous month
+- **SHALL** notify switchboard operator of location where meal will be taken and relieve lieutenant platoon commander or desk officer for meal, when designated
+
+> **Exam Alert:** The Patrol Supervisor has TWO meal-related duties: (1) notify the Telephone Switchboard Operator of meal location, and (2) relieve the LPC or D.O. for meal when designated. Meal relief is NOT an emergency (P.G. 202-19).
 
 ### Patrol Visits
 
@@ -311,23 +368,34 @@ The desk officer directly supervises the following positions:
 
 ## P.G. 202-20: Supervisor of Neighborhood Safety Team (NST)
 
-> 📅 **UPDATE 202-20:** **May 19, 2026** — Revised NST supervisor procedures. Review the latest Patrol Guide for current language.
+> 📅 **UPDATE 202-20:** **May 19, 2026** — Revised NST supervisor procedures (R.O. 40). Review the latest Patrol Guide for current language.
 
+> **Scope:** Neighborhood Safety Teams are only authorized for the following commands:
+> - 23rd, 25th, 28th, 32nd, 33rd, 34th, 40th, 41st, 42nd, 43rd, 44th, 46th, 47th, 48th, 49th, 52nd, 67th, 69th, 70th, 71st, 73rd, 75th, 77th, 79th, 81st, 83rd, 101st, 103rd, 109th, 110th, 113th, 114th, 116th, 120th Precincts; and Times Square Unit
+> - Patrol Borough Manhattan South, Manhattan North, Bronx South, Bronx North, Brooklyn South, Brooklyn North, Queens South, Queens North, Staten Island
+> - PSA 1, 2, 3, 5, 6, 7, 8, 9
 
 > **Rank Requirement:** Sergeant or above, SOLELY assigned to NST supervision.
 > **Core Rule:** NSTs may NOT be deployed without a sergeant or above solely assigned.
 
 ### Deployment and Supervision
 
-- **SHALL** be solely assigned to NST supervision — cannot be split between NST and other duties
-- **SHALL** supervise no more than **5 NST members** per tour
-- **SHALL** report to the special operations lieutenant
+- **SHALL** comply with all of the provisions of P.G. 202-05, "Neighborhood Safety Team Officer"
+- **SHALL** perform no duties other than neighborhood safety patrol, when assigned as NST Supervisor
+  - NSTs may not be deployed if a supervisor in the rank of sergeant or above is not assigned solely to their supervision
+- **SHALL** supervise all police operations of neighborhood safety teams
+  - Be cognizant of location of NST members, and be able to contact personnel at all times
+  - Supervise no more than **5 NST members** per tour
+- **SHALL** report to special operations lieutenant
+- **SHALL** confer with special operations lieutenant, field intelligence officer, quality of life sergeant, precinct detective squad supervisor, crime analysis sergeant, and commanding officer to identify times and locations where violent street crimes are likely to occur
+- **SHALL** inform Desk Officer of NST locations in order to provide information to UMOS on patrol
 - **SHALL** ensure all NST members have completed required NST training before deployment
+- **SHALL** ensure uniformed members of the service assigned to NST are properly trained regarding their duties as described in Department directives
 
 ### Accountability Tools
 
-- **SHALL** systematically review Body Worn Camera (BWC) video of NST officers
-- **SHALL** use the CRAFT SUPERVISOR FEEDBACK FORM for commendable actions observed
+- **SHALL** systematically review Body Worn Camera (BWC) video of NST officers, including all videos regarding arrests and use of force, to provide positive feedback and address any performance or tactical deficiencies observed
+- **SHALL** use the SUPERVISOR FEEDBACK FORM on the CRAFT application to highlight commendable actions by NST members (e.g., an arrest that closes a precinct pattern, arrests involving a firearm, an exceptional community interaction, etc.), when warranted
 - CRAFT form is a positive reinforcement/accountability tool
 
 ### Key Exam Points — NST Supervisor
@@ -657,6 +725,7 @@ The Duty Captain is the borough-level captain who responds to significant incide
 The commanding officer sets the tone and priorities that sergeants enforce. Key items for sergeants: the CO must visit four agencies upon assignment (CCRB, IAB, Community Affairs, Quality Assurance) and semi-annually. New orientation for sergeants is on **two consecutive day tours**. Performance monitoring profiles (Level II quarterly, Level III monthly) are due by the **5th of the month**.
 
 > **Exam Alert:** The CO queries the CCRB Dashboard at least **once per month** and must confer with subject members PRIOR to CCRB appearances, reviewing BWC footage and Activity Logs. The CO also selects **digital communications officers (2)** — a new role designation. Long-term specialized unit assignments of **5 years** trigger recommendation for Detective Bureau career path (P.G. 202-33).
+> — *Source: The Key, Lesson 1*
 
 ---
 
@@ -853,9 +922,7 @@ This is a direct sergeant assignment with significant responsibilities. The QOL 
 
 ---
 
-## P.G. 202-91: Cross-Reference
-
-> This is NOT a standalone procedure. It serves as an internal cross-reference within the Patrol Guide.
+> *(Correction note: a "P.G. 202-91: Cross-Reference" heading previously appeared here. The current Patrol Guide's 202 series ends at 202-39 — no 202-91 exists. Not found in source materials.)*
 
 ---
 

@@ -34,6 +34,7 @@
 > **MD:**
 > - **M**ajor Illness
 > - **D**ental
+> — *Source: The Key, Lesson 4*
 
 > **Exam Alert:** The mnemonic "LIMB LSS MD" covers all situations where Admin Sick is not authorized. If any of these apply, the member must report Regular Sick instead.
 

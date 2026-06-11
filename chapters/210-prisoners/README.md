@@ -1,5 +1,7 @@
 # Section 210 — Prisoners
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lesson 12*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lesson 12); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Patrol Guide Section:** 210
 - **Source PDF:** public-pguide2.pdf

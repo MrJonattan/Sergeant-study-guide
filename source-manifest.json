@@ -1,70 +1,70 @@
 {
   "$schema": "NYPD Manual Source Manifest",
-  "generatedAt": "2026-06-01T05:40:47.660Z",
+  "generatedAt": "2026-06-11T04:25:00.596Z",
   "sourceUrl": "https://www.nyc.gov/site/nypd/about/about-nypd/manual.page",
   "downloadBaseUrl": "https://www.nyc.gov/assets/nypd/downloads/pdf/public_information",
-  "pageLastUpdated": "May 19, 2026",
+  "pageLastUpdated": "June 4, 2026",
   "pdfs": {
     "toc1.pdf": {
       "url": "https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/toc1.pdf",
       "description": "Table of Contents",
       "sha256": "d798baba6930110836c2ac26e0804e0cfcfe7d8489aaa138b1c01f129171e3b8",
       "contentLength": 167221,
-      "lastModified": "Wed, 20 May 2026 18:31:50 GMT",
-      "lastChecked": "2026-06-01T05:40:47.796Z"
+      "lastModified": "Fri, 05 Jun 2026 14:04:00 GMT",
+      "lastChecked": "2026-06-11T04:25:00.824Z"
     },
     "public-pguide1.pdf": {
       "url": "https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/public-pguide1.pdf",
       "description": "Patrol Guide Part 1",
-      "sha256": "4c502962078d0ede692a7f365a6e24a460b13eca63fec3e0f3bad30b27aa9b96",
-      "contentLength": 25713440,
-      "lastModified": "Wed, 20 May 2026 18:31:49 GMT",
-      "lastChecked": "2026-06-01T05:40:48.336Z"
+      "sha256": "910b98005c0ba8b6baeb2fb0626447db0b7817908e9e77710535c3936c9c37d4",
+      "contentLength": 26020688,
+      "lastModified": "Fri, 05 Jun 2026 14:03:59 GMT",
+      "lastChecked": "2026-06-11T04:25:01.340Z"
     },
     "public-pguide2.pdf": {
       "url": "https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/public-pguide2.pdf",
       "description": "Patrol Guide Part 2",
-      "sha256": "d6d2d6f9a30f292c969a81e6a74bc4a749d63dd5c18afe6215725cc1b44f9959",
-      "contentLength": 18878170,
-      "lastModified": "Wed, 20 May 2026 18:31:49 GMT",
-      "lastChecked": "2026-06-01T05:40:48.747Z"
+      "sha256": "981f608b8ccaa18493d7965ecaf43a9d94ef1af3369332ab323decc72ffe3e82",
+      "contentLength": 19255185,
+      "lastModified": "Fri, 05 Jun 2026 14:04:00 GMT",
+      "lastChecked": "2026-06-11T04:25:02.094Z"
     },
     "public-pguide3.pdf": {
       "url": "https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/public-pguide3.pdf",
       "description": "Patrol Guide Part 3",
       "sha256": "2f26ef8c84b6114ec665f4db46ecbfe3d83fe4e77ed213c938281ad95ce9ab5d",
       "contentLength": 20606896,
-      "lastModified": "Wed, 20 May 2026 18:31:50 GMT",
-      "lastChecked": "2026-06-01T05:40:49.199Z"
+      "lastModified": "Fri, 05 Jun 2026 14:04:00 GMT",
+      "lastChecked": "2026-06-11T04:25:02.613Z"
     },
     "public-pguide4.pdf": {
       "url": "https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/public-pguide4.pdf",
       "description": "Patrol Guide Part 4",
-      "sha256": "8d024a55f41485293d742f30ffcfcb40a9abe797aa62863d53babd6f6359c314",
-      "contentLength": 17117899,
-      "lastModified": "Wed, 20 May 2026 18:31:50 GMT",
-      "lastChecked": "2026-06-01T05:40:49.610Z"
+      "sha256": "7a1d1f87b7031ef38535ec990ccf73a0e1a06b272b284651feebd7c3c6a7c93a",
+      "contentLength": 17559821,
+      "lastModified": "Fri, 05 Jun 2026 14:04:00 GMT",
+      "lastChecked": "2026-06-11T04:25:03.707Z"
     },
     "public-adminguide1.pdf": {
       "url": "https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/public-adminguide1.pdf",
       "description": "Admin Guide Part 1",
-      "sha256": "c7af4202cbbe36d8244f249f1828c9f0d1ee96f9adde54b8c89ee62bf9999ce5",
-      "contentLength": 17244885,
-      "lastModified": "Wed, 20 May 2026 18:31:49 GMT",
-      "lastChecked": "2026-06-01T05:40:50.055Z"
+      "sha256": "8ab471f385aff17722c5afe65b840ff7a0c668e73149a5c93c3c8d9ee167e6ee",
+      "contentLength": 17559206,
+      "lastModified": "Fri, 05 Jun 2026 14:03:59 GMT",
+      "lastChecked": "2026-06-11T04:25:04.152Z"
     },
     "public-adminguide2.pdf": {
       "url": "https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/public-adminguide2.pdf",
       "description": "Admin Guide Part 2",
-      "sha256": "7af6c6e84fe4418cd9dd9fe7eab2ac2c4346b9b1b5dbcc48a8917dff5728a36b",
-      "contentLength": 14478302,
-      "lastModified": "Wed, 20 May 2026 18:31:49 GMT",
-      "lastChecked": "2026-06-01T05:40:50.498Z"
+      "sha256": "c49820483b462b2553bcee9742ebbc2959723350c5169329d1d2417ca9d0594c",
+      "contentLength": 14601415,
+      "lastModified": "Fri, 05 Jun 2026 14:03:59 GMT",
+      "lastChecked": "2026-06-11T04:25:04.536Z"
     }
   },
   "updateTimeline": {
     "url": "https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/Update1.pdf",
-    "sha256": "105888e701b53c0ef3751d6ff85e358121da4920791423401d6c7d2ca54d547d",
-    "lastChecked": "2026-06-01T05:40:50.601Z"
+    "sha256": "29dc69612274d442c27c121e8284d20643936f5102f5d8a799259595ea10404e",
+    "lastChecked": "2026-06-11T04:25:04.677Z"
   }
 }

@@ -197,6 +197,7 @@ Document: Prepare **Report of Motor Vehicle Accident MV104 (Civilian form)** —
 - Failure to report on MV104L is a **misdemeanor** and grounds for **suspension/revocation of MOS's License**
 
 > **Exam Alert:** MV104L is for **DMV internal use only**, NOT available to the public. The Additional Data section says MV104L is only for UMOS. A CMOS Department vehicle operator does NOT prepare the MV104L — they prepare the MV104 (civilian form). *(P.G. 217-06)*
+> — *Source: The Key, Lesson 20*
 
 **Favorable Witnesses and Summonses:**
 - NYPD and NYC Law Department/designee pursues claims against private entities that are at fault
@@ -279,6 +280,7 @@ Document: Prepare **Report of Motor Vehicle Accident MV104 (Civilian form)** —
 - Inoperative fax machine: use fax at closest department facility (NOT necessarily adjoining command)
 
 > **Exam Alert:** The 3 reports are faxed to Personnel Safety Desk within 24 hours — WITHOUT the final agency determination. Watch: the fax is sent on the TOUR of occurrence if possible (0700-1830, confirm receipt). *(P.G. 217-06)*
+> — *Source: The Key, Lesson 20*
 
 **Forward Reports:**
 - Copy of PAR, CR-PDV, Copy of Voucher (if applicable), and Photos → forward to Pct XO
@@ -320,6 +322,7 @@ Document: Prepare **Report of Motor Vehicle Accident MV104 (Civilian form)** —
 > **Memory Aid — Board Composition:** XO + Training Sgt + PEER + Lt PC/SP OPS + ICO/ASST + QOL Sgt/DESIG = 6 members (+ outside command supervisor = 7 total). The XO chairs; C.O. chairs if XO unavailable. *(P.G. 217-06)*
 
 > **Exam Alert:** Every outside command EXCEPT Highway goes through the Precinct Review Board. The Precinct C.O. (NOT X.O.) notifies command of outside operator that they MUST have a supervisor attend. *(P.G. 217-06)*
+> — *Source: The Key, Lesson 20*
 
 **Recommendations:**
 - Indicate recommendations of Review Board by preparing Part "B" of CR-PDV
@@ -366,6 +369,7 @@ If death or serious injury, based upon C.O./Duty Captain's determination:
 ### Retraining vs. Discipline
 
 > **Exam Alert — Retraining is NOT Discipline:** VTL allows police to run lights after slowing down and to speed if life/property is not endangered. Know the distinction between when discipline vs. retraining is appropriate. *(P.G. 217-06)*
+> — *Source: The Key, Lesson 20*
 
 | Action | When Appropriate |
 |--------|-----------------|

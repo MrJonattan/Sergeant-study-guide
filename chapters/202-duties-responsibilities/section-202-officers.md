@@ -73,15 +73,26 @@ Supervisors must ensure operators wear all required safety equipment and that sc
 
 ## P.G. 202-05: Neighborhood Safety Team (NST) Officer
 
-> 📅 **UPDATE 202-05:** **May 19, 2026** — Revised NST officer procedures. Review the latest Patrol Guide for current language.
+> 📅 **UPDATE 202-05:** **May 19, 2026** — Revised NST officer procedures (R.O. 40). Review the latest Patrol Guide for current language.
 
+> **Scope:** Neighborhood Safety Teams are only authorized for the following commands:
+> - 23rd, 25th, 28th, 32nd, 33rd, 34th, 40th, 41st, 42nd, 43rd, 44th, 46th, 47th, 48th, 49th, 52nd, 67th, 69th, 70th, 71st, 73rd, 75th, 77th, 79th, 81st, 83rd, 101st, 103rd, 109th, 110th, 113th, 114th, 116th, 120th Precincts; and Times Square Unit
+> - Patrol Borough Manhattan South, Manhattan North, Bronx South, Bronx North, Brooklyn South, Brooklyn North, Queens South, Queens North, Staten Island
+> - PSA 1, 2, 3, 5, 6, 7, 8, 9
 
 **Key Duties:**
-- Wear specifically prescribed uniform; must identify as police BEFORE taking enforcement action
-- Deploy based on crime trends and statistics (data-driven deployment)
-- No more than 3 NST members (including the supervisor) per vehicle
-- Must attend NST training before deployment
+- Wear specifically prescribed uniform; must identify as police BEFORE taking enforcement action, when feasible
+- Be equipped with all required equipment as described in A.G. 305-08, "Required Equipment"
+- Maintain daily record of activity in digital Activity Log
+- Inform radio dispatcher when responding to, or present at the scene of a police incident
+- Employ creative crime reduction, precision policing, and community engagement strategies to effectively improve the quality of life, increase trust and build relationships
+- Reduce violent street crime by identifying, investigating and apprehending individuals who possess illegal firearms, jeopardize public safety, or erode quality of life
+- Deploy in areas based on current crime trends and statistics, giving special attention to times/locations prone to violent street crimes (robberies, felonious assaults, shootings, firearms/weapons-related offenses)
+- No more than **3 NST members (including the supervisor)** per vehicle per tour
+- Develop intelligence for possible search warrants, associates from past crimes, and any crime related information with the assistance of the command field intelligence officer, through prisoner debriefings and/or confidential informant's intelligence
+- Do NOT conduct lineup or show photographs without permission of precinct detective squad supervisor or qualified supervisor of investigating unit
 - Do NOT perform duty in plainclothes or conduct decoy operations
+- Do NOT perform duty as a member of an NST prior to attending the Department's Neighborhood Safety Team training
 
 **Sergeant Relevance:**
 This is a high-priority area for sergeants. NST teams may NOT deploy without a sergeant or above solely assigned to supervision (see P.G. 202-20). The 3-per-vehicle cap and the prohibition on plainclothes/decoy operations are strict rules. Failure to complete required training before deployment is a supervisory accountability issue.

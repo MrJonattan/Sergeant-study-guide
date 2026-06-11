@@ -1,5 +1,7 @@
 # Section 213 — Mobilization/Emergency Incidents
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lesson 16*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lesson 16); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Overview
 
 Section 213 of the NYPD Patrol Guide covers mobilization, emergency response, special events, and First Amendment activities. This chapter is HIGH PRIORITY for the Sergeant Promotional Exam, particularly the procedures governing First Amendment activities (213-06, 213-20) and special events management (213-15). Sergeants must know authorization hierarchies, specific numerical thresholds, processing time limits, and the rights of demonstrators and prisoners.

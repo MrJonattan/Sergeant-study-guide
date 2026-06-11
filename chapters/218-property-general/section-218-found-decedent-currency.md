@@ -55,7 +55,7 @@ Found property valued at **$10 or more** must be reported to and deposited with 
 
 ### Key Points
 
-- Desk Officer: direct preparation of two copies of REPORT OF UNCLAIMED PROPERTY (PD542-1272)
+- Desk Officer: direct preparation of two copies of REPORT OF UNCLAIMED PROPERTY (PD542-122)
 - Forward original to Stolen Property Inquiry Unit
 - CO: direct investigation if notice of return not received within **60 days**
 

@@ -1,5 +1,7 @@
 # Section 305 — Uniforms and Equipment
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lesson 3*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lesson 3); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Administrative Guide Section:** 305
 - **Source PDFs:** A.G. 305-05, A.G. 305-07

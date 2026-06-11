@@ -311,5 +311,6 @@ Abandoned/Derelict Vehicle, Animal Abuse, Bike/Roller/Skate Chronic, Blocked Dri
 - NCO Sgt: daily callbacks, create/update chronic conditions list weekly
 
 > **Exam Alert:** CHRONIC condition = **5+ requests** in **28 days**. Immediate response trigger = **5+ calls** in **8 hours**. Second Platoon Desk Officer reviews at **0800 daily**. Desk officer refreshes **at least every hour**. Special Ops Lt: **monthly** audit, **weekly** chronic conditions update. CO directly directs NCO Sgt for **daily** callbacks with minimum **2 attempts** per caller. Deferrals are recorded in 311 system or the **Telephone Record** (NOT the Telephone Dispatch Log). When referring to another city agency, call 311 directly and obtain a new service request number.
+> — *Source: The Key, Lesson 17*
 
 > **Sergeant Focus:** Multiple supervisory layers with different frequencies: hourly (desk officer refresh), daily (0800 review, callbacks), weekly (chronic conditions list), monthly (311 caller audit). The 10-42 code is used to notify Communications Section with location and type of job. Disposition 10-95 for referrals to other agencies. The CO breaks the chain of command by personally directing the NCO Sgt. Give special attention to 311 assignments with media files (photos).

@@ -1,5 +1,7 @@
 # Section 319 — Civilian Personnel
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. This chapter has no corresponding lesson in The Key Pre-Season course; its exam-prep callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Administrative Guide Section:** 319
 - **Source PDFs:** Public Admin Guide1.pdf (297 pages)

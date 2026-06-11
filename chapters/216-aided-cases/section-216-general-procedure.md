@@ -67,6 +67,7 @@ To render necessary aid, take corrective or summary action, and prepare the pres
 | 8 | Prepare **AIDED REPORT** |
 
 > **Exam Alert:** If the aided has been **removed from the scene** prior to MOS arrival (10-54 cannot be given back as 10-90Z), the member will find out where the aided was removed to, obtain all information necessary for the AIDED REPORT, and prepare it per P.G. 216-01.
+> — *Source: The Key, Lesson 19*
 
 > **Exam Alert:** Medic Alert Emblems — **DO NOT REMOVE** the emblem. Notify both the radio dispatcher AND the ambulance attendant. Document in the Digital Activity Log who was informed of the Medic Alert. On the Aided Report, note in "Details" who was notified. For prisoners (P.G. 210), MOS does NOT enter the Medic Alert on the Medical Treatment of Prisoner form per P.G. 216-01.
 
@@ -115,6 +116,7 @@ To render necessary aid, take corrective or summary action, and prepare the pres
 > **Exam Alert:** 9-8-8 is for voluntary mental health support only. If the person is a **danger to self or others**, comply with P.G. 221-13, "Mentally Ill or Emotionally Disturbed Persons." The 9-8-8 program is NOT an alternative for dealing with an EDP who poses a danger. Per P.G. 216-01.
 
 > **Exam Alert:** The 9-8-8 hotline is a free NYC Department of Health and Mental Hygiene (DOHMH) treatment referral program. Available 24/7 in more than 200 languages. MOS may access the 9-8-8 app on the Department smartphone. Reached by calling, texting 9-8-8, or live chatting via nyc988.cityofnewyork.us per P.G. 216-01.
+> — *Source: The Key, Lesson 19*
 
 **Crime Victim Compensation (Domestic Violence and Aided Cases):**
 - MOS will notify innocent victims or dependents/surviving relatives of Crime Victim Compensation

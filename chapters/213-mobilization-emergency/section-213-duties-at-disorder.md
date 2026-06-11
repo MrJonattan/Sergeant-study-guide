@@ -48,6 +48,7 @@ P.G. 213-05 details the duties and responsibilities of each rank when responding
 - Personally, or if unable, **by map**
 
 > **Exam Alert:** Only Levels 3 & 4 involve Precincts. If Boro SRG goes, the Duty Captain responds with a "Command Post Staff." On ANY mobilization, the Duty Captain is going.
+> — *Source: The Key, Lesson 16*
 
 ---
 
@@ -325,6 +326,7 @@ The CO/IC creates a plan by estimating **seven things** about the disorder:
 ## Mobilization Levels — Two Types
 
 > **Exam Alert:** There are TWO DIFFERENT TYPES of mobilizations. Levels 1 & 2 are SRG mobilizations. Levels 3 & 4 are PCT/TD/PSA mobilizations. The exam will test whether you know which type corresponds to which level.
+> — *Source: The Key, Lesson 16*
 
 | | Levels 1 & 2 | Levels 3 & 4 |
 |---|---|---|

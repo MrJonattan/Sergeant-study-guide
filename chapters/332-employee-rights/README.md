@@ -1,5 +1,7 @@
 # Section 332 — Employee Rights & Responsibilities
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lesson 5*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lesson 5); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Administrative Guide Section:** 332
 - **Source PDFs:** A.G. 332-01, A.G. 332-02, A.G. 332-04, A.G. 332-14

@@ -21,6 +21,7 @@ Salutes are rendered **as per U.S. Army regulations**.
   - Saluting **interferes with police duty**
 
 > **Exam Alert:** You must salute the P.C. or ANY Deputy Commissioner, even if they are in civilian clothes. The test may try to limit the salute to only the P.C. or only when the Deputy Commissioner is in uniform.
+> — *Source: The Key, Lesson 2*
 
 ### U.S. Flag and National Anthem
 

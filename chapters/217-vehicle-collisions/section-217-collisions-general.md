@@ -9,6 +9,7 @@
 This procedure establishes the general framework for responding to and investigating vehicle collisions, including scene management, report preparation, and notifications.
 
 > **Exam Alert:** There is no more "Traffic Safety Officer" (TSO). That role is now filled by the **Administrative Quality of Life Officer** (A-QOL-O). *(PG 217-01)*
+> — *Source: The Key, Lesson 20*
 
 ### Key Definitions — 217-01
 
@@ -77,6 +78,7 @@ When collision results in **property damage only**, the UMOS:
 > - **R** = Report of Motor Vehicle Accident (MV104)
 > - **C** = Collision Information Exchange Form
 > - **W** = What You Should Know About Vehicle Collisions
+> — *Source: The Key, Lesson 20*
 
 > **Exam Alert:** The radio disposition code for property damage only is **10-99T3**. This is separate from the D.A.R.P. tow codes (10-99T4 through T9). *(PG 217-01)*
 
@@ -112,6 +114,7 @@ A PAR is required (not property damage only) when ANY of the following are prese
 > **Exam Alert:** The Breathalyzer (PBT) is given when BOTH conditions are met: **SPI AND STV**. Only SPI alone does NOT trigger the PBT requirement. *(PG 217-01)*
 
 > **Exam Alert:** "SPI" = Serious Physical Injury; "STV" = Serious Traffic Violation; "PBT" = Breathalyzer (Preliminary Breath Test). *(PG 217-01)*
+> — *Source: The Key, Lesson 20*
 
 ### Serious Traffic Violations (VTL) — Reference List
 
@@ -275,6 +278,7 @@ Check box "Dup. Copy Required For" on **back** of PAR and "Other City Agency" fo
 > **Exam Alert:** DOA collision requires notification to **two** units: Highway CIS **and** Missing Persons (M.E.'s unit). *(PG 217-01)*
 
 > **Exam Alert:** In 217-02 (DOA/SILD/CI) and 217-17 (Bicycle collisions), UMOS has Sgt respond for those injuries. **Sgt is NOT mentioned in 217-01.** *(PG 217-01)*
+> — *Source: The Key, Lesson 20*
 
 ### Airbag Deployed
 
@@ -297,6 +301,7 @@ If a **Condition of Severity** exists, prepare one (1) Truck and Bus Supplementa
 > **Memory Aid — GWR/CWR:**
 > - **GWR** = Gross Weight Rating
 > - **CWR** = Combined Weight Rating
+> — *Source: The Key, Lesson 20*
 
 > **Exam Alert:** Bus = seating for **9 or more** (including driver). Commercial truck threshold is **more than** 10,000 lbs — not "10,000 or more." *(PG 217-01)*
 
@@ -332,6 +337,7 @@ A crossover collision is when a vehicle **strikes or crosses over** a median, je
 > **See Also:** PG 202-06 — Crossover collision definition and additional duties of patrol supervisor.
 
 > **Exam Alert:** A crossover collision involves a vehicle that STRIKES OR CROSSES OVER a median/jersey barrier. The vehicle does not need to actually change lanes — striking the barrier qualifies. *(PG 202-06)*
+> — *Source: The Key, Lesson 20*
 
 ---
 
@@ -342,6 +348,7 @@ A crossover collision is when a vehicle **strikes or crosses over** a median, je
 This procedure covers the specific steps for handling collisions resulting in death, serious injury (likely to die), or critical injury, including Collision Investigation Squad notification and specialized reporting requirements.
 
 > **Exam Alert:** In **217-02** (DOA/SILD/CI), UMOS has **Sgt respond** for those injuries. This is different from 217-01, where the Sgt is **not mentioned**. *(PG 217-02)*
+> — *Source: The Key, Lesson 20*
 
 > **Exam Alert:** **DOA/SILD or Critical Injury (CI):** CI is determined by EMS on scene. A Designated MOS from CIS (Highway) coordinates investigation AND presents facts to the D.A. *(PG 217-02)*
 

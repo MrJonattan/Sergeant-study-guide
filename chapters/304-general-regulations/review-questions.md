@@ -200,7 +200,7 @@ When entering the command, members salute The DESK — not the Desk Officer. The
 
 **B) .04**
 
-A breathalyzer result of .04 or greater means the member is unfit for duty. This is lower than the legal DWI limit of .08 — the Department holds members to a stricter standard. (A.G. 318-20, note after step 1)
+A breathalyzer result of .04 or greater means the member is unfit for duty. This is lower than the legal DWI limit of .08 — the Department holds members to a stricter standard. (A.G. 318-29, step 14b)
 
 </details>
 

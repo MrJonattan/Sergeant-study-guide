@@ -31,19 +31,44 @@ This section covers the foundational procedures for mobilization, emergency resp
 
 ## P.G. 213-03 — Rapid Mobilization
 
-> 📅 **UPDATE 213-03:** **May 13, 2026** — Rapid Mobilization procedures. Source: Update1.pdf timeline.
->
-> ⚠️ **Content not yet verified against source PDF** — Update date confirmed from Update1.pdf timeline; full procedure text pending extraction from public-pguide4.pdf.
+> 📅 **UPDATE 213-03:** **May 19, 2026** (R.O. 40) — Revised Rapid Mobilization procedures. Review the latest Patrol Guide for current language.
 
-### Known Information
-- Establishes procedures for rapidly assembling personnel during emergencies
-- Part of the 213-01 through 213-08 series referenced by P.G. 213-09
-- Related to P.G. 213-04 (Mobilization Readiness Levels), which likely defines the escalation tiers that trigger rapid mobilization
-- Patrol Supervisor calls Level 1 through radio; for missing persons, must consult CO/Duty Captain PRIOR
-- Platoon Commander serves as Incident Commander until CO/Duty Captain arrives, then becomes Operations Officer at Field Command Post
-- Supplementary Restraint Kits contain 300 flex cuffs, 40 flex cuff cutters, 40 Cold Fire extinguishers
+### Procedure
+
+When IMMEDIATE assistance is required at the scene of an unusual disorder/emergency incident:
+
+**Patrol Supervisor:**
+
+1. **Assess situation** and, if needed, activate Mobilization Level 1 through radio dispatcher
+   - Patrol supervisors are authorized to activate a Mobilization Level 1
+   - **Consult with commanding officer/duty captain prior to activating a Level 1 mobilization for a missing person investigation, absent exigent circumstances**
+
+2. **Notify commanding officer/duty captain**, if assistance is required beyond a Level 1 mobilization
+   - Upon activation, commanding officer/duty captain will immediately respond to scene
+
+**Platoon Commander:**
+
+3. **Respond to scene of incident and assume duties of the Incident Commander**
+   - Upon arrival of the commanding officer/duty captain, assume the duties of the Operations Officer in the field command post, and
+   - Advise Incident Commander, as necessary
+
+> **Note:** For incidents occurring in areas that are the responsibility of the Housing Bureau or Transit Bureau, the Housing Bureau or Transit Bureau platoon commander should, if not on scene, respond and assume the duties and responsibilities as described in step 3 above.
+
+**Duty Captain:**
+
+4. **Respond to scene**
+   - Contact the command post, while enroute, and get an estimation of the situation from the patrol supervisor/platoon commander at scene
+   - Assess situation and activate a further mobilization (see pages 7 through 11), after conferral, if necessary
+     - Communicate the number of personnel and the level of mobilization required to the patrol borough, Communications Section or the Operations Unit
+
+> **Note:** Mobilization Levels 2, 3 or 4 require the authorization of a captain or above. The captain need not be on the scene, but if authorizing any further mobilization while not at the scene, he/she must communicate with one of the following:
+> - Patrol supervisor/platoon commander
+> - Patrol borough concerned
+> - Operations Unit
 
 > **PG Conflict:** PG 213-03 says Lt/Sgt should "go direct" to the mobilization point. PG 213-05 says Lt/Sgt should "10-02 FIRST," then go. On test day, if the question references 213-05 (Duties at a Disorder), the answer is 10-02 First.
+
+> **Exam Alert (May 2026):** The requirement to **consult CO/Duty Captain before activating Level 1 for missing persons** is a new specific condition added in the May 2026 revision. Absent exigent circumstances, this consultation is mandatory.
 
 > **See Also:** Rapid Mobilization section — Full procedure with role-by-role duties, bureau exceptions, and supplementary restraint kit details.
 

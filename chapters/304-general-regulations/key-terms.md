@@ -84,6 +84,6 @@
 
 | Term | Definition |
 |------|-----------|
-| **Breathalyzer .04** | Result of .04 or greater = unfit for duty (A.G. 318-20, note after step 1) |
+| **Breathalyzer .04** | Result of .04 or greater = unfit for duty (A.G. 318-29, step 14b) |
 | **Off-Duty Breathalyzer OT** | Department pays overtime to member when administering breathalyzer off duty |
 | **VTL Section 1192** | Vehicle and Traffic Law section for DWI; refusal to submit to chemical testing = charged under A.G. 304-06 |

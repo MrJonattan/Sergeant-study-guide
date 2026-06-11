@@ -65,6 +65,7 @@ When the UMOS did **not personally observe** the violation:
 - Enter all witness contact information in the **Digital Activity Log**
 
 > **PG Conflict:** PG 209-03 OATH summonses (CJRA) can NOT be based on "informed by" — those 6 violations must be **personally observed** by the UMOS. PG 209-12 OATH summonses (non-CJRA) CAN be "informed by" a witness. Know both rules exist.
+> — *Source: The Key, Lesson 11*
 
 ### 209-12 Key Differences from 209-03
 

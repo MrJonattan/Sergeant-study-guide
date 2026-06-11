@@ -1,5 +1,7 @@
 # Section 221 — Tactical Operations
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. This chapter has no corresponding lesson in The Key Pre-Season course; its exam-prep callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Patrol Guide Section:** 221
 - **Source PDF:** public-pguide4.pdf (OCR)

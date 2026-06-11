@@ -45,7 +45,7 @@ Statements subject to this procedure include:
 - Verbal statements made pursuant to statutory or procedural requirements
 - Statements under oath during civil, administrative, or criminal proceedings
 - Written statements in sworn documents (COMPLAINT REPORT [PD313-152], Domestic Incident Report [DCJS-3221], etc.)
-- Interviews pursuant to P.G. 206-13 (Department interrogation)
+- Interviews pursuant to P.G. 206-13 (Department interrogation) — *cited as "P.G. 206-13" in the official A.G. 304-10 text; this procedure is A.G. 318-11, "Interrogation of Members of the Service," in the current Admin Guide numbering*
 - Interviews by Attorney General's Law Enforcement Misconduct Investigative Office (P.G. 211-09)
 - Interviews pursuant to P.G. 211-14 (CCRB investigations)
 
@@ -98,7 +98,7 @@ When a member is afforded an opportunity to recollect with the benefit of credib
 
 | Procedure | Title |
 |-----------|-------|
-| P.G. 206-13 | Interrogation of Members of the Service |
+| P.G. 206-13 | Interrogation of Members of the Service (now A.G. 318-11 in current numbering) |
 | P.G. 211-09 | Appearances Before Governmental Agencies |
 | P.G. 211-14 | Investigations by Civilian Complaint Review Board |
 | A.G. 305-07 | Firearms – General Regulations |

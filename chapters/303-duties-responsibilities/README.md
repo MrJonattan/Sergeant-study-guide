@@ -1,5 +1,7 @@
 # Section 303 — Duties & Responsibilities
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. This chapter has no corresponding lesson in The Key Pre-Season course; its exam-prep callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Administrative Guide Section:** 303
 - **Source PDF:** Public Admin Guide1.pdf

@@ -201,6 +201,7 @@ A prisoner is considered **high risk** based on ANY of the following:
 > **Exam Alert:** The two mandatory triggers for leg restraints are (1) refusal to be fingerprinted and (2) ALL hospital transports. Leg restraints are NEVER used as punishment and do NOT replace rear handcuffing.
 
 > **Exam Alert:** If leg restraints are NOT used for a hospital transport, the **Desk Officer** must document the reason in a detailed Command Log entry. The PG does not mention psych specifically — it says ALL prisoners going to the hospital for medical treatment should have leg restraints.
+> — *Source: The Key, Lesson 12*
 
 ---
 
@@ -396,6 +397,7 @@ When notified of a prisoner's admission:
 | ICU admission | Evaluate again; assess escape potential; if escape potential exists, use **Plastic Flex Cuffs** (additional data) |
 
 > **Exam Alert:** When hospital security is inadequate, the **escorting officer** requests a room change — NOT the Patrol Supervisor. The PG specifically states the escorting officer "requests room change if security inadequate." The patrol supervisor's role is to evaluate and instruct, and to report lack of cooperation to the C.O.
+> — *Source: The Key, Lesson 12*
 
 ### Who Guards the Prisoner?
 
@@ -474,6 +476,7 @@ When notified of a prisoner's admission:
 | 210-02 (Hospital) | **Digital Activity Log** | Guarding MOS logs "visitors" only — no mention of "interviewers" documentation |
 
 > **Exam Alert:** At the hospital, visitors sign the **Digital Activity Log** — there is no mention of documenting "interviewers" in the Activity Log. The guarding MOS updates the D.O. Pct of Arrest, who then lists "visitors" on an ARS.
+> — *Source: The Key, Lesson 12*
 
 ### UF-50 — Authorized Family Visits
 

@@ -1,5 +1,7 @@
 # Section 218 — Property: General
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lessons 21-22*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lessons 21-22); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Overview
 
 Section 218 governs all aspects of invoicing, processing, safeguarding, and disposing of property coming into police custody. This is one of the largest sections in the Patrol Guide, covering 44 procedures that address everything from general invoicing to specialized evidence handling (firearms, DNA, computers, fireworks), stolen vehicle processing, currency handling, vendor/peddler enforcement, and handgun license surrenders.

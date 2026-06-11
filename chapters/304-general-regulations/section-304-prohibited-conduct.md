@@ -46,6 +46,7 @@ Conduct beyond the scope of official duties includes but is not limited to:
 - Members are required to utilize their **Department email account** for this purpose
 
 > **Exam Alert:** When communicating with persons enumerated in Step 7 in accordance with official duties, authorized communication may occur via home visit, telephone, and/or text. Social media may also be appropriate when other points of contact are not known.
+> — *Source: The Key, Lesson 2*
 
 ### Political Restrictions
 

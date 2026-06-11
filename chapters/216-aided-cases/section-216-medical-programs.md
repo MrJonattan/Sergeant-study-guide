@@ -1,16 +1,15 @@
 # Section 216 — Medical Programs and Specialized Removals
 
-## P.G. 216-17: Child Window Fall Report
+## P.G. 216-18: Child Window Fall Report
 
-*(Text unavailable in source PDF — review original Patrol Guide)*
+**Date Effective:** 10/18/16 | **Pages:** 1
 
-This procedure covers reporting requirements when a child falls from a window.
+**Purpose:** To notify the Department of Health within **twenty-four hours** when a child **less than seventeen years of age** falls from the window of any building, regardless of whether injury or death results.
 
----
+- Prepare Department of Health form, **Child Window Fall Report**
+- Indicate in "Details" section of AIDED REPORT that Child Window Fall Report was prepared
 
-## P.G. 216-18
-
-*(Title and text unavailable in source PDF — review original Patrol Guide)*
+> *(Correction note: this procedure was previously mislabeled "P.G. 216-17." The current Patrol Guide has no 216-17 — the Child Window Fall Report is P.G. 216-18.)*
 
 ---
 
@@ -99,6 +98,7 @@ To account for and properly document the use of Automated External Defibrillator
 ### Training — "BLASTT" Course
 
 > **Exam Alert:** AED training is a one-day course at the **Police Academy** called **"BLASTT"** — Basic Life Support and Trauma Treatment CPR-AED-Naloxone-BTK.
+> — *Source: The Key, Lesson 19*
 
 - The commanding officer designates the command's **training sergeant** as the AED liaison
 - The command training sergeant schedules members via **T.A.C.T.I.C.S.** (Training Attendance Certification Transcript Integrated Collection System)

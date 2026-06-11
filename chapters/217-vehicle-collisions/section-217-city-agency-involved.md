@@ -73,6 +73,7 @@ When it is determined that the City may be involved in a civil suit:
 > - NYC personnel or property involved → Comptroller
 > - DOA → Highway (CIS unit) AND Missing Persons (M.E.'s unit)
 > - Bicycle Collisions ("Killed," SILD, or Critically Injured determined by EMS) → Highway CIS
+> — *Source: The Key, Lesson 20*
 
 > **Key Note — DOA/SILD/CI and 217-17 (Bicycle Collisions):** In P.G. 217-02, the DOA/SILD/CI and 217-17 bicycle collision cases require the UMOS to have the Sgt respond. The Sgt is NOT mentioned in 217-01. Watch for exam questions testing whether the Sgt responds under 217-01 or only 217-02/217-17. *(P.G. 217-01 Key Note)*
 

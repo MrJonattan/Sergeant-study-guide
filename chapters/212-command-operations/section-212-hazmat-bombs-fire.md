@@ -49,6 +49,7 @@
 - Notifications and request for Bomb Squad: request **Communications** to notify **Operations** Unit and have Bomb Squad respond
 
 > **PG Conflict:** In HazMat (212-37), the **Sergeant** calls the Bomb Squad through Communications Unit and Operations. In PG 218-37 (Exploding Currency), the **UMOS** requests the Bomb Squad if bank personnel confirm they passed a dye pack. Know who makes the request in each procedure.
+> — *Source: The Key, Lessons 13-15*
 
 - Maintain frozen area security until hazmat is secured/neutralized
 - Establish Command Post
@@ -111,6 +112,7 @@
 ### Key Numbers
 
 > **Exam Alert:** Stop search **20 minutes** before threatened explosion time. Do NOT resume search for at least **1 hour after** threatened time. Evacuate to at least **1,000 feet**.
+> — *Source: The Key, Lessons 13-15*
 
 ### MOS Receiving Threat
 
@@ -285,3 +287,4 @@
 - Do NOT hold elevator on any floor — FDNY will recall elevators
 
 > **Exam Alert:** When approaching a fire floor, MOS should inspect each floor **below** the fire floor. They should NOT operate above the fire. Use prone position/crawl, stay close to wall, use wall as guide in smoke conditions.
+> — *Source: The Key, Lessons 13-15*

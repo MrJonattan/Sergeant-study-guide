@@ -20,6 +20,7 @@ Report to your assigned District Surgeon at **next office hours**, EXCEPT in 5 s
 > | Unable to travel | Remain at place of confinement and call **Sick Desk Supervisor** |
 > | Dental problems | Be guided by Sick Desk Supervisor/member |
 > | Medical Division Supervisor directs otherwise | As directed |
+> — *Source: The Key, Lesson 4*
 
 ### Paid Detail Restriction
 
@@ -64,6 +65,7 @@ Report to your assigned District Surgeon at **next office hours**, EXCEPT in 5 s
 - Request approval through **District Surgeon**
 
 > **Prior Test:** To leave the city and resident counties while out sick, request permission through: A) Chief of Personnel B) Sick Desk Supervisor C) Desk Officer, permanent command D) District Surgeon — Correct answer is **D (District Surgeon)**. The Chief of Personnel grants the approval, but the request goes through the District Surgeon.
+> — *Source: The Key, Lesson 4*
 
 ### UMOS Out Sick from Outside Residence Counties
 
@@ -90,6 +92,7 @@ Report to your assigned District Surgeon at **next office hours**, EXCEPT in 5 s
 | 6 | Court/Trial Room: comply with P.G. 330-04, notify court when MOS goes sick |
 
 > **Prior Test:** Which D.O. notification is correct? A) If MOS working the next three platoons, notify relieving D.O./Supervisor B) If MOS suspected of malingering, notify Sick Desk Supervisor C) If special or unusual circumstances, notify Medical Division's Absence Control and Investigations Unit D) If MOS scheduled for either of the next two platoons, notify relieving D.O./Supervisor — Correct answer is **D**. It is the next **two** platoons, not three. Malingering goes to Absence Control, not Sick Desk.
+> — *Source: The Key, Lesson 4*
 
 ### Routine Visits (Members NOT Subject to Visits/Calls)
 

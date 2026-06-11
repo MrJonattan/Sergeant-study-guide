@@ -1,5 +1,7 @@
 # Section 203 — Ethics and Conduct
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. This chapter has no corresponding lesson in The Key Pre-Season course; its exam-prep callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Primary Source:** Administrative Guide (A.G. 304-11 through 304-23)
 - **Cross-Referenced As:** P.G. 203 in other Department directives

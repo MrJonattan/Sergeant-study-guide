@@ -40,6 +40,7 @@ To inspect Department vehicles at the start of each tour to ensure safe and prop
 - Deaf or Hard of Hearing Cards (Marked RMPs only)
 
 > **Exam Alert:** The weekly inspection (219-02) checks the INSPECTION AND EQUIPMENT RECORD but does **NOT** mention Radio Repair Record or Radio Code Signal Card — those are operator daily checks only. *(P.G. 219-01, 219-02)*
+> — *Source: The Key, Lesson 23*
 
 > **See Also:** P.G. 202-02 — RMP Operator Step 3a: Inspect Ballistic Window Inserts and Window Insert Wedges and immediately report deficiencies to Patrol Supervisor.
 

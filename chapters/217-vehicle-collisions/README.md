@@ -1,5 +1,7 @@
 # Section 217 — Vehicle Collisions
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lesson 20*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lesson 20); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Chapter Overview
 
 Section 217 of the NYPD Patrol Guide governs procedures for **vehicle collisions**, including fatal and serious injury collisions, leaving the scene investigations, the Directed Accident Response Program (D.A.R.P.) for towing, city and NYCHA liability cases, aircraft accidents, and chemical test warrant applications for DWI suspects.

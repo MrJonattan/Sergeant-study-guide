@@ -17,6 +17,7 @@ Covers P.G. 207-21, 207-22, 207-27, 207-28
   - **Perjury**
 
 > **Exam Alert:** NYS Law also requires reporting to the NYS Attorney General's Law Enforcement Misconduct Investigative Office -- BUT the call to IAB **satisfies this requirement**.
+> — *Source: The Key, Lessons 7-8*
 
 ### Absolute Duty to Report
 
@@ -112,6 +113,7 @@ Or at a place other than where the original complaint was made:
 > **Exam Alert:** Two key differences between CCRB (complainant) and CCRB Witness procedures:
 > 1. **Photos:** The witness procedure mentions noting the physical condition of the witness in "additional" section, but says **nothing about photos** (unlike the complainant procedure)
 > 2. **Assistance:** The witness procedure does NOT say to offer/allow assistance to the witness in preparation (unlike the complainant procedure)
+> — *Source: The Key, Lessons 7-8*
 
 ---
 
@@ -169,6 +171,7 @@ An investigating supervisor is called when:
 | Cases can be investigated by **both** CCRB and the Department simultaneously | Yes |
 
 > **Exam Alert:** CCRB complaint against a **CMOS** (civilian member): follow the procedure with 2 exceptions: (1) Do NOT call CCRB, (2) Fill out the forms, etc., but the complaint will be **directed to IAB for screening**. If against a CMOS, it does NOT go to CCRB.
+> — *Source: The Key, Lessons 7-8*
 
 ### Precinct Complaints
 
@@ -227,6 +230,7 @@ Civilian complaints can be made at **ANY** of the following locations:
 ### MOS on MOS CCRB
 
 > **Exam Alert:** Normally, a complaint will be investigated by the C.O. chosen by Investigative Review Section -- **COD not CCRB**. If the complaint contains remarks regarding RACE, GENDER, etc., CCRB records it and sends to **EEOD** for investigation. EEOD sends a copy to the **C.O. of the Officer who is the subject** (the violator).
+> — *Source: The Key, Lessons 7-8*
 
 ### Request for Blank Complaint Form
 

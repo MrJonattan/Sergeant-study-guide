@@ -20,8 +20,10 @@ Covers P.G. 207-01, 207-02, 207-03, 207-04, 207-05, 207-09, 207-34
 | **Offense** | A single criminal act within an incident; up to **10 offenses** may be recorded per incident |
 
 > **Exam Alert:** When more than 10 offenses occur within a single incident, only the **10 most serious** offenses are recorded. This ties into the NIBRS hierarchy rules.
+> — *Source: The Key, Lessons 7-8*
 
 > **Exam Alert:** If space is insufficient to complete entries (property, details, etc.) on the Complaint Report Worksheet, use **additional Complaint Report Worksheets**. The worksheet accommodates 1 victim and 2 perps per worksheet.
+> — *Source: The Key, Lessons 7-8*
 
 ### Where Complaints Are Recorded
 
@@ -60,12 +62,14 @@ Found property is **not normally** recorded on a Complaint Report (61), with the
 | Firearm (pistol, revolver, or dangerous weapon) | Complaint Report at precinct where found/possessed IF it requires further investigation |
 
 > **Exam Alert:** For controlled substances over 2 oz found outside a building, there is NO Pct 61# -- the ISS serial number is used instead. Per PG 207-08, UMOS make the 61; the D.O. directs UMOS to notify Real Time Crime Center.
+> — *Source: The Key, Lessons 7-8*
 
 > **See Also:** PG 214-02 -- Narcotics Eviction Program (for possible eviction when controlled substances found in a building).
 
 ### Rosario Material
 
 > **Exam Alert:** All Complaint Report Worksheets (scratch copies) are kept on file as **ROSARIO MATERIAL**. Per PG 207-34, all associated forms or reports (like OCRs) are filed/attached to the printed OMNI 61 to comply with discovery obligations.
+> — *Source: The Key, Lessons 7-8*
 
 ### Continuous Event Rules
 
@@ -77,6 +81,7 @@ Found property is **not normally** recorded on a Complaint Report (61), with the
   2. **Rape 1st Degree:** Recorded where the **rape occurred**, if known. If location of occurrence is unknown but location of origination is known (e.g., kidnapping), record at precinct of origination. If neither location is known, record where complainant reports the incident.
 
 > **Exam Alert:** Rape 1st Degree now includes Oral and Anal in addition to Vaginal -- the Criminal Sexual Act (CSA) has been repealed. Rape 1 Sub 1 = Force; Sub 2 = Physically Helpless; Sub 3 = Victim 10 or less; Sub 4 = Victim 12 or less AND Perp 18 or more.
+> — *Source: The Key, Lessons 7-8*
 
 > **Exam Alert:** If Rape occurs in more than one precinct, record where the **initial rape** occurred.
 
@@ -98,6 +103,7 @@ The jurisdiction code is determined by wherever the complaint is recorded based 
 | **Transit Bureau** | Crime on a **moving train** is recorded at the **NEXT STOP**, regardless of precinct or borough boundaries |
 
 > **Prior Test:** A male on a moving A train displays a gun and robs a 13-year-old. At the next stop (83rd Pct), the perp forces the victim into a vehicle, drives to a housing development in the 75th Pct and rapes the victim at gunpoint. They then drive to the 101st Pct and shoot the victim. Where to record? -- Correct answer is **75th Precinct, Housing Jurisdiction code 02**. The Rape 1 exception controls the "where" (75th Pct in Housing = jurisdiction 02). Attempted Murder is classified as Felonious Assault (#4 on 7 Majors), and Rape (#2) outranks Robbery (#3), so the top charge is Robbery 1st Degree -- but the WHERE and HOW rules are applied independently.
+> — *Source: The Key, Lessons 7-8*
 
 > **Exam Alert:** For Housing Bureau incidents, the jurisdiction code follows the location where the complaint is recorded. If Rape 1 occurred on-development, it is Housing (02) even if the event started off-development.
 
@@ -125,6 +131,7 @@ When a complaint involves multiple crimes, the top charge is determined by the *
 | 7 | Grand Larceny Auto (GLA) |
 
 > **Exam Alert:** If an ATTEMPTED 7 Major occurs, it is classified as that 7 Major -- **EXCEPT Attempted Murder**, which is classified as **Felonious Assault** (#4). So Attempted Murder coupled with Robbery is recorded as a Robbery. Attempted Murder coupled with Rape 1 is recorded as a Rape.
+> — *Source: The Key, Lessons 7-8*
 
 > **Exam Alert:** If a perpetrator steals a car with a million-dollar painting inside, it is still a **GLA** (not Grand Larceny), because the vehicle was the target of the theft.
 
@@ -159,6 +166,7 @@ Apply these tiebreakers in order:
 > **Exam Alert:** ARRESTS are **always** recorded in the precinct of arrest -- **NO exceptions**. This is different from complaints, which have 5 exceptions.
 
 > **Exam Alert:** When a person is arrested but NOT charged with the original crime (burg, larceny, etc.), a new 61# is assigned to record CPSP (Criminal Possession of Stolen Property) or Fostering Sale of Stolen Goods.
+> — *Source: The Key, Lessons 7-8*
 
 ### Juvenile Delinquency Misdemeanors Recorded on a 61
 

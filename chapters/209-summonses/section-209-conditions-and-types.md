@@ -83,6 +83,7 @@ For any of the 6 CJRA offenses, a member may judiciously **warn and admonish** t
 > **Exam Alert:** The 03/27/26 revision now explicitly lists bicyclists, e-bike riders, and e-scooter riders under TVB for traffic infractions. Garages and parking lots are separately listed as returnable to Criminal Court. Know that NYC Criminal Court has concurrent jurisdiction over most VTL traffic infractions (except parking, standing, stopping, and civil-penalty-only offenses).
 
 > **Exam Alert:** For OATH summonses, refer to COMMON OFFENSES RETURNABLE TO THE OFFICE OF ADMINISTRATIVE TRIALS AND HEARINGS (OATH) (PD160-013).
+> — *Source: The Key, Lesson 11*
 
 ---
 
@@ -204,6 +205,7 @@ If a member issues a Criminal Court ("C") summons instead of an OATH for one of 
 | 17 | If violator has no proper ID, make **every effort** to identify (third party contact, Department computers/devices, digital booking photos, DAS, Mobile ID Device); if violator cannot reasonably be identified, process as an **online arrest** |
 
 > **Exam Alert:** If the violator cannot be identified after every effort (third party contact, Dept computer, booking photo, DAS, Mobile ID Device), process as an **online arrest**.
+> — *Source: The Key, Lesson 11*
 
 ### CJRA Processing — Operations Coordinator
 
@@ -241,6 +243,7 @@ If a member issues a Criminal Court ("C") summons instead of an OATH for one of 
 ### Code 4 — Multiple Offenses Key Note
 
 > **Exam Alert:** When a traffic incident under PG 209-09 involves multiple offenses, **each separate summons goes to its own court** (TVB, "C" Criminal Court, etc.). If Code 4 applies and one or more is a non-CJRA violation returnable to Criminal Court, **all summonses are returnable to Criminal Court**. If Code 4 and any other code(s) are applicable, select Code 4. Select Code 4 when issuing "C" for Transit Rules (PG 209-39).
+> — *Source: The Key, Lesson 11*
 
 > **See Also:** PG 209-09 — Traffic incident procedures where multiple summonses each route to their respective court.
 

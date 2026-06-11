@@ -27,6 +27,7 @@ To outline the CIMS Organizational Structure.
 | **General Staff — Sections** | Operations, Planning, Logistics, Finance/Administration, Intelligence/Investigations (optional) |
 
 > **Exam Alert:** The PG uses the term "Command Element" (not "Incident Commander") because NYPD may **share command with leaders from other agencies** — thus there could be more than one Incident Commander. *(PG 220-01)*
+> — *Source: The Key, Lesson 24*
 
 > **Memory Aid — General Staff Chiefs rank:** Although the PG uses the word "Chief" for General Staff Section Chiefs, the assigned MOS could be **any rank** — including a civilian MOS. The title describes the role, not the rank. *(PG 220-01)*
 
@@ -47,6 +48,7 @@ To outline the CIMS Organizational Structure.
 | Finance/Administration | Units |
 
 > **Prior Test:** A recent Sergeant exam asked: "Under what section would you find the Facilities Unit?" — The correct answer is **Logistics Section** (Support Branch). The Facilities Unit is one of three Support Branch units under Logistics. *(PG 220-01, 220-11)*
+> — *Source: The Key, Lesson 24*
 
 ### Role Comparison — Subordinate Elements by Section Chief
 
@@ -144,6 +146,7 @@ To list incident types and designate which Command Element structure (Single or 
 > **Prior Test:** This table was tested on ALL THREE exams — Sergeant, Lieutenant, and Captain. The Primary Agency Matrix for single command incidents is high-frequency exam content. *(PG 220-02)*
 
 > **Exam Alert:** In **CBRN/Single Command**, even though it starts as "Single" (NYPD only), the **Operations Section is Unified** — each agency (NYPD, FDNY, DEP, DOHMH) has its own Ops Chief and Safety Officer. This makes it function similarly to Unified despite the Single Command designation. *(PG 220-02)*
+> — *Source: The Key, Lesson 24*
 
 > **Exam Alert:** The "N" in CBRN stands for Nuclear. However, if there is an **anticipated, suspected, or actual detonation of a nuclear weapon**, the command **always goes Unified** — it never stays Single-CBRN. This is the one exception where CBRN does not default to NYPD Single Command. *(PG 220-02)*
 
@@ -163,6 +166,7 @@ To list incident types and designate which Command Element structure (Single or 
 | Intelligence Section Chief | — |
 
 > **Exam Alert:** In Unified Command, NYPD IC should always try to get NYPD personnel into the jointly-picked spots — or at minimum, get an NYPD member as the deputy in those positions. *(PG 220-05)*
+> — *Source: The Key, Lesson 24*
 
 ### Unified Operations Section Responsibilities in Single-CBRN/HazMat
 
@@ -190,12 +194,15 @@ To define Agency Core Competencies at incidents.
 **Core Competencies** are functional areas of expertise assigned to **one single agency**. Even if multiple agencies can perform similar operations, CIMS assigns the Core Competency to only one agency.
 
 > **Exam Alert:** The 220-03 two-page chart shows which agencies have what capabilities — it **only describes capability, not management authority**. It does NOT assign who commands what. *(PG 220-03)*
+> — *Source: The Key, Lesson 24*
 
 > **Exam Alert:** Tactical Operations are managed by the **Operations Section**. If the Operations Section is not activated, the **Command Element** manages Tactical Operations directly. *(PG 220-03)*
+> — *Source: The Key, Lesson 24*
 
 > **Exam Alert:** The 220-02 chart (Primary Agency Matrix) shows which agency will be in command. The 220-03 chart shows who is capable of what. These are **two separate charts with different purposes** — exam questions may try to confuse them. *(PG 220-02, 220-03)*
 
 > **Exam Alert:** "Potential Primary Agencies" (State/Federal agencies) may have to share command as Primary Agencies at incidents on military bases, terrorism incidents, etc. Nothing in the procedure restricts naming them as Primary Agencies. *(PG 220-03)*
+> — *Source: The Key, Lesson 24*
 
 ### NYPD Core Competencies
 

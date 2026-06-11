@@ -1,5 +1,7 @@
 # Section 212 — Command Operations
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lessons 13-15*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lessons 13-15); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Patrol Guide Section:** 212
 - **Source PDF:** public-pguide2.pdf

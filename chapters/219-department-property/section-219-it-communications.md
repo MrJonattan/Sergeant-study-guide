@@ -199,8 +199,10 @@ To provide for control, use, maintenance, and accountability of License Plate Re
 - Vehicle does not go out of service for LPR repair
 
 > **Exam Alert:** **ALWAYS verify through NYSPIN** before any law enforcement action based on an LPR alarm — the device activates on **partial matches** and is NOT connected to NYSPIN. *(P.G. 219-31)*
+> — *Source: The Key, Lesson 23*
 
 > **Exam Alert:** The NYSPIN verification requirement has TWO exceptions: (1) additional reasons for a lawful stop exist (e.g., observed VTL infraction), OR (2) circumstances provide sufficient reasonable suspicion to justify a Terry Stop/Level 3 encounter. In those cases, NYSPIN check may be bypassed. *(P.G. 219-31)*
+> — *Source: The Key, Lesson 23*
 
 > **Exam Alert:** An RMP does **NOT** go out of service just because the LPR is down. The vehicle continues patrol. *(P.G. 219-31)*
 
@@ -293,6 +295,7 @@ If MOS has knowledge of info, image, text, photo, video, note, calendar entry, o
 > **Exam Alert:** Members must **not delete any content** from Department mobile devices. All content is potentially discoverable.
 
 > **Exam Alert:** Permission from ITB Information Security Desk required **5 business days** before taking a Department phone to a foreign country. The request must list **every foreign country** you intend to visit.
+> — *Source: The Key, Lesson 23*
 
 > **Sergeant Focus:** CO/designated supervisor must return Department smartphone to ITB when member has change in duty status (retired, suspended, modified).
 

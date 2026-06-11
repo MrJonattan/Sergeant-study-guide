@@ -73,6 +73,7 @@ Display of offensive material is a form of **employment discrimination** that cr
 | Report (49) | Only IF case # gotten | Done **automatically** (always within 5 business days) |
 
 > **Exam Alert:** This comparison table is high-yield. The key difference is that 332-01 (discrimination) requires NO investigation and NO department records, while 332-02 (offensive material) requires immediate action (safeguard, voucher, CLE) and an automatic Report (49) within 5 business days.
+> — *Source: The Key, Lesson 5*
 
 > **Prior Test:** A supervisor discovers offensive graffiti in the locker room. What is the first action? — Photograph it and take immediate steps to secure/remove/cover. Then voucher as "Investigatory Evidence," make a CLE (without describing the material), and notify the C.O.
 

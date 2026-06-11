@@ -87,7 +87,7 @@ A. Fitness For Duty
 
 A. Period included in negotiated penalties for alcohol-related motor vehicle incidents
 B. Confidential assistance for alcohol-related problems
-D. Result of .04 or greater = unfit for duty (A.G. 318-20, note after step 1)
+D. Result of .04 or greater = unfit for duty (A.G. 318-29, step 14b)
 C. Gun Safety, Seat Belt, Health and Wellness — 3 stickers on INSIDE
 
 <details>

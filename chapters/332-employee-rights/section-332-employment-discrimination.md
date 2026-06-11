@@ -18,6 +18,7 @@
 - DCEI (Deputy Commissioner Equity and Inclusion) was revoked by R.O. 12 s.25 — references in the A.G. should read **C.O. OEEO**
 
 > **Exam Alert:** The A.G. still references "DCEI" in several places. This title was revoked — it should say **C.O. OEEO**. Know both terms so you are not confused by outdated language on the exam.
+> — *Source: The Key, Lesson 5*
 
 ### Scope of Protected Categories
 
@@ -109,6 +110,7 @@ Employment discrimination is prohibited based on:
 2. **File with C.O., Supervisor** (uniformed or civilian), Manager, or EEO Liaison
 
 > **Prior Test:** How may a complainant file an EEO complaint? — A complainant can call, email, fax, write, or do it in person. However, a **supervisor** must report by **TELEPHONE** only. This is a frequent exam distinction.
+> — *Source: The Key, Lesson 5*
 
 ---
 

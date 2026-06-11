@@ -209,6 +209,7 @@ To process non-evidence stolen or apparently abandoned vehicles, including motor
 ### What is NOT Ro-Tow (Memory Aid)
 
 > **Memory Aid — CHASED FIT DOM:** The situations that disqualify a vehicle from Ro-Tow are remembered as: **C**rime (Dept. Tow), **H**ighway (Authorized or Dept. Tow), **A**rrest made (except photo release), **S**afeguard (Aided/Collision), **E**vidence (Dept. Tow), **D**etermine True Owner — **F**orfeiture, **I**nvestigation, **T**ruck (large) — **D**erelict (Sanitation), **O**wner on scene AND recovered prior to police, **M**oped (limited use motorcycle). *(PG 218-21)*
+> — *Source: The Key, Lessons 21-22*
 
 ### Vehicle Is NOT Qualified for Rotation Tow If:
 
@@ -232,6 +233,7 @@ To process non-evidence stolen or apparently abandoned vehicles, including motor
 - On limited access highways: **ONLY** franchise tow operator may tow
 
 > **Exam Alert:** If a tow operator refuses an assignment AFTER being informed of vehicle type and condition, prepare a **Report of Violation (LD 6)** AND forward to the **Dept. of Consumer/Worker Protection (DCWP)**. The next tow operator in sequence is used whenever a tow operator is not available for any reason. *(PG 218-21)*
+> — *Source: The Key, Lessons 21-22*
 
 > **Exam Alert:** Do **NOT** cancel the alarm or notify the owner until the tow operator advises that the vehicle has been removed to the storage facility. *(PG 218-21)*
 

@@ -51,6 +51,7 @@ To report and record line of duty injuries and deaths occurring within the City 
 > - IS **always** prepares the **PAR** (Police Accident Report)
 > - IS **never** prepares the **AIDED** (directs injured MOS to do it; if incapacitated, assigns another member)
 > - IS **sometimes** prepares the **LODI** (only if injured member is incapacitated)
+> — *Source: The Key, Lesson 4*
 
 ### Out of City LOD Injuries
 

@@ -104,7 +104,7 @@
 | IDENTIFICATION TAG | PD317-091 | Receipt for body removed by morgue/undertaker |
 | NOTICE TO PERSONS FROM WHOM PROPERTY HAS BEEN REMOVED | PD521-124 | Notice of rights to reclaim property |
 | HANDGUN SURRENDER NOTICE | PD641-123 | Directing surrender of handgun license |
-| HANDGUN SURRENDER NOTICE RESPONSE | PD641-1234A | Documenting investigation results |
+| HANDGUN SURRENDER NOTICE RESPONSE | PD641-123A | Documenting investigation results |
 | PEDDLER FORFEITURE QUESTIONNAIRE | PD260-155 | Documenting claimant information for forfeiture |
 | CONSENT TO SUSPECT EVIDENCE COLLECTION KIT | PD321-031 | Suspect consent for forensic evidence exam |
 | CERTIFICATION OF PROPERTY CLERK DIVISION SEALS | PD521-061 | Tracking peddler enforcement seals |

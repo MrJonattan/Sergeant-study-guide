@@ -1,5 +1,7 @@
 # Section 320 — Personnel Matters — General
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. This chapter has no corresponding lesson in The Key Pre-Season course; its exam-prep callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Administrative Guide Section:** 320
 - **Source PDF:** Public Admin Guide2.pdf

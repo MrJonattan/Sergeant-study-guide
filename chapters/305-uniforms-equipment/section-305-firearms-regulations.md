@@ -80,6 +80,7 @@ All aftermarket/non-Department parts are prohibited, including: extended magazin
 | Failure to comply = disciplinary action and possible criminal penalties/weapon confiscation |
 
 > **Memory Aid — A FAVOR (When to be Unarmed Off Duty):** Do yourself **A FAVOR** — **A** = Alcohol likely to be consumed; **F** = Family or Supreme Court Matrimonial (don't enter armed except as A/O or official business); **A** = Advisable not to carry; **V** = Vacation; **O** = Off-Duty Employment; **R** = Risk of Loss or Theft (sports event, beach, etc.). (A.G. 305-07)
+> — *Source: The Key, Lesson 3*
 
 > **Exam Alert:** Members must be armed at all times in NYC unless specific off-duty exceptions apply. Firearms must NEVER be left in an **unattended motor vehicle**. All modifications must be performed by **Firearms and Tactics Section armorers** only.
 

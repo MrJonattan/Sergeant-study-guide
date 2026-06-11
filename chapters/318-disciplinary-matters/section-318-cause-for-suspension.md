@@ -10,6 +10,7 @@
 | **TM/SSDD** (Traffic Manager or above; School Safety Deputy Director or above) | **Authorized to** suspend | **CMOS** (civilians under their command only) |
 
 > **Exam Alert:** Know the difference: Sergeants **must** suspend; TM/SSDD are **authorized to** suspend. Sergeants suspend **any** MOS (uniformed or civilian). TM/SSDD suspend only **civilians under their commands**. (AG 318-05)
+> — *Source: The Key, Lesson 6*
 
 > **Exam Alert:** If a School Safety Agent is suspended, the **School Principal must be notified**. (AG 318-05)
 
@@ -28,6 +29,7 @@ Regardless of the actor (Uniformed Sergeant+ or Civilian TM/SSDD), they may/must
 > | **C** | **Club** — Have interest in, association with, or patronize a "Good Ass Club" (except while performing duty) |
 > | **A** | **AWOL** — 5 consecutive tours |
 > | **R** | **Roll Call** (or during the tour) — Refuse assignment |
+> — *Source: The Key, Lesson 6*
 
 > **Exam Alert:** By its absence from the list, being **Impaired** (under .08 BAC) is **not** a mandatory suspension. Only DWI (VTL 1192 subs 2-4a) triggers mandatory suspension. (AG 318-05)
 

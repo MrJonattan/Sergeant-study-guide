@@ -129,6 +129,7 @@ This procedure covers emergency removals, investigations, and the reporting requ
 > 4. **A**ided Report
 > 5. **N**otice — Temporary Removal of Child and Right to Hearing
 > 6. **A**ffidavit of Service of Notice
+> — *Source: The Key, Lesson 18*
 
 - **Complaint but NO removal:** Reports 1, 2, and 3 are prepared
 - **Complaint AND Removal:** All 6 reports are prepared
@@ -210,6 +211,7 @@ This procedure covers emergency removals, investigations, and the reporting requ
 ### Radio Disposition Codes
 
 > **Exam Alert:** Child abuse uses "J" codes. If child abuse did NOT take place but other domestic violence occurred, use DV "F" codes instead.
+> — *Source: The Key, Lesson 18*
 
 | Code | Meaning |
 |------|---------|

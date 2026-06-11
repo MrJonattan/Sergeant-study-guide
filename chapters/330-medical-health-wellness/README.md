@@ -1,5 +1,7 @@
 # Section 330 — Medical, Health and Wellness
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lesson 4*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lesson 4); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Administrative Guide Section:** 330
 - **Source PDFs:** A.G. 330-03, A.G. 330-07, A.G. 330-09; P.G. 330-01, P.G. 330-02, P.G. 330-04, P.G. 330-16

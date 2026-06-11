@@ -1,5 +1,7 @@
 # Section 202 — Duties & Responsibilities
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lesson 1*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lesson 1); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Patrol Guide Section:** 202
 - **Source PDF:** public-pguide1.pdf
@@ -65,7 +67,7 @@
 | P.G. 202-37 | Community Response Team Officer | Medium | completed |
 | P.G. 202-38 | Quality of Life Officer | Low | completed |
 | P.G. 202-39 | Quality of Life Sergeant | **HIGHEST** | completed |
-| P.G. 202-91 | (Cross-reference only) | — | n/a |
+| P.G. 202-91 | ⚠ Not in current Patrol Guide (202 series ends at 202-39) | — | n/a |
 
 ## Sergeant Focus Areas
 - Mastering all Patrol Supervisor duties including roll call inspections and field supervision

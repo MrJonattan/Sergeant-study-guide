@@ -150,3 +150,4 @@ All optional items must be ordered through:
 > - **1-1/4"** — Width of braid on a Boss's (Sergeant+) pants; width of black mohair braid on summer blouse/winter coat for Lt+; collar brass 1-1/4" up from forward edge of shirt collar on Summer Blouse
 > - **3"** — MINIMUM distance above anklebone for socks in Transit Summer uniform
 > - **5"** — MAXIMUM distance above anklebone for socks (same)
+> — *Source: The Key, Lesson 3*

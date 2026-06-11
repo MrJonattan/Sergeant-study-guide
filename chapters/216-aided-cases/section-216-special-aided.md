@@ -275,6 +275,7 @@ To report and investigate injuries to School Crossing Guards sustained in the li
   - A **2nd notification** is required before final reports are prepared to update condition
 
 > **Exam Alert:** No LODI Report for Crossing Guards — it is a WCD 23 "Employee Notice of Injury" instead per P.G. 216-12.
+> — *Source: The Key, Lesson 19*
 
 > **Exam Alert:** The WCD 23 is submitted to the **C.O. of the Precinct of occurrence** — this breaks the chain of command (not through the desk officer) per P.G. 216-12.
 
@@ -287,6 +288,7 @@ To report and investigate injuries to School Crossing Guards sustained in the li
   - Operations — **WITHIN 24 HOURS**
 
 > **Exam Alert — Timely Reporting:** Desk Officer calls Operations within **24 hours**. C.O. directs "Supervisor's Report of Injury" within **48 hours** per P.G. 216-12.
+> — *Source: The Key, Lesson 19*
 
 #### Commanding Officer
 - Forward 2 copies of (WCD 23, 49, and Witness Statement) to ERS, Attn: Civilian Employee Unit

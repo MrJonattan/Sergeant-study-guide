@@ -118,6 +118,7 @@ To outline the duties of the Liaison Officer in CIMS.
 | Unified Command | Agency Incident Commanders jointly (but **NYCEM** has authority and may designate) |
 
 > **Exam Alert:** **NYCEM** (NYC Emergency Management) has authority to designate the Liaison Officer. Note: NYCEM was **formerly known as OEM** — exam questions may use either name. *(PG 220-08)*
+> — *Source: The Key, Lesson 24*
 
 > **Exam Alert:** Command Staff positions are: **Public Information Officer** (Mayor's Press Office authority), **Safety Officer**, **Liaison Officer** (NYCEM authority).
 

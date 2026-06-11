@@ -1,5 +1,7 @@
 # Section 304 — General Regulations
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lesson 2*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lesson 2); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Administrative Guide Section:** 304
 - **Source PDF:** A.G. 304-04 Fitness For Duty.pdf
@@ -59,7 +61,7 @@
 - **Dismissal Probation:** Required in negotiated penalties for alcohol-related motor vehicle incidents
 - **Counseling protections:** Participation does NOT jeopardize promotions; does NOT exempt from discipline for specific misconduct
 - **Chemical testing refusal:** Charged under A.G. 304-06 "Prohibited Conduct"
-- **Breathalyzer threshold:** .04 or greater = unfit for duty (A.G. 318-20)
+- **Breathalyzer threshold:** .04 or greater = unfit for duty (A.G. 318-29)
 - **Qualifier trap:** "Be fit for duty at all times EXCEPT while out sick" — without "EXCEPT" it is wrong
 - **PG Conflict:** A.G. 304-06 vs. A.G. 304-13 on off-duty alcohol in uniform
 - **Courtesies:** Salute the Desk (not Desk Officer); salute P.C. and ANY Deputy Commissioner even in civilian clothes

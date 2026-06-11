@@ -103,6 +103,7 @@ P.G. 213-03 establishes the procedures for rapidly mobilizing personnel during e
   - **40** "Cold Fire" fire extinguishers with holders
 
 > **Exam Alert:** Know the contents of the Supplementary Restraint Kit: 300 flex cuffs, 40 flex cuff cutters, 40 Cold Fire extinguishers. Do not confuse these numbers with the Unusual Disorder Kit (P.G. 213-09).
+> — *Source: The Key, Lesson 16*
 
 ### If Supplementary Restraint Kits Are Needed
 

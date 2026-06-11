@@ -1,5 +1,7 @@
 # Section 220 — Citywide Incident Management
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lesson 24*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lesson 24); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Patrol Guide Section:** 220
 - **Source PDF:** public-pguide4.pdf (OCR)

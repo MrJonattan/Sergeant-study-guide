@@ -1,5 +1,7 @@
 # Section 329 — Career Development
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. This chapter has no corresponding lesson in The Key Pre-Season course; its exam-prep callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Administrative Guide Section:** 329
 - **Source PDFs:** Public Admin Guide2.pdf (320 pages), A.G. 329-06, A.G. 329-07

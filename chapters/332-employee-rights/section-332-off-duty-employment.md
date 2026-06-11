@@ -139,6 +139,7 @@ UMOS may engage in ODE **without** prior approval:
 | **Family Medical Leave** | **NO** — cannot exceed 20 hours |
 
 > **Exam Alert:** Members on Vacation or Terminal Leave CAN exceed 20 hours per week. Members on Family Medical Leave CANNOT exceed 20 hours. This is a high-frequency exam distinction.
+> — *Source: The Key, Lesson 5*
 
 ### New Assignment or Job
 
@@ -231,6 +232,7 @@ These types of ODE are **absolutely prohibited**:
 | Foreign Government | Employment by a foreign government |
 
 > **Memory Aid — NEVER Outside the City:** Only 2 things a member CAN do outside the city but CANNOT do in NYC: **Street Vendor** and **Locksmith**.
+> — *Source: The Key, Lesson 5*
 
 > **Exam Alert:** Members can NEVER work with Burglar Alarms or Security Systems — this is an absolute prohibition with no exceptions. Process server is also an absolute prohibition regardless of location.
 

@@ -7,6 +7,7 @@ Covers P.G. 208-37
 ## P.G. 208-37: Uniformed and Civilian MOS Domestic Violence
 
 > **Exam Alert:** PG 208-37 covers UMOS and CMOS involved in a domestic incident. PG 212-32 covers UMOS and CMOS "Off-Duty Incidents." Know the overlap: 208-37 directs UMOS to remain at the scene when feasible and consistent with personal safety but does NOT direct CMOS.
+> — *Source: The Key, Lesson 10*
 
 ### Responding MOS
 - **Medical** — obtain medical attention if necessary
@@ -28,6 +29,7 @@ Covers P.G. 208-37
 - **ALWAYS** apprise parties of counseling
 
 > **Exam Alert:** Counseling is available to MOS AND family. May contact for services, referrals, shelter, and other resources including: Family Assistance Section, Employee Assistance Unit, Counseling Services Unit, Chaplains' Unit, Behavioral Care and Support Section (formerly Psych Services), Sick Desk/Sick Desk Supervisor, NYPD Helpline, Operations Unit.
+> — *Source: The Key, Lesson 10*
 
 ### Cross Complaints or Doubt — Who is the Victim or Complainant
 - Notify **CO/Duty Captain** who will determine action
@@ -56,6 +58,7 @@ Covers P.G. 208-37
 > **Exam Alert:** MOS Perpetrator → notify Desk Officer. MOS Victim → notify CO/Duty Captain. Cross Complaint/Doubt → notify CO/Duty Captain. These notification paths are frequently tested.
 
 > **PG Conflict:** PG 208-37 says no notification here for off-duty incidents, BUT PG 212-32 "Off-Duty Incidents" says notify the Desk Officer who then notifies the Captain. Know both procedures exist.
+> — *Source: The Key, Lesson 10*
 
 ---
 

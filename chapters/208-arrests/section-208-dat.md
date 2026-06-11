@@ -100,6 +100,7 @@ The Department is **REQUIRED** to accept the following forms of ID:
 > **Exam Alert:** The last two items (CPF and A-Mis/Felony with harm) are QUALIFIED disqualifiers. Before denying a DAT on the basis of a pending prosecution or unreturned DAT, the desk officer must ensure the defendant actually has a requisite pending prosecution or previously issued DAT by checking appropriate Department computer systems.
 
 > **Exam Alert:** VTL 1192-1 DWAI (impaired) is a VIOLATION, not a misdemeanor — it is DAT-eligible. Only misdemeanor or felony DWI charges under VTL 1192 trigger the license-suspension disqualifier.
+> — *Source: The Key, Lesson 10*
 
 > **See Also:** PG 208-40 — If a prisoner is hospitalized more than 24 hours for DWI and did NOT cause SPI/DOA, the prisoner can receive a DAT for the DWI.
 

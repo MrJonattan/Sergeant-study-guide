@@ -120,6 +120,7 @@ To outline the duties of the Logistics Section chief in CIMS.
 > **Exam Alert:** Logistics provides **service and support** (NOT tactical operations). Medical Unit provides care for **incident personnel**, not victims.
 
 > **Prior Test:** A recent exam asked: "Under what section would you find the Facilities Unit?" — The correct answer is **Logistics Section** (Support Branch), NOT the Command Element. Trick: "facilities" sounds like it could relate to ICP/infrastructure, but it is a Logistics subordinate unit. *(PG 220-11)*
+> — *Source: The Key, Lesson 24*
 
 > **Exam Alert:** Logistics can have **both Branches AND Units** — it is the only non-Operations section that can have Branches. The Service Branch and Support Branch both report to the Logistics Section Chief. *(PG 220-11)*
 

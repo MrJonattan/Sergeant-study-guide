@@ -1,5 +1,7 @@
 # Section 318 — Disciplinary Matters
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lesson 6*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lesson 6); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Source
 - **Administrative Guide Section:** 318
 - **Source PDFs:** A.G. 318-01, 318-02, 318-05, 318-09, 318-10, 318-11, 318-12, 318-14

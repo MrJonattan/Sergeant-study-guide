@@ -88,6 +88,7 @@ Breast bars authorized to be worn above the **right-side breast pocket:**
   - EXCEPT if Medal of Honor is over right breast pocket OR no breast pocket on uniform
 
 > **Exam Alert:** The Longevity Bar has NO mention of wearing 6 months prior like hash marks/service stripes. Do not confuse service stripe and longevity bar rules. (A.G. 305-13)
+> — *Source: The Key, Lesson 3*
 
 ### Other Items
 

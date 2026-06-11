@@ -66,6 +66,7 @@ Determined by **common sense standard** regarding the **totality of circumstance
 Any act which may constitute the following and is committed by one member of the same family/household (subdivisions "a" through "f" above) against another:
 
 > **Exam Alert:** UMOS does NOT need to know what is considered a "Family Offense" to make an arrest. Family Offenses affect decisions on Primary Aggressor Analysis and Concurrent Jurisdiction. The above steps for DV response apply to ANY offense between "Family Members."
+> — *Source: The Key, Lesson 10*
 
 | Letter | Family Offense |
 |---|---|
@@ -96,10 +97,13 @@ Any act which may constitute the following and is committed by one member of the
 #### Memory Aids
 
 > **Memory Aid — DRAMAS:** **D**is Con (including acts not in public) / **R**eckless Endangerment / **A**ggravated Harassment 2nd, Harassment 1st or 2nd / **M**enacing 2nd or 3rd / **A**ssault 2nd or 3rd (or Attempts) / **S**trangulation 1st or 2nd, Criminal Obstruction of Breathing or Blood Circulation, Stalking all four degrees
+> — *Source: The Key, Lesson 10*
 
 > **Memory Aid — C GIF CUSS:** **C**riminal Mischief (all degrees) / **G**rand Larceny (3rd and 4th) / **I**dentity Theft (1st, 2nd, and 3rd) / **F**orcible Touching / **C**oercion 2nd (subdivisions 1, 2, 3) / **U**nlawful Dissemination or Publication of Intimate Image (PL 245.15) / **S**exual Misconduct / **S**exual Abuse 3rd AND Sexual Abuse 2nd sub 1
+> — *Source: The Key, Lesson 10*
 
 > **Exam Alert:** Sexual Abuse 2nd sub 1 (incapable of consent by reason other than being less than 17) is a family offense. Sexual Abuse 2nd sub 2 (victim less than 14) is NOT a family offense — a victim less than 14 is too serious for Family Court; it goes to Criminal Court only.
+> — *Source: The Key, Lesson 10*
 
 > **Exam Alert:** Criminal Obstruction of Breathing is sometimes called "3rd degree Strangulation" — know this alternate name.
 
@@ -242,6 +246,7 @@ If victim states, UNPROMPTED, that they do NOT want the violator arrested, the o
   - Forward hard copies to ICCU via Dept mail
 
 > **Exam Alert:** For DV incidents occurring outside NYC but in NYS, nothing goes into OMNIFORM or FORMS. Worksheets and hard copies only, forwarded to ICCU.
+> — *Source: The Key, Lesson 10*
 
 **Arrest situation** for a family offense outside NYC (but in NYS): Confer with Legal Bureau and make the arrest if appropriate. Process as FOA (For Other Authority) per PG 208-03.
 
@@ -277,6 +282,7 @@ If victim states, UNPROMPTED, that they do NOT want the violator arrested, the o
 ## Cross-Complaint — Primary Physical Aggressor
 
 > **Exam Alert:** Primary Aggressor Analysis applies ONLY to **Simultaneous Misdemeanor vs. Misdemeanor "Family Offenses."** It does NOT apply if a person committed an offense in response to or in retribution for a crime committed against them in the past — in that case, do NOT use Primary Physical Aggressor analysis.
+> — *Source: The Key, Lesson 10*
 
 > **Exam Alert:** The primary consideration is prevention of future violence and safety of ALL household members.
 
@@ -336,6 +342,7 @@ When probable cause exists that **more than one** family member committed a misd
 3. **Confirm OOP** — properly served via either E-Justice NY OR Z-FINEST
 
 > **Exam Alert:** Hope Card (Ops Order 11 s.2025) — For Final OOPs, a wallet-size card OR digital version. UMOS scan the QR code with Dept phone to verify.
+> — *Source: The Key, Lesson 10*
 
 ### Charges for OOP Violations
 
@@ -377,6 +384,7 @@ Enforce out-of-state OOPs (includes tribal courts and U.S. territories) if:
 - Charge under NYS Penal Law (Criminal Contempt, etc.)
 
 > **Exam Alert:** Victim cannot produce a copy of the out-of-state OOP → attempt to verify as listed above AND check NCIC (Statewide Registry of Orders of Protection or Order of Protection files in NCIC).
+> — *Source: The Key, Lesson 10*
 
 ### Serving a Summons/OOP
 - Prepare and sign **Statement of Personal Service**
@@ -397,6 +405,7 @@ Enforce out-of-state OOPs (includes tribal courts and U.S. territories) if:
 ### Complaint Report — Open or Closed?
 
 > **Exam Alert:** Think: "Would you have arrested him?"
+> — *Source: The Key, Lesson 10*
 
 | Offense Level | Report Status |
 |---|---|
@@ -490,6 +499,7 @@ Enforce out-of-state OOPs (includes tribal courts and U.S. territories) if:
 > **Exam Alert:** Walk-Ins — MOS will make DIR for walk-ins. For unfounded NYC incidents, there is NO hard copy; the DIR is entered directly into FORMS.
 
 > **Exam Alert:** The DA wants a handwritten statement — the DA can use it as an accusatory instrument.
+> — *Source: The Key, Lesson 10*
 
 ### DIR Hard Copy and FORMS Upload Table
 
@@ -556,6 +566,7 @@ Enforce out-of-state OOPs (includes tribal courts and U.S. territories) if:
 ### 61 Left Open to the Squad — I-Card
 
 > **Exam Alert:** Ensure "I" Card includes NYSID #, if possible.
+> — *Source: The Key, Lesson 10*
 
 - Activate **"I" CARD** for named perpetrator
   - NO later than **end of assigned tour** REGARDLESS of whether complainant was interviewed OR DIR was forwarded to the Detective Squad
@@ -577,6 +588,7 @@ Enforce out-of-state OOPs (includes tribal courts and U.S. territories) if:
 - **Inform** assigned detective of all attempts to locate named perpetrators
 
 > **Exam Alert:** The assigned detective documents arrest efforts by DVPO in ECMS (not DVIMS). The DVPO uses DVIMS for case management, but the assigned detective uses ECMS to document DVPO arrest efforts.
+> — *Source: The Key, Lesson 10*
 
 ### Sweeps
 - **Coordinated** by Detective Zone Commanders and Precinct Detective Squad Commanders

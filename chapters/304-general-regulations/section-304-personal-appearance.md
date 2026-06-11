@@ -159,6 +159,7 @@ Applies to UMOS **AND** Civilian MOS (hired on or after **January 1, 2007**):
 | **C.O.** | Ensure requesting member complies with provisions of medical exemption |
 
 > **Exam Alert:** Medical exemption for facial hair is ONLY good for **180 days**. Reevaluation is required to extend. Schedule appointment to renew Shaving Restriction Form **1 month prior** to expiration.
+> — *Source: The Key, Lesson 2*
 
 ### Specialized Units Requiring APR Mask (Air Purifying Respirator)
 

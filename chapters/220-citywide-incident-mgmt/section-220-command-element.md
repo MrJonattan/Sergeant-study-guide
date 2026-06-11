@@ -124,6 +124,7 @@ Applies to ICP and all Incident Facilities. Locations will be chosen that:
 > - **Public Information Officer** — Mayor's Press Office has authority to step in and name the PIO
 > - **Liaison Officer** — NYCEM has authority to step in and designate the Liaison Officer
 > In both cases, NYPD should still try to make NYPD personnel the PIO/Liaison (preferably DCPI for PIO), or at minimum the **assistant** to whoever is designated. *(PG 220-06, 220-08)*
+> — *Source: The Key, Lesson 24*
 
 > **See Also:** PG 220-06 — Public Information Officer designation rules including Mayor's Press Office authority.
 

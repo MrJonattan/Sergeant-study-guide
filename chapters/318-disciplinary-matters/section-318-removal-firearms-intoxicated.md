@@ -80,5 +80,6 @@ A supervisory officer is **mandated** in all cases to contact the Counseling Ser
 > **Exam Alert:** The 1st Deputy Commissioner receives the 49 via **two methods**: the original DIRECT plus a copy through channels. All other recipients receive theirs DIRECT. The AG says "Chief of IAB" for the Unfit for Duty procedure (318-10), not "IAB Command Center" as in suspension procedures. (AG 318-10)
 
 > **Exam Alert:** During normal business hours, have the Supervisory Officer contact **Counseling Unit DIRECT**. At other times, a counselor can be contacted through the **Sick Desk Supervisor**. Do not confuse these two access methods. (AG 318-10)
+> — *Source: The Key, Lesson 6*
 
 > **See Also:** AG 318-05 — Cause for Suspension (for the grounds that trigger mandatory suspension); AG 318-14 — Citywide CD System (for database entry requirements).

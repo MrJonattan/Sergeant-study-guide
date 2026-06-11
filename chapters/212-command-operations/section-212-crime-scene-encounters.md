@@ -77,6 +77,7 @@
 | **Burglary** | Safe **Involved**; Gun **Involved**; >$5,000 stolen (Manhattan >$10,000); Person Present | Safe **Forced** OR Circumvented Alarm |
 
 > **Prior Test:** Past exams have mixed up the Squad referral rules from 207-07 with the CSU request rules from 212-04. The key difference: Squad referrals use broader criteria (involved/used), while CSU requests use narrower criteria (forced/caused injury).
+> — *Source: The Key, Lessons 13-15*
 
 ### DOA Cross-Reference
 
@@ -153,6 +154,7 @@
 > - Reasonably expect danger of physical injury, imminent property damage, imminent escape, imminent destruction of evidence
 > - Conducting a security search of person entering a public building/facility/event/gathering (including MTA random checks, UNLESS requested by subject)
 > - Verifying the identity of a person seeking entrance to a restricted area due to public health, safety, or security concern
+> — *Source: The Key, Lessons 13-15*
 
 ### Level 2 Steps — "Common Law Right of Inquiry"
 
@@ -174,6 +176,7 @@
 20. Do NOT offer RTKBC if encounter ends in **arrest or summons**, unless requested.
 
 > **Exam Alert (Updated):** At Level 2, the **CLRI - Consent Search Report** is only prepared for Level 2 requests to search. If you seek consent during a Level 3 Terry Stop, document that request on your **Stop Report**, not a CLRI. The CLRI is NOT prepared when conducting security searches, during exigent circumstances, or when danger of physical injury/imminent escape/evidence destruction exists.
+> — *Source: The Key, Lessons 13-15*
 
 ### Level 2 Note — Creating a Situation
 
@@ -350,6 +353,7 @@
 - Individuals may not be targeted for stops and frisks because they are members of a racial or ethnic group that appears more frequently in local crime suspect data
 
 > **Exam Alert:** Race may only be considered when the stop is based on a specific and reliable suspect description that includes not just race, age, and gender, but **other identifying characteristics and information**. When a police officer carries out a stop based on reasonable suspicion that a person fits such a description, the officer may consider the race of the suspect, just as the officer may consider height or hair color.
+> — *Source: The Key, Lessons 13-15*
 
 ### Additional Data — Binder Maintenance
 

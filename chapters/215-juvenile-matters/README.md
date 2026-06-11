@@ -1,5 +1,7 @@
 # Section 215 — Juvenile Matters
 
+> **Source attribution:** Procedure content is drawn from the official NYPD Patrol Guide / Administrative Guide PDFs. Exam-prep callouts marked “— *Source: The Key, Lesson 18*” are sourced from The Key Police Promotional School Pre-Season Review Course (Lesson 18); unmarked callouts are study aids authored for this guide from the official text.
+
 ## Chapter Overview
 
 Section 215 of the NYPD Patrol Guide covers procedures related to juveniles, including lost and runaway children, juvenile delinquency and arrest processing, school-related incidents, child protection and advocacy, and child safety. These procedures are among the most exam-critical for the Sergeant promotion exam due to the complexity of age thresholds, Miranda requirements, notification chains, and supervisor responsibilities.

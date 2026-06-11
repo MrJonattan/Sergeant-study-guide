@@ -163,6 +163,7 @@ This procedure covers the arrest and processing of Juvenile Offenders (JO) and A
 > - **K**idnapping 1st degree (plus attempt)
 > ---
 > - **Gun:** CPW 2nd degree committed within 1000 feet of a school
+> — *Source: The Key, Lesson 18*
 
 ### MAR — Detailed Breakdown
 
@@ -173,6 +174,7 @@ This procedure covers the arrest and processing of Juvenile Offenders (JO) and A
 | **Rape 1st** | Sub 1 = Force; Sub 2 = Physically helpless |
 
 > **Exam Alert:** The Criminal Sexual Act (CSA) has been repealed — those acts are now included in "Rape." The 2024 Rape definition update now includes Vaginal AND Oral AND Anal.
+> — *Source: The Key, Lesson 18*
 
 ### BAR — Detailed Breakdown with Shortcuts
 
@@ -206,6 +208,7 @@ This procedure covers the arrest and processing of Juvenile Offenders (JO) and A
 | **Kidnapping 1st** | Abduct + Intent to Compel Ransom ($, Property, Conduct); OR Abduct + Victim Dies; OR Abduct + More than 12 Hrs. AND Intent to commit one of 4: P.I./Sex Abuse, Advance Felony, Terrorize Anyone, Govt. Interference |
 
 > **Exam Alert — Key Note on Sex Crimes:** Rape 1st and Agg Sexual Abuse 1st have the same 3 subdivisions (Force, Physically Helpless, Victim <11). However, Rape Sub 3 (Vic <11) does **NOT** make a JO, but Agg Sex Abuse Sub 3 (Vic <11) **DOES** make a JO. This is a critical distinction.
+> — *Source: The Key, Lesson 18*
 
 ### Gun — CPW 2nd Degree on School Grounds
 
@@ -226,6 +229,7 @@ This procedure covers the arrest and processing of Juvenile Offenders (JO) and A
 > - 1 Loaded weapon (whose shot can cause S.P.I./D.O.A.)
 > - 4 Slappers: Blackjack, Billy, Metal Knuckles, **Plastic Knuckles**
 > - 4 Knives: Switchblade knife, Pilum Ballistic knife, Metal knuckle knife, Dagger
+> — *Source: The Key, Lesson 18*
 
 > **Exam Alert:** Note that Plastic Knuckles are included as a Deadly Weapon. There are exactly 9 deadly weapons defined in Penal Law Section 10.00.
 

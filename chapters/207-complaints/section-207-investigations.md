@@ -6,11 +6,9 @@ Covers P.G. 207-07, 207-08, 207-10, 207-29, 207-33
 
 ## P.G. 207-07: Preliminary Investigation of Complaints (Other Than Vice/Narcotics)
 
-> 📅 **UPDATE 207-07:** **May 28, 2026** — Revised preliminary investigation procedures. Review the latest Patrol Guide for current language.
+> 📅 **UPDATE 207-07:** **May 28, 2026** — Revised preliminary investigation procedures (R.O. 46). Review the latest Patrol Guide for current language.
 
-
-
-*(Updated R.O. 78, effective 12/31/24)*
+*(Updated R.O. 46, effective 05/28/26)*
 
 *7 pages in the Patrol Guide — one of the most critical procedures for supervisors.*
 
@@ -18,13 +16,14 @@ Covers P.G. 207-07, 207-08, 207-10, 207-29, 207-33
 
 | Term | Definition |
 |------|-----------|
-| **Active Case** | A case with leads still being pursued or investigative steps remaining |
-| **Closed Case** | A case where all reasonable investigative steps have been completed |
-| **Unfounded Case** | A case where investigation determines that no offense actually occurred |
+| **Active Case** | Investigation has not been exhausted or complaint has not been classified as closed |
+| **Closed Case** | A complaint which has been investigated and: (a) Results obtained in full, OR (b) Results obtained in part and no further results can be obtained, OR (c) No results can be obtained, OR (d) Complaint referred to court for process, OR (e) Complaint is unfounded |
+| **Unfounded Case** | One in which: (a) An offense is reported and, as a result of subsequent information, it is determined that no offense occurred (this includes complaints determined to be of a civil nature only), OR (b) A report of lost property is made by a complainant who later reports having misplaced the property and found it |
 
 ### Crime Scene Preservation
 
 **Do NOT disturb evidence at the crime scene.** This is a fundamental responsibility for all responding members and supervisors.
+- Comply with P.G. 212-04, "Crime Scene"
 
 ### Patrol Supervisor Notification Requirements
 
@@ -43,6 +42,27 @@ The Patrol Supervisor must **PROMPTLY** report to the following specialized unit
 | **Special Victims Unit (SVU)** | Human trafficking |
 
 > **Exam Alert:** Memorize the **$100,000** threshold for Major Case Unit notifications (truck contents AND commercial burglary).
+
+### May 2026 Updates (R.O. 46, eff. 05/28/26)
+
+- **UMOS must determine all offenses** that occurred during incident (up to ten recorded on Complaint Report Worksheet)
+- **UMOS must indicate on Complaint Report Worksheet** whether an interpreter was used during preliminary investigation and list name, address, and telephone number of interpreter
+- **UMOS must indicate "yes" and appropriate language** under "Is this person not proficient in English" in victim and reporter/witness sections if listed person has apparent difficulty understanding/communicating in English
+- **UMOS must indicate "Yes" or "No"** in "Victim of Similar Incident" caption within "Victim" section
+- **UMOS must notify complainant** that they may receive a text message from the Department asking them to participate in a customer service survey
+  - Do NOT notify for matters involving sex crimes, domestic violence/family offense, juveniles (17 or younger), homicides, or any other incident deemed inappropriate
+  - Make note in "Details" section of Worksheet if notification was made
+- **Desk Officer must carefully examine Worksheet** for accuracy and completeness
+  - Verify required notifications and proper referral of active cases have been made
+  - Ensure proper jurisdiction code is indicated
+  - Ensure offense is classified properly
+  - Review all associated offenses and ensure most serious offenses (up to ten) are recorded
+- **Desk Officer must comply with Crime Complaint Reporting System Reference Guide** to ensure proper crime classification and recording of multiple offenses
+- **Platoon Commander must ensure proper entries** are made regarding Complaint Reports during tour
+- **Platoon Commander must confer with training sergeant** pertaining to deficiencies in regard to accurate preparation of Complaint Reports
+- **Commanding Officer must review Complaint Reports**, especially those cases closed by members assigned to patrol, and have corrections made if necessary
+
+> **Exam Alert (May 2026):** The new requirements add specific data fields to the Complaint Report Worksheet: interpreter usage, English proficiency, similar victimization, and customer service survey notification. These are likely testable details.
 
 ### When to Refer to Detective Squad
 
@@ -266,6 +286,7 @@ The CO/Duty Captain must:
 | **Detective conducts** | An **APPROPRIATE** investigation | An **IMMEDIATE** investigation |
 
 > **Prior Test (Captain's Exam):** When an offense committed against a religious institution is investigated as possible bias but the duty captain determines it is NOT bias motivated, all of the following are true EXCEPT: the precinct detective will forward a copy of the 61 and OCR to C.O., Hate Crimes. -- Correct answer is that this is FALSE because for non-bias, the detective forwards to C.O., Hate Crime Unit AND **Chief of Detectives, through channels** (not just C.O. HCU). The exam takes facts from "non-bias" and "confirmed bias" procedures and mixes them up. Know the addressees for each role's reports.
+> — *Source: The Key, Lessons 7-8*
 
 > **Exam Alert:** Four key testable points: (1) Only the Hate Crime Unit CO determines bias classification, (2) the Precinct CO (NOT Duty Captain) must personally visit victims, (3) the 10-day reporting deadline applies to the CO, Crime Prevention Officer, AND Detective, and (4) for incidents involving public officials, confer with the **Intelligence Division** before classifying as possible bias.
 

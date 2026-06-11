@@ -37,6 +37,7 @@ There are **NO MINIMUM TIME LIMITS** before accepting a missing person report. A
 - **Person 18 or older** who left home voluntarily due to domestic, financial, or similar reason
 
 > **Exam Alert:** Never refer a complaint directly to MPS (Missing Persons Squad). The exclusions above are for persons who likely fled voluntarily, but they shall NOT be used as justification for failing to accept a missing report when the totality of circumstances indicates the person may in fact be missing.
+> — *Source: The Key, Lessons 7-8*
 
 ### Where Missing Person Reports Are Recorded
 

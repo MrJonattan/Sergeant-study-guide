@@ -108,6 +108,7 @@ This section is among the most exam-critical in the entire Patrol Guide. It cove
 - Arrest supervisors assigned **no more than 4 arresting officers**
 
 > **Exam Alert:** The norm is 4 A/O's per Sergeant, 5 collars per cop = 1 Sergeant for 20 perps. When expecting MORE than 20 arrests, the Large Scale Arrest Processing procedure (PG 213-06) kicks in.
+> — *Source: The Key, Lesson 16*
 
 #### Processing Time Limit
 - First Amendment Activity arrest processing: **7 hours 30 minutes** maximum for violations/misdemeanors

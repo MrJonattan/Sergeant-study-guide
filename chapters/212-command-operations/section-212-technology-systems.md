@@ -87,6 +87,7 @@
 ### Who Must Wear BWC
 
 > **Exam Alert:** Desk Officer, Telephone Switchboard Operator, and Station House Security are **required** to wear BWC while performing duty. These are positions you might not expect to need a BWC.
+> — *Source: The Key, Lessons 13-15*
 
 ### Platoon Commander Duties (If No P/C: D.O. or Unit Sup)
 
@@ -130,6 +131,7 @@
 - Dept meetings or training
 
 > **Exam Alert:** Even though meetings/training are NOT police action, the D.O., Telephone Switchboard Operator, and Station House Security ARE required to wear BWC while performing duty.
+> — *Source: The Key, Lessons 13-15*
 
 ### Timing
 
@@ -247,6 +249,7 @@
 - FOIL requests: FOIL@NYPD.ORG or a860-openrecords.nyc.gov/new
 
 > **Exam Alert:** BWC video is automatically deleted after **39 months**. Do NOT use BWC video stills for show-ups, but MAY use for photo arrays.
+> — *Source: The Key, Lessons 13-15*
 
 ---
 

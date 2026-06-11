@@ -39,6 +39,7 @@ This procedure addresses the use of handcuffs and restraints on students in scho
 ### Restraining Students — Key Rules
 
 > **Exam Alert:** Handcuffs/alternative restraints/Velcro cuffs should NOT be placed on a student while in a classroom, cafeteria, or area where other students are located. Coordinate with school officials to move student to a semi-private location (principal's office, school security office).
+> — *Source: The Key, Lesson 18*
 
 - When possible and appropriate: MOS should confer and coordinate with school administrative staff (Principal/designee and school's Crisis Intervention Team) to reduce or eliminate the necessity to use force
 - Absent exigent circumstances, coordinate with school officials to have student removed to a **semi-private location**
@@ -46,6 +47,7 @@ This procedure addresses the use of handcuffs and restraints on students in scho
 ### Metal Cuffs — Age Restrictions
 
 > **Exam Alert:** Metal cuffs should NOT be used on students less than 12 (11) years old without prior approval of a Precinct NCO Sergeant, Patrol Sergeant, or School Safety Supervisor. Metal cuffs are a LAST RESORT.
+> — *Source: The Key, Lesson 18*
 
 - Prior to metal cuffs: strongly consider verbal command, constructive or alternative restraint for **Non-Criminal Incidents**
 - Incidents related to school discipline only are generally **not a police matter** — MOS will ordinarily defer to school officials
@@ -121,6 +123,7 @@ This procedure addresses the use of handcuffs and restraints on students in scho
 ### Probable Cause Determination
 
 > **Exam Alert:** Whether probable cause to arrest exists will be determined by the **Police Department**. While the desires of school personnel may be considered, the views of school personnel are **NOT controlling**. If conflict arises between UMOS and school personnel, UMOS will request response of Precinct NCO Sergeant or Patrol Supervisor. Under **no circumstances** will school personnel be permitted to interfere with an arrest the NCO Sgt or Patrol Supervisor has deemed warranted.
+> — *Source: The Key, Lesson 18*
 
 ### Legal Considerations
 

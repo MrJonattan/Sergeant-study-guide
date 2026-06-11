@@ -200,8 +200,10 @@ To cooperate with members of the press by not interfering or allowing others to 
 > - **C**redibility of prospective witness
 > - **O**pinion/speculation concerning evidence or argument in the case
 > - **P**hotos, films, videotape and/or mug shot
+> — *Source: The Key, Lessons 13-15*
 
 > **Exam Alert:** RATCOP items require conferral with **both** DCPI and Chief of Detectives before release. This is a commonly tested mnemonic.
+> — *Source: The Key, Lessons 13-15*
 
 ---
 

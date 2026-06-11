@@ -61,6 +61,7 @@ If the property has identifying marks:
 | 4 | Ops Coordinator | Take disciplinary action as appropriate |
 
 > **Exam Alert:** If property loss occurs **outside the city**, there is **no 61** (Complaint Report) prepared. *(P.G. 219-20)*
+> — *Source: The Key, Lesson 23*
 
 ### Precinct Squad Commander
 
@@ -102,6 +103,7 @@ To establish reporting and investigative procedures when a member's firearm, shi
 > **Prior Test (recent exam):** UMOS lost ID Card in resident county. Answer: Do NOT notify ICO, do NOT make 61, Desk Officer makes entry in **Telephone Record**. *(P.G. 219-21)*
 
 > **Exam Alert:** If loss occurs in **Nassau/Suffolk**, notify Desk Officer **105 Pct**. If in **Westchester/Putnam/Rockland/Orange**, notify Desk Officer **50 Pct**. Outside those, notify **Operations Unit directly**. *(P.G. 219-21)*
+> — *Source: The Key, Lesson 23*
 
 ### Desk Officer — Actions
 
@@ -116,6 +118,7 @@ To establish reporting and investigative procedures when a member's firearm, shi
 | Complaint Report | If occurred in NYC, ensure the Complaint Report is **finalized** |
 
 > **Exam Alert:** If loss occurred **outside the city**, do NOT prepare a 61 AND do NOT transmit alarm. Instead, make Telephone Record and/or Command Log entry. *(P.G. 219-21)*
+> — *Source: The Key, Lesson 23*
 
 **If member is from another command:** Prepare and send Transcript of Command Log entry to member's C.O.
 
